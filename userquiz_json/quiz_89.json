@@ -1,0 +1,268 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "partiality",
+            "choices": [
+                "n. 癖好",
+                "n. 偏心",
+                "n. 偏袒",
+                "n. 垂死的人",
+                "vt. 授权，允许",
+                "n. 偏爱",
+                "n. 贫困",
+                "adj. 有力的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "moribund",
+            "choices": [
+                "adj. 停滞不前的",
+                "adj. 不偏不倚的",
+                "n. 生态系统",
+                "v. 龟裂",
+                "adj. 不可抵抗的",
+                "n. 垂死的人",
+                "vi. 私通",
+                "adj. 垂死的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "empower",
+            "choices": [
+                "n. 一致",
+                "adj. 秘传的",
+                "n. 肚带",
+                "n. 被诅咒者",
+                "n. 产业",
+                "vt. 使能够",
+                "vt. 授权，允许",
+                "adj. 不成比例的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "undeserved",
+            "choices": [
+                "adj. [数] 任意的",
+                "vt. 使能够",
+                "adj. 不应得的，不该受的",
+                "n. 有效期限",
+                "adj. 冤枉的",
+                "adj. 心安的",
+                "adj. [数] 任意的",
+                "adj. 易变的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "contemporary",
+            "choices": [
+                "adj. 同时代的",
+                "vi. 私通",
+                "adj. 当代的",
+                "n. 游移不定",
+                "adj. 属于同一时期的",
+                "vt. 放弃",
+                "n. 同时代的人",
+                "n. 同时期的东西"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 一致; n. 凝聚; n. 连贯性",
+            "choices": [
+                "empower",
+                "coherence",
+                "demanding",
+                "petty",
+                "vacillation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 鬼鬼祟祟的，秘密的",
+            "choices": [
+                "uphold",
+                "hail",
+                "blueprint",
+                "furtive",
+                "palpable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 不偏不倚的; adj. 公平的，公正的",
+            "choices": [
+                "arbitrary",
+                "coherence",
+                "impartial",
+                "nothing if not",
+                "contemporary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 不成比例的",
+            "choices": [
+                "irresistible",
+                "anathema",
+                "disproportionate",
+                "palpable",
+                "ecosystem"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 偏爱; n. 癖好; n. 偏袒",
+            "choices": [
+                "dismal",
+                "envisage",
+                "wistful",
+                "cinch",
+                "partiality"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 域名; n. 地产; n. 领域",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "m",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 停息的; adj. 过分的; v. 吹散",
+            "choices": [
+                "b",
+                "e",
+                "l",
+                "n",
+                "o",
+                "o",
+                "r",
+                "v",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 嘲弄的; adj. 古怪的; adj. 引人发笑的",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "i",
+                "l",
+                "q",
+                "u",
+                "z",
+                "z"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 缺陷; n. 有效期限; n. 限制",
+            "choices": [
+                "a",
+                "i",
+                "i",
+                "i",
+                "l",
+                "m",
+                "n",
+                "o",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 引起怀念的; adj. 沉思的，默想的; adj. 渴望的",
+            "choices": [
+                "f",
+                "i",
+                "l",
+                "s",
+                "t",
+                "u",
+                "w"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Galileo is the only ______ personage, the only seventeenth-century figure, even so much as mentioned in Paradise Lost.",
+            "choices": [
+                "stave",
+                "prototype",
+                "contemporary",
+                "petty",
+                "crackling"
+            ],
+            "chn": "伽利略是唯一的一个当代人物，唯一的一个17世纪的人物，甚至在里也提到了这点。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It's now exactly that power from which Milton has been excluded by virtue of his blindness -- light: \"______ holy Light, offspring of Heav'n first-born, \/ Or of th' Eternal Coeternal beam May I express thee unblam'd?\"",
+            "choices": [
+                "petty",
+                "ascribe",
+                "anathema",
+                "deprivation",
+                "hail"
+            ],
+            "chn": "而是弥尔顿已经被失明剥夺的一种力量,圣光，你是上帝最初的产物，永恒的光束,我是否可以向你表达我无限的敬意“(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But investors are ______ very high returns if they are willing to lend to the developing world at all.",
+            "choices": [
+                "disregard",
+                "contemporary",
+                "ascribe",
+                "anathema",
+                "demanding"
+            ],
+            "chn": "(VOA : special.2009.03.13)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So we're only looking at a ______ of that very first moment in time.",
+            "choices": [
+                "churn",
+                "palpable",
+                "contented",
+                "snapshot",
+                "partiality"
+            ],
+            "chn": "(VOA : standard.2010.06.30)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Mr.Abbas urged the United States to pressure Israel's hawkish new government to ______ previous peace agreements and agree to the creation of a Palestinian state.",
+            "choices": [
+                "stave",
+                "empower",
+                "uphold",
+                "ascribe",
+                "disregard"
+            ],
+            "chn": "(VOA : standard.2009.04.17)"
+        }
+    ],
+    "quiz_id": "89"
+}

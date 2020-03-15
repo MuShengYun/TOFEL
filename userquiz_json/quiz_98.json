@@ -1,0 +1,250 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "impartial",
+            "choices": [
+                "adj. 古怪的",
+                "adj. 鬼鬼祟祟的，秘密的",
+                "adj. 可感知的",
+                "n. 码尺",
+                "n. 同时期的东西",
+                "adj. 不偏不倚的",
+                "vt. 压扁",
+                "adj. 公平的，公正的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "uphold",
+            "choices": [
+                "vt. 支撑",
+                "vt. 赞成",
+                "vt. 归因于",
+                "vt. 激起...的兴趣",
+                "vt. 举起",
+                "vt. 鼓励",
+                "n. 脆皮",
+                "n. 话题"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "deprivation",
+            "choices": [
+                "n. 匮乏",
+                "n. 生态系统",
+                "n. 诅咒",
+                "n. 贫困",
+                "n. 免职",
+                "n. 剥夺",
+                "n. 生态系统",
+                "n. 损失"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "crackling",
+            "choices": [
+                "n. 猪油渣",
+                "n. 生态系统",
+                "v. 龟裂",
+                "n. 标准，模范",
+                "v. 充满活力（crackle的ing形式）",
+                "n. 连续的爆裂声",
+                "n. 脆皮",
+                "v. 发爆裂声"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "stifle",
+            "choices": [
+                "n. （马等的）后膝关节",
+                "n. （马等的）[动] 后膝关节病",
+                "vi. 被扼杀",
+                "vi. 窒息",
+                "vt. 藏匿",
+                "vt. 扼杀",
+                "n. 革出教门",
+                "vt. 使窒息"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 难懂的; adj. 秘传的; adj. 限于圈内人的",
+            "choices": [
+                "gambit",
+                "fickle",
+                "blueprint",
+                "esoteric",
+                "empower"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 被诅咒者; n. 令人厌恶的人; n. 革出教门",
+            "choices": [
+                "contemporary",
+                "domain",
+                "anathema",
+                "limitation",
+                "vacillation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 属于同一时期的; n. 同时期的东西; n. 同时代的人",
+            "choices": [
+                "transmogrify",
+                "moribund",
+                "cinch",
+                "churn",
+                "contemporary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 有效期限; n. 极限; n. 追诉时效",
+            "choices": [
+                "overblown",
+                "yardstick",
+                "stifle",
+                "furtive",
+                "limitation"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 宽恕; vt. 赦免",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "n",
+                "n",
+                "o",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 割让（领土）; vt. 放弃",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "e"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 归因于; vt. 归咎于",
+            "choices": [
+                "a",
+                "b",
+                "c",
+                "e",
+                "i",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 拍快照; n. 快照，快相; n. 急射，速射",
+            "choices": [
+                "a",
+                "h",
+                "n",
+                "o",
+                "p",
+                "s",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 私通; n. 阴谋; vt. 用诡计取得",
+            "choices": [
+                "e",
+                "g",
+                "i",
+                "i",
+                "n",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "\"It is funny to watch the situation today,20 years later, when we basically have the same ______ toward our present politicians and see them as jerks,basically,\"",
+            "choices": [
+                "ascribe",
+                "contemporary",
+                "palpable",
+                "condone",
+                "disregard"
+            ],
+            "chn": "(VOA : standard.2009.11.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Law is the best hedge we have against \" the domination of ______ and desire.\"",
+            "choices": [
+                "snapshot",
+                "condone",
+                "uphold",
+                "partiality",
+                "overblown"
+            ],
+            "chn": "法律是我们所拥有可对抗不公支配,与渴求的最佳防备“(政治哲学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It's not like the universe has singled me out for the ______ of dying too soon.",
+            "choices": [
+                "quizzical",
+                "deprivation",
+                "undeserved",
+                "ascribe",
+                "nothing if not"
+            ],
+            "chn": "宇宙没有只让我一个人,死得太早。(死亡课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "______.\" The poem was written following a series of poems called the \"Crazy Jane\" poems, written as a kind of summary of them, a kind of resolution of the debates that go on in them.",
+            "choices": [
+                "quizzical",
+                "tenet",
+                "furtive",
+                "vacillation",
+                "partiality"
+            ],
+            "chn": "踌躇一诗写于系列诗,疯狂的珍妮之后，作为对这一系列诗的总结，作为对其中的争论的解决方式。(现代诗歌课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The group says requests by governments for ______ names should be approved and come online next year.",
+            "choices": [
+                "nothing if not",
+                "contented",
+                "domain",
+                "energetic",
+                "limitation"
+            ],
+            "chn": "(VOA : standard.2009.11.16)"
+        }
+    ],
+    "quiz_id": "98"
+}

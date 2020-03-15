@@ -1,0 +1,121 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "adj. 贪婪的; adj. 掠夺的",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "i",
+                "o",
+                "p",
+                "r",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 明了的; adj. 清晰的; adj. 透明的",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "i",
+                "l",
+                "l",
+                "p",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 灵验的; adj. 有效的",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "f",
+                "f",
+                "i",
+                "i",
+                "o",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 阻碍; vt. 抵消; vt. 中和",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "n",
+                "o",
+                "r",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 易怒的; adj. 烦人的; adj. 令人激恼的",
+            "choices": [
+                "e",
+                "e",
+                "e",
+                "l",
+                "m",
+                "n",
+                "o",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "I have the feeling ______ that there is no place left for me to go .",
+            "choices": [
+                "intercept",
+                "rehash",
+                "efficacious",
+                "now that",
+                "prune"
+            ],
+            "chn": "我现在有了一种感觉，那就是没有任何地方是我的容身之处。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "I felt we had nothing in common but \"______,\" our Irishness.",
+            "choices": [
+                "anchor",
+                "motley",
+                "now that",
+                "embargo",
+                "prompt"
+            ],
+            "chn": "我和他们除了都是小丑“,都是爱尔兰人之外没什么区别。(现代诗歌课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It is not ______ or death -- it is form,union,plan -- it is eternal life -- it is Happiness.",
+            "choices": [
+                "rehash",
+                "pellucid",
+                "autonomy",
+                "chaos",
+                "demur"
+            ],
+            "chn": "(VOA : special.2009.04.12)"
+        }
+    ],
+    "quiz_id": "140"
+}

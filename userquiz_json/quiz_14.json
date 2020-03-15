@@ -1,0 +1,2439 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "binary",
+            "choices": [
+                "n. 盆地",
+                "adj. 二元的，二态的",
+                "n. 透明圆形罩，圆形顶",
+                "n. 微积分学",
+                "vt. 欢呼",
+                "n. 校园内的草地",
+                "adj. [数] 二进制的",
+                "n. 生物学"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cattle",
+            "choices": [
+                "vt. 使扩大，使形成大量",
+                "n. 无价值的人",
+                "n. 家畜",
+                "n. 牛",
+                "n. 枪管，炮管",
+                "n. 原子",
+                "n. 牲畜（骂人的话）",
+                "adj. 反向的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "biodiversity",
+            "choices": [
+                "n. 捆",
+                "adj. 原子的，原子能的",
+                "n. 原子",
+                "n. 计算的结果",
+                "vt. （美）旁听",
+                "n. 资本家",
+                "n. 生物多样性",
+                "n. 资本主义者"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bulk",
+            "choices": [
+                "n. 计算",
+                "n. 大多数，大部分",
+                "vt. 使显得重要",
+                "n. 体积，容量",
+                "vt. 使扩大，使形成大量",
+                "n. 通两种语言的人",
+                "vt. 把……装入桶内",
+                "n. 大块"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "axiom",
+            "choices": [
+                "n. [数] 公理",
+                "n. 自明之理",
+                "n. [微] 细菌",
+                "adj. 行为的",
+                "adj. 向后的",
+                "n. 格言",
+                "adj. 声音的",
+                "n. 计算者"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "capillary",
+            "choices": [
+                "adv. 亲自地",
+                "adj. 毛状的",
+                "n. 插图",
+                "vi. 用球棒击球",
+                "adj. 毛细管的",
+                "n. 权力",
+                "n. 生物学",
+                "n. 毛细管"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "behavioral",
+            "choices": [
+                "n. 估计",
+                "n. 自治，自治权",
+                "n. 透明圆形罩，圆形顶",
+                "n. 插图",
+                "n. 应试者",
+                "n. 功课",
+                "adj. 行为的",
+                "vt. 使高兴"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "barrel",
+            "choices": [
+                "vt. 把……装入桶内",
+                "n. 枪管，炮管",
+                "n. 流域",
+                "vi. 快速移动",
+                "n. 束",
+                "n. 桶",
+                "n. （大学）校园",
+                "n. 外貌"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bracket",
+            "choices": [
+                "n. 括号",
+                "adj. 资本主义的",
+                "vt. 括在一起",
+                "vt. 排除",
+                "vt. 把…归入同一类",
+                "n. 墙上凸出的托架",
+                "n. 支架",
+                "adj. 发展迟缓的"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cheer",
+            "choices": [
+                "n. 愉快",
+                "n. 心情",
+                "vi. 欢呼",
+                "n. 方面",
+                "vt. 欢呼",
+                "vt. 为…加油",
+                "vi. 感到高兴",
+                "n. 欢呼"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bargain",
+            "choices": [
+                "v. 讨价还价",
+                "n. 契约",
+                "v. 议价",
+                "vi. 流血",
+                "n. 便宜货",
+                "n. 交易",
+                "n. 生物多样性",
+                "v. (谈价钱后)卖"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "characterization",
+            "choices": [
+                "adv. 以肉体形式",
+                "n. 大多数，大部分",
+                "n. 自治，自治权",
+                "n. 权威",
+                "n. 特性描述",
+                "n. 轴",
+                "n. 家畜",
+                "n. 描述"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "atomic",
+            "choices": [
+                "n. 生物多样性",
+                "adj. 微粒子的",
+                "n. 深思熟虑",
+                "n. 插图",
+                "adj. 体格健壮的",
+                "adj. 原子的，原子能的",
+                "n. 装配",
+                "n. 插图"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "audit",
+            "choices": [
+                "vi. [审计] 查账",
+                "n. [审计] 查账",
+                "n. 豆子",
+                "vt. （美）旁听",
+                "vt. 使冒泡",
+                "n. 审计",
+                "vi. 审计",
+                "n. 资本主义"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bucket",
+            "choices": [
+                "v. 倾盆而下",
+                "n. 铲斗",
+                "n. 桶，水桶",
+                "n. 桶",
+                "v. (谈价钱后)卖",
+                "n. 一桶的量",
+                "v. 颠簸着行进",
+                "adj. 双语的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "aspect",
+            "choices": [
+                "n. 形势",
+                "adj. 体格健壮的",
+                "n. 方面",
+                "n. 外貌",
+                "v. 议价",
+                "n. 方向",
+                "n. 崩溃",
+                "vt. 检查和删节"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bullet",
+            "choices": [
+                "vi. 迅速行进",
+                "n. 外貌",
+                "vi. 射出",
+                "n. 故障",
+                "adv. 向后地",
+                "n. 只选某党全部候选人的投票",
+                "n. 豆子",
+                "n. 子弹"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "axis",
+            "choices": [
+                "n. 只选某党全部候选人的投票",
+                "n. 轴线",
+                "n. 轴",
+                "n. 无价值的人",
+                "n. [病理] 结石",
+                "n. 轴心国",
+                "v. 议价",
+                "vt. 榨取"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "candidate",
+            "choices": [
+                "n. 骗子",
+                "n. 令人愉快的事",
+                "v. 讨价还价",
+                "n. 可用性",
+                "vt. 断言",
+                "n. 候选人，候补者",
+                "n. 生物学",
+                "n. 应试者"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "autonomy",
+            "choices": [
+                "adj. 向后的",
+                "v. 倾盆而下",
+                "n. [化学] 钙",
+                "n. 当局",
+                "n. 校园内的草地",
+                "n. 实用性",
+                "adv. 砰然地",
+                "n. 自治，自治权"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bubble",
+            "choices": [
+                "vt. 使冒泡",
+                "n. 有效性",
+                "vi. 发出气泡声",
+                "n. 气泡，泡沫，泡状物",
+                "vt. 滔滔不绝地说",
+                "adj. 资本主义的",
+                "vi. 沸腾，冒泡",
+                "n. 透明圆形罩，圆形顶"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "capitalism",
+            "choices": [
+                "vt. 发巨响",
+                "n. 估计",
+                "n. 括号",
+                "n. [微] 细菌",
+                "n. 一桶的量",
+                "n. 作业",
+                "adv. 相反地",
+                "n. 资本主义"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "artwork",
+            "choices": [
+                "n. 美术品",
+                "n. 装配",
+                "adj. 原子的，原子能的",
+                "n. 插图",
+                "vt. 以梁支撑",
+                "adj. 行为的",
+                "n. 功课",
+                "n. 艺术品"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bilingual",
+            "choices": [
+                "n. 通两种语言的人",
+                "n. 奖金",
+                "vt. 主张",
+                "adj. 双语的",
+                "vi. 迅速行进",
+                "n. [病理] 结石",
+                "vi. 轮到击球",
+                "n. 牛"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "calcium",
+            "choices": [
+                "n. 通两种语言的人",
+                "vt. 欺骗",
+                "adj. 奇异的（指态度，容貌，款式等）",
+                "vt. 为…加油",
+                "vi. 轮到击球",
+                "n. [化学] 钙",
+                "n. 估计",
+                "n. 候选人，候补者"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bacteria",
+            "choices": [
+                "n. [微] 细菌",
+                "n. 微积分学",
+                "vt. 滔滔不绝地说",
+                "vi. [审计] 查账",
+                "n. 刘海",
+                "adj. 反向的",
+                "n. 候选人，候补者",
+                "adv. 突然巨响地"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "campus",
+            "choices": [
+                "n. [化学] 钙",
+                "v. 颠簸着行进",
+                "n. 校园内的草地",
+                "n. 大学，大学生活",
+                "n. 格言",
+                "n. 生物多样性",
+                "n. （大学）校园",
+                "n. 崩溃"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bizarre",
+            "choices": [
+                "adv. 露骨地",
+                "vt. 使跳跃",
+                "adj. 奇异的（指态度，容貌，款式等）",
+                "n. 气泡，泡沫，泡状物",
+                "n. 大学，大学生活",
+                "n. 描述",
+                "n. 描述",
+                "vt. 竞卖"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cheat",
+            "choices": [
+                "n. 欺骗，作弊",
+                "adj. 资本主义的",
+                "vi. 欺骗",
+                "vt. 欺骗",
+                "n. 骗子",
+                "vt. 骗取",
+                "vi. [审计] 查账",
+                "vi. 作弊"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "assert",
+            "choices": [
+                "vt. 使出血",
+                "vt. 声称",
+                "vi. 成为空白",
+                "vt. 断言",
+                "adv. 明显地",
+                "vt. 维护，坚持",
+                "vt. 发巨响",
+                "vt. 主张"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "athletic",
+            "choices": [
+                "n. 毛细管",
+                "vt. 断言",
+                "vt. 使出血",
+                "adv. 概括地",
+                "adj. 运动的，运动员的",
+                "n. 自治，自治权",
+                "adj. 体格健壮的",
+                "vt. 使扩大，使形成大量"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bodily",
+            "choices": [
+                "adv. 亲自地",
+                "adj. 身体的",
+                "adj. 肉体的",
+                "n. 描述",
+                "adv. 整体地",
+                "adv. 以肉体形式",
+                "n. 红利",
+                "n. 生物多样性"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bleed",
+            "choices": [
+                "vi. 渗出",
+                "vi. 悲痛",
+                "vi. 成为空白",
+                "n. 插图",
+                "n. 捆",
+                "vi. 流血",
+                "vt. 榨取",
+                "vt. 使出血"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bound",
+            "choices": [
+                "n. 跳跃",
+                "adj. 必定的",
+                "adj. 装有封面的",
+                "n. 范围",
+                "vt. 束缚（bind的过去式，过去分词）",
+                "adj. 受约束的",
+                "n. [微] 细菌",
+                "vi. 弹起"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "calculator",
+            "choices": [
+                "n. [数] 公理",
+                "adj. 原子的，原子能的",
+                "n. 计算器",
+                "adv. 宽广地",
+                "n. 计算者",
+                "adj. 声音的",
+                "adj. 肉体的",
+                "n. 突然巨响"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "assignment",
+            "choices": [
+                "vt. 使显得重要",
+                "n. 流域",
+                "adv. 以肉体形式",
+                "n. 分配",
+                "n. 功课",
+                "n. 任务",
+                "n. 作业",
+                "adj. 运动的，运动员的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bonus",
+            "choices": [
+                "n. 资本家",
+                "vi. 流血",
+                "n. 额外津贴",
+                "n. 红利",
+                "n. 应试者",
+                "adj. [声] 音频的，[声] 声频的",
+                "n. [化学] 钙",
+                "n. 奖金"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "carrier",
+            "choices": [
+                "adj. 单调的",
+                "n. 带菌者",
+                "n. 货架",
+                "n. [化学] 载体",
+                "vt. 拍卖",
+                "n. 运送者",
+                "n. 原子",
+                "n. 横梁"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "audio",
+            "choices": [
+                "adj. [声] 音频的，[声] 声频的",
+                "vt. 使跳跃",
+                "n. 方面",
+                "v. (谈价钱后)卖",
+                "adj. 双语的",
+                "vt. 把……装入桶内",
+                "vi. 沸腾，冒泡",
+                "adj. 声音的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bat",
+            "choices": [
+                "vt. 用球棒击球",
+                "n. 球拍",
+                "vi. 流血",
+                "n. 球棒",
+                "vt. 击球率达…",
+                "n. 批处理文件的扩展名",
+                "n. 蝙蝠",
+                "vi. 轮到击球"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "censor",
+            "choices": [
+                "n. [病理] 结石",
+                "n. 检查员",
+                "vt. 审查，检查",
+                "n. [心理] 潜意识压抑力",
+                "adj. 奇异的（指态度，容貌，款式等）",
+                "vt. 检查和删节",
+                "n. 信件检查员",
+                "adj. 声音的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "calculus",
+            "choices": [
+                "n. 校园内的草地",
+                "n. 通两种语言的人",
+                "n. 计算者",
+                "n. [化学] 钙",
+                "n. 审计",
+                "n. 微积分学",
+                "n. [病理] 结石",
+                "adj. 双语的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "capitalist",
+            "choices": [
+                "adj. 资本家的",
+                "n. 豆子",
+                "n. 资本家",
+                "n. 计算者",
+                "n. 资本主义者",
+                "n. 当局",
+                "n. 计算者",
+                "adj. 资本主义的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "beam",
+            "choices": [
+                "vi. 堆满笑容",
+                "vi. 照射",
+                "vt. 流露",
+                "n. 横梁",
+                "n. 光线",
+                "n. 船宽",
+                "n. [计量] 秤杆",
+                "adj. 双语的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "authority",
+            "choices": [
+                "v. 倾盆而下",
+                "n. 自治，自治权",
+                "n. 实用性",
+                "n. 权力",
+                "n. 束",
+                "n. 权威",
+                "vi. 作弊",
+                "n. 当局"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "auction",
+            "choices": [
+                "vt. 拍卖",
+                "vt. 竞卖",
+                "adj. 体格健壮的",
+                "n. 球棒",
+                "vt. 维护，坚持",
+                "n. 候选人，候补者",
+                "n. 拍卖",
+                "n. 艺术品"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "breakdown",
+            "choices": [
+                "n. 崩溃",
+                "n. 衰弱",
+                "n. 分类",
+                "n. 分解",
+                "n. 故障",
+                "n. 跺脚曳步舞",
+                "n. 校园内的草地",
+                "n. 骗子"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bundle",
+            "choices": [
+                "n. 可用性",
+                "n. 计算器",
+                "adv. 宽广地",
+                "n. 束",
+                "vt. 捆",
+                "n. 捆",
+                "vi. 匆忙离开",
+                "v. (谈价钱后)卖"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "basin",
+            "choices": [
+                "n. 盆地",
+                "n. 水池",
+                "vt. 检查和删节",
+                "adj. [数] 二进制的",
+                "n. 方面",
+                "n. 生物多样性",
+                "n. 流域",
+                "n. 盆"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "assembly",
+            "choices": [
+                "n. [化学] 钙",
+                "n. 装配",
+                "n. 汇编，编译",
+                "adj. 体格健壮的",
+                "adv. 突然巨响地",
+                "adv. 以肉体形式",
+                "n. 货架",
+                "n. 集会，集合"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "blank",
+            "choices": [
+                "vi. 成为空白",
+                "n. 空虚",
+                "adj. 空白的",
+                "adj. 空虚的",
+                "vt. 使…模糊",
+                "vt. 封锁",
+                "vt. 排除",
+                "n. 空白"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "broadly",
+            "choices": [
+                "n. 盆地",
+                "adv. 宽广地",
+                "adv. 明显地",
+                "adv. 露骨地",
+                "adv. 粗鄙地",
+                "n. 盆地",
+                "vi. 快速移动",
+                "adv. 概括地"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "backward",
+            "choices": [
+                "adj. 反向的",
+                "adj. 发展迟缓的",
+                "n. （一个地区全部的）生物",
+                "adv. 相反地",
+                "n. 分类",
+                "adv. 向后地",
+                "adj. 向后的",
+                "adj. 资本家的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bang",
+            "choices": [
+                "adv. 直接地",
+                "adv. 突然巨响地",
+                "vt. 发巨响",
+                "adv. 砰然地",
+                "n. [微] 细菌",
+                "n. 刘海",
+                "n. 突然巨响",
+                "n. 重击"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "atom",
+            "choices": [
+                "adv. 粗鄙地",
+                "n. 原子",
+                "n. 格言",
+                "v. (谈价钱后)卖",
+                "vt. 审查，检查",
+                "n. 校园内的草地",
+                "n. 货架",
+                "adj. 二元的，二态的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "calculation",
+            "choices": [
+                "n. 深思熟虑",
+                "vt. 发巨响",
+                "adv. 宽广地",
+                "n. 汇编，编译",
+                "n. 透明圆形罩，圆形顶",
+                "n. 估计",
+                "n. 计算的结果",
+                "n. 计算"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "availability",
+            "choices": [
+                "n. 计算者",
+                "adj. [声] 音频的，[声] 声频的",
+                "n. 实用性",
+                "n. 有效性",
+                "vt. 把……装入桶内",
+                "n. 可用性",
+                "adv. 相反地",
+                "n. 枪管，炮管"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "biology",
+            "choices": [
+                "n. 轴线",
+                "n. 分配",
+                "vt. 使高兴",
+                "n. （一个地区全部的）生物",
+                "n. 自治，自治权",
+                "adj. 声音的",
+                "adj. 行为的",
+                "n. 生物学"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 二元的，二态的; adj. [数] 二进制的",
+            "choices": [
+                "censor",
+                "binary",
+                "calculation",
+                "auction",
+                "calculus"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 家畜; n. 牲畜（骂人的话）; n. 牛",
+            "choices": [
+                "assembly",
+                "bucket",
+                "biology",
+                "beam",
+                "cattle"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 生物多样性",
+            "choices": [
+                "barrel",
+                "atom",
+                "bullet",
+                "bang",
+                "biodiversity"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 体积，容量; vt. 使扩大，使形成大量; n. 大多数，大部分",
+            "choices": [
+                "capillary",
+                "bargain",
+                "basin",
+                "bulk",
+                "bleed"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [数] 公理; n. 自明之理; n. 格言",
+            "choices": [
+                "breakdown",
+                "axiom",
+                "audio",
+                "biology",
+                "blank"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 毛状的; adj. 毛细管的; n. 毛细管",
+            "choices": [
+                "bargain",
+                "auction",
+                "capillary",
+                "bubble",
+                "audio"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 行为的",
+            "choices": [
+                "bizarre",
+                "biodiversity",
+                "bang",
+                "bullet",
+                "behavioral"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 快速移动; n. 枪管，炮管; n. 桶",
+            "choices": [
+                "behavioral",
+                "beam",
+                "bonus",
+                "bleed",
+                "barrel"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 排除; n. 支架; n. 括号",
+            "choices": [
+                "biodiversity",
+                "capitalist",
+                "bracket",
+                "auction",
+                "calcium"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 为…加油; n. 欢呼; n. 心情",
+            "choices": [
+                "cheat",
+                "cheer",
+                "autonomy",
+                "behavioral",
+                "aspect"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 议价; v. (谈价钱后)卖; n. 契约",
+            "choices": [
+                "artwork",
+                "atomic",
+                "bound",
+                "bizarre",
+                "bargain"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 特性描述; n. 描述",
+            "choices": [
+                "auction",
+                "autonomy",
+                "atomic",
+                "characterization",
+                "bundle"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 原子的，原子能的; adj. 微粒子的",
+            "choices": [
+                "binary",
+                "atomic",
+                "bracket",
+                "bizarre",
+                "bundle"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 审计; n. 审计; vi. [审计] 查账",
+            "choices": [
+                "audit",
+                "binary",
+                "bucket",
+                "behavioral",
+                "authority"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 颠簸着行进; n. 一桶的量; n. 桶，水桶",
+            "choices": [
+                "bucket",
+                "atom",
+                "aspect",
+                "bullet",
+                "capitalism"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 外貌; n. 形势; n. 方向",
+            "choices": [
+                "broadly",
+                "aspect",
+                "bullet",
+                "assignment",
+                "beam"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 豆子; vi. 射出; n. 只选某党全部候选人的投票",
+            "choices": [
+                "athletic",
+                "calculation",
+                "audio",
+                "bullet",
+                "backward"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 轴线; n. 轴心国; n. 轴",
+            "choices": [
+                "axis",
+                "censor",
+                "cheat",
+                "bound",
+                "biology"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 应试者; n. 候选人，候补者",
+            "choices": [
+                "autonomy",
+                "bodily",
+                "aspect",
+                "candidate",
+                "biodiversity"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 自治，自治权",
+            "choices": [
+                "beam",
+                "bracket",
+                "autonomy",
+                "behavioral",
+                "cattle"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 发出气泡声; n. 透明圆形罩，圆形顶; vt. 滔滔不绝地说",
+            "choices": [
+                "calculus",
+                "atom",
+                "backward",
+                "beam",
+                "bubble"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 资本主义",
+            "choices": [
+                "calcium",
+                "bonus",
+                "capitalism",
+                "authority",
+                "auction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 艺术品; n. 美术品; n. 插图",
+            "choices": [
+                "artwork",
+                "bundle",
+                "authority",
+                "campus",
+                "bilingual"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 通两种语言的人; adj. 双语的",
+            "choices": [
+                "bound",
+                "bilingual",
+                "atomic",
+                "bizarre",
+                "bang"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [化学] 钙",
+            "choices": [
+                "calcium",
+                "bubble",
+                "bacteria",
+                "bilingual",
+                "bonus"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [微] 细菌",
+            "choices": [
+                "bacteria",
+                "assembly",
+                "barrel",
+                "bilingual",
+                "bodily"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. （大学）校园; n. 大学，大学生活; n. 校园内的草地",
+            "choices": [
+                "capitalist",
+                "capitalism",
+                "campus",
+                "authority",
+                "blank"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 奇异的（指态度，容貌，款式等）",
+            "choices": [
+                "breakdown",
+                "capillary",
+                "audio",
+                "assembly",
+                "bizarre"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 欺骗; vi. 作弊; vt. 欺骗",
+            "choices": [
+                "bonus",
+                "assembly",
+                "bucket",
+                "broadly",
+                "cheat"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 断言; vt. 主张; vt. 维护，坚持",
+            "choices": [
+                "assert",
+                "assignment",
+                "blank",
+                "audio",
+                "axiom"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 运动的，运动员的; adj. 体格健壮的",
+            "choices": [
+                "candidate",
+                "athletic",
+                "calcium",
+                "cattle",
+                "censor"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 身体的; adv. 亲自地; adv. 以肉体形式",
+            "choices": [
+                "bracket",
+                "authority",
+                "biodiversity",
+                "calculator",
+                "bodily"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使出血; vt. 榨取; vi. 渗出",
+            "choices": [
+                "binary",
+                "bulk",
+                "carrier",
+                "bleed",
+                "axiom"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 必定的; adj. 受约束的; n. 范围",
+            "choices": [
+                "bound",
+                "atomic",
+                "biodiversity",
+                "assembly",
+                "cattle"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 计算器; n. 计算者",
+            "choices": [
+                "cattle",
+                "calculator",
+                "bacteria",
+                "calculation",
+                "bilingual"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 任务; n. 作业; n. 分配",
+            "choices": [
+                "bubble",
+                "atom",
+                "calculator",
+                "assignment",
+                "aspect"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 奖金; n. 额外津贴; n. 红利",
+            "choices": [
+                "behavioral",
+                "bargain",
+                "blank",
+                "campus",
+                "bonus"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 带菌者; n. 货架; n. [化学] 载体",
+            "choices": [
+                "calcium",
+                "biology",
+                "carrier",
+                "bacteria",
+                "atom"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. [声] 音频的，[声] 声频的; adj. 声音的",
+            "choices": [
+                "bacteria",
+                "calculation",
+                "axis",
+                "audio",
+                "bilingual"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 用球棒击球; n. 球拍; vi. 轮到击球",
+            "choices": [
+                "axis",
+                "bodily",
+                "beam",
+                "bat",
+                "availability"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 信件检查员; n. 检查员; vt. 审查，检查",
+            "choices": [
+                "censor",
+                "bundle",
+                "artwork",
+                "athletic",
+                "cattle"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [病理] 结石; n. 微积分学",
+            "choices": [
+                "calculus",
+                "capitalist",
+                "bound",
+                "barrel",
+                "characterization"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 资本主义的; n. 资本主义者; adj. 资本家的",
+            "choices": [
+                "axis",
+                "capitalist",
+                "bargain",
+                "biology",
+                "athletic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [计量] 秤杆; vt. 流露; n. 横梁",
+            "choices": [
+                "autonomy",
+                "audio",
+                "bubble",
+                "beam",
+                "basin"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 权威; n. 权力; n. 当局",
+            "choices": [
+                "authority",
+                "audit",
+                "audio",
+                "bonus",
+                "capillary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 竞卖; n. 拍卖; vt. 拍卖",
+            "choices": [
+                "behavioral",
+                "calculator",
+                "broadly",
+                "auction",
+                "availability"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 跺脚曳步舞; n. 衰弱; n. 故障",
+            "choices": [
+                "breakdown",
+                "biodiversity",
+                "axis",
+                "authority",
+                "barrel"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 捆; vi. 匆忙离开; n. 束",
+            "choices": [
+                "bundle",
+                "bizarre",
+                "axis",
+                "campus",
+                "biology"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 流域; n. 盆; n. 盆地",
+            "choices": [
+                "assert",
+                "binary",
+                "characterization",
+                "basin",
+                "cheer"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 汇编，编译; n. 装配; n. 集会，集合",
+            "choices": [
+                "assembly",
+                "aspect",
+                "bound",
+                "bodily",
+                "bulk"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 成为空白; adj. 空白的; vt. 使…模糊",
+            "choices": [
+                "bonus",
+                "characterization",
+                "beam",
+                "blank",
+                "bargain"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 粗鄙地; adv. 明显地; adv. 露骨地",
+            "choices": [
+                "candidate",
+                "broadly",
+                "bargain",
+                "artwork",
+                "bleed"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 向后的; adj. 发展迟缓的; adv. 相反地",
+            "choices": [
+                "backward",
+                "bargain",
+                "bundle",
+                "behavioral",
+                "atom"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 突然巨响; vt. 发巨响; adv. 直接地",
+            "choices": [
+                "bat",
+                "bang",
+                "calcium",
+                "capitalism",
+                "basin"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 原子",
+            "choices": [
+                "atom",
+                "campus",
+                "axis",
+                "blank",
+                "availability"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 计算的结果; n. 计算; n. 深思熟虑",
+            "choices": [
+                "bullet",
+                "bonus",
+                "calculation",
+                "bracket",
+                "candidate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 可用性; n. 有效性; n. 实用性",
+            "choices": [
+                "biology",
+                "bubble",
+                "availability",
+                "calculus",
+                "atomic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. （一个地区全部的）生物; n. 生物学",
+            "choices": [
+                "aspect",
+                "biology",
+                "censor",
+                "calculator",
+                "cheat"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 二元的，二态的; adj. [数] 二进制的",
+            "choices": [
+                "a",
+                "b",
+                "i",
+                "n",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 牛; n. 牲畜（骂人的话）; n. 家畜",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "l",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 生物多样性",
+            "choices": [
+                "b",
+                "d",
+                "e",
+                "i",
+                "i",
+                "i",
+                "o",
+                "r",
+                "s",
+                "t",
+                "v",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使扩大，使形成大量; vt. 使显得重要; n. 体积，容量",
+            "choices": [
+                "b",
+                "k",
+                "l",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 格言; n. [数] 公理; n. 自明之理",
+            "choices": [
+                "a",
+                "i",
+                "m",
+                "o",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 毛细管; adj. 毛细管的; adj. 毛状的",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "i",
+                "l",
+                "l",
+                "p",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 行为的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "e",
+                "h",
+                "i",
+                "l",
+                "o",
+                "r",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 枪管，炮管; vi. 快速移动; vt. 把……装入桶内",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "l",
+                "r",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 支架; vt. 把…归入同一类; n. 括号",
+            "choices": [
+                "a",
+                "b",
+                "c",
+                "e",
+                "k",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 欢呼; n. 心情; n. 令人愉快的事",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "h",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 讨价还价; v. 议价; v. (谈价钱后)卖",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "g",
+                "i",
+                "n",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 描述; n. 特性描述",
+            "choices": [
+                "a",
+                "a",
+                "a",
+                "c",
+                "c",
+                "e",
+                "h",
+                "i",
+                "i",
+                "n",
+                "o",
+                "r",
+                "r",
+                "t",
+                "t",
+                "z"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 微粒子的; adj. 原子的，原子能的",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "m",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [审计] 查账; vi. 审计; n. 审计",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 桶，水桶; v. 颠簸着行进; v. 倾盆而下",
+            "choices": [
+                "b",
+                "c",
+                "e",
+                "k",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 方向; n. 形势; n. 方面",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 豆子; n. 只选某党全部候选人的投票; vi. 迅速行进",
+            "choices": [
+                "b",
+                "e",
+                "l",
+                "l",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 轴线; n. 轴心国; n. 轴",
+            "choices": [
+                "a",
+                "i",
+                "s",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 应试者; n. 候选人，候补者",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "d",
+                "d",
+                "e",
+                "i",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 自治，自治权",
+            "choices": [
+                "a",
+                "m",
+                "n",
+                "o",
+                "o",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 气泡，泡沫，泡状物; vi. 发出气泡声; vi. 沸腾，冒泡",
+            "choices": [
+                "b",
+                "b",
+                "b",
+                "e",
+                "l",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 资本主义",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "i",
+                "i",
+                "l",
+                "m",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 插图; n. 艺术品; n. 美术品",
+            "choices": [
+                "a",
+                "k",
+                "o",
+                "r",
+                "r",
+                "t",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 通两种语言的人; adj. 双语的",
+            "choices": [
+                "a",
+                "b",
+                "g",
+                "i",
+                "i",
+                "l",
+                "l",
+                "n",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [化学] 钙",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "i",
+                "l",
+                "m",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [微] 细菌",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "c",
+                "e",
+                "i",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. （大学）校园; n. 校园内的草地; n. 大学，大学生活",
+            "choices": [
+                "a",
+                "c",
+                "m",
+                "p",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 奇异的（指态度，容貌，款式等）",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "i",
+                "r",
+                "r",
+                "z"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 作弊; vi. 欺骗; n. 欺骗，作弊",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "h",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 主张; vt. 声称; vt. 维护，坚持",
+            "choices": [
+                "a",
+                "e",
+                "r",
+                "s",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 运动的，运动员的; adj. 体格健壮的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "h",
+                "i",
+                "l",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 整体地; adj. 身体的; adj. 肉体的",
+            "choices": [
+                "b",
+                "d",
+                "i",
+                "l",
+                "o",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 悲痛; vi. 流血; vt. 榨取",
+            "choices": [
+                "b",
+                "d",
+                "e",
+                "e",
+                "l"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 装有封面的; adj. 有义务的; vi. 限制",
+            "choices": [
+                "b",
+                "d",
+                "n",
+                "o",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 计算器; n. 计算者",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "c",
+                "l",
+                "l",
+                "o",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 作业; n. 功课; n. 分配",
+            "choices": [
+                "a",
+                "e",
+                "g",
+                "i",
+                "m",
+                "n",
+                "n",
+                "s",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 奖金; n. 红利; n. 额外津贴",
+            "choices": [
+                "b",
+                "n",
+                "o",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 运送者; n. 带菌者; n. 货架",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "r",
+                "r",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. [声] 音频的，[声] 声频的; adj. 声音的",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "o",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 蝙蝠; n. 球棒; vi. 用球棒击球",
+            "choices": [
+                "a",
+                "b",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 审查，检查; n. 信件检查员; n. 检查员",
+            "choices": [
+                "c",
+                "e",
+                "n",
+                "o",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 微积分学; n. [病理] 结石",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "l",
+                "l",
+                "s",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 资本主义的; n. 资本家; n. 资本主义者",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "i",
+                "i",
+                "l",
+                "p",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 发送; n. 光线; n. 电波",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "m"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 权力; n. 权威; n. 当局",
+            "choices": [
+                "a",
+                "h",
+                "i",
+                "o",
+                "r",
+                "t",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 拍卖; vt. 竞卖; vt. 拍卖",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "n",
+                "o",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 分解; n. 衰弱; n. 跺脚曳步舞",
+            "choices": [
+                "a",
+                "b",
+                "d",
+                "e",
+                "k",
+                "n",
+                "o",
+                "r",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 束; vt. 捆; vi. 匆忙离开",
+            "choices": [
+                "b",
+                "d",
+                "e",
+                "l",
+                "n",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 盆地; n. 水池; n. 盆",
+            "choices": [
+                "a",
+                "b",
+                "i",
+                "n",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 汇编，编译; n. 集会，集合; n. 装配",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "l",
+                "m",
+                "s",
+                "s",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 空虚的; vt. 使…无效; n. 空虚",
+            "choices": [
+                "a",
+                "b",
+                "k",
+                "l",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 明显地; adv. 粗鄙地; adv. 宽广地",
+            "choices": [
+                "a",
+                "b",
+                "d",
+                "l",
+                "o",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 向后地; adv. 相反地; adj. 反向的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "c",
+                "d",
+                "k",
+                "r",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 重击; adv. 砰然地; n. 突然巨响",
+            "choices": [
+                "a",
+                "b",
+                "g",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 原子",
+            "choices": [
+                "a",
+                "m",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 深思熟虑; n. 计算; n. 估计",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "c",
+                "i",
+                "l",
+                "l",
+                "n",
+                "o",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 实用性; n. 有效性; n. 可用性",
+            "choices": [
+                "a",
+                "a",
+                "a",
+                "b",
+                "i",
+                "i",
+                "i",
+                "l",
+                "l",
+                "t",
+                "v",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. （一个地区全部的）生物; n. 生物学",
+            "choices": [
+                "b",
+                "g",
+                "i",
+                "l",
+                "o",
+                "o",
+                "y"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "We started off talking about ______ search, and I suggested that this was a log algorithm which it is, which is really kind of nice.",
+            "choices": [
+                "calculator",
+                "backward",
+                "beam",
+                "binary",
+                "carrier"
+            ],
+            "chn": "我告诉了你们这是一个对，数级的算法，这是很棒的,我们来一起看看这个算法到底做了什么。(计算机科学及编程导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "If the grass was good, and the herd moved slowly, the ______ would get heavier and bring more money.",
+            "choices": [
+                "cheat",
+                "bleed",
+                "broadly",
+                "cattle",
+                "censor"
+            ],
+            "chn": "(VOA : special.2010.03.18)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The organization ______ International reports losses of up to eighty percent in heavily affected areas of the country.",
+            "choices": [
+                "censor",
+                "bacteria",
+                "autonomy",
+                "biodiversity",
+                "bargain"
+            ],
+            "chn": "(VOA : special.2009.09.21)"
+        },
+        {
+            "cate": "choice",
+            "problem": "That force is scheduled to be reduced from nearly with the ______ of the withdrawal planned for after the election and the formation of a new Iraqi government.",
+            "choices": [
+                "blank",
+                "carrier",
+                "atomic",
+                "assignment",
+                "bulk"
+            ],
+            "chn": "(VOA : standard.2009.12.11)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It's a definition. It's an ______.",
+            "choices": [
+                "axiom",
+                "aspect",
+                "bang",
+                "bonus",
+                "cattle"
+            ],
+            "chn": "是一个定义，是一个原理。(计算机科学及编程导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "We also will present evidence of a suspected link between tobacco smoke and ______ problems in boys with asthma.",
+            "choices": [
+                "bang",
+                "bizarre",
+                "carrier",
+                "behavioral",
+                "cheer"
+            ],
+            "chn": "(VOA : special.2009.01.13)"
+        },
+        {
+            "cate": "choice",
+            "problem": "said the Justice. \"Roll it up,\" the man ordered, \"and stick it in the end of this here gun ______.",
+            "choices": [
+                "biodiversity",
+                "capillary",
+                "calculator",
+                "bizarre",
+                "barrel"
+            ],
+            "chn": "(VOA : special.2009.11.14)"
+        },
+        {
+            "cate": "choice",
+            "problem": "R.J.Bell of Pregame.com says the number of possibilities to guarantee a perfect ______ are an astronomical 9.2 quintillion.",
+            "choices": [
+                "bizarre",
+                "bracket",
+                "campus",
+                "characterization",
+                "bacteria"
+            ],
+            "chn": "(VOA : standard.2009.03.25)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Outside,crowds lined the street to ______ Wilson as he returned to the White House from the Capitol Building.",
+            "choices": [
+                "biodiversity",
+                "broadly",
+                "capitalism",
+                "cattle",
+                "cheer"
+            ],
+            "chn": "(VOA : special.2010.10.14)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"Instead of shopping in just the regular shopping mall we were kind of forced to go to these ______ type shops.\"",
+            "choices": [
+                "artwork",
+                "biology",
+                "cheat",
+                "cattle",
+                "bargain"
+            ],
+            "chn": "(VOA : special.2009.12.21)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Cut the problem in half. Cut the problem in half again. And that's a typical ______ of a log algorithm.",
+            "choices": [
+                "bat",
+                "characterization",
+                "breakdown",
+                "assembly",
+                "cheat"
+            ],
+            "chn": "是每次除以特定的量,将问题减一半，再减一半,如此，这就是对数算法的典型特性。(计算机科学及编程导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The government decided to give him the highest award of the ______ Energy Commission for his work on atomic energy.",
+            "choices": [
+                "bound",
+                "aspect",
+                "availability",
+                "atomic",
+                "biology"
+            ],
+            "chn": "(VOA : special.2009.06.14)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"We want to see a full and transparent ______, something that could be published and shared with the Kenyan people.\"",
+            "choices": [
+                "audit",
+                "bizarre",
+                "audio",
+                "carrier",
+                "candidate"
+            ],
+            "chn": "(VOA : standard.2010.03.04)"
+        },
+        {
+            "cate": "choice",
+            "problem": "I'm a drop in the ______ and, you know, well -- You might lose the vote.",
+            "choices": [
+                "blank",
+                "bang",
+                "bundle",
+                "bargain",
+                "bucket"
+            ],
+            "chn": "我那一票只是沧海一粟-,你可能是少数派。(公正课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "14"
+}

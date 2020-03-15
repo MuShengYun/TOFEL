@@ -1,0 +1,246 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "philosophy",
+            "choices": [
+                "n. 语用学",
+                "adj. 广告业的",
+                "n. 仪器",
+                "vt. 为…提供线索",
+                "n. 玄学，形而上学",
+                "n. 哲学",
+                "n. 哲理",
+                "n. 人生观"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "portrait",
+            "choices": [
+                "n. 肖像",
+                "adj. 凭处方出售的",
+                "n. 半身雕塑像",
+                "n. 行为主义",
+                "adj. 本质的，固有的",
+                "n. 描写",
+                "n. 始祖，祖先",
+                "n. 行为主义"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cognitive",
+            "choices": [
+                "adj. 认知的，认识的",
+                "n. 知觉",
+                "n. 树皮",
+                "n. （故事等的）情节",
+                "n. 心肠好的人",
+                "n. 玄学，形而上学",
+                "v. 为…做广告（advertise的ing形式）",
+                "n. 旁听席"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "extrinsic",
+            "choices": [
+                "n. 行为主义",
+                "vt. 使平服",
+                "n. 玄学，形而上学",
+                "adj. 非固有的",
+                "n. 处方药",
+                "adj. 外来的",
+                "adj. 外在的",
+                "n. [生理] 感觉"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 画廊; n. 旁听席; vt. 在…挖地道",
+            "choices": [
+                "impressionism",
+                "gallery",
+                "foundationalism",
+                "amnesia",
+                "theater"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 绘画技巧; n. 笔的一划; n. 一笔",
+            "choices": [
+                "plaster",
+                "brushstroke",
+                "instrument",
+                "clue",
+                "metaphysics"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 玄学，形而上学",
+            "choices": [
+                "metaphysics",
+                "portrait",
+                "impressionism",
+                "artist",
+                "exhibit"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 认知的，认识的",
+            "choices": [
+                "cognitive",
+                "behaviorism",
+                "artist",
+                "ancestor",
+                "brick"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 行为主义",
+            "choices": [
+                "behaviorism",
+                "brushstroke",
+                "extrinsic",
+                "plaster",
+                "cognitive"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 涂以灰泥; vt. 使平服; n. 石膏",
+            "choices": [
+                "a",
+                "e",
+                "l",
+                "p",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 乐器; n. 工具; n. 仪器",
+            "choices": [
+                "e",
+                "i",
+                "m",
+                "n",
+                "n",
+                "r",
+                "s",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 半身雕塑像; n. 肖像; n. 描写",
+            "choices": [
+                "a",
+                "i",
+                "o",
+                "p",
+                "r",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 公告; n. 广告; n. 登广告",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "g",
+                "i",
+                "i",
+                "n",
+                "r",
+                "s",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 心理状态; n. 心理学",
+            "choices": [
+                "c",
+                "g",
+                "h",
+                "l",
+                "o",
+                "o",
+                "p",
+                "s",
+                "y",
+                "y"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "So the cost of the product will be higher for them, for you know, for any product that uses ______",
+            "choices": [
+                "foundationalism",
+                "salon",
+                "extrinsic",
+                "metaphysics",
+                "advertising"
+            ],
+            "chn": "所以他们的产品价格就会更高，你知道，任何打广告的产品。(SpeakingMax英语口语达人 : 广告和价格的关系)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Like any literary ______, the Bible is characterized by a sophistication of structure and style and an artistry of theme and metaphor, and believe me, that's lost on adult readers quite often.",
+            "choices": [
+                "cognitive",
+                "masterpiece",
+                "salon",
+                "psychology",
+                "metaphysics"
+            ],
+            "chn": "与很多文学杰作一样，圣经也是以它结构，风格的复杂,以及主旨和隐喻的艺术性而著称的，相信我，很多成人读者都不一定能搞清楚。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "She made up the art ______ with like, blood splatters across the walls and stuff like that.",
+            "choices": [
+                "perception",
+                "ethical",
+                "gallery",
+                "salon",
+                "behaviorism"
+            ],
+            "chn": "她开了个美术馆，那墙上满是鲜血四溅的东西。(SpeakingMax英语口语达人 : SOHO的画廊)"
+        },
+        {
+            "cate": "choice",
+            "problem": "He wanted to make an ______ that could play a note longer than notes played on a traditional acoustic guitar.",
+            "choices": [
+                "intrinsic",
+                "psychiatrist",
+                "psychology",
+                "artist",
+                "instrument"
+            ],
+            "chn": "(VOA : special.2009.09.27)"
+        }
+    ],
+    "quiz_id": "73"
+}

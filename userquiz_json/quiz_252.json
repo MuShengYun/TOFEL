@@ -1,0 +1,656 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "c_to_e",
+            "problem": "n. 入会; n. 开始; n. 启蒙，传授",
+            "choices": [
+                "injection",
+                "incredible",
+                "industrialize",
+                "initiation",
+                "inequality"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有影响的; n. 有影响力的人物; adj. 有势力的",
+            "choices": [
+                "indirect",
+                "instability",
+                "intervene",
+                "influential",
+                "inference"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 非直截了当的; adj. 迂回的; adj. 间接的",
+            "choices": [
+                "industrialization",
+                "irrigation",
+                "indirect",
+                "infectious",
+                "infinite"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 先天的; adj. 固有的; adj. 与生俱来的",
+            "choices": [
+                "infect",
+                "innate",
+                "interval",
+                "incredible",
+                "inequality"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 开始; vt. 发起; vt. 使初步了解",
+            "choices": [
+                "initiate",
+                "irrigation",
+                "influential",
+                "interestingly",
+                "innate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 媒介; vi. 起媒介作用; adj. 中间的，中级的",
+            "choices": [
+                "intermediate",
+                "induction",
+                "inject",
+                "junior",
+                "indicator"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 实现工业化; vt. 使工业化",
+            "choices": [
+                "initiation",
+                "integral",
+                "industrialize",
+                "intervene",
+                "interestingly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 射入轨道; n. 注射剂; n. 注射",
+            "choices": [
+                "invade",
+                "injection",
+                "indigenous",
+                "individually",
+                "innate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 卑鄙的人; n. 昆虫",
+            "choices": [
+                "interval",
+                "induce",
+                "inhibit",
+                "invasion",
+                "insect"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 工业化",
+            "choices": [
+                "insect",
+                "indifference",
+                "industrialization",
+                "informal",
+                "inversion"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 必然地; adv. 不可避免地",
+            "choices": [
+                "intensity",
+                "inevitably",
+                "influential",
+                "innate",
+                "irrigation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [光] 入射; n. 影响范围; n. 发生率",
+            "choices": [
+                "induction",
+                "initiation",
+                "insert",
+                "interviewer",
+                "incidence"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 不重视; n. 冷淡; n. 漠不关心",
+            "choices": [
+                "influential",
+                "indifference",
+                "incline",
+                "interrupt",
+                "irrigation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 强烈; n. 紧张; n. [电子] 亮度",
+            "choices": [
+                "interviewer",
+                "inferior",
+                "invert",
+                "inclusion",
+                "intensity"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 极大的; n. 无限; n. [数] 无穷大",
+            "choices": [
+                "indicator",
+                "interact",
+                "incredibly",
+                "incredible",
+                "infinite"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 进行面试者; n. 采访者; n. 会见者",
+            "choices": [
+                "intermediate",
+                "informal",
+                "interrupt",
+                "interviewer",
+                "indigenous"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 交流，交谈; n. 界面; vi. 相互作用（或影响）",
+            "choices": [
+                "inclusion",
+                "interface",
+                "innate",
+                "industrialization",
+                "interestingly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [临床] 冲洗; n. 冲洗法; n. 灌溉",
+            "choices": [
+                "insert",
+                "interviewer",
+                "incredibly",
+                "irrigation",
+                "intervene"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 独立地; adv. 自立地",
+            "choices": [
+                "indifference",
+                "justification",
+                "indigenous",
+                "independently",
+                "instinct"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 下级的，下等的; n. 下级; adj. 自卑的",
+            "choices": [
+                "incumbent",
+                "insert",
+                "inclusion",
+                "intensity",
+                "inferior"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 传染的; adj. 易传染的; adj. 传染性的",
+            "choices": [
+                "intervene",
+                "infectious",
+                "innate",
+                "indicator",
+                "interviewer"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 注入; vt. 注射",
+            "choices": [
+                "interface",
+                "interact",
+                "intensive",
+                "inject",
+                "jazz"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [试剂] 指示剂; n. [计] 指示符; n. 指标，标志，迹象",
+            "choices": [
+                "interviewer",
+                "intensive",
+                "justification",
+                "indicator",
+                "invade"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 土著的; adj. 本土的; adj. 固有的",
+            "choices": [
+                "interval",
+                "junior",
+                "indigenous",
+                "instability",
+                "insert"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 负有职责的; n. 现任者; n. 领圣俸者",
+            "choices": [
+                "inclusion",
+                "interestingly",
+                "invert",
+                "incumbent",
+                "inferior"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 感应; vt. 诱导; vt. 引诱",
+            "choices": [
+                "innate",
+                "inference",
+                "induce",
+                "interviewer",
+                "inhibit"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 诱导; n. [电磁] 感应; n. 感应现象",
+            "choices": [
+                "initiate",
+                "inhibit",
+                "invasion",
+                "induction",
+                "invert"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 不平均; n. 不同; n. 不平等",
+            "choices": [
+                "inequality",
+                "informal",
+                "inference",
+                "indifference",
+                "induction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 个别地，单独地",
+            "choices": [
+                "incumbent",
+                "incidence",
+                "induce",
+                "individually",
+                "inequality"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使活泼; n. 爵士乐，爵士舞; vi. 奏爵士乐，跳爵士舞",
+            "choices": [
+                "interrupt",
+                "insert",
+                "intervene",
+                "incredibly",
+                "jazz"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 难以置信的，惊人的; adj. 极好的",
+            "choices": [
+                "indicator",
+                "indifference",
+                "incredible",
+                "induction",
+                "interrupt"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 辩护; n. 理由; n. 释罪",
+            "choices": [
+                "interviewer",
+                "interact",
+                "innate",
+                "justification",
+                "infinite"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 部分; n. 积分; n. 完整",
+            "choices": [
+                "junior",
+                "interfere",
+                "justification",
+                "integral",
+                "informal"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 不拘礼节的; adj. 非正式的; adj. 日常使用的",
+            "choices": [
+                "inequality",
+                "informal",
+                "irrigation",
+                "interval",
+                "inference"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 感染，传染",
+            "choices": [
+                "ion",
+                "interval",
+                "jazz",
+                "infect",
+                "inferior"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 转化的; n. 倒悬者; vt. 使…前后倒置",
+            "choices": [
+                "indifference",
+                "instability",
+                "interrupt",
+                "incredible",
+                "invert"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 间距; n. 幕间休息; n. 间隔",
+            "choices": [
+                "incidence",
+                "integration",
+                "interval",
+                "incumbent",
+                "inequality"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 包含; n. 内含物",
+            "choices": [
+                "interval",
+                "instinct",
+                "inclusion",
+                "insert",
+                "inference"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 插入物; n. 镶块; n. [机械]刀片",
+            "choices": [
+                "informal",
+                "ion",
+                "interval",
+                "insert",
+                "interestingly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [化学] 离子",
+            "choices": [
+                "initiate",
+                "indigenous",
+                "ion",
+                "junior",
+                "insert"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 反向; n. 倒置; n. 倒转",
+            "choices": [
+                "induce",
+                "inversion",
+                "integral",
+                "incline",
+                "irrelevant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 不切题的; adj. 不相干的",
+            "choices": [
+                "interfere",
+                "irrelevant",
+                "indicator",
+                "infect",
+                "inject"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 充满着的; n. 天性; n. 本能，直觉",
+            "choices": [
+                "invasion",
+                "incidence",
+                "inferior",
+                "initiation",
+                "instinct"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 干涉; vi. 调停; vi. 插入",
+            "choices": [
+                "intervene",
+                "inferior",
+                "interviewer",
+                "justification",
+                "integration"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 基础薄弱; n. 不稳定（性）; n. 不安定",
+            "choices": [
+                "insert",
+                "instability",
+                "interestingly",
+                "industrialization",
+                "indirect"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 有趣地",
+            "choices": [
+                "interestingly",
+                "indigenous",
+                "independently",
+                "junior",
+                "justification"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使倾斜; vi. 易于; vi. 倾向",
+            "choices": [
+                "incline",
+                "inevitably",
+                "indigenous",
+                "infect",
+                "interact"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 干涉; vi. 打扰; vi. 妨碍",
+            "choices": [
+                "jazz",
+                "invade",
+                "interviewer",
+                "interfere",
+                "justification"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 难以置信地; adv. 非常地",
+            "choices": [
+                "inversion",
+                "incredibly",
+                "indifference",
+                "indicator",
+                "interviewer"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 推断; n. 推论; n. 推理",
+            "choices": [
+                "infect",
+                "inference",
+                "integral",
+                "incredibly",
+                "incline"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 年少的; n. 年少者，晚辈; adj. 下级的",
+            "choices": [
+                "jazz",
+                "inevitably",
+                "junior",
+                "industrialization",
+                "industrialize"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 侵扰; vi. 侵袭; vt. 涌入",
+            "choices": [
+                "irrelevant",
+                "initiation",
+                "infinity",
+                "interval",
+                "invade"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 幕间休息; n. 幕间剧; vt. 互相作用",
+            "choices": [
+                "interestingly",
+                "integration",
+                "interact",
+                "incline",
+                "industrialization"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 中断; vi. 打扰; n. 中断",
+            "choices": [
+                "interrupt",
+                "inevitably",
+                "insect",
+                "integral",
+                "inversion"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 透彻的; adj. 集中的; adj. 加强的",
+            "choices": [
+                "intensive",
+                "inclusion",
+                "integration",
+                "injection",
+                "incredible"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 入侵，侵略; n. 侵袭; n. 侵犯",
+            "choices": [
+                "interviewer",
+                "interface",
+                "invasion",
+                "indirect",
+                "ion"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 综合; n. 集成",
+            "choices": [
+                "integration",
+                "inequality",
+                "interviewer",
+                "interface",
+                "inferior"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 无限距; n. 无限大; n. 无穷",
+            "choices": [
+                "inevitably",
+                "innate",
+                "intensive",
+                "infinity",
+                "independently"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 禁止; vt. 抑制",
+            "choices": [
+                "interviewer",
+                "integration",
+                "industrialize",
+                "inhibit",
+                "interact"
+            ]
+        }
+    ],
+    "quiz_id": "252"
+}

@@ -1,0 +1,129 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "n. 节俭的人; n. 经济学者",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "m",
+                "n",
+                "o",
+                "o",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 扩散，传播; n. [光] 漫射",
+            "choices": [
+                "d",
+                "f",
+                "f",
+                "i",
+                "i",
+                "n",
+                "o",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使分解; vi. 溶解; n. 画面的溶暗",
+            "choices": [
+                "d",
+                "e",
+                "i",
+                "l",
+                "o",
+                "s",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 描述符号",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "i",
+                "o",
+                "p",
+                "r",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 直径",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "i",
+                "m",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "The Satellites followed with an hour and a half of inspired play defending as a unit and attackingwhen merited, and holding the feared Brazilian attack despite their numerical ______.",
+            "choices": [
+                "disadvantage",
+                "diffusion",
+                "domain",
+                "deviation",
+                "dependence"
+            ],
+            "chn": "(VOA : standard.2009.10.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "One reporter questioned why Flamenco music is on the list since it is extremely popular and ______ successful.",
+            "choices": [
+                "diagnostic",
+                "drift",
+                "dye",
+                "economically",
+                "diagnose"
+            ],
+            "chn": "(VOA : special.2010.12.01)"
+        },
+        {
+            "cate": "choice",
+            "problem": "What's the ______ in the text is just the stuff, the stuff in his knapsack listed with as little implication as possible.",
+            "choices": [
+                "dioxide",
+                "differential",
+                "dominant",
+                "elaborate",
+                "disadvantage"
+            ],
+            "chn": "主题占支配地位，重要的是那些在背包里几乎没有任何含义的东西。(文学理论导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And the cancer society says health officials and governments should invest more in cancer research and early ______.",
+            "choices": [
+                "drift",
+                "diagram",
+                "drain",
+                "detection",
+                "dependence"
+            ],
+            "chn": "(VOA : special.2009.03.02)"
+        }
+    ],
+    "quiz_id": "190"
+}

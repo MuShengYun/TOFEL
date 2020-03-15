@@ -1,0 +1,537 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "omnipresent",
+            "choices": [
+                "n. 观赏植物",
+                "adj. 无所不在的",
+                "adj. 预防的，防止的",
+                "v. 区别对待",
+                "n. 胜算",
+                "n. 预防药",
+                "adj. 直觉的",
+                "adj. 仪器的，器械的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "entail",
+            "choices": [
+                "n. 继承",
+                "n. 需要",
+                "n. 观赏植物",
+                "n. 引起",
+                "vt. 遗传给",
+                "vt. 承担",
+                "vt. 使需要，必需",
+                "vt. 蕴含"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ornate",
+            "choices": [
+                "adj. （文体）绚丽的",
+                "adj. 装饰的，装饰性的",
+                "v. 使大吃一惊（stun的ing形式）",
+                "v. 区别对待",
+                "adj. 凭直觉获知的",
+                "adj. 华丽的",
+                "n. 引起",
+                "adj. 装饰的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "intuitive",
+            "choices": [
+                "adj. 凭直觉获知的",
+                "v. 区别对待",
+                "adj. 直觉的",
+                "adj. 有识别力的",
+                "adj. 仪器的，器械的",
+                "n. 预防药",
+                "n. 继承",
+                "v. 使震耳欲聋"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "stunning",
+            "choices": [
+                "adj. 使人晕倒的",
+                "v. 使震耳欲聋",
+                "n. 几率",
+                "v. 使大吃一惊（stun的ing形式）",
+                "n. 预防法",
+                "adj. 震耳欲聋的",
+                "adj. 极好的",
+                "v. 把…打昏"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "instrumental",
+            "choices": [
+                "n. 装饰品",
+                "adj. 乐器的",
+                "adj. 仪器的，器械的",
+                "adj. 有识别力的",
+                "adj. 有帮助的",
+                "n. 引起",
+                "n. 工具字，工具格",
+                "n. 器乐曲"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ornamental",
+            "choices": [
+                "v. 识别（discriminate的ing形式）",
+                "n. 观赏植物",
+                "adj. 直觉的",
+                "adj. 装饰的，装饰性的",
+                "n. 工具字，工具格",
+                "n. 装饰品",
+                "n. 继承",
+                "n. 预防药"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "discriminating",
+            "choices": [
+                "adj. 识别的",
+                "adj. 有差别的",
+                "adj. 仪器的，器械的",
+                "adj. 有识别力的",
+                "adj. 极好的",
+                "n. 不平等",
+                "v. 识别（discriminate的ing形式）",
+                "v. 区别对待"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "odds",
+            "choices": [
+                "n. 胜算",
+                "vt. 蕴含",
+                "n. 几率",
+                "adj. 仪器的，器械的",
+                "adj. 预防的，防止的",
+                "n. 差别",
+                "adj. 华丽的",
+                "n. 不平等"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "preventive",
+            "choices": [
+                "adj. 识别的",
+                "adj. 华丽的",
+                "adj. 预防的，防止的",
+                "n. 预防药",
+                "adj. （文体）绚丽的",
+                "adj. 乐器的",
+                "adj. 直觉的",
+                "n. 预防法"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 装饰的; adj. 华丽的; adj. （文体）绚丽的",
+            "choices": [
+                "omnipresent",
+                "ornamental",
+                "ornate",
+                "odds",
+                "stunning"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 预防法; n. 预防药; adj. 预防的，防止的",
+            "choices": [
+                "ornamental",
+                "omnipresent",
+                "preventive",
+                "discriminating",
+                "instrumental"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 极好的; v. 使大吃一惊（stun的ing形式）; v. 把…打昏",
+            "choices": [
+                "entail",
+                "omnipresent",
+                "ornate",
+                "ornamental",
+                "stunning"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 无所不在的",
+            "choices": [
+                "omnipresent",
+                "discriminating",
+                "instrumental",
+                "entail",
+                "odds"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 差别; n. 几率; n. 胜算",
+            "choices": [
+                "omnipresent",
+                "odds",
+                "entail",
+                "ornate",
+                "preventive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 引起; vt. 遗传给; vt. 承担",
+            "choices": [
+                "entail",
+                "ornamental",
+                "odds",
+                "stunning",
+                "preventive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 装饰的，装饰性的; n. 观赏植物; n. 装饰品",
+            "choices": [
+                "ornamental",
+                "odds",
+                "stunning",
+                "ornate",
+                "entail"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有差别的; adj. 识别的; v. 识别（discriminate的ing形式）",
+            "choices": [
+                "discriminating",
+                "intuitive",
+                "preventive",
+                "stunning",
+                "instrumental"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 仪器的，器械的; adj. 有帮助的; adj. 乐器的",
+            "choices": [
+                "ornate",
+                "stunning",
+                "preventive",
+                "instrumental",
+                "omnipresent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 直觉的; adj. 凭直觉获知的",
+            "choices": [
+                "ornate",
+                "discriminating",
+                "preventive",
+                "instrumental",
+                "intuitive"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 无所不在的",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "m",
+                "n",
+                "n",
+                "o",
+                "p",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 使大吃一惊（stun的ing形式）; adj. 极好的; v. 使震耳欲聋",
+            "choices": [
+                "g",
+                "i",
+                "n",
+                "n",
+                "n",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 凭直觉获知的; adj. 直觉的",
+            "choices": [
+                "e",
+                "i",
+                "i",
+                "i",
+                "n",
+                "t",
+                "t",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 识别的; v. 区别对待; adj. 有识别力的",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "g",
+                "i",
+                "i",
+                "i",
+                "i",
+                "m",
+                "n",
+                "n",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. （文体）绚丽的; adj. 华丽的; adj. 装饰的",
+            "choices": [
+                "a",
+                "e",
+                "n",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 乐器的; n. 工具字，工具格; adj. 有帮助的",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "l",
+                "m",
+                "n",
+                "n",
+                "r",
+                "s",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 预防药; n. 预防法; adj. 预防的，防止的",
+            "choices": [
+                "e",
+                "e",
+                "e",
+                "i",
+                "n",
+                "p",
+                "r",
+                "t",
+                "v",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 观赏植物; n. 装饰品; adj. 装饰的，装饰性的",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "l",
+                "m",
+                "n",
+                "n",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 遗传给; n. 继承; vt. 使需要，必需",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "l",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 差别; n. 胜算; n. 几率",
+            "choices": [
+                "d",
+                "d",
+                "o",
+                "s"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Pandemic experts explain a second wave does not necessarily ______ any change in the composition of the virus.",
+            "choices": [
+                "entail",
+                "discriminating",
+                "ornamental",
+                "stunning",
+                "instrumental"
+            ],
+            "chn": "(VOA : standard.2009.09.04)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Greenery and flowering bushes surround the ______ Pool in the gardens.",
+            "choices": [
+                "ornamental",
+                "stunning",
+                "preventive",
+                "odds",
+                "instrumental"
+            ],
+            "chn": "(VOA : special.2009.09.21)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It's here that Milton for no  explicit, or no apparent, reason at all - it's here that he provides a little theoretical digression on the ______ flexibility of angelic bodies.",
+            "choices": [
+                "stunning",
+                "instrumental",
+                "ornamental",
+                "intuitive",
+                "entail"
+            ],
+            "chn": "但在这他无缘无故的，没有任何明显原因的,-在这儿他脱离了诗歌主线,转而去描写天使身体惊人的灵活性。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But Specter said he found himself increasingly at ______ with a Republican Party that has moved to the right.",
+            "choices": [
+                "stunning",
+                "ornamental",
+                "intuitive",
+                "omnipresent",
+                "odds"
+            ],
+            "chn": "(VOA : standard.2009.04.28)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It works its magic, again, through purely ______ means, so we can't really call those songs, and this puzzled me.",
+            "choices": [
+                "stunning",
+                "discriminating",
+                "odds",
+                "instrumental",
+                "entail"
+            ],
+            "chn": "纯器乐的演奏方式,容我重申,能产生神奇的效果,所以我们其实不能把器乐称为歌曲,这让我很困惑(聆听音乐课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "An ______ bureaucracy with its detailed and all encompassing records gives the clearest picture of the power exercised by the centralized monarchs of the Mycenaean Age.\"",
+            "choices": [
+                "omnipresent",
+                "intuitive",
+                "ornamental",
+                "stunning",
+                "preventive"
+            ],
+            "chn": "一个无处不在的官僚体制,所留下详尽细致,无所不包的记录,清晰地描绘了,迈锡尼时期中央集权统治的实行\"(古希腊历史简介课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The advice came from experts who are appointed by the government to develop guidelines for ______ services, like mammograms.",
+            "choices": [
+                "ornamental",
+                "omnipresent",
+                "ornate",
+                "preventive",
+                "odds"
+            ],
+            "chn": "(VOA : special.2009.11.25)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Critics say that as a result these schools are ______ against women and admitting less qualified men.",
+            "choices": [
+                "discriminating",
+                "stunning",
+                "instrumental",
+                "entail",
+                "intuitive"
+            ],
+            "chn": "(VOA : special.2009.11.19)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The idea of risk, that economic risks can be pooled, is an ______ one that has occurred to people throughout history.",
+            "choices": [
+                "stunning",
+                "odds",
+                "discriminating",
+                "intuitive",
+                "instrumental"
+            ],
+            "chn": "风险理论，即认为经济风险可以分摊，是历史过程中,人们逐渐发现的理论。(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "These ______ masquerades and charades that are part of his complexity reveal something about his identity.",
+            "choices": [
+                "preventive",
+                "discriminating",
+                "ornate",
+                "omnipresent",
+                "ornamental"
+            ],
+            "chn": "这些华丽的化装舞会和猜谜游戏,揭露了他复杂个性中的一部分(欧洲文明课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "146"
+}

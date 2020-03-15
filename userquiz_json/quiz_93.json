@@ -1,0 +1,260 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "ascribe",
+            "choices": [
+                "vt. 归咎于",
+                "n. 搅乳器",
+                "n. 紧握",
+                "n. 追诉时效",
+                "adj. 鬼鬼祟祟的，秘密的",
+                "vt. 归因于",
+                "adj. 精力充沛的",
+                "int. 万岁"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "forestall",
+            "choices": [
+                "vt. 领先",
+                "vt. 垄断，屯积",
+                "vi. 私通",
+                "vt. 占先一步",
+                "vt. 赞成",
+                "n. 诅咒",
+                "vt. 先发制人，预先阻止",
+                "vt. 激起...的兴趣"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "wistful",
+            "choices": [
+                "adj. 沉思的，默想的",
+                "adj. 渴望的",
+                "adj. 不满足似的",
+                "vt. 搅动",
+                "adj. 引起怀念的",
+                "adj. 冤枉的",
+                "n. 踌躇",
+                "adj. 不成比例的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "transmogrify",
+            "choices": [
+                "adj. 不应得的，不该受的",
+                "vt. 使变成奇形怪状",
+                "vt. 使变形",
+                "vt. 正视，面对",
+                "vi. 穿孔",
+                "adj. 苛求的",
+                "adj. 冤枉的",
+                "adj. 属于同一时期的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "energetic",
+            "choices": [
+                "adj. 有力的",
+                "vt. 授权，允许",
+                "adj. 积极的",
+                "v. 查问（demand的ing形式）",
+                "adj. 精力充沛的",
+                "adj. 引人发笑的",
+                "adj. 易怒的",
+                "n. 踌躇"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 充满活力（crackle的ing形式）; v. 发爆裂声; n. 脆皮",
+            "choices": [
+                "yardstick",
+                "contemporary",
+                "ecosystem",
+                "crackling",
+                "energetic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 偏爱; n. 偏袒; n. 偏心",
+            "choices": [
+                "transmogrify",
+                "partiality",
+                "petty",
+                "nothing if not",
+                "overblown"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 过分渲染（overblow的过去分词）; adj. 停息的; adj. 已盛开过的",
+            "choices": [
+                "overblown",
+                "palpable",
+                "contemporary",
+                "gambit",
+                "transmogrify"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 正视，面对; vt. 想像",
+            "choices": [
+                "disproportionate",
+                "stave",
+                "petty",
+                "envisage",
+                "hazard"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 紧握; vt. 系肚带; n. 有把握的事情",
+            "choices": [
+                "cinch",
+                "disregard",
+                "disproportionate",
+                "fractious",
+                "cede"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 想像; vt. 正视，面对",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "g",
+                "i",
+                "n",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 不成比例的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "i",
+                "n",
+                "o",
+                "o",
+                "o",
+                "p",
+                "p",
+                "r",
+                "r",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 窒息; n. （马等的）[动] 后膝关节病; vt. 使窒息",
+            "choices": [
+                "e",
+                "f",
+                "i",
+                "l",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 鬼鬼祟祟的，秘密的",
+            "choices": [
+                "e",
+                "f",
+                "i",
+                "r",
+                "t",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 限于圈内人的; adj. 秘传的; adj. 难懂的",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "i",
+                "o",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "A new report in the journal Global Change Biology says the ______ of the Galapagos Islands has changed forever.",
+            "choices": [
+                "palpable",
+                "nothing if not",
+                "ecosystem",
+                "hail",
+                "stifle"
+            ],
+            "chn": "(VOA : special.2009.12.16)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"It is funny to watch the situation today,20 years later, when we basically have the same ______ toward our present politicians and see them as jerks,basically,\"",
+            "choices": [
+                "blueprint",
+                "anathema",
+                "limitation",
+                "disregard",
+                "hail"
+            ],
+            "chn": "(VOA : standard.2009.11.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "We're going to temporarily get off of this more ______ stuff, and go back to Python.",
+            "choices": [
+                "transmogrify",
+                "esoteric",
+                "deprivation",
+                "coherence",
+                "cede"
+            ],
+            "chn": "我们先抛开这些神秘的东西,让我们回到Pyton语言上来。(计算机科学及编程导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "A little later of course she, this nouvelle, this Lolita, my Lolita, was to eclipse completely her ______.",
+            "choices": [
+                "dismal",
+                "transmogrify",
+                "prototype",
+                "ascribe",
+                "cede"
+            ],
+            "chn": "当然片刻之后她，这个洛丽塔，我的洛丽塔，便要彻底遮蔽她天体的原色。(1945年后的美国小说课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "93"
+}

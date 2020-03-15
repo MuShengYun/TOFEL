@@ -1,0 +1,122 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "n. 激情; vi. 射击; n. 火灾",
+            "choices": [
+                "e",
+                "f",
+                "i",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 象; n. 大号图画纸",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "h",
+                "l",
+                "n",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 表示问候， 惊奇或唤起注意时的用语; int. 哈罗; int. 喂",
+            "choices": [
+                "e",
+                "h",
+                "l",
+                "l",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 狮子; n. 勇猛的人; n. 名人",
+            "choices": [
+                "i",
+                "l",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 测试; vt. 试验; n. 试验",
+            "choices": [
+                "e",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "He rode that mountain ______ all the way to the camp of the Hell's Gate Gang.",
+            "choices": [
+                "elephant",
+                "lion",
+                "tiger",
+                "hello",
+                "cyber"
+            ],
+            "chn": "(VOA : special.2009.11.28)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So if you haven't already, just glance at the person next to you, or say ______ if you don't know them.",
+            "choices": [
+                "world",
+                "hello",
+                "tiger",
+                "fibre",
+                "test"
+            ],
+            "chn": "如果你还没有做好，那就看看你旁边的人,如果你不认识他们就跟他们打个招呼。(计算机科学课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "You've got the model solutions, and there will be a ______ in recitation on Tuesday the 14th based upon that homework.",
+            "choices": [
+                "world",
+                "lion",
+                "test",
+                "elephant",
+                "fibre"
+            ],
+            "chn": "你们也有参考答案，在周二的背诵课上会有个测试,就是14号，基于你们的家庭作业。(固态化学导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Or whether they have just had enough and they don't like the restrictions, and they don't like the ______ attacks, and they're going to move out so as to preserve their name and brand.\"",
+            "choices": [
+                "tiger",
+                "fire",
+                "world",
+                "hello",
+                "cyber"
+            ],
+            "chn": "(VOA : special.2010.01.15)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Then the seesaw will balance, even if you put a potato on one side and an ______ on the other side.",
+            "choices": [
+                "cyber",
+                "hello",
+                "fire",
+                "test",
+                "elephant"
+            ],
+            "chn": "那即使你一边放个土豆,一边放头大象,那跷跷板也会平衡(基础物理课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "127"
+}

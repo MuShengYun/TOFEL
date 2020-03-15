@@ -1,0 +1,315 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "bacteria",
+            "choices": [
+                "n. [微] 细菌",
+                "n. 功课",
+                "vi. 快速移动",
+                "n. 通两种语言的人",
+                "n. 枪管，炮管",
+                "vi. 轮到击球",
+                "n. 资本主义",
+                "adj. 奇异的（指态度，容貌，款式等）"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "carrier",
+            "choices": [
+                "n. 货架",
+                "n. 生物多样性",
+                "adj. 身体的",
+                "vt. 捆",
+                "n. 运送者",
+                "n. 带菌者",
+                "v. 颠簸着行进",
+                "n. [化学] 载体"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "assert",
+            "choices": [
+                "vt. 括在一起",
+                "vt. 声称",
+                "vt. 维护，坚持",
+                "n. 候选人，候补者",
+                "vi. 发出气泡声",
+                "vt. 把…归入同一类",
+                "vt. 主张",
+                "vt. 断言"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "barrel",
+            "choices": [
+                "n. 只选某党全部候选人的投票",
+                "n. 生物多样性",
+                "vi. 快速移动",
+                "n. 桶",
+                "n. 枪管，炮管",
+                "n. 带菌者",
+                "vt. 使…模糊",
+                "vt. 把……装入桶内"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bundle",
+            "choices": [
+                "n. 束",
+                "n. 突然巨响",
+                "n. 拍卖",
+                "n. 捆",
+                "vt. 捆",
+                "n. 大多数，大部分",
+                "n. 额外津贴",
+                "vi. 匆忙离开"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 拍卖; vt. 拍卖; vt. 竞卖",
+            "choices": [
+                "broadly",
+                "calculation",
+                "auction",
+                "calculator",
+                "bonus"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 重击; adv. 突然巨响地; vt. 重击",
+            "choices": [
+                "calculus",
+                "bang",
+                "bonus",
+                "bat",
+                "bilingual"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 检查和删节; n. 信件检查员; n. 检查员",
+            "choices": [
+                "calculation",
+                "capillary",
+                "audit",
+                "censor",
+                "auction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 形势; n. 方向; n. 方面",
+            "choices": [
+                "aspect",
+                "bulk",
+                "biodiversity",
+                "calculator",
+                "atom"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. [数] 二进制的; adj. 二元的，二态的",
+            "choices": [
+                "binary",
+                "cheer",
+                "carrier",
+                "bubble",
+                "calculus"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": one that calculates: such as",
+            "choices": [
+                "calculation",
+                "bucket",
+                "basin",
+                "carrier",
+                "calculator"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a minute thin-walled vessel of the body",
+            "choices": [
+                "barrel",
+                "beam",
+                "authority",
+                "capillary",
+                "bucket"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": any of three fixed lines of reference in an aircraft that run in the longitudinal, lateral, and vertical directions, are mutually perpendicular, and usually pass through the aircraft's center of gravity",
+            "choices": [
+                "bundle",
+                "axis",
+                "cattle",
+                "capitalist",
+                "assignment"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a method of computation or calculation in a special notation (as of logic or symbolic logic)",
+            "choices": [
+                "behavioral",
+                "cheer",
+                "athletic",
+                "calculus",
+                "bundle"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to become confused or abstracted",
+            "choices": [
+                "bodily",
+                "bizarre",
+                "breakdown",
+                "blank",
+                "behavioral"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 装配; n. 集会，集合; n. 汇编，编译",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "l",
+                "m",
+                "s",
+                "s",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 断言; vt. 维护，坚持; vt. 主张",
+            "choices": [
+                "a",
+                "e",
+                "r",
+                "s",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 额外津贴; n. 红利; n. 奖金",
+            "choices": [
+                "b",
+                "n",
+                "o",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 运动的，运动员的; adj. 体格健壮的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "h",
+                "i",
+                "l",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 桶; n. 枪管，炮管; vi. 快速移动",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "l",
+                "r",
+                "r"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "So,first of all, let me ______ my firm belief that the only thing we have to fear is fear itself-- nameless,unreasoning,unjustified terror which paralyzes needed efforts to convert retreat into advance.\"",
+            "choices": [
+                "autonomy",
+                "assert",
+                "auction",
+                "bodily",
+                "authority"
+            ],
+            "chn": "(VOA : special.2011.03.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "At the February 14th ______, Treasury bills were-- sixty-day treasury bills were sold and the ______ price is given.",
+            "choices": [
+                "basin",
+                "auction",
+                "bulk",
+                "audio",
+                "aspect"
+            ],
+            "chn": "在2月14日的拍卖中,卖出了60天期国库券期,这里给出了拍卖价格(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It's a definition. It's an ______.",
+            "choices": [
+                "axiom",
+                "bleed",
+                "capitalist",
+                "campus",
+                "bizarre"
+            ],
+            "chn": "是一个定义，是一个原理。(计算机科学及编程导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The ones that are most important in physiology are ones that only allow ions to go through: sodium, potassium, chloride, ______, bicarbonate.",
+            "choices": [
+                "binary",
+                "assignment",
+                "autonomy",
+                "bat",
+                "calcium"
+            ],
+            "chn": "在生理学上这种,只能允许某种离子通过的通道十分重要,这些离子包括钠离子,钾离子,氯离子,钙离子和碳酸氢根离子(生物医学工程探索课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Internet users can download transcripts and ______ archives of our programs at voaspecialenglish.com.",
+            "choices": [
+                "barrel",
+                "assembly",
+                "biodiversity",
+                "audio",
+                "bang"
+            ],
+            "chn": "(VOA : special.2009.01.27)"
+        }
+    ],
+    "quiz_id": "200"
+}

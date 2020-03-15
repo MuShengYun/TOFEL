@@ -1,0 +1,2050 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "amino",
+            "choices": [
+                "vt. 使坐落于",
+                "vi. 清楚地讲话",
+                "adj. 氨基的",
+                "n. [计][数] 算法，运算法则",
+                "n. 反对者，反对论者",
+                "n. [化学] 氨基",
+                "n. (英、意、印尼)阿米诺",
+                "vt. 打扮"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "approximate",
+            "choices": [
+                "vi. 接近于",
+                "vi. 近似于",
+                "vt. 使…接近",
+                "vt. 近似",
+                "adj. [数] 近似的",
+                "vt. 粗略估计",
+                "n. [计][数] 算法，运算法则",
+                "adj. 大概的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "admission",
+            "choices": [
+                "n. 坦白",
+                "n. 入场费",
+                "n. 附录",
+                "n. 承认",
+                "n. 始祖，祖先",
+                "n. 进入许可",
+                "n. 录用",
+                "n. 手工艺品"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "antibody",
+            "choices": [
+                "vt. 强调",
+                "n. 附加物",
+                "n. [计][数] 算法，运算法则",
+                "vi. 促进",
+                "vt. 让渡，转让",
+                "vt. 理解",
+                "n. 适应",
+                "n. [免疫] 抗体"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "antibiotic",
+            "choices": [
+                "n. 振幅",
+                "n. 手工艺品",
+                "vt. 使相互连贯",
+                "adj. 抗生的",
+                "adj. 抗菌的",
+                "n. 抗生素，抗菌素",
+                "n. (意)安蒂",
+                "n. 联盟，联合"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "acid",
+            "choices": [
+                "n. 酸",
+                "n. <俚>迷幻药",
+                "adj. 刻薄的",
+                "n. 手工艺品",
+                "adj. 人造的",
+                "adj. 邻近的，毗连的",
+                "adj. 讽刺的",
+                "adj. 酸的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "adverse",
+            "choices": [
+                "n. 振幅",
+                "n. 反对者，反对论者",
+                "adj. 敌对的（名词adverseness，副词adversely）",
+                "adj. 相反的",
+                "n. 适应",
+                "n. (法)阿利安",
+                "adj. 不利的",
+                "adj. 艺术的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "absorb",
+            "choices": [
+                "vt. 承受",
+                "vt. 吸引",
+                "n. 人工制品",
+                "vt. 吸收",
+                "adj. 反对的",
+                "adj. 口才好的",
+                "vt. 理解",
+                "vt. 使…全神贯注"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "activate",
+            "choices": [
+                "n. 海拔",
+                "vt. 使产生放射性",
+                "vi. 有活力",
+                "vt. 使活泼",
+                "vt. 刺激",
+                "n. 类比",
+                "vt. 使活动",
+                "vi. 激活"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "accent",
+            "choices": [
+                "vt. 带…口音讲话",
+                "n. 强调",
+                "n. 农业生产",
+                "n. 特点",
+                "n. 重音",
+                "vt. 强调",
+                "n. 口音",
+                "vt. 重读"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "affirm",
+            "choices": [
+                "vt. 断言",
+                "n. [免疫] 抗体",
+                "n. 外星人",
+                "vi. 确认",
+                "n. [计][数] 算法，运算法则",
+                "vt. 肯定",
+                "vi. 累积",
+                "vi. 断言"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "algorithm",
+            "choices": [
+                "n. 飞机",
+                "n. [计][数] 算法，运算法则",
+                "n. 进入许可",
+                "adj. 外国的",
+                "vi. 激活",
+                "n. 古代的遗物",
+                "n. 青少年",
+                "vt. 使……加快"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "anti",
+            "choices": [
+                "n. (意)安蒂",
+                "n. (阿拉伯)安提",
+                "n. 反对者，反对论者",
+                "adj. 敏锐的",
+                "adj. 反对的",
+                "adj. 抗生的",
+                "n. 鼓掌欢迎",
+                "vi. 累积"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "aesthetic",
+            "choices": [
+                "n. 广阔",
+                "adj. 美学的",
+                "adj. 审美的，具有审美趣味的",
+                "vt. 近似",
+                "adj. 美的",
+                "vt. 使……增速",
+                "vt. 使活泼",
+                "n. 古代的遗物"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "alien",
+            "choices": [
+                "n. 外国人，外侨",
+                "n. 外星人",
+                "adj. 不相容的",
+                "vt. 明确有力地表达",
+                "adj. 外国的",
+                "adj. 相异的，性质不同的",
+                "vt. 让渡，转让",
+                "n. (法)阿利安"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "afterward",
+            "choices": [
+                "prep. 在…之中",
+                "adv. 以后，后来",
+                "n. 农艺，农学",
+                "n. 代数学",
+                "vt. 重读",
+                "vi. 累积",
+                "n. <俚>迷幻药",
+                "prep. 在…当中（等于among）"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "artificial",
+            "choices": [
+                "adj. 虚伪的",
+                "adj. 仿造的",
+                "n. [数] 顶垂线",
+                "adj. 武断的",
+                "adj. 反对的",
+                "adj. 非原产地的",
+                "adj. 人造的",
+                "n. 铝"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "arrow",
+            "choices": [
+                "n. (英)阿罗",
+                "n. 广阔",
+                "n. （等级和地位等的）高级",
+                "vt. 箭一般地飞向",
+                "vt. 以箭头指示",
+                "n. 箭头记号",
+                "n. 箭状物",
+                "n. 箭，箭头"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "aluminum",
+            "choices": [
+                "adj. [数] 任意的",
+                "n. 抗生素，抗菌素",
+                "adj. 邻近的，毗连的",
+                "n. [免疫] 抗体",
+                "n. 铝",
+                "adj. 邻近的，毗连的",
+                "vt. 拨出",
+                "vt. 用关节连接"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ancestor",
+            "choices": [
+                "adj. 有关节的",
+                "n. 始祖，祖先",
+                "n. 高龄",
+                "n. 类推",
+                "n. 被继承人",
+                "n. 类似",
+                "vt. 吸收",
+                "n. 人工制品"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "array",
+            "choices": [
+                "n. 手工艺品",
+                "n. 衣服",
+                "n. 排列，列阵",
+                "vt. 打扮",
+                "n. 数组，阵列",
+                "vt. 排列，部署",
+                "n. 大批，一系列",
+                "adj. 未成熟的"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "allocate",
+            "choices": [
+                "vt. 使坐落于",
+                "n. 手工艺品",
+                "vi. 指定",
+                "vt. 分配",
+                "n. 海拔",
+                "vt. 使活泼",
+                "vt. 拨出",
+                "vi. 分配"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "applause",
+            "choices": [
+                "vt. 使产生放射性",
+                "n. 鼓掌欢迎",
+                "n. 欢呼，喝采",
+                "vt. 使产生放射性",
+                "vt. 使坐落于",
+                "adj. 合计的",
+                "vt. 吸收",
+                "n. 代数学"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "aggregate",
+            "choices": [
+                "n. 合计",
+                "n. [计][数] 算法，运算法则",
+                "adj. 合计的",
+                "vi. 集合",
+                "adj. 集合的",
+                "vt. 合计",
+                "vt. 聚集",
+                "adj. 聚合的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "articulate",
+            "choices": [
+                "vi. 用关节连接起来",
+                "vt. 明确有力地表达",
+                "adj. 相反的",
+                "adj. 口才好的",
+                "adj. 发音清晰的",
+                "vt. 清晰地发（音）",
+                "adj. 有关节的",
+                "n. 【动物学】有节体的动物"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "accumulate",
+            "choices": [
+                "vi. 积聚",
+                "n. 农耕",
+                "vi. 累积",
+                "vt. 使……增速",
+                "n. 古代的遗物",
+                "n. 联盟，联合",
+                "vt. 积攒",
+                "vi. 合计"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "artifact",
+            "choices": [
+                "adj. 腹部的",
+                "n. 人工制品",
+                "n. （等级和地位等的）高级",
+                "vi. 积聚",
+                "adj. 有腹鳍的",
+                "prep. 在…当中（等于among）",
+                "n. (英)阿罗",
+                "n. 手工艺品"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "adjacent",
+            "choices": [
+                "adj. [数] 任意的",
+                "n. [计][数] 算法，运算法则",
+                "adj. 邻近的，毗连的",
+                "adj. 武断的",
+                "adj. 大概的",
+                "n. 喷雾器",
+                "n. [数] 精确度，准确性",
+                "prep. 在…当中（等于among）"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "acute",
+            "choices": [
+                "adj. 严重的，[医] 急性的",
+                "adj. 激烈的",
+                "n. 被继承人",
+                "adj. 敏锐的",
+                "adj. 专制的",
+                "vt. 承受",
+                "adj. 尖声的",
+                "adj. 专制的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "antiquity",
+            "choices": [
+                "n. 古代的遗物",
+                "n. 类比",
+                "n. 人工制品",
+                "adj. 喷雾的",
+                "vt. 使活动",
+                "n. 高龄",
+                "n. 古物",
+                "adj. 美的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "adolescent",
+            "choices": [
+                "n. 改编",
+                "n. 青少年",
+                "adj. 未成熟的",
+                "n. 总计",
+                "adv. 以后，后来",
+                "vt. 承受",
+                "vt. 使…接近",
+                "adj. 青春期的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "amplitude",
+            "choices": [
+                "prep. 在…之中",
+                "vt. 使活泼",
+                "n. 振幅",
+                "n. 高度",
+                "vt. 拨出",
+                "n. 丰富，充足",
+                "n. 广阔",
+                "n. 飞机"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "artistic",
+            "choices": [
+                "n. <俚>迷幻药",
+                "adj. 相反的",
+                "adj. 艺术的",
+                "n. 抗生素，抗菌素",
+                "adj. 风雅的",
+                "adj. 有美感的",
+                "vt. 积攒",
+                "n. 特点"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "airplane",
+            "choices": [
+                "vt. 带…口音讲话",
+                "adj. 邻近的，毗连的",
+                "adj. 美学的",
+                "n. 飞机",
+                "n. 广阔",
+                "prep. 在…当中（等于among）",
+                "n. [物化] 气溶胶",
+                "adj. 美的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "accelerate",
+            "choices": [
+                "n. 欢呼，喝采",
+                "adj. 人造的",
+                "vt. 使……加快",
+                "vi. 加速",
+                "vt. 使……增速",
+                "vi. 增加",
+                "n. [数] 精确度，准确性",
+                "vi. 促进"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "agriculture",
+            "choices": [
+                "vt. 使活动",
+                "adj. 审美的，具有审美趣味的",
+                "n. 农业",
+                "n. 农耕",
+                "n. 铝",
+                "n. 农艺，农学",
+                "n. 欢呼，喝采",
+                "n. 农业生产"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "amongst",
+            "choices": [
+                "adj. 专制的",
+                "n. 青少年",
+                "prep. 在…当中（等于among）",
+                "adj. 美学的",
+                "adj. 不利的",
+                "n. 铝",
+                "adj. 虚伪的",
+                "prep. 在…之中"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "analogy",
+            "choices": [
+                "prep. 在…当中（等于among）",
+                "prep. 在…当中（等于among）",
+                "adj. 相反的",
+                "n. 类推",
+                "n. 类比",
+                "n. 类似",
+                "n. 始祖，祖先",
+                "vt. 集合"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "appendix",
+            "choices": [
+                "n. 附加物",
+                "n. 附录",
+                "n. 联姻",
+                "adj. 武断的",
+                "adj. 讽刺的",
+                "n. [数] 精确度，准确性",
+                "adj. 审美的，具有审美趣味的",
+                "n. 阑尾"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "alliance",
+            "choices": [
+                "n. 联姻",
+                "vt. 排列，部署",
+                "n. 联盟，联合",
+                "n. 农艺，农学",
+                "vi. 合计",
+                "n. 始祖，祖先",
+                "adj. 反对的",
+                "n. 广阔"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "adaptation",
+            "choices": [
+                "vt. 打扮",
+                "n. 广阔",
+                "n. 改编",
+                "n. 改编本，改写本",
+                "adj. 有腹鳍的",
+                "n. [计][数] 算法，运算法则",
+                "vt. 使…全神贯注",
+                "n. 适应"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "accuracy",
+            "choices": [
+                "n. 录用",
+                "adj. 大概的",
+                "adj. 专制的",
+                "adj. 邻近的，毗连的",
+                "n. [数] 精确度，准确性",
+                "n. 手工艺品",
+                "vi. 有活力",
+                "vt. 重读"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "altitude",
+            "choices": [
+                "n. 海拔",
+                "adj. 风雅的",
+                "vi. 接近于",
+                "n. [数] 顶垂线",
+                "n. （等级和地位等的）高级",
+                "n. 高度",
+                "n. 高地",
+                "adj. 邻近的，毗连的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "abdominal",
+            "choices": [
+                "n. 类推",
+                "adj. 敌对的（名词adverseness，副词adversely）",
+                "n. 浮质",
+                "adj. 集合的",
+                "n. 人工制品",
+                "adj. 有腹鳍的",
+                "adj. 腹部的",
+                "adj. 美学的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "algebra",
+            "choices": [
+                "n. 类推",
+                "n. 代数学",
+                "adj. 武断的",
+                "n. 衣服",
+                "n. 古代的遗物",
+                "n. 气雾剂",
+                "adj. [数] 任意的",
+                "n. 坦白"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "aerosol",
+            "choices": [
+                "adj. 喷雾的",
+                "n. 浮质",
+                "n. 农艺，农学",
+                "n. 联姻",
+                "n. 喷雾器",
+                "n. 气雾剂",
+                "n. [物化] 气溶胶",
+                "adj. 喷雾器的"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "arbitrary",
+            "choices": [
+                "n. 铝",
+                "adj. 专制的",
+                "n. 被继承人",
+                "n. 进入许可",
+                "adj. [数] 任意的",
+                "adj. 武断的",
+                "prep. 在…当中（等于among）",
+                "n. 飞机"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 理解; vt. 吸收; vt. 使…全神贯注",
+            "choices": [
+                "absorb",
+                "accelerate",
+                "abdominal",
+                "approximate",
+                "accuracy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 虚伪的; adj. 武断的; adj. 人造的",
+            "choices": [
+                "artistic",
+                "architect",
+                "artificial",
+                "archaeology",
+                "appendix"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 始祖，祖先; n. 被继承人",
+            "choices": [
+                "ancestor",
+                "accelerate",
+                "accuracy",
+                "applause",
+                "adolescent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "prep. 在…之中; prep. 在…当中（等于among）",
+            "choices": [
+                "architect",
+                "amplitude",
+                "aggregate",
+                "amongst",
+                "adjacent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 代数学",
+            "choices": [
+                "algebra",
+                "architect",
+                "artificial",
+                "archaeology",
+                "acid"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 抗生素，抗菌素; adj. 抗生的; adj. 抗菌的",
+            "choices": [
+                "amongst",
+                "adolescent",
+                "airplane",
+                "antibiotic",
+                "artistic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 激活; vt. 使活动; vt. 刺激",
+            "choices": [
+                "approximate",
+                "applause",
+                "afterward",
+                "accumulate",
+                "activate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 飞机",
+            "choices": [
+                "airplane",
+                "allocate",
+                "array",
+                "antibiotic",
+                "approximate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 数组，阵列; n. 排列，列阵; vt. 排列，部署",
+            "choices": [
+                "array",
+                "architect",
+                "algebra",
+                "adverse",
+                "aggregate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使坐落于; vi. 指定; vt. 拨出",
+            "choices": [
+                "allocate",
+                "adverse",
+                "adjacent",
+                "activate",
+                "airplane"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [计][数] 算法，运算法则",
+            "choices": [
+                "algorithm",
+                "adjacent",
+                "adverse",
+                "amino",
+                "amplitude"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 反对者，反对论者; n. (阿拉伯)安提; adj. 反对的",
+            "choices": [
+                "anti",
+                "alien",
+                "abdominal",
+                "architect",
+                "artistic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 鼓掌欢迎; n. 欢呼，喝采",
+            "choices": [
+                "affirm",
+                "ancestor",
+                "arrow",
+                "adjacent",
+                "applause"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [数] 精确度，准确性",
+            "choices": [
+                "accuracy",
+                "artifact",
+                "amongst",
+                "acute",
+                "afterward"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 农艺，农学; n. 农业; n. 农耕",
+            "choices": [
+                "artistic",
+                "abdominal",
+                "arrow",
+                "agriculture",
+                "alien"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 外星人; adj. 不相容的; vt. 让渡，转让",
+            "choices": [
+                "afterward",
+                "alien",
+                "allocate",
+                "affirm",
+                "algebra"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 酸; adj. 刻薄的; adj. 酸的",
+            "choices": [
+                "acid",
+                "arrow",
+                "algebra",
+                "archaeology",
+                "approximate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使…接近; vi. 接近于; vt. 近似",
+            "choices": [
+                "accuracy",
+                "aesthetic",
+                "approximate",
+                "affirm",
+                "arrow"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 以箭头指示; n. 箭，箭头; n. 箭头记号",
+            "choices": [
+                "agriculture",
+                "affirm",
+                "aluminum",
+                "aesthetic",
+                "arrow"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 强调; n. 特点; vt. 重读",
+            "choices": [
+                "airplane",
+                "amongst",
+                "antiquity",
+                "accent",
+                "artificial"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [化学] 氨基; adj. 氨基的; n. (英、意、印尼)阿米诺",
+            "choices": [
+                "antiquity",
+                "amino",
+                "absorb",
+                "accuracy",
+                "algorithm"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 断言; vt. 肯定; vt. 断言",
+            "choices": [
+                "aesthetic",
+                "abdominal",
+                "artifact",
+                "afterward",
+                "affirm"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 适应; n. 改编本，改写本; n. 改编",
+            "choices": [
+                "amino",
+                "accelerate",
+                "array",
+                "adaptation",
+                "afterward"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 附加物; n. 阑尾; n. 附录",
+            "choices": [
+                "acid",
+                "affirm",
+                "anthropology",
+                "appendix",
+                "antibiotic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 铝",
+            "choices": [
+                "adverse",
+                "aluminum",
+                "analogy",
+                "amplitude",
+                "algorithm"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 坦白; n. 进入许可; n. 入场费",
+            "choices": [
+                "alliance",
+                "antiquity",
+                "admission",
+                "analogy",
+                "adaptation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使……增速; vi. 促进; vt. 使……加快",
+            "choices": [
+                "accelerate",
+                "ancestor",
+                "aerosol",
+                "amongst",
+                "articulate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 手工艺品; n. 人工制品",
+            "choices": [
+                "allocate",
+                "algebra",
+                "anthropology",
+                "artifact",
+                "archaeology"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 激烈的; adj. 严重的，[医] 急性的; adj. 敏锐的",
+            "choices": [
+                "amongst",
+                "accuracy",
+                "aesthetic",
+                "acute",
+                "affirm"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 邻近的，毗连的",
+            "choices": [
+                "analogy",
+                "amongst",
+                "accelerate",
+                "archaeology",
+                "adjacent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 以后，后来",
+            "choices": [
+                "aerosol",
+                "afterward",
+                "agriculture",
+                "adjacent",
+                "antibiotic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 海拔; n. [数] 顶垂线; n. （等级和地位等的）高级",
+            "choices": [
+                "adolescent",
+                "afterward",
+                "algebra",
+                "affirm",
+                "altitude"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 明确有力地表达; adj. 发音清晰的; adj. 有关节的",
+            "choices": [
+                "articulate",
+                "anti",
+                "acute",
+                "aluminum",
+                "affirm"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 高龄; n. 古物; n. 古代的遗物",
+            "choices": [
+                "adverse",
+                "alien",
+                "affirm",
+                "antiquity",
+                "allocate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 集合的; adj. 合计的; vt. 合计",
+            "choices": [
+                "aggregate",
+                "airplane",
+                "algorithm",
+                "architect",
+                "appendix"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 艺术的; adj. 有美感的; adj. 风雅的",
+            "choices": [
+                "antiquity",
+                "amplitude",
+                "artistic",
+                "ancestor",
+                "artifact"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 气雾剂; n. [物化] 气溶胶; adj. 喷雾的",
+            "choices": [
+                "adverse",
+                "aerosol",
+                "algorithm",
+                "accent",
+                "accumulate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 武断的; adj. 专制的; adj. [数] 任意的",
+            "choices": [
+                "adjacent",
+                "accelerate",
+                "arbitrary",
+                "allocate",
+                "aluminum"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 敌对的（名词ness，副词ly）; adj. 相反的; adj. 不利的",
+            "choices": [
+                "adverse",
+                "artifact",
+                "activate",
+                "admission",
+                "analogy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 青春期的; adj. 未成熟的; n. 青少年",
+            "choices": [
+                "adolescent",
+                "allocate",
+                "anti",
+                "antibody",
+                "articulate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 振幅; n. 广阔; n. 丰富，充足",
+            "choices": [
+                "alliance",
+                "algebra",
+                "antiquity",
+                "adjacent",
+                "amplitude"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 累积; vt. 积攒; vi. 积聚",
+            "choices": [
+                "accumulate",
+                "aluminum",
+                "artistic",
+                "architect",
+                "algebra"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 类似; n. 类比; n. 类推",
+            "choices": [
+                "analogy",
+                "allocate",
+                "amongst",
+                "articulate",
+                "admission"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 审美的，具有审美趣味的; adj. 美的; adj. 美学的",
+            "choices": [
+                "aluminum",
+                "anthropology",
+                "alliance",
+                "aesthetic",
+                "accuracy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有腹鳍的; adj. 腹部的",
+            "choices": [
+                "ancestor",
+                "amino",
+                "accuracy",
+                "allocate",
+                "abdominal"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 联盟，联合; n. 联姻",
+            "choices": [
+                "alliance",
+                "absorb",
+                "admission",
+                "applause",
+                "antibody"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [免疫] 抗体",
+            "choices": [
+                "articulate",
+                "antibody",
+                "altitude",
+                "admission",
+                "acid"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 敌对的（名词adverseness，副词adversely）; adj. 不利的; adj. 相反的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "r",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 农业生产; n. 农业; n. 农耕",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "g",
+                "i",
+                "l",
+                "r",
+                "r",
+                "t",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使…全神贯注; vt. 吸引; vt. 吸收",
+            "choices": [
+                "a",
+                "b",
+                "b",
+                "o",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有腹鳍的; adj. 腹部的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "d",
+                "i",
+                "l",
+                "m",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 人工制品; n. 手工艺品",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "f",
+                "i",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 阑尾; n. 附录; n. 附加物",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "n",
+                "p",
+                "p",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 加速; vt. 使……增速; vi. 增加",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "c",
+                "e",
+                "e",
+                "e",
+                "l",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 广阔; n. 丰富，充足; n. 振幅",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "l",
+                "m",
+                "p",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使坐落于; vi. 指定; vi. 分配",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "e",
+                "l",
+                "l",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 飞机",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "i",
+                "l",
+                "n",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 武断的; adj. 专制的; adj. [数] 任意的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "i",
+                "r",
+                "r",
+                "r",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 高地; n. 高度; n. （等级和地位等的）高级",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "l",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 带…口音讲话; n. 特点; vt. 强调",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 敏锐的; adj. 尖声的; adj. 激烈的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 刺激; vt. 使产生放射性; vt. 使活动",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "e",
+                "i",
+                "t",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 美学的; adj. 审美的，具有审美趣味的; adj. 美的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "e",
+                "h",
+                "i",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 聚集; vt. 合计; vt. 聚集",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "e",
+                "g",
+                "g",
+                "g",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 喷雾器; n. 浮质; adj. 喷雾器的",
+            "choices": [
+                "a",
+                "e",
+                "l",
+                "o",
+                "o",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 联盟，联合; n. 联姻",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "e",
+                "i",
+                "l",
+                "l",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 坦白; n. 录用; n. 入场费",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "i",
+                "m",
+                "n",
+                "o",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [数] 精确度，准确性",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "c",
+                "c",
+                "r",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 代数学",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "e",
+                "g",
+                "l",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 未成熟的; n. 青少年; adj. 青春期的",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "e",
+                "l",
+                "n",
+                "o",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 艺术的; adj. 有美感的; adj. 风雅的",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "i",
+                "r",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 箭状物; n. 箭头记号; n. (英)阿罗",
+            "choices": [
+                "a",
+                "o",
+                "r",
+                "r",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 邻近的，毗连的",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "d",
+                "e",
+                "j",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. (阿拉伯)安提; adj. 反对的; n. 反对者，反对论者",
+            "choices": [
+                "a",
+                "i",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 欢呼，喝采; n. 鼓掌欢迎",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "l",
+                "p",
+                "p",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 高龄; n. 古物; n. 古代的遗物",
+            "choices": [
+                "a",
+                "i",
+                "i",
+                "n",
+                "q",
+                "t",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 铝",
+            "choices": [
+                "a",
+                "i",
+                "l",
+                "m",
+                "m",
+                "n",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 打扮; vt. 排列，部署; n. 衣服",
+            "choices": [
+                "a",
+                "a",
+                "r",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 抗生的; n. 抗生素，抗菌素; adj. 抗菌的",
+            "choices": [
+                "a",
+                "b",
+                "c",
+                "i",
+                "i",
+                "i",
+                "n",
+                "o",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 类推; n. 类似; n. 类比",
+            "choices": [
+                "a",
+                "a",
+                "g",
+                "l",
+                "n",
+                "o",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 让渡，转让; n. 外国人，外侨; adj. 不相容的",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "l",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [免疫] 抗体",
+            "choices": [
+                "a",
+                "b",
+                "d",
+                "i",
+                "n",
+                "o",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 肯定; vt. 断言; vi. 断言",
+            "choices": [
+                "a",
+                "f",
+                "f",
+                "i",
+                "m",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [计][数] 算法，运算法则",
+            "choices": [
+                "a",
+                "g",
+                "h",
+                "i",
+                "l",
+                "m",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 刻薄的; n. 酸; adj. 酸的",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "i"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使…接近; adj. [数] 近似的; vt. 近似",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "i",
+                "m",
+                "o",
+                "p",
+                "p",
+                "r",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 始祖，祖先; n. 被继承人",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "n",
+                "o",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 仿造的; adj. 虚伪的; adj. 人造的",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "f",
+                "i",
+                "i",
+                "i",
+                "l",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "prep. 在…之中; prep. 在…当中（等于among）",
+            "choices": [
+                "a",
+                "g",
+                "m",
+                "n",
+                "o",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 氨基的; n. (英、意、印尼)阿米诺; n. [化学] 氨基",
+            "choices": [
+                "a",
+                "i",
+                "m",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 积聚; vt. 积攒; vi. 累积",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "c",
+                "e",
+                "l",
+                "m",
+                "t",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 以后，后来",
+            "choices": [
+                "a",
+                "a",
+                "d",
+                "e",
+                "f",
+                "r",
+                "r",
+                "t",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 发音清晰的; adj. 有关节的; vi. 清楚地讲话",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "e",
+                "i",
+                "l",
+                "r",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 改编; n. 改编本，改写本; n. 适应",
+            "choices": [
+                "a",
+                "a",
+                "a",
+                "d",
+                "i",
+                "n",
+                "o",
+                "p",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "\"They turned this fort into a camp for Germans and German ______ citizens, German nationals and Japanese and Japanese-American citizens, and some other nationalities.\"",
+            "choices": [
+                "archaeology",
+                "accelerate",
+                "alien",
+                "articulate",
+                "aerosol"
+            ],
+            "chn": "(VOA : standard.2010.06.22)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Some applicants contact many. An important part of the application usually is the Medical College ______ Test, or MCAT.",
+            "choices": [
+                "algorithm",
+                "antiquity",
+                "afterward",
+                "agriculture",
+                "admission"
+            ],
+            "chn": "(VOA : special.2010.07.13)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And so when you can find an ______ that very comfortably dates the site to the appropriate period, that's exciting for an archeologist.\"",
+            "choices": [
+                "artifact",
+                "accent",
+                "appendix",
+                "aesthetic",
+                "adaptation"
+            ],
+            "chn": "(VOA : special.2011.07.26)"
+        },
+        {
+            "cate": "choice",
+            "problem": "How can it ______ the rules of a language from within and thus give rise to the designs which are properly own--its own?\"",
+            "choices": [
+                "adjacent",
+                "alien",
+                "altitude",
+                "acid",
+                "activate"
+            ],
+            "chn": "它又是如何使语言的规则发生作用,并且导致适当的属于自己的设计的？，“(文学理论导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "He even said the South had good reason to leave the Union, if northern Abolitionists continued their ______-slavery campaign.",
+            "choices": [
+                "absorb",
+                "algorithm",
+                "anti",
+                "admission",
+                "amplitude"
+            ],
+            "chn": "(VOA : special.2009.05.07)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Here I paused in my fiction to shield my eyes and stanch the ______-straight tracks clawed down my cheek.",
+            "choices": [
+                "altitude",
+                "artifact",
+                "accuracy",
+                "arrow",
+                "airplane"
+            ],
+            "chn": "飞箭在我脸上笔直地犁出了一条伤口，我停止了幻想,遮住眼睛，赶忙去止血。(1945年后的美国小说课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So there will be--just I can have ______ hearts, ______ limbs, ______ brains which will get imprinted with the same personality.",
+            "choices": [
+                "airplane",
+                "accent",
+                "antibiotic",
+                "artificial",
+                "anthropology"
+            ],
+            "chn": "我可以装上,人工心脏，人工四肢，人工大脑,在大脑里装入,同样的人格。(死亡课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "You go on an ______ and then after the usual delays, the plane begins to accelerate down the runway.",
+            "choices": [
+                "acute",
+                "accumulate",
+                "algorithm",
+                "airplane",
+                "arbitrary"
+            ],
+            "chn": "你坐上飞机,正常晚点之后,飞机就开始沿着跑道加速(基础物理课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "______,he returned to college and graduated from Oberlin College in Ohio.",
+            "choices": [
+                "antibiotic",
+                "amplitude",
+                "artistic",
+                "afterward",
+                "affirm"
+            ],
+            "chn": "(VOA : special.2009.11.01)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Max is a 10-year old boy with autism. Recently,his mother called on US lawmakers to ______ more funds to find the cause and a cure.",
+            "choices": [
+                "acute",
+                "analogy",
+                "altitude",
+                "allocate",
+                "adaptation"
+            ],
+            "chn": "(VOA : standard.2010.08.09)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"There is no stronger democratic ally in this region than Israel and we're here to reconfirm and ______ that.\"",
+            "choices": [
+                "affirm",
+                "amplitude",
+                "approximate",
+                "analogy",
+                "adjacent"
+            ],
+            "chn": "(VOA : standard.2009.08.06)"
+        },
+        {
+            "cate": "choice",
+            "problem": "More than forty percent of Americans have an ______ who passed through Ellis Island.",
+            "choices": [
+                "algorithm",
+                "arbitrary",
+                "alien",
+                "absorb",
+                "ancestor"
+            ],
+            "chn": "(VOA : special.2009.06.29)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But there is ample room for increasing revenue intake...India's ______ sector for example, remains largely untaxed.",
+            "choices": [
+                "alien",
+                "agriculture",
+                "archaeology",
+                "absorb",
+                "array"
+            ],
+            "chn": "但还有足够的空间,提升政府的收入，比如说,印度的农业，大都不征税。(国际座谈会课程节选 : 普林斯顿公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It can increase the risk of ______ resistance and serious kinds of diarrhea.",
+            "choices": [
+                "analogy",
+                "adjacent",
+                "afterward",
+                "antibiotic",
+                "adaptation"
+            ],
+            "chn": "(VOA : special.2010.05.25)"
+        }
+    ],
+    "quiz_id": "29"
+}

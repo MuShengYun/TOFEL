@@ -1,0 +1,275 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "adverse",
+            "choices": [
+                "n. 鼓掌欢迎",
+                "adj. 青春期的",
+                "adj. 虚伪的",
+                "adj. 不利的",
+                "adj. 相反的",
+                "adj. 敌对的（名词adverseness，副词adversely）",
+                "n. 手工艺品",
+                "n. 附加物"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "amplitude",
+            "choices": [
+                "n. 振幅",
+                "adj. 喷雾器的",
+                "n. 鼓掌欢迎",
+                "n. 丰富，充足",
+                "n. 广阔",
+                "vt. 让渡，转让",
+                "vt. 打扮",
+                "n. 飞机"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "acute",
+            "choices": [
+                "adj. 严重的，[医] 急性的",
+                "adj. 激烈的",
+                "adj. 尖声的",
+                "n. 承认",
+                "n. 联姻",
+                "n. (英)阿罗",
+                "n. 始祖，祖先",
+                "adj. 敏锐的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "applause",
+            "choices": [
+                "vi. 确认",
+                "n. [免疫] 抗体",
+                "n. 外星人",
+                "n. 欢呼，喝采",
+                "vt. 肯定",
+                "vt. 箭一般地飞向",
+                "adj. 大概的",
+                "n. 鼓掌欢迎"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "amongst",
+            "choices": [
+                "n. 类似",
+                "adj. 腹部的",
+                "prep. 在…当中（等于among）",
+                "prep. 在…之中",
+                "n. 衣服",
+                "adj. 风雅的",
+                "vt. 断言",
+                "vt. 使坐落于"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 古代的遗物; n. 高龄; n. 古物",
+            "choices": [
+                "antibiotic",
+                "accuracy",
+                "antiquity",
+                "airplane",
+                "anthropology"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 武断的; adj. 仿造的; adj. 非原产地的",
+            "choices": [
+                "artificial",
+                "adolescent",
+                "algebra",
+                "artifact",
+                "airplane"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "prep. 在…当中（等于among）; prep. 在…之中",
+            "choices": [
+                "antiquity",
+                "aerosol",
+                "airplane",
+                "amongst",
+                "aesthetic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 近似于; vt. 使…接近; vt. 近似",
+            "choices": [
+                "approximate",
+                "applause",
+                "arrow",
+                "articulate",
+                "afterward"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [化学] 氨基; n. (英、意、印尼)阿米诺; adj. 氨基的",
+            "choices": [
+                "analogy",
+                "antibody",
+                "amino",
+                "agriculture",
+                "alliance"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "prep. 在…之中; prep. 在…当中（等于among）",
+            "choices": [
+                "a",
+                "g",
+                "m",
+                "n",
+                "o",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 农耕; n. 农艺，农学; n. 农业生产",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "g",
+                "i",
+                "l",
+                "r",
+                "r",
+                "t",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. [数] 近似的; vi. 近似于; vi. 接近于",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "i",
+                "m",
+                "o",
+                "p",
+                "p",
+                "r",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 适应; n. 改编本，改写本; n. 改编",
+            "choices": [
+                "a",
+                "a",
+                "a",
+                "d",
+                "i",
+                "n",
+                "o",
+                "p",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 聚集; n. 总计; vt. 聚集",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "e",
+                "g",
+                "g",
+                "g",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "They're derived from a precursor called triacylglyceride, which is as glycerol molecule with three fatty ______ chains dangling off of it.",
+            "choices": [
+                "absorb",
+                "algebra",
+                "acid",
+                "antiquity",
+                "affirm"
+            ],
+            "chn": "它们来源于一种叫三酰甘油的前体,由甘油分子上连接了,三个脂肪酸链构成(生物医学工程探索课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "You might ask, well is this an ______ formula?",
+            "choices": [
+                "aesthetic",
+                "altitude",
+                "approximate",
+                "airplane",
+                "affirm"
+            ],
+            "chn": "你们可能会问,这是一个约等式吗(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "On March 11th, Dr. Urbani developed signs of severe ______ respiratory syndrome.",
+            "choices": [
+                "aggregate",
+                "absorb",
+                "architect",
+                "artificial",
+                "acute"
+            ],
+            "chn": "(VOA : special.2009.01.27)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The pastoral elegy is clearly one of the most stylized and most self-consciously ______ of all of the poetic genres.",
+            "choices": [
+                "aluminum",
+                "algebra",
+                "adjacent",
+                "artificial",
+                "ancestor"
+            ],
+            "chn": "田园挽歌明显是所有诗歌类型中,最程式化，最具人工雕琢痕迹的诗种之一。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"There's unequivocal relationship between use of antibiotics in animals and transmission of antibiotic-resistant bacteria causing ______ effects in humans.\"",
+            "choices": [
+                "accumulate",
+                "adverse",
+                "adolescent",
+                "analogy",
+                "array"
+            ],
+            "chn": "(VOA : standard.2010.07.21)"
+        }
+    ],
+    "quiz_id": "38"
+}

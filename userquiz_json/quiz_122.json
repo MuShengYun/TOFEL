@@ -1,0 +1,136 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "vt. 实施，执行; n. 手段; vt. 实现，使生效",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "l",
+                "m",
+                "m",
+                "n",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 相反的; adj. 敌对的（名词adverseness，副词adversely）; adj. 不利的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "r",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 存放; n. 订金; n. 押金",
+            "choices": [
+                "d",
+                "e",
+                "i",
+                "o",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 代替; vt. 排挤掉",
+            "choices": [
+                "a",
+                "l",
+                "n",
+                "p",
+                "p",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 渊博的; adj. 深厚的; adj. 意义深远的",
+            "choices": [
+                "d",
+                "f",
+                "n",
+                "o",
+                "o",
+                "p",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "On an acoustic guitar, the strings vibrate and the ______ part of the instrument, or the sound box,also vibrates.",
+            "choices": [
+                "profound",
+                "hollow",
+                "viable",
+                "successive",
+                "repetitive"
+            ],
+            "chn": "(VOA : special.2009.09.27)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But it says the broad anti-defamation measures being sought by the Islamic Conference would have the effect of curbing debate about religious issues and should be ______ in favor of outreach and government defense of religious freedom and free speech.",
+            "choices": [
+                "stance",
+                "discarded",
+                "repetitive",
+                "magnitude",
+                "suffice"
+            ],
+            "chn": "(VOA : standard.2009.10.26)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The report says Russian science has suffered from ______ budget cuts since the collapse of the Soviet Union in 1991.",
+            "choices": [
+                "drastic",
+                "spurt",
+                "compelling",
+                "adhesive",
+                "viable"
+            ],
+            "chn": "(VOA : standard.2010.02.03)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Republicans also bitterly oppose the Democrat's plan to avoid Republican ______ in a later Senate vote on the modified package with a process that would allow approval with a simple majority of 51 votes.",
+            "choices": [
+                "engage",
+                "discarded",
+                "suffice",
+                "robust",
+                "obstruction"
+            ],
+            "chn": "(VOA : standard.2010.03.19)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"In these past 60 years, NATO has contributed to an ______ period of peace, freedom and prosperity for all its citizens.",
+            "choices": [
+                "reluctantly",
+                "viable",
+                "unprecedented",
+                "spurt",
+                "perplex"
+            ],
+            "chn": "(VOA : standard.2009.04.04)"
+        }
+    ],
+    "quiz_id": "122"
+}

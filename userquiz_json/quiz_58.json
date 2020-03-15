@@ -1,0 +1,256 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "conservation",
+            "choices": [
+                "n. 电路",
+                "n. 保存，保持",
+                "n. 结晶，晶体",
+                "n. [数] 柱面",
+                "n. 一致",
+                "n. 通信",
+                "n. 保护",
+                "n. 堕落"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "consciousness",
+            "choices": [
+                "n. 感觉",
+                "n. 知觉",
+                "n. 意识",
+                "n. 集装箱",
+                "adv. 危急地",
+                "n. 储蓄的东西（词、语等）",
+                "adv. 批评性地",
+                "n. 觉悟"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "contradict",
+            "choices": [
+                "vt. 与…矛盾",
+                "vi. 发生矛盾",
+                "vi. 反驳",
+                "vi. 否认",
+                "n. 舆论",
+                "vt. 与…抵触",
+                "vt. 反驳",
+                "vt. 否定"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cylinder",
+            "choices": [
+                "n. 对等，同等",
+                "n. [数] 柱面",
+                "n. 圆柱状物",
+                "vi. 叛变",
+                "n. 圆筒",
+                "n. 大陆，洲，陆地",
+                "n. 汽缸",
+                "vt. 使沮丧，抑制"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "deceive",
+            "choices": [
+                "n. 束缚",
+                "n. 指示者",
+                "v. 欺骗",
+                "n. [数] 相关，关联",
+                "n. （意见等的）一致",
+                "adj. 反对的",
+                "v. 行骗",
+                "n. 果酱"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 全等的; adj. 适合的，一致的; adj. 和谐的",
+            "choices": [
+                "critique",
+                "congruent",
+                "connotation",
+                "corruption",
+                "cortex"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [数] 收敛; n. 会聚，集合",
+            "choices": [
+                "delta",
+                "convergence",
+                "connotation",
+                "critically",
+                "conserve"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 分镜头剧本; n. 连续性; n. 一连串",
+            "choices": [
+                "crude",
+                "contradiction",
+                "degrade",
+                "continuity",
+                "corruption"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 故意的; adj. 意识到的; adj. 神志清醒的",
+            "choices": [
+                "conscious",
+                "conserve",
+                "critically",
+                "crystal",
+                "contradict"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 标准，条件（criterion的复数）",
+            "choices": [
+                "consent",
+                "connotation",
+                "corpus",
+                "criteria",
+                "correlate"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 退化; vt. 使……降级; vi. 降级，降低",
+            "choices": [
+                "a",
+                "d",
+                "d",
+                "e",
+                "e",
+                "g",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 圆筒; n. 圆柱状物; n. 汽缸",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "i",
+                "l",
+                "n",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 自制的，克制的; n. 大陆，洲，陆地",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "n",
+                "n",
+                "n",
+                "o",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 争论; n. 辩论; n. 论战",
+            "choices": [
+                "c",
+                "e",
+                "n",
+                "o",
+                "o",
+                "r",
+                "r",
+                "s",
+                "t",
+                "v",
+                "y"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "She cites oil consumption figures as an example that ______ the IEA's findings.",
+            "choices": [
+                "criteria",
+                "contradict",
+                "coordinate",
+                "deadline",
+                "consultation"
+            ],
+            "chn": "(VOA : standard.2010.08.03)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But abruptly, fiendishly, the tender pattern of nudity I had adored would be transformed into the disgusting lamp-lit bare arm of a man in his underclothes reading his paper by the open window in the hot, ______, hopeless summer night.",
+            "choices": [
+                "consultation",
+                "deceive",
+                "critically",
+                "consonant",
+                "damp"
+            ],
+            "chn": "然而突然，糟糕得很，我崇拜的那副美好的裸体,投入了台灯下一双男人赤膊的肩膀，他穿着内衣裤,读着报纸，靠在敞开的窗边，沉浸在,炎热，潮湿，绝望的夏夜里。(1945年后的美国小说课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The notion of ______ is that there's ways to transform things such that some aspects of them change but others remain the same.",
+            "choices": [
+                "conscious",
+                "cylinder",
+                "contradiction",
+                "continent",
+                "conservation"
+            ],
+            "chn": "守恒是指物体某方面的特征,不会因为其他方面特征的改变,而有所改变(心理学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Internal communication is just the ______ around what we're doing and why we're doing it and what our goals are and why the goals are like that. That's it.",
+            "choices": [
+                "contradictory",
+                "defect",
+                "corpus",
+                "coordination",
+                "degrade"
+            ],
+            "chn": "内部的交流就是协调我们手头的工作,搞清楚我们为什么在做这些工作,为什么我们有这些目标，就是如此。(Twitter之父Jack.Dorsey演讲：好奇和灵感的力量课程节选 : 斯坦福公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "That's \"______.\"",
+            "choices": [
+                "decay",
+                "constrain",
+                "coronary",
+                "congruent",
+                "critically"
+            ],
+            "chn": "而结果是一致的“(心理学导论课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "58"
+}

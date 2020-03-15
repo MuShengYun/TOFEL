@@ -1,0 +1,71 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "n. 描写; n. 肖像; n. 半身雕塑像",
+            "choices": [
+                "a",
+                "i",
+                "o",
+                "p",
+                "r",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 外来的; adj. 外在的; adj. 非固有的",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "i",
+                "n",
+                "r",
+                "s",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 语用论; n. 语用学",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "g",
+                "i",
+                "m",
+                "p",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 印象派，印象主义",
+            "choices": [
+                "e",
+                "i",
+                "i",
+                "i",
+                "m",
+                "m",
+                "n",
+                "o",
+                "p",
+                "r",
+                "s",
+                "s",
+                "s"
+            ]
+        }
+    ],
+    "quiz_id": "154"
+}

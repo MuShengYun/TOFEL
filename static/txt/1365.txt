@@ -1,0 +1,121 @@
+After being contacted by CNN Business, Google conducted an internal investigation and confirmed that it did receive reports from two state agencies. The company is now looking into why the ads were not removed from its platform following those reports. 
+
+CNN Business found at least 31 suspect websites targeting people looking to buy fishing licenses in 14 states: California, Colorado, Florida, Georgia, Michigan, Minnesota, North Carolina, New York, Ohio, Pennsylvania, Tennessee, Texas, Virginia and Wisconsin.
+
+Agencies from multiple states, including Tennessee, California and New York, characterized the websites to CNN Business as either being a "scam" or "fraudulent." The states say they have no idea who is behind the sites or if it is a ploy to harvest confidential and sensitive information — ID numbers, social security numbers, even physical attributes — from victims. Some of the sites charge double and triple the cost of an actual fishing license sold by the state.
+
+In tests, CNN Business found ads on Google (GOOGL) targeting people in 11 states, which put the sites at the top of search results for fishing licenses, potentially boosting their reach significantly. Three states —Texas, Pennsylvania and New York —told CNN Business they complained, multiple times in some cases, to Google about the ads as far back as mid-2019, but the company never acted on those warnings. One state, Texas, said Google responded to its first complaint by concluding it did not consider the sites targeting Texans to be fraudulent.
+
+"Unfortunately, Google disagreed with our pleas and has allowed it to continue showing up as a paid ad on search results for information on Texas fishing licenses," Texas Parks and Wildlife communications director Josh Havens told CNN Business.
+
+"We have strict policies against ads that mislead users by implying an affiliation with a government agency," a Google spokesperson told CNN Business in a statement. "We have removed the violating ads and took the appropriate action on the accounts. We are continuing to investigate this matter and looking at ways to better work with state agencies to address these issues in real-time."
+
+Google took the ads down several hours after CNN Business asked the company for comment. It's unknown how many people were victims of the alleged scam, or even exposed to it. Google declined to share how many people viewed or clicked on the ads. 
+
+The sites' long-running use of Google ads, and the criticisms of Google's response to it, highlight the challenges that big tech companies continue to face in spotting and preventing bad actors from taking advantage of their platforms given their staggering scale, with billions of users and pieces of content to monitor. More than that, it shows how powerless concerned individuals can feel when trying to get the attention of big tech companies and push for fixes -- even when they are law enforcement personnel from state agencies.
+
+A Google spokesperson said the ads were removed because the company believes the sites were using dishonest business practices. Google has also permanently suspended the two separate Google Advertising accounts that bought the ads for some of the sites. 
+
+Struggling to get the attention of a tech giant 
+
+After officials at Texas Parks and Wildlife saw the fishing ads in June 2019, they said they tried multiple strategies to get Google's attention. 
+
+First, Texas officials said they filed a complaint through Google's Advertising Legal Support Team. The Texas officials noted the sites were counterfeit, potentially harvesting personal information like social security numbers.
+
+"The response we received from Google's Legal Support Team said that our complaint does not pertain to the sale or promotion for sale of counterfeit goods and that they will not be taking further action," Havens told CNN Business. 
+
+Next, officials reported the sites to Google as a scammer. Havens said they got an "auto-response from Google saying that they would look into it." But nothing happened. 
+
+Google didn't respond to a question on whether Texas notified it in an appropriate way. A spokesperson told CNN Business that it investigates every report of fraudulent ads. 
+
+CNN Business repeatedly reached out to emails associated with the fishing sites as well as to the server company hosting them, but did not receive any response. 
+
+For state officials like those at Texas Parks and Wildlife, the stakes are high. Google's search engine is the gateway into the internet for many. It's where we turn to find seemingly reliable and relevant results about fishing licenses, as well as restaurants, travel, ailments and more. Nearly 93% of all internet search traffic in the world in December came from Google Search, according to Web traffic analytics company StatCounter.
+
+But Google algorithms are not the only force behind what people see. 
+
+When CNN Business found the websites in the top position above Google searches for fishing licenses in 11 of the 14 states, it was because someone paid Google for these sites to sit in that top spot. 
+
+Google's advertising platform, which accounts for the vast majority of its overall business, allows companies to "get in front of customers" with more prominent placement in results than they might otherwise receive, according to the company's own description. The company clearly labels these sponsored results as ads, but they are otherwise identical to how actual search results appear —potentially making it easier for bad actors to trick people.
+
+In 2018, Google removed 2.3 billion of what it calls "bad ads" worldwide and removed more than 1 million advertising accounts, according to the company. It is still compiling numbers for 2019.
+
+Recognizing the risks these ads posed to their residents, some states went on the offensive. Tennessee put roughly $2,000 of taxpayer money each month into Google's ad auctions to outbid scam sites like these, in hopes of getting the top ad spot. It didn't work; the account buying ads for the scam site was most likely putting even more money into their ads.
+
+"Many times these sites will outbid us for these search words to a point where it is not fiscally responsible for us to continue to pay for certain keywords," said Jenifer Wisniewski, head of communications for the Tennessee Wildlife Resources Agency. She added that Tennessee, like "many states," has taken this approach. (CNN Business has not independently confirmed whether other states have in fact done so.)
+
+In short: as long as scammers continue to buy ads on Google, state agencies may feel they have little choice but to use taxpayer funds to try to outbid the bad actors. Google had no comment on Tennessee's effort to knock the ads from the top spot with taxpayer funds.
+
+Turning to other authorities for help
+
+It's impossible to determine how many people — potentially as a result of Google ads — were duped into giving their money and confidential information to the websites for what they believed were fishing licenses.    
+
+When CNN Business compared what the websites charged for what they said were fishing licenses, it was almost always double or triple the amount each state charged for authentic licenses. Georgia, for example, charges non-residents $50 for a one-year fishing license whereas the alleged scam sites charged $150.
+
+The payments on the sites were processed by online payments processing company Stripe. The company told CNN Business that 12 of the websites used or attempted to use its payment processing platform. It removed all of the sites from being able to process payments between 2018 and 2019.  
+
+"Stripe is continually monitoring for fraudulent merchants and transactions on our platform, and we immediately remove any merchants engaging in illegal activity," the company said in a statement to CNN Business. "We are investigating whether there are any other merchants/websites who might be connected to these and are still using Stripe. So far, we haven't identified any."
+
+California, New York and Tennessee told CNN Business they have now contacted the FBI about the websites. CNN Business asked the FBI if the websites were under investigation but the agency declined to comment and would not confirm or deny the existence of an investigation, citing Department of Justice policy.
+
+Every state impacted tells CNN the sites have no authorization to sell fishing licenses and that the only way to buy fishing licenses online is through the official state agency sites. 
+
+A number of websites are still active. While Google has the power to crack down on the ads, it is not responsible for the websites.
+
+"Unfortunately, Google disagreed with our pleas and has allowed it to continue showing up as a paid ad on search results for information on Texas fishing licenses," Texas Parks and Wildlife communications director Josh Havens told CNN Business.
+
+"We have strict policies against ads that mislead users by implying an affiliation with a government agency," a Google spokesperson told CNN Business in a statement. "We have removed the violating ads and took the appropriate action on the accounts. We are continuing to investigate this matter and looking at ways to better work with state agencies to address these issues in real-time."
+
+Google took the ads down several hours after CNN Business asked the company for comment. It's unknown how many people were victims of the alleged scam, or even exposed to it. Google declined to share how many people viewed or clicked on the ads. 
+
+The sites' long-running use of Google ads, and the criticisms of Google's response to it, highlight the challenges that big tech companies continue to face in spotting and preventing bad actors from taking advantage of their platforms given their staggering scale, with billions of users and pieces of content to monitor. More than that, it shows how powerless concerned individuals can feel when trying to get the attention of big tech companies and push for fixes -- even when they are law enforcement personnel from state agencies.
+
+A Google spokesperson said the ads were removed because the company believes the sites were using dishonest business practices. Google has also permanently suspended the two separate Google Advertising accounts that bought the ads for some of the sites. 
+
+Struggling to get the attention of a tech giant 
+
+After officials at Texas Parks and Wildlife saw the fishing ads in June 2019, they said they tried multiple strategies to get Google's attention. 
+
+First, Texas officials said they filed a complaint through Google's Advertising Legal Support Team. The Texas officials noted the sites were counterfeit, potentially harvesting personal information like social security numbers.
+
+"The response we received from Google's Legal Support Team said that our complaint does not pertain to the sale or promotion for sale of counterfeit goods and that they will not be taking further action," Havens told CNN Business. 
+
+Next, officials reported the sites to Google as a scammer. Havens said they got an "auto-response from Google saying that they would look into it." But nothing happened. 
+
+Google didn't respond to a question on whether Texas notified it in an appropriate way. A spokesperson told CNN Business that it investigates every report of fraudulent ads. 
+
+CNN Business repeatedly reached out to emails associated with the fishing sites as well as to the server company hosting them, but did not receive any response. 
+
+For state officials like those at Texas Parks and Wildlife, the stakes are high. Google's search engine is the gateway into the internet for many. It's where we turn to find seemingly reliable and relevant results about fishing licenses, as well as restaurants, travel, ailments and more. Nearly 93% of all internet search traffic in the world in December came from Google Search, according to Web traffic analytics company StatCounter.
+
+But Google algorithms are not the only force behind what people see. 
+
+When CNN Business found the websites in the top position above Google searches for fishing licenses in 11 of the 14 states, it was because someone paid Google for these sites to sit in that top spot. 
+
+Google's advertising platform, which accounts for the vast majority of its overall business, allows companies to "get in front of customers" with more prominent placement in results than they might otherwise receive, according to the company's own description. The company clearly labels these sponsored results as ads, but they are otherwise identical to how actual search results appear —potentially making it easier for bad actors to trick people.
+
+In 2018, Google removed 2.3 billion of what it calls "bad ads" worldwide and removed more than 1 million advertising accounts, according to the company. It is still compiling numbers for 2019.
+
+Recognizing the risks these ads posed to their residents, some states went on the offensive. Tennessee put roughly $2,000 of taxpayer money each month into Google's ad auctions to outbid scam sites like these, in hopes of getting the top ad spot. It didn't work; the account buying ads for the scam site was most likely putting even more money into their ads.
+
+"Many times these sites will outbid us for these search words to a point where it is not fiscally responsible for us to continue to pay for certain keywords," said Jenifer Wisniewski, head of communications for the Tennessee Wildlife Resources Agency. She added that Tennessee, like "many states," has taken this approach. (CNN Business has not independently confirmed whether other states have in fact done so.)
+
+In short: as long as scammers continue to buy ads on Google, state agencies may feel they have little choice but to use taxpayer funds to try to outbid the bad actors. Google had no comment on Tennessee's effort to knock the ads from the top spot with taxpayer funds.
+
+Turning to other authorities for help
+
+It's impossible to determine how many people — potentially as a result of Google ads — were duped into giving their money and confidential information to the websites for what they believed were fishing licenses.    
+
+When CNN Business compared what the websites charged for what they said were fishing licenses, it was almost always double or triple the amount each state charged for authentic licenses. Georgia, for example, charges non-residents $50 for a one-year fishing license whereas the alleged scam sites charged $150.
+
+The payments on the sites were processed by online payments processing company Stripe. The company told CNN Business that 12 of the websites used or attempted to use its payment processing platform. It removed all of the sites from being able to process payments between 2018 and 2019.  
+
+"Stripe is continually monitoring for fraudulent merchants and transactions on our platform, and we immediately remove any merchants engaging in illegal activity," the company said in a statement to CNN Business. "We are investigating whether there are any other merchants/websites who might be connected to these and are still using Stripe. So far, we haven't identified any."
+
+California, New York and Tennessee told CNN Business they have now contacted the FBI about the websites. CNN Business asked the FBI if the websites were under investigation but the agency declined to comment and would not confirm or deny the existence of an investigation, citing Department of Justice policy.
+
+Every state impacted tells CNN the sites have no authorization to sell fishing licenses and that the only way to buy fishing licenses online is through the official state agency sites. 
+
+A number of websites are still active. While Google has the power to crack down on the ads, it is not responsible for the websites.
+
+

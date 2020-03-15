@@ -1,0 +1,175 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "choice",
+            "problem": "All right. So you can already begin to see a development in intellectual history that perhaps opens the way to a certain ______.",
+            "choices": [
+                "astonishing",
+                "skepticism",
+                "suitable",
+                "readily",
+                "exploit"
+            ],
+            "chn": "好，所以大家已经开始看到,人类思想史的一个发展,它很可能为某种怀疑主义开辟了道路。(文学理论导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "We have to ______ our team spirit.",
+            "choices": [
+                "conspicuous",
+                "undoubtedly",
+                "enhance",
+                "exploit",
+                "perplex"
+            ],
+            "chn": "我们要加强我们的团队精神。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"I was surprised by the ______ growth in medical technology.\"",
+            "choices": [
+                "enormous",
+                "notably",
+                "refine",
+                "decipher",
+                "adapt"
+            ],
+            "chn": "(VOA : special.2011.01.18)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Amy Smith says vampires also ______ to the many local differences across the United States.",
+            "choices": [
+                "controversial",
+                "doubtless",
+                "adapt",
+                "exploit",
+                "precise"
+            ],
+            "chn": "(VOA : special.2010.01.20)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Intermediate image, so we can ______ to it.",
+            "choices": [
+                "draw to",
+                "impede",
+                "terminate",
+                "undoubtedly",
+                "perplex"
+            ],
+            "chn": "中间的形象，所以我们可以利用它。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "We do not know how to ______ continue.",
+            "choices": [
+                "exceptional",
+                "enable",
+                "widespread",
+                "refine",
+                "sustain"
+            ],
+            "chn": "我们并不知道如何去维持继续。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "We have all the information and guidance to ______ you and we realize this opportunity.",
+            "choices": [
+                "astonishing",
+                "ardent",
+                "scatter",
+                "enable",
+                "terminate"
+            ],
+            "chn": "我们所有的信息和指导，让您和我们认识到这个机会。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "Sometimes simply flying overhead is enough to make the enemy ______ and allow the engagement to end.",
+            "choices": [
+                "disperse",
+                "quest",
+                "indispensable",
+                "exceptional",
+                "exquisite"
+            ],
+            "chn": "(VOA : standard.2009.09.12)"
+        },
+        {
+            "cate": "choice",
+            "problem": "We're going to have to ______ it to deal with the obvious fact that you're not dead all the times when you're unconscious and not dreaming.",
+            "choices": [
+                "skepticism",
+                "conducive",
+                "generally",
+                "culminate",
+                "refine"
+            ],
+            "chn": "以便适应人在无意识和无梦睡眠时,并没有死这个显而易见的事实。(死亡课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Seeking after happiness has been a most ______ experience , but one that I would not trade for anything .",
+            "choices": [
+                "precise",
+                "anticipate",
+                "painstaking",
+                "mimic",
+                "baffle"
+            ],
+            "chn": "追求幸福对我来说是十分艰苦的经历，但却是一种用什么我都不换的经历。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "You include the ______ diversity of race and ethnicity that is fundamental to our nation's strength.\"",
+            "choices": [
+                "vast",
+                "adapt",
+                "painstaking",
+                "readily",
+                "segregated"
+            ],
+            "chn": "(VOA : special.2010.05.28)"
+        },
+        {
+            "cate": "choice",
+            "problem": "This machinery is so ______ that a human hair couldn't even pass between the heads and spinning platters, yet it all works in terrific speeds.",
+            "choices": [
+                "integral",
+                "precise",
+                "replenish",
+                "draw to",
+                "divert"
+            ],
+            "chn": "这些设备是很紧密的以至于人的头发,都不能在头和旋转的磁盘之间通过，尽管如此，它的运行速度非常快。(计算机科学课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "India's external affairs minister, S.M.Krishna,is expressing concern about terrorist forces in Pakistan that,he says, \"______\" have India as the object of their attacks.",
+            "choices": [
+                "pioneering",
+                "unfavorable",
+                "invariably",
+                "exploit",
+                "irritating"
+            ],
+            "chn": "(VOA : standard.2009.10.16)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It was a question of constructing an ______ formal edifice to which everybody could contribute. Students got excited about it.",
+            "choices": [
+                "readily",
+                "elaborate",
+                "disrupt",
+                "ardent",
+                "compelling"
+            ],
+            "chn": "现在的精读已形成了一种精确而正式的体系,每个人都可以做出自己的贡献，学生当然会对此感兴趣。(文学理论导论课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "134"
+}

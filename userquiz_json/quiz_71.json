@@ -1,0 +1,262 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "plug",
+            "choices": [
+                "n. 复数",
+                "vt. 接插头",
+                "vt. 塞住",
+                "n. 塞子",
+                "vt. 插入",
+                "n. 栓",
+                "n. 插头",
+                "vi. 塞住"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "partition",
+            "choices": [
+                "n. [数] 分割",
+                "vt. 区分",
+                "n. 划分，分开",
+                "vt. [数] 分割",
+                "n. 隔墙",
+                "adj. 貌似真实的，貌似有理的",
+                "vt. 分隔",
+                "n. 隔离物"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "orient",
+            "choices": [
+                "n. 内科医师",
+                "n. 东方诸国",
+                "adj. 东方的",
+                "vi. 向东",
+                "n. 东方",
+                "vt. 使适应",
+                "vt. 确定方向",
+                "n. 出现"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "plural",
+            "choices": [
+                "n. [会计] 经常费用",
+                "n. 复数",
+                "adj. 复数的",
+                "vt. 赦免",
+                "n. 哲学家",
+                "vt. 使适应",
+                "adj. 局部的",
+                "adv. 部分地"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "occurrence",
+            "choices": [
+                "n. 出现",
+                "n. 发现",
+                "n. 事件",
+                "adv. 向前",
+                "n. 自相矛盾的人或事",
+                "vt. 使氧化",
+                "n. 发生",
+                "adj. 光学的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使适应; adj. 东方的; n. 东方",
+            "choices": [
+                "partition",
+                "peripheral",
+                "particle",
+                "orient",
+                "orientation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 哲人; n. 哲学家",
+            "choices": [
+                "organ",
+                "outer",
+                "oral",
+                "par",
+                "philosopher"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 捆扎; vt. 打包; n. 包裹，小包",
+            "choices": [
+                "optical",
+                "par",
+                "philosophical",
+                "parcel",
+                "pesticide"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [医] 医师; n. 内科医师",
+            "choices": [
+                "onward",
+                "physician",
+                "par",
+                "parcel",
+                "overlap"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 皮膜化成; n. 磷酸盐",
+            "choices": [
+                "philosophical",
+                "parameter",
+                "overhead",
+                "peasant",
+                "phosphate"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 摆动; n. 振动; n. 振荡",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "i",
+                "l",
+                "l",
+                "n",
+                "o",
+                "o",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 最理想的; adj. 最佳的",
+            "choices": [
+                "a",
+                "i",
+                "l",
+                "m",
+                "o",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 有害之物; n. 讨厌的人; n. 害虫",
+            "choices": [
+                "e",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使生锈; vt. 使氧化; vi. 氧化",
+            "choices": [
+                "d",
+                "e",
+                "i",
+                "i",
+                "o",
+                "x",
+                "z"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 东方诸国; vt. 使适应; vi. 向东",
+            "choices": [
+                "e",
+                "i",
+                "n",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "He was appointed Supreme Commander of the Allied Powers, the leader of the ______ forces that would rule Japan.",
+            "choices": [
+                "paradigm",
+                "parcel",
+                "occupation",
+                "onset",
+                "parameter"
+            ],
+            "chn": "(VOA : special.2010.07.02)"
+        },
+        {
+            "cate": "choice",
+            "problem": "They have a problem in establishing a state. I think Israelis are ready for ______, for territorial concessions.",
+            "choices": [
+                "partition",
+                "occupation",
+                "overview",
+                "phonological",
+                "orientation"
+            ],
+            "chn": "(VOA : standard.2009.10.31)"
+        },
+        {
+            "cate": "choice",
+            "problem": "There's a second figure here standing ab extra, and that's the moon hovering ______: \"while over-head the Moon \/ sits Arbitress.\"",
+            "choices": [
+                "observer",
+                "physiological",
+                "partial",
+                "phosphate",
+                "overhead"
+            ],
+            "chn": "这里有第二个置身事外的角色，就是高高挂在空中的月亮：,“月亮高挂天心，像个公正的决断人“(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "What is the ______? what is the ideal?",
+            "choices": [
+                "plausible",
+                "pole",
+                "optimum",
+                "orientation",
+                "occurrence"
+            ],
+            "chn": "什么是最有利的选择？什么是理想状态？(幸福课课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "She returned home with his picture and a series of other ______ essays for Life magazine.",
+            "choices": [
+                "phosphate",
+                "plausible",
+                "oral",
+                "photographic",
+                "philosophical"
+            ],
+            "chn": "(VOA : special.2009.05.17)"
+        }
+    ],
+    "quiz_id": "71"
+}

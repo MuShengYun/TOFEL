@@ -1,0 +1,322 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "cheer",
+            "choices": [
+                "vt. 为…加油",
+                "vt. 使高兴",
+                "vi. 欢呼",
+                "n. 欢呼",
+                "vi. 感到高兴",
+                "n. 通两种语言的人",
+                "vt. 欢呼",
+                "n. 愉快"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bubble",
+            "choices": [
+                "n. 透明圆形罩，圆形顶",
+                "n. 气泡，泡沫，泡状物",
+                "vi. 发出气泡声",
+                "vt. 使冒泡",
+                "vt. 滔滔不绝地说",
+                "adj. 运动的，运动员的",
+                "vi. 沸腾，冒泡",
+                "n. 作业"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bundle",
+            "choices": [
+                "n. 捆",
+                "adj. [数] 二进制的",
+                "vi. 匆忙离开",
+                "n. 桶，水桶",
+                "n. 支架",
+                "n. 盆地",
+                "n. 束",
+                "vt. 捆"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "assignment",
+            "choices": [
+                "n. 功课",
+                "adj. 运动的，运动员的",
+                "n. 分配",
+                "n. 描述",
+                "n. 作业",
+                "n. 任务",
+                "vt. 把……装入桶内",
+                "n. 集会，集合"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "assembly",
+            "choices": [
+                "vt. 主张",
+                "n. 装配",
+                "vt. 把……装入桶内",
+                "n. [微] 细菌",
+                "n. 汇编，编译",
+                "n. 集会，集合",
+                "n. 水池",
+                "n. [心理] 潜意识压抑力"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 拍卖; vt. 竞卖; vt. 拍卖",
+            "choices": [
+                "broadly",
+                "capitalist",
+                "auction",
+                "bang",
+                "bilingual"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 体格健壮的; adj. 运动的，运动员的",
+            "choices": [
+                "basin",
+                "athletic",
+                "bleed",
+                "bang",
+                "autonomy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 支架; n. 墙上凸出的托架; vt. 括在一起",
+            "choices": [
+                "biodiversity",
+                "bat",
+                "bracket",
+                "bullet",
+                "calculator"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 粗鄙地; adv. 宽广地; adv. 概括地",
+            "choices": [
+                "atom",
+                "broadly",
+                "bargain",
+                "autonomy",
+                "cheat"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 二元的，二态的; adj. [数] 二进制的",
+            "choices": [
+                "assert",
+                "breakdown",
+                "calcium",
+                "binary",
+                "bang"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a formal examination of financial records often to uncover fraud or inaccurate tax returns",
+            "choices": [
+                "barrel",
+                "bracket",
+                "blank",
+                "audit",
+                "bundle"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": an overhanging member that projects from a structure (such as a wall) and is usually designed to support a vertical load or to strengthen an angle",
+            "choices": [
+                "bound",
+                "biodiversity",
+                "calculation",
+                "binary",
+                "bracket"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": something good that is more than what was expected or required",
+            "choices": [
+                "calculation",
+                "behavioral",
+                "bonus",
+                "bleed",
+                "bullet"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": grounds that resemble a campus",
+            "choices": [
+                "carrier",
+                "campus",
+                "candidate",
+                "bizarre",
+                "availability"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the position of planets or stars with respect to one another held by astrologers to influence human affairs",
+            "choices": [
+                "calculus",
+                "capitalist",
+                "aspect",
+                "biodiversity",
+                "characterization"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 自治，自治权",
+            "choices": [
+                "a",
+                "m",
+                "n",
+                "o",
+                "o",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 艺术品; n. 美术品; n. 插图",
+            "choices": [
+                "a",
+                "k",
+                "o",
+                "r",
+                "r",
+                "t",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 盆地; n. 水池; n. 盆",
+            "choices": [
+                "a",
+                "b",
+                "i",
+                "n",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 生物多样性",
+            "choices": [
+                "b",
+                "d",
+                "e",
+                "i",
+                "i",
+                "i",
+                "o",
+                "r",
+                "s",
+                "t",
+                "v",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 向后地; adj. 反向的; adj. 向后的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "c",
+                "d",
+                "k",
+                "r",
+                "w"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "The nitrogen ______ is currently designed for people in the United States, Germany and the Netherlands.",
+            "choices": [
+                "audio",
+                "blank",
+                "binary",
+                "calculator",
+                "biodiversity"
+            ],
+            "chn": "(VOA : special.2011.04.05)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Hemoglobin, as you know, is an oxygen ______ and so red blood cells concentrate in bags of hemoglobin which circulate in your blood and they carry oxygen.",
+            "choices": [
+                "behavioral",
+                "auction",
+                "carrier",
+                "axiom",
+                "bracket"
+            ],
+            "chn": "众所周知,血红蛋白可以携带氧气,含有大量血红蛋白的红细胞,在全身循环,以携带氧气(生物医学工程探索课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "LaReesa Wolfenbarger is a University of Nebraska ______ professor and a member of the committee that wrote the report.",
+            "choices": [
+                "authority",
+                "cheat",
+                "biology",
+                "censor",
+                "atomic"
+            ],
+            "chn": "(VOA : special.2010.04.27)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So, we know from our ______ that we can do over here, that this bond is polar.",
+            "choices": [
+                "bang",
+                "calculator",
+                "basin",
+                "calculation",
+                "assembly"
+            ],
+            "chn": "我们通过计算都知道,这个键是非极性的。(固态化学导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Former Tennessee Titans quarterback Steve McNair was killed in a ______ murder-suicide in July.",
+            "choices": [
+                "bizarre",
+                "bleed",
+                "capillary",
+                "calculation",
+                "calculus"
+            ],
+            "chn": "(VOA : standard.2009.12.24)"
+        }
+    ],
+    "quiz_id": "201"
+}

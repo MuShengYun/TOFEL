@@ -1,0 +1,321 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "impunity",
+            "choices": [
+                "adj. 偷偷摸摸的",
+                "vi. 使用密码",
+                "n. 不受惩罚",
+                "adj. 适于耕种的",
+                "n. 体制",
+                "adj. 适于耕种的",
+                "n. [法] 免罚",
+                "n. 无患"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dagger",
+            "choices": [
+                "n. 素材",
+                "n. [经] 滞胀，不景气状况下之物价上涨",
+                "n. 匕首，短剑",
+                "adj. 秘密的，私下的",
+                "vt. 用剑刺",
+                "vi. 使用密码",
+                "n. 家政",
+                "n. 不受惩罚"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "quota",
+            "choices": [
+                "n. 配额",
+                "n. 收费表",
+                "adj. 机密的",
+                "vt. 宽恕",
+                "n. 限额",
+                "n. 定额",
+                "vi. 征兵",
+                "adj. 秘密的，私下的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "levy",
+            "choices": [
+                "n. 征收",
+                "vi. 征兵",
+                "n. 征兵，征税",
+                "vt. 发动（战争）",
+                "n. 肥料",
+                "vt. 征收（税等）",
+                "vt. 征集（兵等）",
+                "vi. 征税"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "manure",
+            "choices": [
+                "n. 粪肥",
+                "vt. 减少",
+                "adj. 无价的",
+                "n. 耕地",
+                "n. 肥料",
+                "vt. 施肥于",
+                "vt. 支出",
+                "vt. 耕种"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 折扣; vt. 打折扣; vi. 退还部分付款，打折扣",
+            "choices": [
+                "garlic",
+                "condone",
+                "levy",
+                "eggplant",
+                "rebate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 本土的; adj. 土著的; adj. 固有的",
+            "choices": [
+                "inflation",
+                "indigenous",
+                "horticulture",
+                "garlic",
+                "poultry"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 关税表; vt. 征收关税; n. 收费表",
+            "choices": [
+                "dagger",
+                "garlic",
+                "eggplant",
+                "tariff",
+                "absolve"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 饲料; n. 素材; vt. 喂",
+            "choices": [
+                "confidential",
+                "quota",
+                "poultry",
+                "fodder",
+                "disburse"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 务农，耕种; n. 饲养; n. 家政",
+            "choices": [
+                "rebate",
+                "constitution",
+                "husbandry",
+                "eggplant",
+                "arable"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": any of an economically important genus (Sorghum) of Old World tropical grasses similar to corn in habit but with the spikelets in pairs on a hairy rachis",
+            "choices": [
+                "indigenous",
+                "cipher",
+                "dagger",
+                "impunity",
+                "sorghum"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to bring up from underground : dig up",
+            "choices": [
+                "garlic",
+                "eggplant",
+                "confidential",
+                "unearth",
+                "tariff"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to regard or treat (something bad or blameworthy) as acceptable, forgivable, or harmless",
+            "choices": [
+                "stagflation",
+                "condone",
+                "indigenous",
+                "poultry",
+                "sorghum"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to pay out : expend especially from a fund",
+            "choices": [
+                "cipher",
+                "disburse",
+                "husbandry",
+                "absolve",
+                "poultry"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": produced, growing, living, or occurring naturally in a particular region or environment",
+            "choices": [
+                "indigenous",
+                "sorghum",
+                "absolve",
+                "constitution",
+                "unearth"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 征收（税等）; vi. 征兵; vi. 征税",
+            "choices": [
+                "e",
+                "l",
+                "v",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 喂; n. 素材; n. 饲料",
+            "choices": [
+                "d",
+                "d",
+                "e",
+                "f",
+                "o",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 赦免; vt. 免除; vt. 宣告…无罪",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "l",
+                "o",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 秘密的，私下的; adj. 偷偷摸摸的",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "e",
+                "i",
+                "l",
+                "n",
+                "n",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [经] 滞胀，不景气状况下之物价上涨",
+            "choices": [
+                "a",
+                "a",
+                "f",
+                "g",
+                "i",
+                "l",
+                "n",
+                "o",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "The experts also said antioxidants like ______, rosemary,saffron and turmeric have qualities that could fight cancer.",
+            "choices": [
+                "impunity",
+                "manure",
+                "eggplant",
+                "invaluable",
+                "garlic"
+            ],
+            "chn": "(VOA : special.2009.05.19)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Iowa State University ______ specialist Cindy Haynes suggests planting the seeds one and one-quarter centimeters deep.",
+            "choices": [
+                "sorghum",
+                "clandestine",
+                "acquit",
+                "arable",
+                "horticulture"
+            ],
+            "chn": "(VOA : special.2009.02.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Nationally, home prices in the United States rose 85% between 1997 and 2006 in real terms-- in ______-corrected terms.",
+            "choices": [
+                "deficit",
+                "husbandry",
+                "disburse",
+                "impunity",
+                "inflation"
+            ],
+            "chn": "在通货膨胀已校正的条件下,美国房价,在1997 年到2006年之间,实质上上涨了85%(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And you'll be working with obviously part of this class, Deb ______ but also with Deb ______ who is the, they had teaching fellow for the extension school.",
+            "choices": [
+                "husbandry",
+                "quota",
+                "levy",
+                "arable",
+                "condone"
+            ],
+            "chn": "而你们将显然参与到我们的课程中来，但也可以找，他是进修学校的助教。(幸福课课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Because the tunnel economy is ______, it's difficult to estimate just how much money is being made.",
+            "choices": [
+                "clandestine",
+                "indigenous",
+                "levy",
+                "tariff",
+                "disburse"
+            ],
+            "chn": "(VOA : standard.2010.06.17)"
+        }
+    ],
+    "quiz_id": "194"
+}

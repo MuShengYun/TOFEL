@@ -1,0 +1,264 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "communist",
+            "choices": [
+                "n. 靠营养生殖而由母体分离繁殖的植物",
+                "n. 共产党员",
+                "adj. 共产主义的",
+                "n. 大块",
+                "n. 商品，货物",
+                "n. 共产主义者",
+                "n. 电影业，电影制作术",
+                "n. [经] 客户"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "clip",
+            "choices": [
+                "n. 剪报",
+                "vi. 修剪",
+                "adj. 清晰的",
+                "vt. 给…剪毛（或发）用别针别在某物上，用夹子夹在某物上",
+                "vi. 剪下报刊上的文章（或新闻、图片等）",
+                "vt. 剪掉",
+                "n. 回纹针",
+                "vi. 迅速行动"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "comply",
+            "choices": [
+                "n. 泥土",
+                "n. 化学",
+                "n. [临床] 化学疗法",
+                "vt. 分类",
+                "vi. 遵守",
+                "vi. 顺从，遵从",
+                "vi. 答应",
+                "n. [生理] 传导"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "confound",
+            "choices": [
+                "adj. 共产主义的",
+                "n. 委托人",
+                "vt. 挫败",
+                "vt. 使混淆",
+                "n. 移民队",
+                "vt. 讨厌",
+                "vt. 使混乱",
+                "adj. 认知的，认识的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "composite",
+            "choices": [
+                "n. 权限",
+                "vt. 使混合",
+                "adj. 菊科的",
+                "n. 复合材料",
+                "n. 合成物",
+                "adj. 合成的",
+                "adj. 复合的",
+                "n. 菊科"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+            "choices": [
+                "composer",
+                "chromosome",
+                "classroom",
+                "clay",
+                "complement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 一般地; adv. 通常地; adv. 普通地",
+            "choices": [
+                "cognitive",
+                "commonly",
+                "communist",
+                "clue",
+                "competence"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 类别，等级; n. 分类",
+            "choices": [
+                "compact",
+                "classification",
+                "chromosome",
+                "comparable",
+                "conference"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 开始; n. 设想; n. 怀孕",
+            "choices": [
+                "commodity",
+                "clip",
+                "clay",
+                "conception",
+                "chemotherapy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 估计，计算",
+            "choices": [
+                "competent",
+                "clinic",
+                "compensate",
+                "competence",
+                "computation"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 估计，计算",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "m",
+                "n",
+                "o",
+                "o",
+                "p",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [生理] 传导",
+            "choices": [
+                "c",
+                "c",
+                "d",
+                "i",
+                "n",
+                "n",
+                "o",
+                "o",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 机灵的; . 比较级cleverer 最高级 cleverest ]; adj. 聪明的",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "l",
+                "r",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 化学; n. 化学过程",
+            "choices": [
+                "c",
+                "e",
+                "h",
+                "i",
+                "m",
+                "r",
+                "s",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 结构; n. 外形; n. 配置",
+            "choices": [
+                "a",
+                "c",
+                "f",
+                "g",
+                "i",
+                "i",
+                "n",
+                "n",
+                "o",
+                "o",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Then both groups received radiation treatment and ______ drugs.",
+            "choices": [
+                "classroom",
+                "composite",
+                "chemotherapy",
+                "confound",
+                "chess"
+            ],
+            "chn": "(VOA : special.2011.03.23)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And I think there is all sorts of different ways to learn that outside the ______ that complement the ______. -Yes.",
+            "choices": [
+                "conception",
+                "classify",
+                "classroom",
+                "coefficient",
+                "comparative"
+            ],
+            "chn": "我认为，从许多事情中，我们都会了解到,正是课外活动,丰富了课内的学业。(人性课程节选 : 普林斯顿公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And so, for today, for example, it says ______ Schemes, Mendeleev, Atomic Structure, A Readings Chapter 1, Chapter 2, Appendix A.",
+            "choices": [
+                "complication",
+                "classification",
+                "circa",
+                "civilization",
+                "configuration"
+            ],
+            "chn": "今天，举个例子，讲的是分类法，门捷列夫，原子结构，阅读第1，第2章，和附录。(固态化学导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "You'll find nothing ______ in Russia, obviously which I'll come back and talk about, or in Prussia, or in France.",
+            "choices": [
+                "conditional",
+                "complement",
+                "chronic",
+                "communist",
+                "comparable"
+            ],
+            "chn": "而你在俄国却找不到类似的方式,很显然我在讲到普鲁士或法国,那章时也将回顾并谈到这一问题(欧洲文明课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "22"
+}

@@ -1,0 +1,271 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "duration",
+            "choices": [
+                "n. 持续，持续的时间，期间",
+                "n. 直径",
+                "n. 效力",
+                ". 语音学]音长，音延",
+                "n. 经济学者",
+                "adv. 节俭地",
+                "n. 日志，日记",
+                "n. 优势"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dialect",
+            "choices": [
+                "adj. 方言的",
+                "n. 同源语",
+                "n. 个人用语特征",
+                "n. 社会生态学",
+                "n. 方言，土话",
+                "n. 行话",
+                "n. [化学] 衍生物，派生物",
+                "n. 控制"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "differentiate",
+            "choices": [
+                "n. 依靠",
+                "vi. 区分，区别",
+                "n. 指示",
+                "n. 解剖，切开",
+                "vt. 区分，区别",
+                "n. 直径",
+                "vt. 诊断",
+                "adj. 特异的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dense",
+            "choices": [
+                "adj. 浓厚的",
+                "adj. 生态的，生态学的",
+                "n. 字典",
+                "n. 直径",
+                "adj. 稠密的",
+                "n. 依靠",
+                "n. 目的地，终点",
+                "adj. 愚钝的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "denominator",
+            "choices": [
+                "n. 消耗",
+                "n. 共同特征或共同性质",
+                "n. 平均水平或标准",
+                "adj. 空间的",
+                "adj. 启发的",
+                "n. 命名者",
+                "n. [数] 分母",
+                "n. 诊断结论"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 生态学; n. 社会生态学",
+            "choices": [
+                "derivative",
+                "ecology",
+                "dense",
+                "drift",
+                "disadvantage"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 空间的; adj. 尺寸的",
+            "choices": [
+                "diagnostic",
+                "dose",
+                "dimensional",
+                "domination",
+                "diffusion"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 困境; n. 进退两难; n. 两刀论法",
+            "choices": [
+                "descriptor",
+                "ecology",
+                "dilemma",
+                "dissection",
+                "directive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 精心制作; adj. 精心制作的; adj. 煞费苦心的",
+            "choices": [
+                "elaborate",
+                "discrete",
+                "dimensional",
+                "donor",
+                "differentiation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 支配的，统治的; n. 显性; adj. 占优势的",
+            "choices": [
+                "discourse",
+                "differentiate",
+                "differential",
+                "dominant",
+                "dynamic"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 说出; n. 谈话; n. 论述",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "i",
+                "o",
+                "r",
+                "s",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 区分，区别; vi. 区分，区别",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "e",
+                "f",
+                "f",
+                "i",
+                "i",
+                "n",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 浓厚的; adj. 愚钝的; adj. 稠密的",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "n",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 支配; n. 控制",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "i",
+                "m",
+                "n",
+                "n",
+                "o",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 不同的; adj. 多种多样的; adj. 变化多的",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "i",
+                "r",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "It seems to ______ a storm at sea, almost as if the Egyptians are in boats, and a big wind makes a giant wave, and another wind then makes it crash down on them.",
+            "choices": [
+                "differential",
+                "depict",
+                "dependence",
+                "displacement",
+                "dictate"
+            ],
+            "chn": "而是描述了一阵风，就像埃及士兵在船上,狂风掀起大浪，另一阵风，掀翻了船。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "During the next twelve months the team will study the ______ of these materials in home building.",
+            "choices": [
+                "dominant",
+                "dissolve",
+                "disability",
+                "effectiveness",
+                "dominance"
+            ],
+            "chn": "(VOA : special.2009.10.05)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The Hebrew language itself is essentially Canaanite, a Canaanite ______.",
+            "choices": [
+                "distribution",
+                "diagnose",
+                "descendant",
+                "donor",
+                "dialect"
+            ],
+            "chn": "希伯来语本身就是迦南的，是迦南方言。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The ______ bill, as it was called, would help them get out of debt.",
+            "choices": [
+                "dialect",
+                "diary",
+                "effectiveness",
+                "diagnose",
+                "distribution"
+            ],
+            "chn": "(VOA : special.2009.02.05)"
+        },
+        {
+            "cate": "choice",
+            "problem": "That is because 'terrorism' is but a tactic -- a means to an end, which in al-Qaida's case is global ______ by an Islamic caliphate.",
+            "choices": [
+                "ecology",
+                "detection",
+                "domination",
+                "developmental",
+                "descendant"
+            ],
+            "chn": "(VOA : standard.2009.08.06)"
+        }
+    ],
+    "quiz_id": "55"
+}

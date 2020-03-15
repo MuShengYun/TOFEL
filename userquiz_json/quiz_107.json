@@ -1,0 +1,187 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "choice",
+            "problem": "Mister Veblen argued that people gathered wealth for the purpose of \"______ consumption.\"",
+            "choices": [
+                "baffle",
+                "prolong",
+                "skepticism",
+                "vulnerable",
+                "conspicuous"
+            ],
+            "chn": "(VOA : special.2011.05.01)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The country's ______ offshore oil and gas resources have provided the government That is a source of both hope and fear.",
+            "choices": [
+                "confine",
+                "diffuse",
+                "vast",
+                "suitable",
+                "peculiar"
+            ],
+            "chn": "(VOA : standard.2009.08.27)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The citizen of the best regime   he says must be able to ______ war if duty requires but only for the sake of peace and leisure.",
+            "choices": [
+                "diminish",
+                "exquisite",
+                "gradual",
+                "widespread",
+                "sustain"
+            ],
+            "chn": "最佳政体的公民，据他所说,如果有义务上的需要，必需要能承担战争,但目的必需仅限于为了和平与安逸。(政治哲学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Both sides said the disagreement would not significantly ______ relations.",
+            "choices": [
+                "diffuse",
+                "aim to do",
+                "impede",
+                "in essence",
+                "prolong"
+            ],
+            "chn": "(VOA : standard.2010.07.05)"
+        },
+        {
+            "cate": "choice",
+            "problem": "People can share their ______ location, the city they're in, or nothing at all.",
+            "choices": [
+                "intermittently",
+                "quest",
+                "tend",
+                "irritating",
+                "precise"
+            ],
+            "chn": "人们可以共享他们的精确位置，所在城市，或是根本什么都没有。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "He is ______ to see: The moon's full gaze on me.",
+            "choices": [
+                "precise",
+                "adapt",
+                "doubtless",
+                "culminate",
+                "startled"
+            ],
+            "chn": "他见到这些都十分惊诧：,月亮死死的盯着我。，…(现代诗歌课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The statement doesn't say what McDonald's plans to do about CSPI's threatened lawsuit, and a spokeswoman wouldn't ______ in emails.",
+            "choices": [
+                "elaborate",
+                "confine",
+                "exploit",
+                "obscure",
+                "detached"
+            ],
+            "chn": "(VOA : standard.2010.06.24)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Now, it's Milton's annotators who tell us that the word prevent means \"to come before, to ______,\" and on some level it obviously means that and that goes without question.",
+            "choices": [
+                "anticipate",
+                "confine",
+                "gradual",
+                "functions",
+                "lone"
+            ],
+            "chn": "弥尔顿的注解告诉我们阻止一词的含义,“在某人之前到达，预期“,从某种程度上说它就是那个意思，这毫无疑问。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "If you read his ______ Portfolio Management on the syllabus, he really has a preference for equities.",
+            "choices": [
+                "pioneering",
+                "exquisite",
+                "propose",
+                "prevailing",
+                "compelling"
+            ],
+            "chn": "如果你阅读他的著作《开拓投资组合的管理》的摘要,他确实对股票有偏好。(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Even in Aristotle's time, it appears slavery was a ______ institution and elicited very different kinds of opinions and responses.",
+            "choices": [
+                "suitable",
+                "controversial",
+                "lone",
+                "enable",
+                "generally"
+            ],
+            "chn": "就算是在亚里士多德的年代，奴役已经是争议性的制度,且引起了,十分不同的意见与响应。(政治哲学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It's an example of a very common tool that's go______g to be really useful to us, not just for do______g search, but for do______g a whole range of problems. That is, ______ essence, the template the describes a log style algorithm.",
+            "choices": [
+                "draw to",
+                "disrupt",
+                "terminate",
+                "enormous",
+                "in essence"
+            ],
+            "chn": "不仅仅是做搜索,还可以解决一整类问题,本质上，这个模板就描述了,对数形的算法,我们一会再回来。(计算机科学及编程导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "There would have been a ______ sense, and Milton has to have been sensitive to this, that it was simply too late to write an epic of any kind on any subject.",
+            "choices": [
+                "associated with",
+                "prevailing",
+                "anticipate",
+                "integral",
+                "gradual"
+            ],
+            "chn": "这很明显，弥尔顿肯定意识到了这一点，这个时候写史诗，不管写什么主题，都已经太晚了。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Mr.Obama said he is sending in his words a \"more ______ superstar\" to make America's case in Copenhagen.",
+            "choices": [
+                "synthesizing",
+                "confine",
+                "virtually",
+                "compelling",
+                "exquisite"
+            ],
+            "chn": "(VOA : standard.2009.09.16)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"Of course,the visit to Libya, I mean everything with Libya is always rather unique and ______, but that might be Libya-specific, and I am sure that Gadhafi would have welcomed Bashir.",
+            "choices": [
+                "impede",
+                "peculiar",
+                "astonishing",
+                "exquisite",
+                "diffuse"
+            ],
+            "chn": "(VOA : standard.2009.03.26)"
+        },
+        {
+            "cate": "choice",
+            "problem": "This is ______ one of the most successful.",
+            "choices": [
+                "synthesizing",
+                "segregated",
+                "pioneering",
+                "undoubtedly",
+                "generally"
+            ],
+            "chn": "这样的一堂课无疑是最成功的。()"
+        }
+    ],
+    "quiz_id": "107"
+}

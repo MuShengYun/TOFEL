@@ -1,0 +1,1517 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "vacated",
+            "choices": [
+                "adv. 不情愿地",
+                "vi. 休假",
+                "vt. 空出，搬出",
+                "vt. 使撤退",
+                "vt. 取消",
+                "vi. 空出，腾出",
+                "adv. 嫌恶地",
+                "vi. 辞职"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "compelling",
+            "choices": [
+                "adj. 废弃的",
+                "n. 网络",
+                "vt. 排挤掉",
+                "v. 强迫",
+                "adj. 强制的",
+                "v. 以强力获得（compel的ing形式）",
+                "adj. 引人注目的",
+                "adj. 激发兴趣的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "profusely",
+            "choices": [
+                "n. 重要",
+                "n. 存款",
+                "adj. 丢弃的",
+                "adj. 可行的",
+                "n. 困惑",
+                "adj. 连续的",
+                "adj. 健康的",
+                "adv. 丰富地"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "hollow",
+            "choices": [
+                "n. 烈性泻药",
+                "adj. 虚伪的",
+                "adv. 无用地",
+                "vt. 使成为空洞",
+                "n. 窟窿",
+                "n. 山谷",
+                "n. 洞",
+                "adj. 中空的，空腹的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "elaborate",
+            "choices": [
+                "adj. 煞费苦心的",
+                "vt. 精心制作",
+                "adj. 精心制作的",
+                "adj. 详尽的",
+                "n. 粘合剂",
+                "vt. 详细阐述",
+                "vi. 变复杂",
+                "vt. 从简单成分合成（复杂有机物）"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "viable",
+            "choices": [
+                "vi. 详细描述",
+                "adj. 可行的",
+                "adj. 能生育的",
+                "adj. 能养活的",
+                "vt. 使困惑，使为难",
+                "n. 立场",
+                "adv. 丰富地",
+                "n. 存款"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "implement",
+            "choices": [
+                "n. 保证金",
+                "vt. 实施，执行",
+                "n. 手段",
+                "n. 工具，器具",
+                "adj. 引人注目的",
+                "adv. 丰富地",
+                "vt. 实现，使生效",
+                "n. 窟窿"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "engage",
+            "choices": [
+                "vi. 啮合",
+                "vt. 空出，搬出",
+                "vi. 答应，保证",
+                "vi. 参与",
+                "vt. 使订婚",
+                "vt. 预定",
+                "vt. 使参加",
+                "vi. 交战"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "discarded",
+            "choices": [
+                "adj. 无前例的",
+                "adj. 丢弃的",
+                "adv. 丰富地",
+                "n. 存款",
+                "adj. 无前例的",
+                "v. 丢弃（discard的过去分词）",
+                "adj. 废弃的",
+                "adv. 不确定地，无限期地"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "perplex",
+            "choices": [
+                "n. 喷射",
+                "vt. 使复杂化",
+                "vt. 使困惑，使为难",
+                "adj. 空前的",
+                "adj. 广泛的",
+                "adj. 令人钦佩的",
+                "adj. 重复的",
+                "adj. 净余的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "adhesive",
+            "choices": [
+                "adj. 粘着的",
+                "n. 粘合剂",
+                "n. 沉淀物",
+                "adj. 带粘性的",
+                "adj. 广泛的",
+                "n. 胶黏剂",
+                "adj. 虚伪的",
+                "adj. 广阔的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "supplant",
+            "choices": [
+                "vt. 排挤掉",
+                "vt. 代替",
+                "vt. 实现，使生效",
+                "n. 手段",
+                "adv. 不确定地，无限期地",
+                "adv. 嫌恶地",
+                "adj. 能养活的",
+                "adj. 渊博的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "retention",
+            "choices": [
+                "n. 记忆力",
+                "n. 保留",
+                "vt. 空出，搬出",
+                "adj. 不利的",
+                "n. 沉淀物",
+                "adj. 能养活的",
+                "n. 闭尿",
+                "n. 扣留，滞留"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "suffice",
+            "choices": [
+                "vi. 交战",
+                "vi. 有能力",
+                "vt. 合格",
+                "vt. 使满足",
+                "adj. 相反的",
+                "vi. 足够",
+                "vt. 足够…用",
+                "adj. 重复的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "obstruction",
+            "choices": [
+                "adj. 依次的",
+                "adv. 丰富地",
+                "vt. 证明",
+                "n. 妨碍",
+                "n. 阻碍",
+                "n. 净利",
+                "vt. 排挤掉",
+                "n. 障碍"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "stance",
+            "choices": [
+                "vi. 辞职",
+                "adj. 纯粹的",
+                "n. 准备击球姿势",
+                "adj. 感人的",
+                "adj. 煞费苦心的",
+                "n. 立场",
+                "n. 位置",
+                "n. 姿态"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "adverse",
+            "choices": [
+                "adj. 凹的",
+                "adv. 说不清的",
+                "adj. 敌对的（名词adverseness，副词adversely）",
+                "n. 净利",
+                "vi. 详细描述",
+                "adv. 丰富地",
+                "adj. 不利的",
+                "adj. 相反的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "reluctantly",
+            "choices": [
+                "adv. 不情愿地",
+                "vt. 精心制作",
+                "adj. 粗野的",
+                "adj. 重复的",
+                "adj. 凹的",
+                "vt. 使困惑，使为难",
+                "adj. 中空的，空腹的",
+                "adv. 嫌恶地"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "drastic",
+            "choices": [
+                "adj. 广泛的",
+                "adj. 激烈的",
+                "adj. 继承的",
+                "adj. 健康的",
+                "adj. 猛烈的",
+                "n. 烈性泻药",
+                "n. 保留",
+                "vi. 参与"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "impressive",
+            "choices": [
+                "adj. 给人以深刻印象的",
+                "adj. 虚伪的",
+                "vt. 取消",
+                "n. 洞",
+                "n. 网",
+                "adv. 令人难以理解地",
+                "adj. 感人的",
+                "adj. 令人钦佩的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "indefinitely",
+            "choices": [
+                "adv. 模糊地，不明确地",
+                "adj. 强制的",
+                "adv. 丰富地",
+                "adj. 依次的",
+                "vt. 使沉积",
+                "n. 大小",
+                "adj. 强制的",
+                "adv. 不确定地，无限期地"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "deposit",
+            "choices": [
+                "n. 保证金",
+                "n. 押金",
+                "vi. 沉淀",
+                "adv. 嫌恶地",
+                "n. 订金",
+                "n. 沉淀物",
+                "vt. 存放",
+                "n. 存款"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "baffle",
+            "choices": [
+                "vt. 证实",
+                "vt. 用挡板控制",
+                "n. 困惑",
+                "vt. 使…困惑",
+                "adv. 不确定地，无限期地",
+                "vi. 做徒劳挣扎",
+                "vt. 使…受挫折",
+                "n. 挡板"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "extensive",
+            "choices": [
+                "vi. 详细描述",
+                "adj. 广阔的",
+                "adj. 广泛的",
+                "adj. 激发兴趣的",
+                "adj. 大量的",
+                "adv. 不情愿地",
+                "adj. 健康的",
+                "adj. 敌对的（名词adverseness，副词adversely）"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "net",
+            "choices": [
+                "n. 网",
+                "vt. 使成为空洞",
+                "adj. 净余的",
+                "n. 实价",
+                "vi. 编网",
+                "vt. 得到",
+                "n. 网络",
+                "vt. 净赚"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "attest",
+            "choices": [
+                "adv. 模糊地，不明确地",
+                "vt. 证明",
+                "vi. 证明",
+                "vt. 证实",
+                "vt. 为…作证",
+                "adj. 渊博的",
+                "vi. 作证",
+                "n. 障碍"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "successive",
+            "choices": [
+                "adj. 继承的",
+                "adj. 深厚的",
+                "adj. 接替的",
+                "adj. 连续的",
+                "adj. 废弃的",
+                "adv. 嫌恶地",
+                "vt. 实施，执行",
+                "adj. 依次的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "profound",
+            "choices": [
+                "adj. 广泛的",
+                "adj. 意义深远的",
+                "n. 立场",
+                "adj. 中空的，空腹的",
+                "adj. 猛烈的",
+                "adj. 深厚的",
+                "adj. 渊博的",
+                "n. 阻碍"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "unprecedented",
+            "choices": [
+                "adj. 无前例的",
+                "adj. 渊博的",
+                "adj. 空前的",
+                "vt. 用挡板控制",
+                "vt. 喷出",
+                "n. 冲刺",
+                "adv. 说不清的",
+                "n. 障碍"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "repetitive",
+            "choices": [
+                "vt. 空出，搬出",
+                "adj. 重复的",
+                "n. 喷射",
+                "vt. 实施，执行",
+                "n. 准备击球姿势",
+                "adv. 彻底地",
+                "adj. 猛烈的",
+                "v. 强迫"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "inexplicably",
+            "choices": [
+                "adv. 无法说明地",
+                "adj. 可行的",
+                "adj. 粗鲁的",
+                "adj. 净余的",
+                "adv. 令人难以理解地",
+                "n. 沉淀物",
+                "adv. 说不清的",
+                "adj. 深厚的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "spurt",
+            "choices": [
+                "vt. 喷射",
+                "vi. 冲刺",
+                "vt. 喷出",
+                "adj. 深厚的",
+                "vi. 迸发",
+                "n. 冲刺",
+                "n. 喷射",
+                "vi. 喷出"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "robust",
+            "choices": [
+                "adj. 粗鲁的",
+                "adj. 空前的",
+                "adj. 渊博的",
+                "adj. 健康的",
+                "n. 冲刺",
+                "n. 妨碍",
+                "adj. 粗野的",
+                "adj. 强健的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "magnitude",
+            "choices": [
+                "adj. 激烈的",
+                "n. [地震] 震级",
+                "vt. 存放",
+                "n. 重要",
+                "n. 大小",
+                "n. 光度",
+                "adj. 空的",
+                "n. 量级"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 窟窿; vi. 形成空洞; n. 山谷",
+            "choices": [
+                "repetitive",
+                "spurt",
+                "hollow",
+                "deposit",
+                "compelling"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 排挤掉; vt. 代替",
+            "choices": [
+                "supplant",
+                "robust",
+                "engage",
+                "hollow",
+                "drastic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 阻碍; n. 妨碍; n. 障碍",
+            "choices": [
+                "impressive",
+                "stance",
+                "obstruction",
+                "attest",
+                "implement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 胶黏剂; adj. 带粘性的; adj. 粘着的",
+            "choices": [
+                "adhesive",
+                "engage",
+                "spurt",
+                "reluctantly",
+                "successive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 不确定地，无限期地; adv. 模糊地，不明确地",
+            "choices": [
+                "unprecedented",
+                "indefinitely",
+                "magnitude",
+                "profusely",
+                "supplant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使困惑，使为难; vt. 使复杂化",
+            "choices": [
+                "perplex",
+                "baffle",
+                "discarded",
+                "viable",
+                "adhesive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 沉淀物; vt. 存放; n. 押金",
+            "choices": [
+                "reluctantly",
+                "inexplicably",
+                "deposit",
+                "extensive",
+                "net"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 深厚的; adj. 意义深远的; adj. 渊博的",
+            "choices": [
+                "spurt",
+                "profound",
+                "repetitive",
+                "extensive",
+                "obstruction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 休假; vi. 辞职; vt. 使撤退",
+            "choices": [
+                "obstruction",
+                "viable",
+                "deposit",
+                "vacated",
+                "magnitude"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 健康的; adj. 强健的; adj. 粗野的",
+            "choices": [
+                "retention",
+                "repetitive",
+                "adhesive",
+                "implement",
+                "robust"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 重复的",
+            "choices": [
+                "adverse",
+                "extensive",
+                "elaborate",
+                "robust",
+                "repetitive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 丢弃的; v. 丢弃（discard的过去分词）; adj. 废弃的",
+            "choices": [
+                "unprecedented",
+                "attest",
+                "engage",
+                "discarded",
+                "elaborate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使…受挫折; n. 挡板; vi. 做徒劳挣扎",
+            "choices": [
+                "drastic",
+                "successive",
+                "spurt",
+                "baffle",
+                "net"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 足够…用; vt. 合格; vi. 足够",
+            "choices": [
+                "suffice",
+                "discarded",
+                "adhesive",
+                "successive",
+                "spurt"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 保留; n. 闭尿; n. 记忆力",
+            "choices": [
+                "retention",
+                "indefinitely",
+                "profusely",
+                "discarded",
+                "obstruction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 可行的; adj. 能养活的; adj. 能生育的",
+            "choices": [
+                "robust",
+                "viable",
+                "adhesive",
+                "adverse",
+                "implement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 连续的; adj. 接替的; adj. 依次的",
+            "choices": [
+                "successive",
+                "net",
+                "elaborate",
+                "extensive",
+                "deposit"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 位置; n. 准备击球姿势; n. 姿态",
+            "choices": [
+                "unprecedented",
+                "stance",
+                "extensive",
+                "obstruction",
+                "spurt"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 喷射; vi. 冲刺; vt. 喷射",
+            "choices": [
+                "unprecedented",
+                "spurt",
+                "engage",
+                "inexplicably",
+                "hollow"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 不利的; adj. 敌对的（名词ness，副词ly）; adj. 相反的",
+            "choices": [
+                "repetitive",
+                "impressive",
+                "adverse",
+                "implement",
+                "discarded"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 给人以深刻印象的; adj. 令人钦佩的; adj. 感人的",
+            "choices": [
+                "drastic",
+                "impressive",
+                "adhesive",
+                "baffle",
+                "hollow"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 参与; vi. 啮合; vt. 使参加",
+            "choices": [
+                "attest",
+                "impressive",
+                "extensive",
+                "successive",
+                "engage"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 为…作证; vt. 证实; vt. 证明",
+            "choices": [
+                "stance",
+                "deposit",
+                "attest",
+                "indefinitely",
+                "adverse"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 空前的; adj. 无前例的",
+            "choices": [
+                "retention",
+                "stance",
+                "reluctantly",
+                "unprecedented",
+                "vacated"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 无法说明地; adv. 说不清的; adv. 令人难以理解地",
+            "choices": [
+                "obstruction",
+                "retention",
+                "successive",
+                "repetitive",
+                "inexplicably"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 变复杂; vi. 详细描述; adj. 精心制作的",
+            "choices": [
+                "profusely",
+                "repetitive",
+                "magnitude",
+                "deposit",
+                "elaborate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 激烈的; adj. 猛烈的; n. 烈性泻药",
+            "choices": [
+                "drastic",
+                "viable",
+                "robust",
+                "inexplicably",
+                "magnitude"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 嫌恶地; adv. 不情愿地",
+            "choices": [
+                "reluctantly",
+                "suffice",
+                "inexplicably",
+                "supplant",
+                "hollow"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 丰富地",
+            "choices": [
+                "baffle",
+                "compelling",
+                "deposit",
+                "reluctantly",
+                "profusely"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 实现，使生效; n. 工具，器具; vt. 实施，执行",
+            "choices": [
+                "implement",
+                "baffle",
+                "unprecedented",
+                "indefinitely",
+                "reluctantly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 强迫; adj. 激发兴趣的; adj. 强制的",
+            "choices": [
+                "extensive",
+                "adhesive",
+                "elaborate",
+                "compelling",
+                "retention"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [地震] 震级; n. 量级; n. 大小",
+            "choices": [
+                "compelling",
+                "magnitude",
+                "elaborate",
+                "obstruction",
+                "inexplicably"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 净余的; adj. 纯粹的; n. 实价",
+            "choices": [
+                "elaborate",
+                "reluctantly",
+                "net",
+                "attest",
+                "implement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 广泛的; adj. 广阔的; adj. 大量的",
+            "choices": [
+                "attest",
+                "baffle",
+                "compelling",
+                "extensive",
+                "magnitude"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 挡板; n. 困惑; vt. 用挡板控制",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "f",
+                "f",
+                "l"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 保留; n. 记忆力; n. 闭尿",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "n",
+                "n",
+                "o",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 意义深远的; adj. 深厚的; adj. 渊博的",
+            "choices": [
+                "d",
+                "f",
+                "n",
+                "o",
+                "o",
+                "p",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 大量的; adj. 广阔的; adj. 广泛的",
+            "choices": [
+                "e",
+                "e",
+                "e",
+                "i",
+                "n",
+                "s",
+                "t",
+                "v",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 不利的; adj. 相反的; adj. 敌对的（名词adverseness，副词adversely）",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "r",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 不情愿地; adv. 嫌恶地",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "l",
+                "l",
+                "n",
+                "r",
+                "t",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 连续的; adj. 接替的; adj. 继承的",
+            "choices": [
+                "c",
+                "c",
+                "e",
+                "e",
+                "i",
+                "s",
+                "s",
+                "s",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 激发兴趣的; adj. 强制的; v. 以强力获得（compel的ing形式）",
+            "choices": [
+                "c",
+                "e",
+                "g",
+                "i",
+                "l",
+                "l",
+                "m",
+                "n",
+                "o",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 重复的",
+            "choices": [
+                "e",
+                "e",
+                "e",
+                "i",
+                "i",
+                "p",
+                "r",
+                "t",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 大小; n. 光度; n. 量级",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "g",
+                "i",
+                "m",
+                "n",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 立场; n. 姿态; n. 位置",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "n",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 说不清的; adv. 令人难以理解地; adv. 无法说明地",
+            "choices": [
+                "a",
+                "b",
+                "c",
+                "e",
+                "i",
+                "i",
+                "l",
+                "l",
+                "n",
+                "p",
+                "x",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 证明; vi. 证明; vt. 为…作证",
+            "choices": [
+                "a",
+                "e",
+                "s",
+                "t",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 凹的; adj. 虚伪的; adj. 中空的，空腹的",
+            "choices": [
+                "h",
+                "l",
+                "l",
+                "o",
+                "o",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 令人钦佩的; adj. 给人以深刻印象的; adj. 感人的",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "i",
+                "m",
+                "p",
+                "r",
+                "s",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 粗鲁的; adj. 粗野的; adj. 健康的",
+            "choices": [
+                "b",
+                "o",
+                "r",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 足够…用; vt. 使满足; vt. 合格",
+            "choices": [
+                "c",
+                "e",
+                "f",
+                "f",
+                "i",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 答应，保证; vi. 啮合; vi. 交战",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "g",
+                "g",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 猛烈的; n. 烈性泻药; adj. 激烈的",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "i",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 空出，搬出; vt. 取消; vi. 空出，腾出",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "d",
+                "e",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 粘合剂; adj. 粘着的; n. 胶黏剂",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "h",
+                "i",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 迸发; vi. 冲刺; vi. 喷出",
+            "choices": [
+                "p",
+                "r",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 排挤掉; vt. 代替",
+            "choices": [
+                "a",
+                "l",
+                "n",
+                "p",
+                "p",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 详细阐述; adj. 详尽的; adj. 精心制作的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "e",
+                "e",
+                "l",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 丢弃的; adj. 废弃的; v. 丢弃（discard的过去分词）",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "d",
+                "d",
+                "e",
+                "i",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 模糊地，不明确地; adv. 不确定地，无限期地",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "f",
+                "i",
+                "i",
+                "i",
+                "l",
+                "n",
+                "n",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 丰富地",
+            "choices": [
+                "e",
+                "f",
+                "l",
+                "o",
+                "p",
+                "r",
+                "s",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 能生育的; adj. 可行的; adj. 能养活的",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "i",
+                "l",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 妨碍; n. 阻碍; n. 障碍",
+            "choices": [
+                "b",
+                "c",
+                "i",
+                "n",
+                "o",
+                "o",
+                "r",
+                "s",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 保证金; n. 订金; vi. 沉淀",
+            "choices": [
+                "d",
+                "e",
+                "i",
+                "o",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使困惑，使为难; vt. 使复杂化",
+            "choices": [
+                "e",
+                "e",
+                "l",
+                "p",
+                "p",
+                "r",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 手段; vt. 实施，执行; n. 工具，器具",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "l",
+                "m",
+                "m",
+                "n",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 空前的; adj. 无前例的",
+            "choices": [
+                "c",
+                "d",
+                "d",
+                "e",
+                "e",
+                "e",
+                "e",
+                "n",
+                "n",
+                "p",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 得到; n. 网络; vt. 净赚",
+            "choices": [
+                "e",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "\"I shall not name names, but ______ to say many countries are fishing illegally in Somalia waters.",
+            "choices": [
+                "repetitive",
+                "suffice",
+                "vacated",
+                "inexplicably",
+                "spurt"
+            ],
+            "chn": "(VOA : standard.2009.10.30)"
+        },
+        {
+            "cate": "choice",
+            "problem": "(Speaking) Waxler says the agency should have provided better oversight and employed tougher standards for dealing with ______ effects of LASIK.",
+            "choices": [
+                "unprecedented",
+                "magnitude",
+                "adverse",
+                "spurt",
+                "retention"
+            ],
+            "chn": "(VOA : standard.2010.03.03)"
+        },
+        {
+            "cate": "choice",
+            "problem": "the ______ bonuses were put in place at the beginning of 2008, before AIG received any bail-out money.",
+            "choices": [
+                "retention",
+                "repetitive",
+                "baffle",
+                "unprecedented",
+                "profound"
+            ],
+            "chn": "(VOA : standard.2009.03.15)"
+        },
+        {
+            "cate": "choice",
+            "problem": "She's speaking ______ here.",
+            "choices": [
+                "suffice",
+                "retention",
+                "adhesive",
+                "viable",
+                "reluctantly"
+            ],
+            "chn": "她说这些话很勉强。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Now you have this situation where you have a droplet that is ______ negative or perhaps ______ positive.",
+            "choices": [
+                "net",
+                "retention",
+                "successive",
+                "repetitive",
+                "deposit"
+            ],
+            "chn": "现在的情况是那些液滴,可能是净负电，也可能是净正电。(固态化学导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "You have ______ properties and intensive properties The ______ properties are the ones that scale with the size of the system.",
+            "choices": [
+                "repetitive",
+                "implement",
+                "obstruction",
+                "extensive",
+                "profusely"
+            ],
+            "chn": "广延量,和强度量,广延量的值,随着系统的规模变化。(热力学与动力学课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Republicans also bitterly oppose the Democrat's plan to avoid Republican ______ in a later Senate vote on the modified package with a process that would allow approval with a simple majority of 51 votes.",
+            "choices": [
+                "deposit",
+                "engage",
+                "adhesive",
+                "obstruction",
+                "supplant"
+            ],
+            "chn": "(VOA : standard.2010.03.19)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It's ______; it's anti-economical; it's retardant.",
+            "choices": [
+                "suffice",
+                "hollow",
+                "repetitive",
+                "spurt",
+                "net"
+            ],
+            "chn": "它是重复的，冗余的。(文学理论导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The report says Russian science has suffered from ______ budget cuts since the collapse of the Soviet Union in 1991.",
+            "choices": [
+                "drastic",
+                "indefinitely",
+                "retention",
+                "adverse",
+                "implement"
+            ],
+            "chn": "(VOA : standard.2010.02.03)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The ______ access to Aung San Suu Kyi comes just days after her house arrest was extended to another 18 months.",
+            "choices": [
+                "supplant",
+                "repetitive",
+                "unprecedented",
+                "deposit",
+                "net"
+            ],
+            "chn": "(VOA : standard.2009.08.15)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"With more stable infrastructure, once it's rebuilt, with a more ______ health system, there's an opportunity to not only deal with the immediate tragedy of the earthquake, but hopefully, some of the longer-term crises that Haitians have experienced day in and day out.\"",
+            "choices": [
+                "repetitive",
+                "extensive",
+                "successive",
+                "elaborate",
+                "robust"
+            ],
+            "chn": "(VOA : special.2010.02.01)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Nolan leads characters and the audience deeper and deeper into the subconscious, combining an ______ heist with science fiction and psychological drama.",
+            "choices": [
+                "obstruction",
+                "elaborate",
+                "deposit",
+                "compelling",
+                "extensive"
+            ],
+            "chn": "(VOA : standard.2010.07.20)"
+        }
+    ],
+    "quiz_id": "90"
+}

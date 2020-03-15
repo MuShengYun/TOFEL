@@ -1,0 +1,917 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "adj. 无意识的; adj. 手工操作的; adj. 机械的",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "c",
+                "e",
+                "h",
+                "i",
+                "l",
+                "m",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 呈现; vi. 显露; vi. 展开",
+            "choices": [
+                "d",
+                "f",
+                "l",
+                "n",
+                "o",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 暗喻，隐喻; n. 比喻说法",
+            "choices": [
+                "a",
+                "e",
+                "h",
+                "m",
+                "o",
+                "p",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 同样地; adv. 也",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "i",
+                "k",
+                "l",
+                "s",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 母亲的; adj. 母性的; adj. 母系的",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "l",
+                "m",
+                "n",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 线的，线型的; adj. 长度的; adj. 直线的，线状的",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "l",
+                "n",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有吸引力的; adj. 地磁的; adj. 有磁性的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "g",
+                "i",
+                "m",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [计量] 千米（等于kilometre）; n. [计量] 公里",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "k",
+                "l",
+                "m",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 在本地; adv. 局部地",
+            "choices": [
+                "a",
+                "c",
+                "l",
+                "l",
+                "l",
+                "o",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 用手操作的器具; n. 说明书; adj. 用手的",
+            "choices": [
+                "a",
+                "a",
+                "l",
+                "m",
+                "n",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 数学的，数学上的; adj. 精确的",
+            "choices": [
+                "a",
+                "a",
+                "a",
+                "c",
+                "e",
+                "h",
+                "i",
+                "l",
+                "m",
+                "m",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [化学] 镉（元素符号Cd）",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "i",
+                "m",
+                "m",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 正统的; vt. 认为正当（等于legitimize）; adj. 正当的",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "g",
+                "i",
+                "i",
+                "l",
+                "m",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 手工的; n. 技工，机修工",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "h",
+                "i",
+                "m",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 良性的; adj. 和蔼的，亲切的; adj. 吉利的",
+            "choices": [
+                "b",
+                "e",
+                "g",
+                "i",
+                "n",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. [语] 词典的; adj. 词汇的; adj. 词典编纂的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "l",
+                "l",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 实验室，研究室",
+            "choices": [
+                "a",
+                "b",
+                "l"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 语言学",
+            "choices": [
+                "c",
+                "g",
+                "i",
+                "i",
+                "i",
+                "l",
+                "n",
+                "s",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 指导; n. 指导者，良师益友",
+            "choices": [
+                "e",
+                "m",
+                "n",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [数] 轨迹; n. 地点，所在地",
+            "choices": [
+                "c",
+                "l",
+                "o",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 陈列; n. 设计; n. 布局",
+            "choices": [
+                "a",
+                "l",
+                "o",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 保王党员; adj. 有害的; adj. [医] 恶性的",
+            "choices": [
+                "a",
+                "a",
+                "g",
+                "i",
+                "l",
+                "m",
+                "n",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 调停; adj. 间接的; adj. 居间的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "i",
+                "m",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 大小; n. 光度; n. [地震] 震级",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "g",
+                "i",
+                "m",
+                "n",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 机器; n. 机械装置; n. 机械",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "h",
+                "i",
+                "m",
+                "n",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 方法学，方法论",
+            "choices": [
+                "d",
+                "e",
+                "g",
+                "h",
+                "l",
+                "m",
+                "o",
+                "o",
+                "o",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有闲的; n. 安逸; n. 空闲",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "l",
+                "r",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 篡改; vt. 操作; vt. 操纵",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "i",
+                "l",
+                "m",
+                "n",
+                "p",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 切断…的手足; n. 枝干; n. 肢，臂",
+            "choices": [
+                "b",
+                "i",
+                "l",
+                "m"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 参照标准; n. 标志基因; n. 阅卷人",
+            "choices": [
+                "a",
+                "e",
+                "k",
+                "m",
+                "r",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 语言的; adj. 语言学的",
+            "choices": [
+                "c",
+                "g",
+                "i",
+                "i",
+                "i",
+                "l",
+                "n",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 报信者，送信者; n. 先驱",
+            "choices": [
+                "e",
+                "e",
+                "e",
+                "g",
+                "m",
+                "n",
+                "r",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 可能性，可能",
+            "choices": [
+                "d",
+                "e",
+                "h",
+                "i",
+                "i",
+                "k",
+                "l",
+                "l",
+                "o",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 手写的; n. [图情] 手稿; n. 原稿",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "m",
+                "n",
+                "p",
+                "r",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 循环电影胶片; v. 使成环; v. （使飞机）翻筋斗",
+            "choices": [
+                "l",
+                "o",
+                "o",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 大理石的; n. 大理石制品; adj. 冷酷无情的",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "l",
+                "m",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 铁圈球球场; n. 步行商业区; n. 步行道",
+            "choices": [
+                "a",
+                "l",
+                "l",
+                "m"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 膜; n. 薄膜; n. 羊皮纸",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "e",
+                "m",
+                "m",
+                "n",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 记忆; vt. 记住，背熟",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "m",
+                "m",
+                "o",
+                "r",
+                "z"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 天性; adj. 充满着的; n. 本能，直觉",
+            "choices": [
+                "c",
+                "i",
+                "i",
+                "n",
+                "n",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 髓，骨髓; n. 精华; n. 活力",
+            "choices": [
+                "a",
+                "m",
+                "o",
+                "r",
+                "r",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 中脉; n. 媒质（medium的复数）; n. 浊塞音",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "m"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [计量] 公升（容量单位）",
+            "choices": [
+                "e",
+                "i",
+                "l",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. （使）增加到最大限度; v. 充分利用; v. 找到……的最高值",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "i",
+                "m",
+                "m",
+                "x",
+                "z"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 传奇; n. 图例; n. 说明",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "g",
+                "l",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 结块; adv. 很; n. 笨人",
+            "choices": [
+                "l",
+                "m",
+                "p",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 讲师，演讲者",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "l",
+                "r",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 母体; n. 子宫; n. [数] 矩阵",
+            "choices": [
+                "a",
+                "i",
+                "m",
+                "r",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": ". 天]水星; n. [化]汞，水银; . ??度表",
+            "choices": [
+                "c",
+                "e",
+                "m",
+                "r",
+                "r",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 合并; vt. 合并; vi. 融合",
+            "choices": [
+                "e",
+                "e",
+                "g",
+                "m",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 末端的; adj. 临界的; adj. 边缘的",
+            "choices": [
+                "a",
+                "a",
+                "g",
+                "i",
+                "l",
+                "m",
+                "n",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 腰子; n. 个性; n. [解剖] 肾脏",
+            "choices": [
+                "d",
+                "e",
+                "i",
+                "k",
+                "n",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 正统; n. 合理; n. 合法",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "g",
+                "i",
+                "i",
+                "l",
+                "m",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 肝脏; n. 生活者，居民",
+            "choices": [
+                "e",
+                "i",
+                "l",
+                "r",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 使用期; adj. 终身的; n. 终生",
+            "choices": [
+                "e",
+                "e",
+                "f",
+                "i",
+                "i",
+                "l",
+                "m",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 逻辑学的; adj. 合逻辑的，合理的",
+            "choices": [
+                "a",
+                "c",
+                "g",
+                "i",
+                "l",
+                "l",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有意义的; adj. 意味深长的",
+            "choices": [
+                "a",
+                "e",
+                "f",
+                "g",
+                "i",
+                "l",
+                "m",
+                "n",
+                "n",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 生活方式; . ??健的",
+            "choices": [
+                "e",
+                "e",
+                "f",
+                "i",
+                "l",
+                "l",
+                "s",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 平民; n. 人口; n. 大众",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "l",
+                "o",
+                "p",
+                "p",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 操纵; n. 篡改; n. 操作",
+            "choices": [
+                "a",
+                "a",
+                "i",
+                "i",
+                "l",
+                "m",
+                "n",
+                "n",
+                "o",
+                "p",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 经线的; adj. 长度的，纵向的",
+            "choices": [
+                "a",
+                "d",
+                "g",
+                "i",
+                "i",
+                "l",
+                "l",
+                "n",
+                "n",
+                "o",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [语] 边音; n. 侧部; adj. 侧面的，横向的",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "l",
+                "l",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [生理] 新陈代谢",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "i",
+                "l",
+                "m",
+                "m",
+                "o",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 杠杆; n. 控制杆; vt. 用杠杆撬动",
+            "choices": [
+                "e",
+                "e",
+                "l",
+                "r",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 生叶; vt. 翻…的页，匆匆翻阅; vi. 翻书页",
+            "choices": [
+                "a",
+                "e",
+                "f",
+                "l"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有…倾向的; adj. 易…的; adj. 应受罚的",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "i",
+                "l",
+                "l"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 肺; n. 呼吸器",
+            "choices": [
+                "g",
+                "l",
+                "n",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 中毒的; adj. 有毒的",
+            "choices": [
+                "c",
+                "i",
+                "o",
+                "t",
+                "x"
+            ]
+        }
+    ],
+    "quiz_id": "254"
+}

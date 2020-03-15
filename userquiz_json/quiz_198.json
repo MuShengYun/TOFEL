@@ -1,0 +1,294 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "test",
+            "choices": [
+                "vt. 试验",
+                "n. 检验",
+                "vt. 测试",
+                "n. 名人",
+                "vi. 试验",
+                "n. 试验",
+                "vi. 测试",
+                "n. 磨难"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "world",
+            "choices": [
+                "n. 表示问候， 惊奇或唤起注意时的用语",
+                "n. 世界",
+                "n. 全人类",
+                "n. 领域",
+                "n. 世俗",
+                "vi. 测试",
+                "n. 纤维",
+                "n. 物质生活"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fire",
+            "choices": [
+                "adj. 网络的，计算机的",
+                "vt. 开除",
+                "vi. 射击",
+                "n. 炮火",
+                "vi. 烧火",
+                "vt. 解雇",
+                "vt. 激动",
+                "n. 火灾"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "tiger",
+            "choices": [
+                "n. 火灾",
+                "n. 老虎",
+                "n. 象",
+                "n. 炉火",
+                "n. 表示问候， 惊奇或唤起注意时的用语",
+                "vi. 测试",
+                "n. 纤维",
+                "n. 凶暴的人"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "hello",
+            "choices": [
+                "int. 喂",
+                "int. 哈罗",
+                "adj. 网络的，计算机的",
+                "n. 世界",
+                "n. 社交场合的名流",
+                "n. 老虎",
+                "n. 表示问候， 惊奇或唤起注意时的用语",
+                "vi. 测试"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 世俗; n. 物质生活; n. 世界",
+            "choices": [
+                "fibre",
+                "world",
+                "elephant",
+                "cyber",
+                "fire"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 激动; vt. 烧制; vt. 激动",
+            "choices": [
+                "elephant",
+                "tiger",
+                "fire",
+                "hello",
+                "fibre"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 网络的，计算机的",
+            "choices": [
+                "world",
+                "hello",
+                "fire",
+                "fibre",
+                "cyber"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 象; n. 大号图画纸",
+            "choices": [
+                "cyber",
+                "fibre",
+                "elephant",
+                "hello",
+                "tiger"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "int. 哈罗; int. 喂; n. 表示问候， 惊奇或唤起注意时的用语",
+            "choices": [
+                "hello",
+                "lion",
+                "elephant",
+                "cyber",
+                "world"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": among innumerable possibilities : ever",
+            "choices": [
+                "hello",
+                "world",
+                "cyber",
+                "elephant",
+                "test"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": an expression or gesture of greeting",
+            "choices": [
+                "tiger",
+                "hello",
+                "fibre",
+                "elephant",
+                "cyber"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a thickset, usually extremely large, nearly hairless, herbivorous mammal (family Elephantidae, the elephant family) that has a snout elongated into a muscular trunk and two incisors in the upper jaw developed especially in the male into long ivory tusks:",
+            "choices": [
+                "fibre",
+                "fire",
+                "world",
+                "elephant",
+                "lion"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": an external hard or firm covering (such as a shell) of many invertebrates (such as a foraminifer or a mollusk)",
+            "choices": [
+                "world",
+                "hello",
+                "tiger",
+                "cyber",
+                "test"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": under attack",
+            "choices": [
+                "world",
+                "hello",
+                "cyber",
+                "fire",
+                "lion"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 世界; n. 全人类; n. 领域",
+            "choices": [
+                "d",
+                "l",
+                "o",
+                "r",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 勇猛的人; n. 狮子; n. 社交场合的名流",
+            "choices": [
+                "i",
+                "l",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "int. 哈罗; int. 喂; n. 表示问候， 惊奇或唤起注意时的用语",
+            "choices": [
+                "e",
+                "h",
+                "l",
+                "l",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 纤维; n. 纤维制品",
+            "choices": [
+                "b",
+                "e",
+                "f",
+                "i",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 老虎; n. 凶暴的人",
+            "choices": [
+                "e",
+                "g",
+                "i",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "That is to say, it is subservient to the natural ______; its importance is that it refers to that ______.",
+            "choices": [
+                "world",
+                "hello",
+                "elephant",
+                "test",
+                "cyber"
+            ],
+            "chn": "也就是说，这些学科都是自然世界的奴仆;,它们存在的价值就是去解释那个自然世界。(文学理论导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "A listener named Maki would like to know if the ______ known as the TOEIC is popular in the United States.",
+            "choices": [
+                "lion",
+                "tiger",
+                "hello",
+                "elephant",
+                "test"
+            ],
+            "chn": "(VOA : special.2010.02.18)"
+        },
+        {
+            "cate": "choice",
+            "problem": "You might also be able to stop an ______ or a hippopotamus by shining lights in their eyes.",
+            "choices": [
+                "hello",
+                "tiger",
+                "elephant",
+                "lion",
+                "world"
+            ],
+            "chn": "(VOA : special.2010.07.27)"
+        },
+        {
+            "cate": "choice",
+            "problem": "That is the friendly greeting that means both \"______\" and \"goodbye\" in the native Hawaiian language.",
+            "choices": [
+                "elephant",
+                "test",
+                "hello",
+                "fibre",
+                "lion"
+            ],
+            "chn": "(VOA : special.2009.08.02)"
+        }
+    ],
+    "quiz_id": "198"
+}

@@ -1,0 +1,787 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "irresistible",
+            "choices": [
+                "n. 脆皮",
+                "adj. 不可抵抗的",
+                "adj. 引起怀念的",
+                "vt. 击穿",
+                "n. 搅乳器",
+                "adj. 限于圈内人的",
+                "adj. 极为诱人的",
+                "adj. 不能压制的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "prototype",
+            "choices": [
+                "n. 标准，模范",
+                "adj. 渴望的",
+                "adj. 积极的",
+                "n. 原型",
+                "n. 偏心",
+                "n. 以取得优势的开局棋法",
+                "n. 生态系统",
+                "vt. 使变形"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "arbitrary",
+            "choices": [
+                "vt. 占先一步",
+                "adj. 专制的",
+                "vt. 归因于",
+                "adj. 武断的",
+                "n. 游移不定",
+                "vt. 扼杀",
+                "vt. 想像",
+                "adj. [数] 任意的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "demanding",
+            "choices": [
+                "vt. 计划",
+                "n. 踌躇",
+                "adj. 要求高的",
+                "vt. 加枷锁",
+                "adj. 苛求的",
+                "v. 要求",
+                "v. 查问（demand的ing形式）",
+                "adj. 吃力的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "blueprint",
+            "choices": [
+                "n. 蓝图，设计图",
+                "n. 紧握",
+                "adj. 凄凉的，忧郁的",
+                "n. 计划",
+                "vt. 垄断，屯积",
+                "vt. 制成蓝图",
+                "vt. 割让（领土）",
+                "vt. 计划"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "crackling",
+            "choices": [
+                "n. 诡计",
+                "v. 龟裂",
+                "n. 猪油渣",
+                "v. 发爆裂声",
+                "v. 充满活力（crackle的ing形式）",
+                "n. 连续的爆裂声",
+                "n. 追诉时效",
+                "n. 脆皮"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "hazard",
+            "choices": [
+                "n. 原型",
+                "n. 危险，冒险",
+                "n. 冒险的事",
+                "vt. 冒…的危险，使遭受危险",
+                "adj. 过分的",
+                "vt. 赞成",
+                "vt. 赌运气",
+                "n. 不果断"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "hail",
+            "choices": [
+                "vi. 下雹",
+                "vt. 猛发",
+                "vt. 加枷锁",
+                "vi. 招呼",
+                "int. 万岁",
+                "n. 冰雹",
+                "vt. 向...欢呼",
+                "n. 一阵"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "wistful",
+            "choices": [
+                "adj. 渴望的",
+                "adj. 沉思的，默想的",
+                "vt. 使变成奇形怪状",
+                "adj. 不满足似的",
+                "n. 信条",
+                "n. 信条",
+                "adj. 引起怀念的",
+                "n. 危险，冒险"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "palpable",
+            "choices": [
+                "adj. 易觉察的",
+                "adj. 明显的",
+                "vt. 向...欢呼",
+                "adj. 不偏不倚的",
+                "vt. 鼓励",
+                "n. 危险，冒险",
+                "n. 有把握的事情",
+                "adj. 可感知的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "furtive",
+            "choices": [
+                "adj. 停息的",
+                "adj. 沉思的，默想的",
+                "vt. 冒…的危险，使遭受危险",
+                "v. 吹散",
+                "n. 信条",
+                "adj. 鬼鬼祟祟的，秘密的",
+                "vt. 搅拌",
+                "n. 码尺"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cede",
+            "choices": [
+                "vt. 放弃",
+                "adj. 有力的",
+                "adj. 渴望的",
+                "adj. 嘲弄的",
+                "vt. 系肚带",
+                "vt. 归因于",
+                "vi. 下雹",
+                "vt. 割让（领土）"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "contemporary",
+            "choices": [
+                "n. 同时代的人",
+                "adj. 当代的",
+                "n. 同时期的东西",
+                "adj. 不应得的，不该受的",
+                "adj. 不成比例的",
+                "adj. 属于同一时期的",
+                "adj. 同时代的",
+                "vt. 搅动"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "snapshot",
+            "choices": [
+                "adj. 不能压制的",
+                "n. 简单印象",
+                "n. 偏心",
+                "vt. 宽恕",
+                "n. 急射，速射",
+                "n. 快照，快相",
+                "vi. 拍快照",
+                "vt. 给…拍快照"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "yardstick",
+            "choices": [
+                "vt. 归因于",
+                "adj. 要求高的",
+                "adj. 武断的",
+                "v. 用力吹",
+                "adj. [数] 任意的",
+                "n. 码尺",
+                "vt. 忽视",
+                "n. 致敬"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "vacillation",
+            "choices": [
+                "n. 信条",
+                "adj. 专制的",
+                "n. 生态系统",
+                "n. 游移不定",
+                "adj. 停滞不前的",
+                "vt. 使能够",
+                "n. 踌躇",
+                "n. 不果断"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "disproportionate",
+            "choices": [
+                "adj. 不成比例的",
+                "n. 生态系统",
+                "adj. 沉思的，默想的",
+                "n. 不果断",
+                "n. 免职",
+                "n. 贫困",
+                "n. 桎梏",
+                "v. 发爆裂声"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "esoteric",
+            "choices": [
+                "vt. 想像",
+                "adj. 秘传的",
+                "n. 贫困",
+                "adj. 限于圈内人的",
+                "n. 剥夺",
+                "adj. 鬼鬼祟祟的，秘密的",
+                "adj. 难懂的",
+                "n. 紧握"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "impartial",
+            "choices": [
+                "n. 生态系统",
+                "adj. 不偏不倚的",
+                "n. 原型",
+                "vt. 冒…的危险，使遭受危险",
+                "vt. 赌运气",
+                "adj. 鬼鬼祟祟的，秘密的",
+                "vt. 使变成奇形怪状",
+                "adj. 公平的，公正的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "moribund",
+            "choices": [
+                "vt. 使变形",
+                "adj. 不成比例的",
+                "adj. 垂死的",
+                "adj. 不能压制的",
+                "adj. 停滞不前的",
+                "n. 垂死的人",
+                "v. 龟裂",
+                "n. 被诅咒者"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "overblown",
+            "choices": [
+                "adj. 已盛开过的",
+                "adj. 过分的",
+                "vi. 窒息",
+                "v. 用力吹",
+                "v. 过分渲染（overblow的过去分词）",
+                "v. 吹散",
+                "adj. 停息的",
+                "adj. 变幻无常的"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "stave",
+            "choices": [
+                "vi. 破碎",
+                "vt. 延缓",
+                "vt. 压扁",
+                "n. 同时期的东西",
+                "vt. 凿孔于",
+                "vt. 击穿",
+                "n. 梯级",
+                "vi. 穿孔"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "energetic",
+            "choices": [
+                "n. 冒险的事",
+                "adj. 积极的",
+                "vt. 不理",
+                "adj. 专制的",
+                "n. 诅咒",
+                "adj. 可感知的",
+                "adj. 精力充沛的",
+                "adj. 有力的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "disregard",
+            "choices": [
+                "vt. 漠视",
+                "vt. 不顾",
+                "adj. 小气的",
+                "n. 忽视",
+                "vt. 不理",
+                "n. 低落的情绪",
+                "n. 不尊重",
+                "vt. 忽视"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "churn",
+            "choices": [
+                "vi. 搅动",
+                "vi. 搅拌",
+                "adj. 鬼鬼祟祟的，秘密的",
+                "vt. 搅动",
+                "n. 码尺",
+                "n. 搅乳器",
+                "vt. 搅拌",
+                "v. 要求"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "deprivation",
+            "choices": [
+                "n. 匮乏",
+                "n. 贫困",
+                "adj. 明显的",
+                "adj. 易怒的",
+                "n. 损失",
+                "n. 革出教门",
+                "n. 剥夺",
+                "n. 免职"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ascribe",
+            "choices": [
+                "n. 标准，模范",
+                "vt. 归咎于",
+                "vt. 归因于",
+                "adj. 精力充沛的",
+                "n. 被诅咒者",
+                "n. 癖好",
+                "vt. 加枷锁",
+                "vt. 使能够"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "uphold",
+            "choices": [
+                "vt. 鼓励",
+                "vt. 赞成",
+                "vt. 支撑",
+                "adj. 鬼鬼祟祟的，秘密的",
+                "n. 偏爱",
+                "vt. 赦免",
+                "adj. 限于圈内人的",
+                "vt. 举起"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "partiality",
+            "choices": [
+                "n. 偏爱",
+                "n. 偏袒",
+                "vt. 举起",
+                "vt. 使变形",
+                "vt. 赦免",
+                "n. 信条",
+                "n. 偏心",
+                "n. 癖好"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "envisage",
+            "choices": [
+                "n. 开场白",
+                "adj. 小规模的",
+                "vt. 正视，面对",
+                "n. 贫困",
+                "adj. 秘传的",
+                "vt. 想像",
+                "n. 连贯性",
+                "vt. 束缚"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "anathema",
+            "choices": [
+                "adj. 要求高的",
+                "n. 令人厌恶的人",
+                "n. 桎梏",
+                "n. 革出教门",
+                "n. 诅咒",
+                "n. 被诅咒者",
+                "n. 垂死的人",
+                "adj. 不应得的，不该受的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "coherence",
+            "choices": [
+                "n. 凝聚",
+                "adj. 鬼鬼祟祟的，秘密的",
+                "vt. 计划",
+                "adj. 引起怀念的",
+                "adj. 引人发笑的",
+                "n. 一致",
+                "n. 开场白",
+                "n. 连贯性"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "petty",
+            "choices": [
+                "vt. 占先一步",
+                "n. 桎梏",
+                "adj. 小规模的",
+                "adj. 琐碎的",
+                "n. 原则",
+                "adj. 小气的",
+                "vt. 制成蓝图",
+                "adj. 阴沉的，沉闷的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fickle",
+            "choices": [
+                "vi. 下雹",
+                "adj. 浮躁的",
+                "adj. 冤枉的",
+                "n. 剥夺",
+                "adj. 易变的",
+                "n. 开始",
+                "adj. 变幻无常的",
+                "vt. 举起"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fractious",
+            "choices": [
+                "n. 阴谋",
+                "vt. 赦免",
+                "adj. 易怒的",
+                "vt. 使变形",
+                "adj. 倔强的，难以对待的",
+                "adj. 不偏不倚的",
+                "vt. 放弃",
+                "n. 生态系统"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dismal",
+            "choices": [
+                "n. 低落的情绪",
+                "adj. 阴沉的，沉闷的",
+                "adj. 凄凉的，忧郁的",
+                "vt. 赦免",
+                "n. 凝聚",
+                "adj. 倔强的，难以对待的",
+                "adj. 专制的",
+                "n. 有把握的事情"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "intrigue",
+            "choices": [
+                "n. 阴谋",
+                "vt. 用诡计取得",
+                "n. 复杂的事",
+                "n. 私通",
+                "vt. 激起...的兴趣",
+                "vt. 放弃",
+                "vi. 密谋",
+                "n. 诡计"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ecosystem",
+            "choices": [
+                "adj. 满足的",
+                "vt. 紧握住",
+                "vt. 使窒息",
+                "vt. 使变形",
+                "n. 生态系统",
+                "adj. 精力充沛的",
+                "n. 产业",
+                "adj. 倔强的，难以对待的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "empower",
+            "choices": [
+                "v. 吹散",
+                "vt. 使能够",
+                "adj. 鬼鬼祟祟的，秘密的",
+                "vt. 授权，允许",
+                "adj. 苛求的",
+                "adj. 吃力的",
+                "adj. 小规模的",
+                "n. 贫困"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "quizzical",
+            "choices": [
+                "adj. 探询的",
+                "vt. 紧握住",
+                "adj. 嘲弄的",
+                "adj. 引人发笑的",
+                "adj. 古怪的",
+                "vt. 扼杀",
+                "n. 束缚",
+                "n. 话题"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "stifle",
+            "choices": [
+                "n. （马等的）后膝关节",
+                "vt. 使窒息",
+                "vt. 扼杀",
+                "vi. 被扼杀",
+                "vi. 窒息",
+                "n. （马等的）[动] 后膝关节病",
+                "vt. 藏匿",
+                "adj. 易怒的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "gambit",
+            "choices": [
+                "n. 开始",
+                "n. 低落的情绪",
+                "n. 连贯性",
+                "vi. 穿孔",
+                "n. 开场白",
+                "vt. 领先",
+                "n. 以取得优势的开局棋法",
+                "n. 话题"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "condone",
+            "choices": [
+                "vt. 赦免",
+                "n. 生态系统",
+                "adj. 沉思的，默想的",
+                "adj. 倔强的，难以对待的",
+                "vt. 宽恕",
+                "adj. 鬼鬼祟祟的，秘密的",
+                "adj. 不应得的，不该受的",
+                "adj. 探询的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "contented",
+            "choices": [
+                "vt. 归因于",
+                "adj. 不成比例的",
+                "v. 使…满足",
+                "adj. 满足的",
+                "adj. 心安的",
+                "v. 使…安心（content的过去式和过去分词）",
+                "vt. 计划",
+                "n. 诡计"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cinch",
+            "choices": [
+                "vt. 紧握住",
+                "n. 危险，冒险",
+                "n. 有把握的事情",
+                "vi. 被扼杀",
+                "vt. 系肚带",
+                "n. 肚带",
+                "adj. 不成比例的",
+                "n. 紧握"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "domain",
+            "choices": [
+                "n. 领域",
+                "n. 地产",
+                "n. 产业",
+                "vt. 扼杀",
+                "n. 教义",
+                "n. 域名",
+                "adj. 公平的，公正的",
+                "adj. 鬼鬼祟祟的，秘密的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "tenet",
+            "choices": [
+                "n. 教义",
+                "n. 紧握",
+                "adj. 停息的",
+                "n. 标准，模范",
+                "adj. 易怒的",
+                "adj. 鬼鬼祟祟的，秘密的",
+                "n. 原则",
+                "n. 信条"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "shackle",
+            "choices": [
+                "n. 桎梏",
+                "vt. 束缚",
+                "vt. 加枷锁",
+                "n. 生态系统",
+                "n. 脚镣",
+                "n. 束缚",
+                "n. 诅咒",
+                "vt. 不理"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "forestall",
+            "choices": [
+                "vt. 先发制人，预先阻止",
+                "n. 紧握",
+                "adj. 易怒的",
+                "vt. 垄断，屯积",
+                "n. 信条",
+                "vt. 占先一步",
+                "vt. 领先",
+                "adj. 琐碎的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "transmogrify",
+            "choices": [
+                "adj. 古怪的",
+                "vt. 使变成奇形怪状",
+                "v. 使…安心（content的过去式和过去分词）",
+                "n. 癖好",
+                "vt. 使变形",
+                "adj. 凄凉的，忧郁的",
+                "adj. 秘传的",
+                "adj. 心安的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "undeserved",
+            "choices": [
+                "adj. 苛求的",
+                "adj. 冤枉的",
+                "adj. 不成比例的",
+                "vt. 归咎于",
+                "n. 偏爱",
+                "n. 生态系统",
+                "adj. 不应得的，不该受的",
+                "n. 缺陷"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "limitation",
+            "choices": [
+                "n. 追诉时效",
+                "n. 码尺",
+                "n. 有效期限",
+                "adj. 小气的",
+                "n. 极限",
+                "n. 限制",
+                "n. 限度",
+                "n. 缺陷"
+            ],
+            "true_ans_cnt": 6
+        }
+    ],
+    "quiz_id": "143"
+}

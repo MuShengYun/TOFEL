@@ -1,0 +1,251 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "candidate",
+            "choices": [
+                "n. 枪管，炮管",
+                "n. 应试者",
+                "adj. 装有封面的",
+                "n. 艺术品",
+                "n. 候选人，候补者",
+                "adv. 露骨地",
+                "n. 额外津贴",
+                "n. 蝙蝠"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "authority",
+            "choices": [
+                "n. [化学] 载体",
+                "n. 当局",
+                "n. 便宜货",
+                "n. 原子",
+                "n. 轴",
+                "n. 权力",
+                "vt. 捆",
+                "n. 权威"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "atom",
+            "choices": [
+                "adj. 毛状的",
+                "n. 资本主义者",
+                "n. 计算",
+                "n. 原子",
+                "adj. 奇异的（指态度，容貌，款式等）",
+                "n. 生物多样性",
+                "n. 大学，大学生活",
+                "adv. 露骨地"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bacteria",
+            "choices": [
+                "adj. 资本主义的",
+                "adj. [声] 音频的，[声] 声频的",
+                "n. 应试者",
+                "n. 功课",
+                "n. 美术品",
+                "n. [微] 细菌",
+                "adj. 双语的",
+                "adj. 运动的，运动员的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bat",
+            "choices": [
+                "n. 球拍",
+                "n. 批处理文件的扩展名",
+                "vt. 用球棒击球",
+                "n. 桶",
+                "n. 球棒",
+                "vi. 轮到击球",
+                "vi. 用球棒击球",
+                "vt. 击球率达…"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 露骨地; adv. 概括地; adv. 宽广地",
+            "choices": [
+                "bundle",
+                "bat",
+                "bilingual",
+                "calculator",
+                "broadly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 身体的; adv. 整体地; adv. 亲自地",
+            "choices": [
+                "calculator",
+                "bodily",
+                "bleed",
+                "capitalism",
+                "breakdown"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. （一个地区全部的）生物; n. 生物学",
+            "choices": [
+                "biology",
+                "bang",
+                "capitalism",
+                "bonus",
+                "calculation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 应试者; n. 候选人，候补者",
+            "choices": [
+                "candidate",
+                "calculus",
+                "bargain",
+                "blank",
+                "axis"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 大学，大学生活; n. （大学）校园; n. 校园内的草地",
+            "choices": [
+                "axiom",
+                "broadly",
+                "behavioral",
+                "breakdown",
+                "campus"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 微积分学; n. [病理] 结石",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "l",
+                "l",
+                "s",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 资本主义",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "i",
+                "i",
+                "l",
+                "m",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [化学] 钙",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "i",
+                "l",
+                "m",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 讨价还价; n. 便宜货; n. 交易",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "g",
+                "i",
+                "n",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 大多数，大部分; vt. 使显得重要; n. 大块",
+            "choices": [
+                "b",
+                "k",
+                "l",
+                "u"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "This year's mailing includes, for the first time, ______ forms in English and Spanish.",
+            "choices": [
+                "calculus",
+                "bilingual",
+                "cattle",
+                "cheat",
+                "basin"
+            ],
+            "chn": "(VOA : special.2010.03.20)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So that is an ______ of our sequence of lectures, beginning with the last one, that will be postponed until next week.",
+            "choices": [
+                "characterization",
+                "bubble",
+                "auction",
+                "aspect",
+                "capitalist"
+            ],
+            "chn": "以上是我们讲座的顺序，上面提到的这种关系我们下周会讲到。(文学理论导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "On March twenty-seventh,nineteen twelve, Missus Taft and the wife of the Japanese Ambassador together planted two trees at a part of the river called the tidal ______.",
+            "choices": [
+                "censor",
+                "basin",
+                "autonomy",
+                "bubble",
+                "axis"
+            ],
+            "chn": "(VOA : special.2011.04.08)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The scientists say the current level of diversity within ______ breeds is at least as great as within humans.",
+            "choices": [
+                "cattle",
+                "axis",
+                "bang",
+                "cheat",
+                "bracket"
+            ],
+            "chn": "(VOA : special.2009.05.05)"
+        }
+    ],
+    "quiz_id": "42"
+}

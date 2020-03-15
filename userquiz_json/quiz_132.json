@@ -1,0 +1,137 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "n. 计算; n. 深思熟虑; n. 估计",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "c",
+                "i",
+                "l",
+                "l",
+                "n",
+                "o",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 支架; vt. 括在一起; vt. 把…归入同一类",
+            "choices": [
+                "a",
+                "b",
+                "c",
+                "e",
+                "k",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 资本主义的; n. 资本家; n. 资本主义者",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "i",
+                "i",
+                "l",
+                "p",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [微] 细菌",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "c",
+                "e",
+                "i",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 堆满笑容; n. [计量] 秤杆; n. 横梁",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "m"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "It only stands to reason, I think, that Milton would want to inscribe within this poem the problem posed by this extraordinarily compelling ______ of Satan.",
+            "choices": [
+                "audio",
+                "cheer",
+                "capitalist",
+                "backward",
+                "characterization"
+            ],
+            "chn": "理所当然，弥尔顿会想要在始终写明这个问题,关于撒旦过分引人注目的性格的问题。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Hydroxyl is the combination of one hydrogen ______ and one oxygen ______.",
+            "choices": [
+                "bonus",
+                "calculation",
+                "calcium",
+                "atom",
+                "bullet"
+            ],
+            "chn": "(VOA : special.2009.09.30)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And in particular, dairy maids, whose responsibility was to milk cows, and so they had a very intimate relationship with ______, often didn't get disease.",
+            "choices": [
+                "atomic",
+                "cattle",
+                "auction",
+                "assembly",
+                "barrel"
+            ],
+            "chn": "特别是挤奶女工,她们的工作就是挤奶,她们与奶牛有紧密的关系,通常不会得天花(生物医学工程探索课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Of course, once we get to feminism, feminism will have certain ideas of its own about the vertical ______.",
+            "choices": [
+                "bracket",
+                "bodily",
+                "axis",
+                "cattle",
+                "behavioral"
+            ],
+            "chn": "当然，谈到女性主义时，女性主义会对竖轴有自己的解读。(文学理论导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The state university's ______ teams are nicknamed Cornhuskers in recognition of one of the area's chief crops.",
+            "choices": [
+                "bang",
+                "bound",
+                "bulk",
+                "bleed",
+                "athletic"
+            ],
+            "chn": "(VOA : special.2009.08.16)"
+        }
+    ],
+    "quiz_id": "132"
+}

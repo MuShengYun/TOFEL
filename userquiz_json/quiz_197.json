@@ -1,0 +1,311 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "homogeneous",
+            "choices": [
+                "adj. 逃避的",
+                "adj. 均匀的",
+                "adj. [数] 齐次的",
+                "adj. 推托的",
+                "adj. 华丽的",
+                "n. 专业综合测验",
+                "adj. 同种的",
+                "adj. 同类的，同质的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "formulaic",
+            "choices": [
+                "adj. 可进入的",
+                "n. 坡度",
+                "adj. 公式化的",
+                "n. 几率",
+                "adj. 套话堆砌的",
+                "adj. 大声要求的",
+                "adj. 刻板的",
+                "vt. 不再重视，不再强调"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "accessible",
+            "choices": [
+                "adj. 托辞的",
+                "adj. 难到达的",
+                "adj. 可理解的",
+                "adj. 可理解的",
+                "adj. 大声要求的",
+                "adj. 易接近的",
+                "adj. 可进入的",
+                "adj. 做不到的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bias",
+            "choices": [
+                "n. 偏见",
+                "n. 乖离率",
+                "n. 斜纹",
+                "v. 解决",
+                "vt. 使存偏见",
+                "adj. 偏斜的",
+                "adv. 偏斜地",
+                "n. 偏爱"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "preventive",
+            "choices": [
+                "adj. 可理解的",
+                "n. 流犯",
+                "adj. 差别对待的",
+                "n. 预防药",
+                "adj. 预防的，防止的",
+                "n. 预防法",
+                "adj. 羞怯的",
+                "adj. 大脑的，脑的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 大声要求的; adj. 吵闹的",
+            "choices": [
+                "uncanny",
+                "gradient",
+                "settlement",
+                "clamorous",
+                "solemn"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 坡度; n. 倾斜度; n. [数][物] 梯度",
+            "choices": [
+                "ornate",
+                "abbreviate",
+                "gradient",
+                "formulaic",
+                "chastise"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 先驱，前导",
+            "choices": [
+                "evasive",
+                "precursor",
+                "stunning",
+                "discriminating",
+                "solemn"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 稳定的; v. 解决; adj. 固定的",
+            "choices": [
+                "preventive",
+                "evasive",
+                "settled",
+                "misguided",
+                "homogeneous"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 胆小的; adj. 羞怯的",
+            "choices": [
+                "abbreviate",
+                "timid",
+                "explicable",
+                "gradient",
+                "ornate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": having the property that if each variable is replaced by a constant times that variable the constant can be factored out : having each term of the same degree if all variables are considered",
+            "choices": [
+                "displace",
+                "entail",
+                "unattainable",
+                "homogeneous",
+                "formulaic"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": lacking in boldness or determination",
+            "choices": [
+                "accord",
+                "lopsided",
+                "timid",
+                "omnipresent",
+                "clamorous"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": easily used or accessed by people with disabilities : adapted for use by people with disabilities",
+            "choices": [
+                "accessible",
+                "clamorous",
+                "formulaic",
+                "irrational",
+                "preventive"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": an attitude of superiority toward members of the opposite sex",
+            "choices": [
+                "accessible",
+                "chauvinistic",
+                "comprehensible",
+                "discriminating",
+                "formulaic"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": not rational: such as",
+            "choices": [
+                "exile",
+                "irrational",
+                "displace",
+                "ornamental",
+                "instrumental"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 大脑的，脑的",
+            "choices": [
+                "a",
+                "b",
+                "c",
+                "e",
+                "e",
+                "l",
+                "r",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 偏爱; n. 乖离率; adj. 偏斜的",
+            "choices": [
+                "a",
+                "b",
+                "i",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 使大吃一惊（stun的ing形式）; v. 使震耳欲聋; adj. 极好的",
+            "choices": [
+                "g",
+                "i",
+                "n",
+                "n",
+                "n",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 无所不在的",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "m",
+                "n",
+                "n",
+                "o",
+                "p",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 预防法; adj. 预防的，防止的; n. 预防药",
+            "choices": [
+                "e",
+                "e",
+                "e",
+                "i",
+                "n",
+                "p",
+                "r",
+                "t",
+                "v",
+                "v"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "In a ______ admission, he says, listen to this, that \"while nature may intend to distinguish the free man from the slave,\" he says, \"the opposite often results.",
+            "choices": [
+                "stunning",
+                "ornate",
+                "exile",
+                "bias",
+                "cerebral"
+            ],
+            "chn": "听听这一段，精彩的坦承谈话，他说：，“虽然自然可能倾向于,将自由人从奴隶中区别出来，但常是事与愿违。(政治哲学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "These were well-adjusted, pretty rich kids, racially ______, and they were put into separate cabins.",
+            "choices": [
+                "evasive",
+                "backwater",
+                "homogeneous",
+                "timid",
+                "bias"
+            ],
+            "chn": "他们都是有钱人小孩，环境适应力强，属于同一种族，他们被分到不同的小木屋里。(心理学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It's certainly not a nice moment. It is not a gentlemanly thing to do to steal the ______ from all of his peers.\"",
+            "choices": [
+                "spotlight",
+                "irrational",
+                "preventive",
+                "accessible",
+                "chastise"
+            ],
+            "chn": "(VOA : standard.2010.02.19)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So this is a classic error. I've not made a copy of the ______. I've got an alias of the ______.",
+            "choices": [
+                "chastise",
+                "irrational",
+                "list",
+                "precursor",
+                "accessible"
+            ],
+            "chn": "这是个相当经典的错误,在这里我并没有得到数组的。(计算机科学及编程导论课程节选 : 麻省理工公开课)"
+        }
+    ],
+    "quiz_id": "197"
+}

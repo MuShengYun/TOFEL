@@ -1,0 +1,265 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "snapshot",
+            "choices": [
+                "vt. 给…拍快照",
+                "n. 快照，快相",
+                "adj. 公平的，公正的",
+                "vi. 拍快照",
+                "n. 简单印象",
+                "adj. 垂死的",
+                "vt. 想像",
+                "n. 急射，速射"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "uphold",
+            "choices": [
+                "vt. 支撑",
+                "vt. 举起",
+                "n. 游移不定",
+                "vt. 赞成",
+                "n. 凝聚",
+                "adj. 倔强的，难以对待的",
+                "adj. 要求高的",
+                "vt. 鼓励"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "moribund",
+            "choices": [
+                "n. 诗句",
+                "n. 贫困",
+                "adj. 停滞不前的",
+                "n. 计划",
+                "adj. 垂死的",
+                "adj. 有力的",
+                "n. 垂死的人",
+                "n. 桎梏"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "transmogrify",
+            "choices": [
+                "adj. 不满足似的",
+                "n. 阴谋",
+                "vt. 使变形",
+                "adj. 小规模的",
+                "vt. 使变成奇形怪状",
+                "vt. 割让（领土）",
+                "vt. 扼杀",
+                "adj. 鬼鬼祟祟的，秘密的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "deprivation",
+            "choices": [
+                "n. 剥夺",
+                "n. 贫困",
+                "vt. 冒…的危险，使遭受危险",
+                "n. 免职",
+                "n. 损失",
+                "n. 匮乏",
+                "vt. 使变成奇形怪状",
+                "adj. 吃力的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使窒息; n. （马等的）[动] 后膝关节病; n. （马等的）后膝关节",
+            "choices": [
+                "limitation",
+                "prototype",
+                "stifle",
+                "ascribe",
+                "petty"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 明显的; adj. 可感知的; adj. 易觉察的",
+            "choices": [
+                "petty",
+                "crackling",
+                "churn",
+                "partiality",
+                "palpable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 鬼鬼祟祟的，秘密的",
+            "choices": [
+                "dismal",
+                "anathema",
+                "furtive",
+                "partiality",
+                "blueprint"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 属于同一时期的; n. 同时代的人; adj. 当代的",
+            "choices": [
+                "snapshot",
+                "quizzical",
+                "churn",
+                "contemporary",
+                "hail"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 倔强的，难以对待的; adj. 易怒的",
+            "choices": [
+                "quizzical",
+                "fractious",
+                "cede",
+                "vacillation",
+                "disregard"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 有把握的事情; vt. 紧握住; vt. 系肚带",
+            "choices": [
+                "c",
+                "c",
+                "h",
+                "i",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 踌躇; n. 游移不定; n. 不果断",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "i",
+                "i",
+                "l",
+                "l",
+                "n",
+                "o",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 公平的，公正的; adj. 不偏不倚的",
+            "choices": [
+                "a",
+                "a",
+                "i",
+                "i",
+                "l",
+                "m",
+                "p",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 满足的; adj. 心安的; v. 使…安心（content的过去式和过去分词）",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "e",
+                "n",
+                "n",
+                "o",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 冰雹; n. 一阵; n. 招呼",
+            "choices": [
+                "a",
+                "h",
+                "i",
+                "l"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "\"Even ______ bribery,small bribery, is not a long-term sustainable approach to kind of grease the wheels,\"",
+            "choices": [
+                "arbitrary",
+                "undeserved",
+                "petty",
+                "esoteric",
+                "snapshot"
+            ],
+            "chn": "(VOA : standard.2009.11.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Because before,as you remember, the term \"______ use of force\" was used,as if there is a proportionate use to occupy other countries' territory.\"",
+            "choices": [
+                "ecosystem",
+                "disproportionate",
+                "dismal",
+                "crackling",
+                "disregard"
+            ],
+            "chn": "(VOA : standard.2010.07.05)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So what can you expect in terms of the preparation and the fundamentals that will ______ you ultimately to tackle projects like these?",
+            "choices": [
+                "deprivation",
+                "vacillation",
+                "empower",
+                "hazard",
+                "nothing if not"
+            ],
+            "chn": "那么，从准备过程和基础知识中,你们希望最后学到什么能力,来处理类似的项目呢？(计算机科学课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It's now exactly that power from which Milton has been excluded by virtue of his blindness -- light: \"______ holy Light, offspring of Heav'n first-born, \/ Or of th' Eternal Coeternal beam May I express thee unblam'd?\"",
+            "choices": [
+                "crackling",
+                "deprivation",
+                "hail",
+                "tenet",
+                "impartial"
+            ],
+            "chn": "而是弥尔顿已经被失明剥夺的一种力量,圣光，你是上帝最初的产物，永恒的光束,我是否可以向你表达我无限的敬意“(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It has, in other words, an internal ______. It has a dynamism of parts that is strictly with reference to its own existence.",
+            "choices": [
+                "envisage",
+                "coherence",
+                "esoteric",
+                "wistful",
+                "domain"
+            ],
+            "chn": "换句话说，这是一个内部的呼应，每一个动态的部分,只为自身整体的存在而存在。(文学理论导论课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "79"
+}

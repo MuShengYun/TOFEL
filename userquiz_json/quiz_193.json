@@ -1,0 +1,2670 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "congruent",
+            "choices": [
+                "vt. 体现，使具体化",
+                "adj. 和谐的",
+                "adj. 适合的，一致的",
+                "n. 觉醒",
+                "n. [水运] 浮标",
+                "adj. 全等的",
+                "n. 骗局",
+                "vt. 增大"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "implement",
+            "choices": [
+                "vt. 实施，执行",
+                "adj. 因轻信而产生的",
+                "n. 嘎吱声",
+                "n. 工具，器具",
+                "n. 反射比",
+                "n. 手段",
+                "n. 情形",
+                "vt. 实现，使生效"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "potency",
+            "choices": [
+                "n. 力量",
+                "adj. 无畏的",
+                "n. 权势",
+                "vi. 反射，映现",
+                "n. [法] 证词，证言",
+                "n. 效能",
+                "n. 职务",
+                "n. 潜力"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "reflect",
+            "choices": [
+                "vt. 反映",
+                "vt. 反省",
+                "vi. 深思",
+                "adj. 轻信的",
+                "vt. 显示",
+                "vi. 反射，映现",
+                "vt. 反射，照出",
+                "vt. 表达"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "malady",
+            "choices": [
+                "adj. 全等的",
+                "n. 弊病",
+                "vt. 迷住",
+                "vt. 鉴定",
+                "adj. 和谐的",
+                "n. 腐败",
+                "n. 疾病",
+                "n. 证据"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "embody",
+            "choices": [
+                "adj. 因轻信而产生的",
+                "vt. 反省",
+                "n. 上述各项",
+                "vt. 具体表达",
+                "vt. 体现，使具体化",
+                "adj. 不拘一格的",
+                "n. 名声的败坏",
+                "vi. 茁壮成长"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ministration",
+            "choices": [
+                "adj. 虚构的",
+                "n. 援助",
+                "n. 骗局",
+                "n. 觉醒",
+                "n. 服侍",
+                "n. 职务",
+                "n. 强调",
+                "n. 噪声控制"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "languish",
+            "choices": [
+                "vi. 凋萎",
+                "n. 油炸马铃薯片",
+                "adj. 可靠的，可信的",
+                "n. 反射比",
+                "vi. 苦思",
+                "vi. 憔悴",
+                "adj. 因轻信而产生的",
+                "vi. 失去活力"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "subsequently",
+            "choices": [
+                "n. 手段",
+                "vt. 消除",
+                "adv. 后来",
+                "vi. 作出前提",
+                "adj. 黏着力强的",
+                ". ??持，支撑",
+                "n. 全套甲胄，全副盔甲",
+                "adv. 随后，其后"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "accent",
+            "choices": [
+                "n. 强调",
+                "n. 重音符号",
+                "n. 重音",
+                "vt. 重读",
+                "vt. 强调",
+                "n. 口音",
+                "n. 特点",
+                "n. 反射比"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "preoccupy",
+            "choices": [
+                "n. 上述各项",
+                "vt. 使全神贯注",
+                "vt. 迷住",
+                "n. 证书",
+                "n. 服侍",
+                "n. 服侍",
+                "vt. 重读",
+                "n. 证书"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "demoralize",
+            "choices": [
+                "vt. 实施，执行",
+                "vt. 使士气低落",
+                "vt. 使堕落",
+                "adj. 尖刻的（等于acerb）",
+                "n. 服侍",
+                "vt. 使道德败坏",
+                "adj. 容易记住的",
+                "vt. 增加"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "credible",
+            "choices": [
+                "n. 腐败",
+                "vi. 深思",
+                "adj. 可靠的，可信的",
+                "n. 激励",
+                "adj. 适合的，一致的",
+                "adj. 真正的，真实的",
+                "n. 骗局",
+                "n. 冷漠，无兴趣，漠不关心"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "augment",
+            "choices": [
+                "n. 无感情",
+                "n. 增加",
+                "vi. 增加",
+                "vt. 增大",
+                "vt. 增加",
+                "vi. 增大",
+                "n. 增大",
+                "adj. 不一致的"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "progression",
+            "choices": [
+                "adj. 无畏的",
+                "n. 上述各项",
+                "vt. 体现，使具体化",
+                "vt. 使堕落",
+                "n. [法] 证词，证言",
+                "n. 连续",
+                "vt. 博得",
+                "n. 前进"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "credential",
+            "choices": [
+                "n. 增大",
+                "n. 凭据",
+                "n. 航标",
+                "n. 证书",
+                "adj. 可互换的",
+                "vi. 嘎吱作响",
+                "n. 职务",
+                "n. 国书"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fictitious",
+            "choices": [
+                "adj. 虚构的",
+                "adj. 朴实的",
+                "n. 重音",
+                "n. 态度",
+                "adj. 假装的",
+                "adj. 编造的",
+                "adj. 假想的",
+                "n. 祭器台（等于credence table，credenza）"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "authenticate",
+            "choices": [
+                "vt. 使……丢脸",
+                "vt. 证明…是真实的",
+                "vt. 具体表达",
+                "n. 反射比",
+                "adj. 固执的",
+                "n. 潜力",
+                "adj. 可靠的，可信的",
+                "vt. 鉴定"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "crude",
+            "choices": [
+                "n. 原油",
+                "adj. 天然的，未加工的",
+                "n. 天然的物质",
+                "vt. 引起，唤起",
+                "n. 前提",
+                "adj. 粗糙的",
+                "vt. 实施，执行",
+                "adj. 粗鲁的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "artless",
+            "choices": [
+                "vt. 博得",
+                "adj. 无虚饰的",
+                "adj. 天真的",
+                "vt. 增加",
+                "vi. 增大",
+                "vt. 增大",
+                "n. 态度",
+                "adj. 朴实的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "credit",
+            "choices": [
+                "vt. 赞颂",
+                "adj. 轻信的",
+                "vt. 把…归给，归功于",
+                "n. 信用，信誉",
+                "n. [金融] 贷款",
+                "n. 声望",
+                "vt. 相信，信任",
+                "n. 学分"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "standstill",
+            "choices": [
+                "vi. 凋萎",
+                "vi. 繁荣，兴旺",
+                "n. 停止",
+                "vt. 实现，使生效",
+                "vt. 使卷曲",
+                "n. 服侍",
+                "n. 停顿",
+                "adj. 可靠的，可信的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "audacious",
+            "choices": [
+                "adj. 无畏的",
+                "adj. 紧握的",
+                "n. 觉醒",
+                "vt. 实施，执行",
+                "adj. 鲁莽的",
+                "n. 强调",
+                "adj. 因轻信而产生的",
+                "adj. 黏着力强的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "panoply",
+            "choices": [
+                "n. 援助",
+                "vt. 迷住",
+                "n. 全套甲胄，全副盔甲",
+                "n. 折衷主义者",
+                "vt. 博得",
+                "n. 华丽服饰",
+                "n. [法] 证词，证言",
+                "n. 停止"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "catchy",
+            "choices": [
+                "adj. 可交换的",
+                "n. 骗局",
+                "adj. 易使人上当的",
+                "adj. 引人注意的",
+                "adj. 可交换的",
+                "adj. 容易记住的",
+                "n. 信任",
+                "n. 学分"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "accentuate",
+            "choices": [
+                "n. 服侍",
+                "n. 嘎吱声",
+                ". ??持，支撑",
+                "vt. 强调",
+                "vt. 赞颂",
+                "vt. 自称",
+                "vt. 表达",
+                "vt. 重读"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "arousal",
+            "choices": [
+                "vt. 使浮起",
+                "vt. 反射，照出",
+                "vt. 强调",
+                "n. 觉醒",
+                "vt. 使全神贯注",
+                "adj. 易使人上当的",
+                "n. 激励",
+                "n. 姿势"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "profess",
+            "choices": [
+                "vt. 正式准予加入",
+                "vi. 声称",
+                "vt. 自称",
+                "vi. 承认",
+                "vi. 当教授",
+                "vt. 宣称信奉",
+                "n. 浮筒",
+                "vt. 公开表示"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "eclectic",
+            "choices": [
+                "adj. 不拘一格的",
+                "n. 折衷派的人",
+                "adj. 可信的",
+                "adj. 折衷的",
+                "adj. 折衷学派的",
+                "n. 反射比",
+                "adj. 选择的",
+                "n. 折衷主义者"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "acerbic",
+            "choices": [
+                "adj. 酸的",
+                "adj. 尖刻的（等于acerb）",
+                "adj. 辛辣的",
+                "n. 上述各项",
+                "n. 祭器台（等于credence table，credenza）",
+                "adj. 编造的",
+                "n. 权势",
+                "adj. 全等的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "discredit",
+            "choices": [
+                "n. 无信用",
+                "n. 怀疑",
+                "vt. 鉴定",
+                "n. 折衷主义者",
+                "vt. 不信",
+                "n. 名声的败坏",
+                "adj. 可交换的",
+                "vt. 使……丢脸"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "reflectivity",
+            "choices": [
+                "n. 反射比",
+                "vt. 反射，照出",
+                "n. 停止",
+                "vt. 具体表达",
+                "adj. 全等的",
+                "n. [光] 反射性",
+                "n. [物] 反射率",
+                "n. 潜力"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "squelch",
+            "choices": [
+                "n. 压倒对方的反驳",
+                "n. 怀疑",
+                "vi. 嘎吱作响",
+                "vt. 压碎",
+                "n. 压碎的一堆",
+                "n. 噪声控制",
+                "vt. 镇压",
+                "vt. 消除"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "authentic",
+            "choices": [
+                "adj. 可信的",
+                "adj. 不协调的",
+                "n. 凭证",
+                "n. 反射比",
+                "n. 疾病",
+                "vt. 使道德败坏",
+                "adj. 真正的，真实的",
+                "vt. 反射，照出"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "hoax",
+            "choices": [
+                "n. 骗局",
+                "adv. 后来",
+                "vt. 愚弄",
+                "vt. 欺骗",
+                "adj. 适合的，一致的",
+                "adj. 可交替的",
+                "vi. 增加",
+                "n. 恶作剧"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "credence",
+            "choices": [
+                "adj. 轻信的",
+                "n. 恶作剧",
+                "n. 信任",
+                "adj. 和谐的",
+                "n. 凭证",
+                "n. 潜力",
+                "n. 祭器台（等于credence table，credenza）",
+                "adj. 可交替的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "buoy",
+            "choices": [
+                "n. 航标",
+                "n. [水运] 浮标",
+                "n. 浮筒",
+                "vt. 使浮起",
+                "adj. 鲁莽的",
+                "vt. 鼓励",
+                "vt. 支撑",
+                "n. 救生圈"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "apathy",
+            "choices": [
+                "n. 冷漠，无兴趣，漠不关心",
+                "adj. 虚构的",
+                "n. 反射比",
+                "adj. 固执的",
+                "adj. 可靠的，可信的",
+                "n. 无感情",
+                "n. 服侍",
+                "n. 反射比"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "thrive",
+            "choices": [
+                "adj. 酸的",
+                "vi. 增大",
+                "n. 援助",
+                "adj. 可互换的",
+                "n. 房屋连地基",
+                "vi. 繁荣，兴旺",
+                "vi. 茁壮成长",
+                "n. 重音符号"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "incongruous",
+            "choices": [
+                "adj. 选择的",
+                "n. 证据",
+                "adj. 不协调的",
+                "adj. 不一致的",
+                "n. 态度",
+                "vt. 增加",
+                "adj. 不和谐的",
+                "vi. 凋萎"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "credulous",
+            "choices": [
+                "n. [法] 证词，证言",
+                "adj. 因轻信而产生的",
+                "n. 前提",
+                "n. [金融] 贷款",
+                "adj. 容易记住的",
+                "adj. 轻信的",
+                ". 加固",
+                "n. 国书"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "testimony",
+            "choices": [
+                "n. [法] 证词，证言",
+                "n. 职务",
+                "adj. 不协调的",
+                "vt. 鉴定",
+                "adv. 后来",
+                "n. 证据",
+                "n. [光] 反射性",
+                "vt. 引出，预先提出"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "premise",
+            "choices": [
+                "n. 上述各项",
+                "vt. 作为…的前提",
+                "adj. 和谐的",
+                "vt. 引出，预先提出",
+                "n. 前提",
+                "n. 房屋连地基",
+                "n. 恶作剧",
+                "vi. 作出前提"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "posture",
+            "choices": [
+                "vt. 鉴定",
+                "n. 态度",
+                "vi. 摆姿势",
+                "adj. 辛辣的",
+                "vt. 作…的姿势",
+                "n. 连续",
+                "n. 情形",
+                "n. 姿势"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "interchangeable",
+            "choices": [
+                "vt. 带…口音讲话",
+                "adj. 可交替的",
+                "adj. 不和谐的",
+                "adj. 可交换的",
+                "adj. 粗鲁的",
+                "vt. 引出，预先提出",
+                "vt. 体现，使具体化",
+                "adj. 可互换的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "crisp",
+            "choices": [
+                "vi. 卷曲",
+                "vi. 发脆",
+                "vt. 使发脆",
+                "adj. 易碎的",
+                "vt. 使……丢脸",
+                "adj. 新鲜的",
+                "vt. 使卷曲",
+                "n. 油炸马铃薯片"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "shore up",
+            "choices": [
+                "adj. 不一致的",
+                ". ??持，支撑",
+                "adj. 不和谐的",
+                "n. [光] 反射性",
+                "n. [光] 反射性",
+                "adj. 真正的，真实的",
+                "n. [物] 反射率",
+                ". 加固"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "tenacious",
+            "choices": [
+                "adj. 坚韧的",
+                "adj. 顽强的",
+                "adj. 紧握的",
+                "vi. 繁荣，兴旺",
+                "n. 凭证",
+                "adj. 黏着力强的",
+                "n. 特点",
+                "adj. 固执的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "evoke",
+            "choices": [
+                "adj. 尖刻的（等于acerb）",
+                "vt. 博得",
+                "n. 前进",
+                "adj. 真正的，真实的",
+                "vt. 使堕落",
+                "n. 弊病",
+                "vt. 引起，唤起",
+                "vi. 繁荣，兴旺"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 容易记住的; adj. 引人注意的; adj. 易使人上当的",
+            "choices": [
+                "authenticate",
+                "credit",
+                "catchy",
+                "squelch",
+                "shore up"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 支撑; n. [水运] 浮标; vt. 使浮起",
+            "choices": [
+                "credence",
+                "premise",
+                "buoy",
+                "credulous",
+                "artless"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": ". 加固; . ??持，支撑",
+            "choices": [
+                "authentic",
+                "malady",
+                "shore up",
+                "accent",
+                "subsequently"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 繁荣，兴旺; vi. 茁壮成长",
+            "choices": [
+                "demoralize",
+                "premise",
+                "thrive",
+                "accentuate",
+                "buoy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使士气低落; vt. 使堕落; vt. 使道德败坏",
+            "choices": [
+                "demoralize",
+                "acerbic",
+                "posture",
+                "apathy",
+                "hoax"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 效能; n. 潜力; n. 力量",
+            "choices": [
+                "interchangeable",
+                "augment",
+                "crisp",
+                "potency",
+                "crude"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 停止; n. 停顿",
+            "choices": [
+                "audacious",
+                "premise",
+                "malady",
+                "credulous",
+                "standstill"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 证书; n. 凭据; n. 国书",
+            "choices": [
+                "acerbic",
+                "embody",
+                "credential",
+                "credence",
+                "audacious"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 反映; vt. 反省; vi. 深思",
+            "choices": [
+                "reflect",
+                "crisp",
+                "fictitious",
+                "incongruous",
+                "discredit"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 欺骗; vt. 愚弄; n. 恶作剧",
+            "choices": [
+                "hoax",
+                "standstill",
+                "progression",
+                "catchy",
+                "shore up"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 连续; n. 前进",
+            "choices": [
+                "progression",
+                "reflectivity",
+                "testimony",
+                "posture",
+                "arousal"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 迷住; vt. 使全神贯注",
+            "choices": [
+                "crude",
+                "authentic",
+                "reflectivity",
+                "buoy",
+                "preoccupy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 激励; n. 觉醒",
+            "choices": [
+                "arousal",
+                "languish",
+                "reflectivity",
+                "shore up",
+                "preoccupy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 信任; n. 学分; vt. 赞颂",
+            "choices": [
+                "authentic",
+                "testimony",
+                "credit",
+                "accentuate",
+                "acerbic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 公开表示; vt. 自称; vi. 承认",
+            "choices": [
+                "tenacious",
+                "buoy",
+                "profess",
+                "thrive",
+                "audacious"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 憔悴; vi. 苦思; vi. 失去活力",
+            "choices": [
+                "augment",
+                "progression",
+                "arousal",
+                "languish",
+                "eclectic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 证据; n. [法] 证词，证言",
+            "choices": [
+                "tenacious",
+                "testimony",
+                "potency",
+                "catchy",
+                "reflect"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 酸的; adj. 尖刻的（等于acerb）; adj. 辛辣的",
+            "choices": [
+                "incongruous",
+                "reflect",
+                "languish",
+                "acerbic",
+                "embody"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 鲁莽的; adj. 无畏的",
+            "choices": [
+                "interchangeable",
+                "crude",
+                "audacious",
+                "profess",
+                "credence"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 冷漠，无兴趣，漠不关心; n. 无感情",
+            "choices": [
+                "apathy",
+                "reflectivity",
+                "thrive",
+                "artless",
+                "credible"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 因轻信而产生的; adj. 轻信的",
+            "choices": [
+                "accent",
+                "implement",
+                "potency",
+                "credulous",
+                "crude"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 随后，其后; adv. 后来",
+            "choices": [
+                "crisp",
+                "crude",
+                "reflectivity",
+                "panoply",
+                "subsequently"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 凭证; n. 信任; n. 祭器台（等于 table，credenza）",
+            "choices": [
+                "evoke",
+                "standstill",
+                "credence",
+                "squelch",
+                "credible"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 腐败; n. 疾病; n. 弊病",
+            "choices": [
+                "malady",
+                "progression",
+                "audacious",
+                "hoax",
+                "crude"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 作出前提; vt. 引出，预先提出; n. 房屋连地基",
+            "choices": [
+                "credential",
+                "premise",
+                "crisp",
+                "demoralize",
+                "reflectivity"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 压倒对方的反驳; vi. 嘎吱作响; n. 噪声控制",
+            "choices": [
+                "crude",
+                "posture",
+                "squelch",
+                "testimony",
+                "augment"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 增大; n. 增大; n. 增加",
+            "choices": [
+                "arousal",
+                "accent",
+                "squelch",
+                "congruent",
+                "augment"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 体现，使具体化; vt. 具体表达",
+            "choices": [
+                "demoralize",
+                "embody",
+                "authentic",
+                "acerbic",
+                "accent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 强调; n. 重音符号; n. 强调",
+            "choices": [
+                "thrive",
+                "accent",
+                "progression",
+                "credential",
+                "interchangeable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 无信用; vt. 不信; n. 怀疑",
+            "choices": [
+                "testimony",
+                "embody",
+                "apathy",
+                "discredit",
+                "fictitious"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 强调; vt. 重读",
+            "choices": [
+                "demoralize",
+                "squelch",
+                "buoy",
+                "accentuate",
+                "potency"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 可信的; adj. 真正的，真实的",
+            "choices": [
+                "interchangeable",
+                "authentic",
+                "panoply",
+                "preoccupy",
+                "credulous"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 服侍; n. 援助; n. 职务",
+            "choices": [
+                "accent",
+                "embody",
+                "subsequently",
+                "ministration",
+                "implement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 易碎的; adj. 新鲜的; vi. 发脆",
+            "choices": [
+                "crisp",
+                "accent",
+                "eclectic",
+                "languish",
+                "credential"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 可靠的，可信的",
+            "choices": [
+                "authenticate",
+                "buoy",
+                "credible",
+                "thrive",
+                "potency"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 假想的; adj. 虚构的; adj. 编造的",
+            "choices": [
+                "apathy",
+                "languish",
+                "fictitious",
+                "credential",
+                "progression"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 手段; vt. 实现，使生效; n. 工具，器具",
+            "choices": [
+                "evoke",
+                "apathy",
+                "incongruous",
+                "implement",
+                "preoccupy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 不协调的; adj. 不和谐的; adj. 不一致的",
+            "choices": [
+                "acerbic",
+                "reflect",
+                "incongruous",
+                "credible",
+                "accent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 紧握的; adj. 固执的; adj. 顽强的",
+            "choices": [
+                "interchangeable",
+                "apathy",
+                "credit",
+                "ministration",
+                "tenacious"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 粗鲁的; adj. 粗糙的; n. 天然的物质",
+            "choices": [
+                "fictitious",
+                "accent",
+                "subsequently",
+                "panoply",
+                "crude"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 适合的，一致的; adj. 全等的; adj. 和谐的",
+            "choices": [
+                "credible",
+                "congruent",
+                "premise",
+                "eclectic",
+                "profess"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 引起，唤起; vt. 博得",
+            "choices": [
+                "preoccupy",
+                "reflect",
+                "authentic",
+                "shore up",
+                "evoke"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 作…的姿势; n. 姿势; vi. 摆姿势",
+            "choices": [
+                "accent",
+                "reflect",
+                "subsequently",
+                "acerbic",
+                "posture"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 华丽服饰; n. 全套甲胄，全副盔甲",
+            "choices": [
+                "credulous",
+                "squelch",
+                "panoply",
+                "testimony",
+                "artless"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [光] 反射性; n. [物] 反射率; n. 反射比",
+            "choices": [
+                "reflectivity",
+                "authenticate",
+                "panoply",
+                "progression",
+                "credence"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 可交替的; adj. 可互换的; adj. 可交换的",
+            "choices": [
+                "interchangeable",
+                "posture",
+                "panoply",
+                "squelch",
+                "preoccupy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 选择的; adj. 折衷学派的; adj. 不拘一格的",
+            "choices": [
+                "audacious",
+                "credential",
+                "premise",
+                "eclectic",
+                "acerbic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 无虚饰的; adj. 天真的; adj. 朴实的",
+            "choices": [
+                "authenticate",
+                "shore up",
+                "augment",
+                "artless",
+                "catchy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 证明…是真实的; vt. 鉴定",
+            "choices": [
+                "demoralize",
+                "squelch",
+                "interchangeable",
+                "authenticate",
+                "tenacious"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": fitful, irregular",
+            "choices": [
+                "credential",
+                "buoy",
+                "catchy",
+                "authenticate",
+                "evoke"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a sound of or as if of semiliquid matter under suction",
+            "choices": [
+                "audacious",
+                "artless",
+                "squelch",
+                "malady",
+                "arousal"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": having the same size and shape",
+            "choices": [
+                "congruent",
+                "panoply",
+                "evoke",
+                "arousal",
+                "accent"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": lack or loss of belief or confidence : doubt",
+            "choices": [
+                "implement",
+                "discredit",
+                "audacious",
+                "artless",
+                "fictitious"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": force, power",
+            "choices": [
+                "acerbic",
+                "posture",
+                "potency",
+                "progression",
+                "fictitious"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to cause to turn aside or away from what is good or true or morally right : to corrupt the morals of",
+            "choices": [
+                "eclectic",
+                "potency",
+                "crude",
+                "demoralize",
+                "ministration"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to make manifest or apparent : show",
+            "choices": [
+                "tenacious",
+                "profess",
+                "artless",
+                "reflect",
+                "crude"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": capable of being interchanged",
+            "choices": [
+                "crisp",
+                "interchangeable",
+                "accentuate",
+                "malady",
+                "preoccupy"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": lacking congruity: such as",
+            "choices": [
+                "reflectivity",
+                "incongruous",
+                "apathy",
+                "arousal",
+                "malady"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": made without skill : crude",
+            "choices": [
+                "posture",
+                "artless",
+                "squelch",
+                "authenticate",
+                "malady"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to assume an expression of grief or emotion appealing for sympathy",
+            "choices": [
+                "buoy",
+                "languish",
+                "authenticate",
+                "hoax",
+                "subsequently"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": ripple",
+            "choices": [
+                "potency",
+                "crisp",
+                "buoy",
+                "progression",
+                "hoax"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to pronounce (part of a word) with greater stress or force : stress",
+            "choices": [
+                "catchy",
+                "apathy",
+                "languish",
+                "accent",
+                "implement"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": not easily pulled apart : cohesive",
+            "choices": [
+                "embody",
+                "incongruous",
+                "tenacious",
+                "crisp",
+                "malady"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to make greater, more numerous, larger, or more intense",
+            "choices": [
+                "congruent",
+                "implement",
+                "artless",
+                "posture",
+                "augment"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to give a body to (a spirit) : incarnate",
+            "choices": [
+                "embody",
+                "squelch",
+                "credible",
+                "testimony",
+                "malady"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": tabulated without being broken down into classes",
+            "choices": [
+                "buoy",
+                "discredit",
+                "hoax",
+                "crude",
+                "thrive"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": one that serves as an instrument or tool",
+            "choices": [
+                "authenticate",
+                "accentuate",
+                "implement",
+                "demoralize",
+                "interchangeable"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to make a profession or avowal",
+            "choices": [
+                "malady",
+                "incongruous",
+                "squelch",
+                "audacious",
+                "profess"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a full suit of armor",
+            "choices": [
+                "ministration",
+                "implement",
+                "panoply",
+                "incongruous",
+                "subsequently"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to prove or serve to prove to be real, true, or genuine",
+            "choices": [
+                "apathy",
+                "preoccupy",
+                "authenticate",
+                "testimony",
+                "accentuate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a state characterized by absence of motion or of progress : stop",
+            "choices": [
+                "progression",
+                "discredit",
+                "posture",
+                "ministration",
+                "standstill"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": authoritative",
+            "choices": [
+                "incongruous",
+                "shore up",
+                "crisp",
+                "demoralize",
+                "authentic"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a disease or disorder of the animal body",
+            "choices": [
+                "malady",
+                "panoply",
+                "hoax",
+                "evoke",
+                "languish"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to engage or engross the interest or attention of beforehand or preferentially",
+            "choices": [
+                "potency",
+                "preoccupy",
+                "shore up",
+                "subsequently",
+                "crisp"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to trick or deceive (someone)",
+            "choices": [
+                "hoax",
+                "eclectic",
+                "catchy",
+                "tenacious",
+                "ministration"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": warranting credit or confidence",
+            "choices": [
+                "accent",
+                "reflectivity",
+                "progression",
+                "credible",
+                "credential"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": lack of feeling or emotion : impassiveness",
+            "choices": [
+                "crisp",
+                "interchangeable",
+                "embody",
+                "apathy",
+                "credential"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": sharply or bitingly critical, sarcastic, or ironic in temper, mood, or tone",
+            "choices": [
+                "congruent",
+                "credential",
+                "embody",
+                "squelch",
+                "acerbic"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": conventionally or hypothetically assumed or accepted",
+            "choices": [
+                "discredit",
+                "embody",
+                "catchy",
+                "fictitious",
+                "demoralize"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the tablets inscribed with the Mosaic law",
+            "choices": [
+                "testimony",
+                "reflectivity",
+                "authentic",
+                "credit",
+                "buoy"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to make (something) more prominent or noticeable : accent, emphasize",
+            "choices": [
+                "arousal",
+                "shore up",
+                "progression",
+                "accentuate",
+                "artless"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": postulate",
+            "choices": [
+                "progression",
+                "buoy",
+                "incongruous",
+                "reflectivity",
+                "premise"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to call forth or up: such as",
+            "choices": [
+                "evoke",
+                "fictitious",
+                "panoply",
+                "credit",
+                "discredit"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": marked by originality and verve",
+            "choices": [
+                "catchy",
+                "crude",
+                "credulous",
+                "demoralize",
+                "audacious"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": at a later or subsequent time",
+            "choices": [
+                "squelch",
+                "subsequently",
+                "accentuate",
+                "artless",
+                "languish"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to mark by or as if by a float or buoy",
+            "choices": [
+                "evoke",
+                "crude",
+                "shore up",
+                "languish",
+                "buoy"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act of arousing",
+            "choices": [
+                "reflectivity",
+                "arousal",
+                "languish",
+                "accentuate",
+                "credulous"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the reflective quality or power of a surface or material",
+            "choices": [
+                "acerbic",
+                "crisp",
+                "reflectivity",
+                "credible",
+                "incongruous"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": ready to believe especially on slight or uncertain evidence",
+            "choices": [
+                "fictitious",
+                "acerbic",
+                "premise",
+                "credulous",
+                "squelch"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the way in which your body is positioned when you are sitting or standing",
+            "choices": [
+                "artless",
+                "preoccupy",
+                "squelch",
+                "malady",
+                "posture"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": composed of elements drawn from various sources",
+            "choices": [
+                "eclectic",
+                "audacious",
+                "panoply",
+                "credence",
+                "apathy"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a Renaissance sideboard used chiefly for valuable plate",
+            "choices": [
+                "authentic",
+                "thrive",
+                "testimony",
+                "discredit",
+                "credence"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": an amount of money that is added to an account",
+            "choices": [
+                "preoccupy",
+                "standstill",
+                "credence",
+                "credit",
+                "demoralize"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to grow vigorously : flourish",
+            "choices": [
+                "embody",
+                "ministration",
+                "shore up",
+                "thrive",
+                "languish"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": offering reasonable grounds for being believed",
+            "choices": [
+                "credible",
+                "thrive",
+                "embody",
+                "subsequently",
+                "panoply"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": succession of musical tones or chords",
+            "choices": [
+                "reflect",
+                "augment",
+                "posture",
+                "discredit",
+                "progression"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 茁壮成长; vi. 繁荣，兴旺",
+            "choices": [
+                "e",
+                "h",
+                "i",
+                "r",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 正式准予加入; vt. 公开表示; vi. 承认",
+            "choices": [
+                "e",
+                "f",
+                "o",
+                "p",
+                "r",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 恶作剧; vt. 欺骗; n. 骗局",
+            "choices": [
+                "a",
+                "h",
+                "o",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使发脆; n. 油炸马铃薯片; vi. 卷曲",
+            "choices": [
+                "c",
+                "i",
+                "p",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 折衷派的人; adj. 折衷学派的; n. 折衷主义者",
+            "choices": [
+                "c",
+                "c",
+                "c",
+                "e",
+                "e",
+                "i",
+                "l",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [水运] 浮标; n. 航标; vt. 使浮起",
+            "choices": [
+                "b",
+                "o",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 酸的; adj. 辛辣的; adj. 尖刻的（等于acerb）",
+            "choices": [
+                "a",
+                "b",
+                "c",
+                "c",
+                "e",
+                "i",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 可靠的，可信的",
+            "choices": [
+                "b",
+                "c",
+                "d",
+                "e",
+                "e",
+                "i",
+                "l",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 停顿; n. 停止",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "l",
+                "l",
+                "n",
+                "s",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 可交换的; adj. 可交替的; adj. 可互换的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "c",
+                "e",
+                "e",
+                "e",
+                "g",
+                "h",
+                "i",
+                "l",
+                "n",
+                "n",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 假装的; adj. 虚构的; adj. 编造的",
+            "choices": [
+                "c",
+                "f",
+                "i",
+                "i",
+                "i",
+                "o",
+                "s",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 援助; n. 职务; n. 服侍",
+            "choices": [
+                "a",
+                "i",
+                "i",
+                "i",
+                "m",
+                "n",
+                "n",
+                "o",
+                "r",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 前进; n. 连续",
+            "choices": [
+                "e",
+                "g",
+                "i",
+                "n",
+                "o",
+                "o",
+                "p",
+                "r",
+                "r",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 原油; n. 天然的物质; adj. 天然的，未加工的",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 天真的; adj. 无虚饰的; adj. 朴实的",
+            "choices": [
+                "a",
+                "e",
+                "l",
+                "r",
+                "s",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 不协调的; adj. 不和谐的; adj. 不一致的",
+            "choices": [
+                "c",
+                "g",
+                "i",
+                "n",
+                "n",
+                "o",
+                "o",
+                "r",
+                "s",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 证书; n. 国书; n. 凭据",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "e",
+                "i",
+                "l",
+                "n",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使全神贯注; vt. 迷住",
+            "choices": [
+                "c",
+                "c",
+                "e",
+                "o",
+                "p",
+                "p",
+                "r",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 压碎的一堆; vt. 压碎; n. 嘎吱声",
+            "choices": [
+                "c",
+                "e",
+                "h",
+                "l",
+                "q",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 不信; vt. 使……丢脸; n. 怀疑",
+            "choices": [
+                "c",
+                "d",
+                "d",
+                "e",
+                "i",
+                "i",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 疾病; n. 腐败; n. 弊病",
+            "choices": [
+                "a",
+                "a",
+                "d",
+                "l",
+                "m",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 潜力; n. 效能; n. 力量",
+            "choices": [
+                "c",
+                "e",
+                "n",
+                "o",
+                "p",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 重读; n. 强调; n. 特点",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使道德败坏; vt. 使士气低落; vt. 使堕落",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "i",
+                "l",
+                "m",
+                "o",
+                "r",
+                "z"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 证据; n. [法] 证词，证言",
+            "choices": [
+                "e",
+                "i",
+                "m",
+                "n",
+                "o",
+                "s",
+                "t",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 轻信的; adj. 因轻信而产生的",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "l",
+                "o",
+                "r",
+                "s",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 凭证; n. 信任; n. 祭器台（等于credence table，credenza）",
+            "choices": [
+                "c",
+                "c",
+                "d",
+                "e",
+                "e",
+                "e",
+                "n",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 苦思; vi. 凋萎; vi. 憔悴",
+            "choices": [
+                "a",
+                "g",
+                "h",
+                "i",
+                "l",
+                "n",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 无感情; n. 冷漠，无兴趣，漠不关心",
+            "choices": [
+                "a",
+                "a",
+                "h",
+                "p",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 引起，唤起; vt. 博得",
+            "choices": [
+                "e",
+                "e",
+                "k",
+                "o",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 鲁莽的; adj. 无畏的",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "d",
+                "i",
+                "o",
+                "s",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 态度; vi. 摆姿势; n. 情形",
+            "choices": [
+                "e",
+                "o",
+                "p",
+                "r",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 引人注意的; adj. 容易记住的; adj. 易使人上当的",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "h",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 可信的; adj. 真正的，真实的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "h",
+                "i",
+                "n",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 强调; vt. 重读",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "c",
+                "e",
+                "e",
+                "n",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 工具，器具; vt. 实现，使生效; vt. 实施，执行",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "l",
+                "m",
+                "m",
+                "n",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": ". 加固; . ??持，支撑",
+            "choices": [
+                " ",
+                "e",
+                "h",
+                "o",
+                "p",
+                "r",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 激励; n. 觉醒",
+            "choices": [
+                "a",
+                "a",
+                "l",
+                "o",
+                "r",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 增加; vt. 增加; n. 增大",
+            "choices": [
+                "a",
+                "e",
+                "g",
+                "m",
+                "n",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 随后，其后; adv. 后来",
+            "choices": [
+                "b",
+                "e",
+                "e",
+                "l",
+                "n",
+                "q",
+                "s",
+                "s",
+                "t",
+                "u",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 坚韧的; adj. 固执的; adj. 黏着力强的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "n",
+                "o",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 显示; vt. 反省; vi. 反射，映现",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "f",
+                "l",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 和谐的; adj. 适合的，一致的; adj. 全等的",
+            "choices": [
+                "c",
+                "e",
+                "g",
+                "n",
+                "n",
+                "o",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 声望; n. 信任; vt. 赞颂",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "i",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 具体表达; vt. 体现，使具体化",
+            "choices": [
+                "b",
+                "d",
+                "e",
+                "m",
+                "o",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [光] 反射性; n. 反射比; n. [物] 反射率",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "f",
+                "i",
+                "i",
+                "l",
+                "r",
+                "t",
+                "t",
+                "v",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 华丽服饰; n. 全套甲胄，全副盔甲",
+            "choices": [
+                "a",
+                "l",
+                "n",
+                "o",
+                "p",
+                "p",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 证明…是真实的; vt. 鉴定",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "e",
+                "e",
+                "h",
+                "i",
+                "n",
+                "t",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 房屋连地基; vi. 作出前提; vt. 作为…的前提",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "m",
+                "p",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Pakistan has experienced a wave of terror attacks, including suicide blasts targeting international and security organizations, coordinated attacks around the country's cultural center,Lahore, and an ______ assault on the army's headquarters near Islamabad.",
+            "choices": [
+                "credential",
+                "buoy",
+                "audacious",
+                "accentuate",
+                "apathy"
+            ],
+            "chn": "(VOA : standard.2009.10.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Some of them are predisposed to dislike Saussure and to hope that they can somehow ______ him by learning more about things that he thought that aren't actually in the text.",
+            "choices": [
+                "squelch",
+                "acerbic",
+                "arousal",
+                "discredit",
+                "premise"
+            ],
+            "chn": "那些不喜欢他的人们,希望能找出更多书中没有提到的,他的思想，以打击此书的权威性。(文学理论导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "We should know that great works of art are measured by the emotions they ______, not just how they look next to the plant stand.",
+            "choices": [
+                "thrive",
+                "discredit",
+                "evoke",
+                "buoy",
+                "interchangeable"
+            ],
+            "chn": "我们应该懂得，伟大的艺术品是由它们自身所唤起的情感来衡量的，而不只是由他们在园艺架旁的外观所决定。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "But Miz Goodall believed that to understand animal behavior, the observer had to see the animals as individuals, not as ______ objects.",
+            "choices": [
+                "apathy",
+                "accentuate",
+                "reflect",
+                "interchangeable",
+                "augment"
+            ],
+            "chn": "(VOA : special.2009.11.18)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The more salient we make the source of the ______, the less likely you can get the effect.",
+            "choices": [
+                "credit",
+                "profess",
+                "languish",
+                "arousal",
+                "catchy"
+            ],
+            "chn": "我们越突现觉醒原因，越不可能获得这个效果。(心理学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It is about how you operationalize and ______ capitalize on market opportunity.",
+            "choices": [
+                "reflectivity",
+                "subsequently",
+                "acerbic",
+                "panoply",
+                "audacious"
+            ],
+            "chn": "它是关于您如何实施并且随后利用市场机会的。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "Experimental results show that the ______ change increases with the power of the pump laser.",
+            "choices": [
+                "reflectivity",
+                "hoax",
+                "implement",
+                "thrive",
+                "ministration"
+            ],
+            "chn": "实验结果表明反射率的变化随着泵浦激光功率的增强而增大。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "The ship kept the ______ on her off side.",
+            "choices": [
+                "reflectivity",
+                "audacious",
+                "credential",
+                "squelch",
+                "buoy"
+            ],
+            "chn": "这船使浮标保持在船身向海的一边。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "Of more concern is that the plan, if it were approved, would neither ______ up the financial system nor save the American economy.",
+            "choices": [
+                "standstill",
+                "eclectic",
+                "hoax",
+                "shore up",
+                "subsequently"
+            ],
+            "chn": "另一个更大的担心是，即是这项计划被通过，如果它不能支撑美国金融体系并保住美国经济怎么办。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "But it also reflects a fear that the demand for compensation both from government and private concerns, which could have recourse to a whole ______ of legislation, is spiralling out of control.",
+            "choices": [
+                "crude",
+                "panoply",
+                "posture",
+                "demoralize",
+                "fictitious"
+            ],
+            "chn": "但也反映出一种对来自政府和个人的补偿金要求感到害怕，因为这些要求将获得立法完全的帮助，是螺旋上升的且会失控。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "So Kaufman argues that magic in the Bible is recast as a witness to magical actions are stripped--of their autonomous ______.",
+            "choices": [
+                "squelch",
+                "potency",
+                "fictitious",
+                "credit",
+                "crude"
+            ],
+            "chn": "因此考夫曼认为，圣经中，巫术被彻底改动,巫术活动因为其蕴含的自主力量而被禁止了。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Dante, in his book, De Monarchia on monarchy, saw Aristotle as giving ______ to the idea of a universal monarchy under the leadership of a Christian prince.",
+            "choices": [
+                "artless",
+                "demoralize",
+                "standstill",
+                "crude",
+                "credence"
+            ],
+            "chn": "但丁在他的《论帝制》中，视亚里士多德,为力主世界帝国的概念,且是由一位基督王子所主宰。(政治哲学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But you'll see that once you get to final projects frankly, you're not gonna want to ______ everything from scratch.",
+            "choices": [
+                "demoralize",
+                "implement",
+                "acerbic",
+                "shore up",
+                "profess"
+            ],
+            "chn": "但是一旦你得出了最终方案，你就不会愿意利用框架去,实现任何功能了。(计算机科学课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Such as we were we gave ourselves outright To the land vaguely realizing westward, But still unstoried,______,unenhanced, Such as she was,such as she would become.",
+            "choices": [
+                "artless",
+                "thrive",
+                "malady",
+                "hoax",
+                "accent"
+            ],
+            "chn": "(VOA : special.2011.04.10)"
+        },
+        {
+            "cate": "choice",
+            "problem": "To bring (oneself) into an erect ______, often as an expression of dignity or indignation.",
+            "choices": [
+                "credence",
+                "squelch",
+                "credulous",
+                "posture",
+                "acerbic"
+            ],
+            "chn": "使（自己）来到一个直立的姿势，通常用于表示尊严或愤怒。()"
+        }
+    ],
+    "quiz_id": "193"
+}

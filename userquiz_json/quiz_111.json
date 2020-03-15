@@ -1,0 +1,348 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "extensive",
+            "choices": [
+                "vt. 使撤退",
+                "vi. 作证",
+                "adj. 依次的",
+                "adj. 广泛的",
+                "adj. 大量的",
+                "vt. 合格",
+                "adj. 广阔的",
+                "adj. 强健的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "reluctantly",
+            "choices": [
+                "adv. 模糊地，不明确地",
+                "vt. 空出，搬出",
+                "adv. 不情愿地",
+                "adj. 健康的",
+                "adv. 嫌恶地",
+                "n. 喷射",
+                "adj. 激发兴趣的",
+                "adj. 渊博的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "attest",
+            "choices": [
+                "vt. 喷射",
+                "vt. 为…作证",
+                "vt. 证明",
+                "vi. 证明",
+                "vt. 证实",
+                "v. 丢弃（discard的过去分词）",
+                "adj. 重复的",
+                "vi. 作证"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "repetitive",
+            "choices": [
+                "vt. 排挤掉",
+                "vt. 证明",
+                "vi. 作证",
+                "vt. 实施，执行",
+                "adj. 激发兴趣的",
+                "adj. 可行的",
+                "adj. 重复的",
+                "vt. 代替"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "compelling",
+            "choices": [
+                "adj. 强制的",
+                "adj. 激发兴趣的",
+                "vi. 辞职",
+                "v. 强迫",
+                "v. 以强力获得（compel的ing形式）",
+                "adj. 引人注目的",
+                "vt. 为…作证",
+                "adj. 粗鲁的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "profusely",
+            "choices": [
+                "adj. 强健的",
+                "adv. 丰富地",
+                "n. 光度",
+                "vt. 取消",
+                "adv. 模糊地，不明确地",
+                "vi. 沉淀",
+                "n. 记忆力",
+                "vt. 代替"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "drastic",
+            "choices": [
+                "adj. 重复的",
+                "adj. 能生育的",
+                "adj. 广泛的",
+                "adj. 激烈的",
+                "adj. 重复的",
+                "adj. 猛烈的",
+                "n. 烈性泻药",
+                "n. 订金"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "impressive",
+            "choices": [
+                "n. 扣留，滞留",
+                "vi. 辞职",
+                "adj. 感人的",
+                "adj. 空前的",
+                "n. 手段",
+                "vi. 啮合",
+                "adj. 令人钦佩的",
+                "adj. 给人以深刻印象的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "inexplicably",
+            "choices": [
+                "adv. 无法说明地",
+                "adv. 说不清的",
+                "adv. 令人难以理解地",
+                "vt. 排挤掉",
+                "n. 姿态",
+                "n. 重要",
+                "adv. 不确定地，无限期地",
+                "n. 障碍"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "deposit",
+            "choices": [
+                "n. 订金",
+                "n. 沉淀物",
+                "n. 存款",
+                "vi. 沉淀",
+                "adj. 强制的",
+                "vt. 存放",
+                "n. 保证金",
+                "vt. 使沉积"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "stance",
+            "choices": [
+                "adj. 重复的",
+                "n. 位置",
+                "adj. 相反的",
+                "n. 姿态",
+                "n. 立场",
+                "adv. 嫌恶地",
+                "vi. 有能力",
+                "n. 准备击球姿势"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "perplex",
+            "choices": [
+                "vi. 辞职",
+                "adj. 能生育的",
+                "vt. 使复杂化",
+                "adv. 无用地",
+                "vt. 代替",
+                "vi. 做徒劳挣扎",
+                "vt. 雇佣",
+                "vt. 使困惑，使为难"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 接替的; adj. 依次的; adj. 继承的",
+            "choices": [
+                "obstruction",
+                "vacated",
+                "successive",
+                "profound",
+                "extensive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 实价; vt. 用网捕; vt. 净赚",
+            "choices": [
+                "baffle",
+                "compelling",
+                "implement",
+                "net",
+                "discarded"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 代替; vt. 排挤掉",
+            "choices": [
+                "compelling",
+                "adhesive",
+                "supplant",
+                "viable",
+                "reluctantly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使参加; vt. 吸引，占用; vi. 交战",
+            "choices": [
+                "adhesive",
+                "successive",
+                "engage",
+                "baffle",
+                "profound"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 令人钦佩的; adj. 给人以深刻印象的; adj. 感人的",
+            "choices": [
+                "discarded",
+                "compelling",
+                "impressive",
+                "perplex",
+                "inexplicably"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 胶黏剂; adj. 粘着的; n. 粘合剂",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "h",
+                "i",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 敌对的（名词adverseness，副词adversely）; adj. 不利的; adj. 相反的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "r",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 精心制作的; vt. 详细阐述; vi. 变复杂",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "e",
+                "e",
+                "l",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 喷射; vi. 冲刺; vt. 喷出",
+            "choices": [
+                "p",
+                "r",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 障碍; n. 阻碍; n. 妨碍",
+            "choices": [
+                "b",
+                "c",
+                "i",
+                "n",
+                "o",
+                "o",
+                "r",
+                "s",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "An IOM study indicates about one-quarter of these families are living in squatter camps, public buildings or ______ homes.",
+            "choices": [
+                "vacated",
+                "obstruction",
+                "inexplicably",
+                "impressive",
+                "successive"
+            ],
+            "chn": "(VOA : standard.2009.10.04)"
+        },
+        {
+            "cate": "choice",
+            "problem": "What that means is that we identify students who are going to take a big leap, intellectual leap forward in this coming year, a ______ forward in this coming year.",
+            "choices": [
+                "spurt",
+                "discarded",
+                "vacated",
+                "drastic",
+                "inexplicably"
+            ],
+            "chn": "测试能让我们找出,将在新学年在学业上，取得巨大进步的学生，在新学年取得巨大进步。(幸福课课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Republicans also bitterly oppose the Democrat's plan to avoid Republican ______ in a later Senate vote on the modified package with a process that would allow approval with a simple majority of 51 votes.",
+            "choices": [
+                "engage",
+                "drastic",
+                "impressive",
+                "obstruction",
+                "implement"
+            ],
+            "chn": "(VOA : standard.2010.03.19)"
+        }
+    ],
+    "quiz_id": "111"
+}

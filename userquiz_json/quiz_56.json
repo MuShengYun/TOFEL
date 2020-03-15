@@ -1,0 +1,254 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "destination",
+            "choices": [
+                "n. 分配",
+                "n. 优势",
+                "n. 经济学者",
+                "n. 无能",
+                "vi. 被染色",
+                "n. 目的地，终点",
+                "vi. 排放",
+                "vt. 诊断"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "economist",
+            "choices": [
+                "n. 染料",
+                "n. 经济学者",
+                "vi. 详细描述",
+                "adj. 占优势的",
+                "n. 节俭的人",
+                "n. 后裔",
+                "n. 忧虑",
+                "n. 支配"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "differential",
+            "choices": [
+                "n. 微分",
+                "adj. 特异的",
+                "adj. 微分的",
+                "n. 残疾",
+                "n. 差别",
+                "n. 二氧化物",
+                "adj. 差别的",
+                "n. 染料"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "descendant",
+            "choices": [
+                "n. 后裔",
+                "adj. 显性的",
+                "adj. 祖传的",
+                "vt. 从简单成分合成（复杂有机物）",
+                "n. 子孙",
+                "n. 诊断",
+                "adj. 下降的",
+                "vt. 表示，指示"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "differentiation",
+            "choices": [
+                "vt. 使…漂流",
+                "n. 指示",
+                "adj. 稠密的",
+                "n. 直径",
+                "adj. 发展的",
+                "n. 识别力",
+                "n. 变异，[生物] 分化",
+                "n. 区别"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 描画; vt. 描述",
+            "choices": [
+                "economist",
+                "domination",
+                "drift",
+                "dye",
+                "depict"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 发展的; adj. 启发的",
+            "choices": [
+                "dose",
+                "developmental",
+                "denominator",
+                "discrete",
+                "ecological"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使分解; vi. 溶解; vt. 使溶解",
+            "choices": [
+                "disadvantage",
+                "dialect",
+                "deviation",
+                "dissolve",
+                "differentiation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 后裔; adj. 祖传的; adj. 下降的",
+            "choices": [
+                "depict",
+                "dominance",
+                "dose",
+                "ecology",
+                "descendant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 效力",
+            "choices": [
+                "effectiveness",
+                "differential",
+                "developmental",
+                "dictate",
+                "dilemma"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 支配; n. 控制",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "i",
+                "m",
+                "n",
+                "n",
+                "o",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 愚钝的; adj. 浓厚的; adj. 稠密的",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "n",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 进退两难; n. 困境; n. 两刀论法",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "l",
+                "m",
+                "m"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 喝光，耗尽; n. 消耗; vt. 使流出",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "n",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 分配; n. 供应; n. 分布",
+            "choices": [
+                "b",
+                "d",
+                "i",
+                "i",
+                "i",
+                "n",
+                "o",
+                "r",
+                "s",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "And the cancer society says health officials and governments should invest more in cancer research and early ______.",
+            "choices": [
+                "detection",
+                "discourse",
+                "differentiation",
+                "ecological",
+                "domination"
+            ],
+            "chn": "(VOA : special.2009.03.02)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It could be information-oriented, it could be a dialogue, it could be some kind of tools, a request function or ______ or computing request.",
+            "choices": [
+                "dictionary",
+                "differentiate",
+                "dissection",
+                "economically",
+                "diameter"
+            ],
+            "chn": "可以是信息导向的，也可以是对话，或者是一种工具，一种对功能的需求，比如对字典，计算的需求。(百度CEO李彦宏演讲：全球最大搜索引擎的发展课程节选 : 斯坦福公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So, we'll do all of that hosting for you which will be a nice way of giving a little more personal touch to your final projects if you decide to implement something web based and would like your own so called ______.",
+            "choices": [
+                "domain",
+                "diagnostic",
+                "dialect",
+                "diverse",
+                "dissolve"
+            ],
+            "chn": "这是我们能为你们的毕业设计所做的,一点点人文关怀,如果你们想做一些基于网站的东西,而且不愿意别人插手。(计算机科学课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Some scholars assume there's a historical memory behind the ______ and dramatic story of a miraculous redemption by God.",
+            "choices": [
+                "elaborate",
+                "effectiveness",
+                "dominant",
+                "distribution",
+                "disability"
+            ],
+            "chn": "一些学者假设潜藏着历史记忆,在上帝神奇兑现许诺的详细的戏剧化故事中。(旧约导论课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "56"
+}

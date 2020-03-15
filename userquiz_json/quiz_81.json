@@ -1,0 +1,1596 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "abandoned",
+            "choices": [
+                "vt. 发扬",
+                "vi. 变复杂",
+                "adj. 恣意放荡的",
+                "adj. 被抛弃的",
+                "adj. 相配的",
+                "v. 抛弃（abandon的过去式和过去分词）",
+                "adj. 寡廉鲜耻的",
+                "adj. 无约束的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "constituent",
+            "choices": [
+                "vt. 记住",
+                "n. 选民",
+                "n. 委托人",
+                "adj. 适当的",
+                "adj. 构成的",
+                "adj. 选举的",
+                "n. 成分",
+                "adj. 基本的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "mere",
+            "choices": [
+                "adj. 寡廉鲜耻的",
+                "n. 池塘",
+                "adj. 仅仅的",
+                "n. 新加入者，接受初步知识者",
+                "adj. 明显的",
+                "adj. 只不过的",
+                "vt. 传播",
+                "n. 小湖"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "allow",
+            "choices": [
+                "vt. 认可",
+                "adj. 适当的",
+                "vi. 容许",
+                "vi. 考虑",
+                "adj. 过剩的",
+                "vt. 允许",
+                "vt. 给予",
+                "adj. 退化的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "simultaneous",
+            "choices": [
+                "adj. 同时发生的",
+                "n. 同时译员",
+                "adj. 寡廉鲜耻的",
+                "adj. 同时的",
+                "vi. 急忙",
+                "vt. 提升",
+                "adj. 联立的",
+                "vt. 记住"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "gradual",
+            "choices": [
+                ". 语音学]音长，音延",
+                "vt. 表示…的总和",
+                "adj. 逐渐的",
+                "adj. 刺目的",
+                "adj. 联立的",
+                "adj. 平缓的",
+                "n. 弥撒升阶圣歌集",
+                "vt. 解散"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "diffuse",
+            "choices": [
+                "adv. 推测起来",
+                "vt. 扩散",
+                "vt. 传播",
+                "vi. 传播",
+                "vt. 漫射",
+                "vi. 四散",
+                "adj. 散开的",
+                "adj. 弥漫的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "promote",
+            "choices": [
+                "vt. 促进",
+                "vi. 成为王后或其他大于卒的子",
+                "vt. 发扬",
+                "vt. 推销",
+                "n. 弥撒升阶圣歌集",
+                "adj. 清楚的",
+                "vt. 提升",
+                "n. 持续，持续的时间，期间"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "stimulated",
+            "choices": [
+                "adj. 刺目的",
+                "n. 选民",
+                "vt. 促进",
+                "adj. 受激的",
+                "adj. 粗糙的",
+                "adj. 过剩的",
+                "adj. 接受初步知识的",
+                "v. 刺激（stimulate的过去式和过去分词）"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "derive",
+            "choices": [
+                "adj. 有利可图的，赚钱的",
+                "n. 池塘",
+                "adj. 有利可图的，赚钱的",
+                "vt. 得自",
+                "vt. 源于",
+                "vt. 获得",
+                "vi. 起源",
+                "adj. 有利可图的，赚钱的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "harsh",
+            "choices": [
+                "vt. 让...离开",
+                "adj. 严厉的",
+                "adj. 粗糙的",
+                "adj. 刺耳的",
+                "adj. 刺目的",
+                "vi. 解散",
+                "adj. 受激的",
+                "adj. 严酷的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "suitable",
+            "choices": [
+                "adj. 受激的",
+                "adj. 渊博的",
+                "n. 勋绩",
+                "adv. 因此",
+                "adv. 这样",
+                "adj. 适当的",
+                "adj. 相配的",
+                "vt. 发扬"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "duration",
+            "choices": [
+                "adj. 无约束的",
+                "n. [电] 电势",
+                "vi. 占主导（或支配）地位",
+                ". 语音学]音长，音延",
+                "vi. 详细描述",
+                "adj. 野心勃勃的",
+                "adj. 严酷的",
+                "n. 持续，持续的时间，期间"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "hasten",
+            "choices": [
+                "vt. 催促",
+                "vt. 加速",
+                "vt. 使赶紧",
+                "vi. 赶快",
+                "vt. 提升",
+                "vt. 详细阐述",
+                "adv. 大概",
+                "vi. 急忙"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "distinct",
+            "choices": [
+                "adj. 合算的",
+                "adj. 明显的",
+                "vt. 开发，开拓",
+                "adv. 推测起来",
+                "vi. 成为一体",
+                "adj. 清楚的",
+                "adj. 有区别的",
+                "adj. 独特的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "initiate",
+            "choices": [
+                "n. 开始",
+                "adj. 接受初步知识的",
+                "vt. 开始，创始",
+                "vt. 使初步了解",
+                "n. 新加入者，接受初步知识者",
+                "adj. 独特的",
+                "vt. 发起",
+                "adj. 新加入的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "rudimentary",
+            "choices": [
+                "adj. 残遗的",
+                "adj. 潜在的",
+                ". 语音学]音长，音延",
+                "adj. 初步的",
+                "adj. 退化的",
+                "adj. 基本的",
+                "adj. 未发展的",
+                "vt. 从简单成分合成（复杂有机物）"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "surplus",
+            "choices": [
+                "n. 盈余",
+                "n. 小湖",
+                "adj. 过剩的",
+                "n. 剩余",
+                "adj. 受激的",
+                "n. 过剩",
+                "adj. 剩余的",
+                "n. [贸易] 顺差"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "obsolete",
+            "choices": [
+                "adj. 剩余的",
+                "n. 废词",
+                "vt. 废弃",
+                "vt. 淘汰",
+                "n. 陈腐的人",
+                "adj. 废弃的",
+                "adj. 老式的",
+                "vi. 四散"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "potential",
+            "choices": [
+                "adj. 潜在的",
+                "adj. 常见的",
+                "n. [电] 电势",
+                "adj. 势的",
+                "vt. 剥削",
+                "n. 可能性",
+                "adj. 可能的",
+                "n. 潜能"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "lucrative",
+            "choices": [
+                "adj. 同时的",
+                "adv. 可假定",
+                "adj. 合算的",
+                "adj. 退化的",
+                "adj. 内容充实的",
+                "adj. 适当的",
+                "adj. 有利可图的，赚钱的",
+                "adv. 从而"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conventional",
+            "choices": [
+                "adj. 联立的",
+                "adv. 可假定",
+                "vt. 加速",
+                "adj. 合算的",
+                "adj. 常见的",
+                "adv. 最后，终于",
+                "adj. 惯例的",
+                "adj. 符合习俗的，传统的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "substantial",
+            "choices": [
+                "adj. 实质的",
+                "vt. 传播",
+                "adj. 大量的",
+                "adj. 内容充实的",
+                "n. 成分",
+                "n. 本质",
+                "adj. 构成的",
+                "n. 重要材料"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "presumably",
+            "choices": [
+                "adj. 有区别的",
+                "n. 盈余",
+                "adv. 推测起来",
+                "adv. 可假定",
+                "vi. 四散",
+                "adj. 恣意放荡的",
+                "adv. 大概",
+                "adj. 相配的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "thus",
+            "choices": [
+                "adv. 从而",
+                "adj. 惯例的",
+                "conj. 因此",
+                "adv. 如此",
+                "vi. 赶快",
+                "adv. 因此",
+                "adj. 符合习俗的，传统的",
+                "adv. 这样"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "retain",
+            "choices": [
+                "vt. 记住",
+                "vt. 开除",
+                "vt. 保持",
+                "n. 重要材料",
+                "n. 持续，持续的时间，期间",
+                "n. 盈余",
+                "vt. 雇",
+                "adj. 逐渐的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "predominate",
+            "choices": [
+                "vt. 在…中占优势",
+                "vi. 容许",
+                "adj. 只不过的",
+                "adj. 深厚的",
+                "vt. 支配，主宰",
+                "vi. 占优势",
+                "adj. 实质的",
+                "vi. 占主导（或支配）地位"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "elaborate",
+            "choices": [
+                "vi. 变复杂",
+                "vt. 从简单成分合成（复杂有机物）",
+                "vt. 精心制作",
+                "vt. 详细阐述",
+                "vi. 详细描述",
+                "adj. 煞费苦心的",
+                "vt. 传播",
+                "adj. 详尽的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ambitious",
+            "choices": [
+                "vi. 四散",
+                "n. 勋绩",
+                "adj. 热望的",
+                "adj. 野心勃勃的",
+                "adj. 炫耀的",
+                "adj. 有雄心的",
+                "adj. 精心制作的",
+                "n. 持续，持续的时间，期间"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "integrate",
+            "choices": [
+                "vi. 求积分",
+                "vt. 传播",
+                "vi. 成为一体",
+                "vi. 取消隔离",
+                "vt. 使…完整",
+                "adj. 整合的",
+                "n. 一体化",
+                "vt. 使…成整体"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dismiss",
+            "choices": [
+                "vt. 解雇",
+                "vt. 让...离开",
+                "vi. 占优势",
+                "vi. 解散",
+                "vt. 解散",
+                "v. 刺激（stimulate的过去式和过去分词）",
+                "vt. 不予理会、不予考虑",
+                "vt. 开除"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "eventually",
+            "choices": [
+                ". 语音学]音长，音延",
+                "vt. 剥削",
+                "adv. 最后，终于",
+                "adj. 接受初步知识的",
+                "vt. 使赶紧",
+                "vt. 源于",
+                "adv. 从而",
+                "adj. 联立的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "profound",
+            "choices": [
+                "vi. 四散",
+                "adj. 渊博的",
+                "adj. 刺目的",
+                "adj. 相配的",
+                "adj. 意义深远的",
+                "vt. 不予理会、不予考虑",
+                "vi. 起源",
+                "adj. 深厚的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "distinctive",
+            "choices": [
+                "adj. 未发展的",
+                "n. 勋绩",
+                "adj. 有特色的，与众不同的",
+                "adj. 只不过的",
+                "adv. 最后，终于",
+                "vi. 占优势",
+                "v. 刺激（stimulate的过去式和过去分词）",
+                "adj. 合算的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "exploit",
+            "choices": [
+                "vt. 不予理会、不予考虑",
+                "vt. 开采",
+                "adj. 合算的",
+                "adv. 最后，终于",
+                "n. 功绩",
+                "n. 勋绩",
+                "vt. 开发，开拓",
+                "vt. 剥削"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 严厉的; adj. 刺目的; adj. 严酷的",
+            "choices": [
+                "thus",
+                "stimulated",
+                "mere",
+                "harsh",
+                "hasten"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 合算的; adj. 有利可图的，赚钱的",
+            "choices": [
+                "abandoned",
+                "lucrative",
+                "harsh",
+                "derive",
+                "promote"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 得自; vt. 源于; vi. 起源",
+            "choices": [
+                "presumably",
+                "constituent",
+                "integrate",
+                "distinct",
+                "derive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使…完整; adj. 完全的; n. 一体化",
+            "choices": [
+                "integrate",
+                "lucrative",
+                "simultaneous",
+                "distinctive",
+                "distinct"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使赶紧; vt. 加速; vi. 急忙",
+            "choices": [
+                "initiate",
+                "presumably",
+                "eventually",
+                "hasten",
+                "exploit"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 详细阐述; adj. 精心制作的; vt. 从简单成分合成（复杂有机物）",
+            "choices": [
+                "hasten",
+                "elaborate",
+                "gradual",
+                "constituent",
+                "allow"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 剩余; adj. 过剩的; n. [贸易] 顺差",
+            "choices": [
+                "hasten",
+                "allow",
+                "elaborate",
+                "obsolete",
+                "surplus"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 考虑; vt. 允许; vt. 给予",
+            "choices": [
+                "conventional",
+                "elaborate",
+                "allow",
+                "thus",
+                "distinct"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 池塘; n. 小湖; adj. 只不过的",
+            "choices": [
+                "retain",
+                "mere",
+                "integrate",
+                "constituent",
+                "suitable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 平缓的; adj. 逐渐的; n. 弥撒升阶圣歌集",
+            "choices": [
+                "gradual",
+                "retain",
+                "eventually",
+                "hasten",
+                "potential"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 占优势; vt. 在…中占优势; vt. 支配，主宰",
+            "choices": [
+                "rudimentary",
+                "promote",
+                "abandoned",
+                "duration",
+                "predominate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 开发，开拓; n. 功绩; vt. 开采",
+            "choices": [
+                "gradual",
+                "dismiss",
+                "mere",
+                "exploit",
+                "rudimentary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 大概; adv. 可假定; adv. 推测起来",
+            "choices": [
+                "abandoned",
+                "eventually",
+                "profound",
+                "presumably",
+                "derive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 大量的; adj. 实质的; n. 本质",
+            "choices": [
+                "mere",
+                "substantial",
+                "lucrative",
+                "presumably",
+                "abandoned"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 让...离开; vt. 开除; vt. 解雇",
+            "choices": [
+                "dismiss",
+                "substantial",
+                "allow",
+                "conventional",
+                "duration"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 最后，终于",
+            "choices": [
+                "diffuse",
+                "eventually",
+                "mere",
+                "hasten",
+                "suitable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 选举的; adj. 构成的; n. 选民",
+            "choices": [
+                "potential",
+                "profound",
+                "surplus",
+                "initiate",
+                "constituent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 受激的; v. 刺激（stimulate的过去式和过去分词）",
+            "choices": [
+                "distinct",
+                "derive",
+                "stimulated",
+                "conventional",
+                "presumably"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 深厚的; adj. 意义深远的; adj. 渊博的",
+            "choices": [
+                "integrate",
+                "profound",
+                "conventional",
+                "elaborate",
+                "obsolete"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 抛弃（abandon的过去式和过去分词）; adj. 恣意放荡的; adj. 寡廉鲜耻的",
+            "choices": [
+                "abandoned",
+                "retain",
+                "potential",
+                "exploit",
+                "distinct"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 散开的; vi. 传播; vt. 传播",
+            "choices": [
+                "conventional",
+                "derive",
+                "constituent",
+                "diffuse",
+                "substantial"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 从而; adv. 如此; adv. 这样",
+            "choices": [
+                "hasten",
+                "derive",
+                "thus",
+                "stimulated",
+                "profound"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [电] 电势; n. 潜能; n. 可能性",
+            "choices": [
+                "mere",
+                "initiate",
+                "dismiss",
+                "thus",
+                "potential"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 野心勃勃的; adj. 有雄心的; adj. 热望的",
+            "choices": [
+                "lucrative",
+                "ambitious",
+                "retain",
+                "suitable",
+                "diffuse"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 发扬; vt. 提升; vt. 促进",
+            "choices": [
+                "eventually",
+                "promote",
+                "presumably",
+                "gradual",
+                "rudimentary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 常见的; adj. 符合习俗的，传统的; adj. 惯例的",
+            "choices": [
+                "constituent",
+                "lucrative",
+                "integrate",
+                "conventional",
+                "obsolete"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有特色的，与众不同的",
+            "choices": [
+                "constituent",
+                "integrate",
+                "presumably",
+                "mere",
+                "distinctive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 适当的; adj. 相配的",
+            "choices": [
+                "obsolete",
+                "profound",
+                "surplus",
+                "suitable",
+                "harsh"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 清楚的; adj. 独特的; adj. 明显的",
+            "choices": [
+                "simultaneous",
+                "conventional",
+                "duration",
+                "distinct",
+                "integrate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 发起; adj. 新加入的; vt. 使初步了解",
+            "choices": [
+                "potential",
+                "simultaneous",
+                "hasten",
+                "initiate",
+                "derive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": ". 语音学]音长，音延; n. 持续，持续的时间，期间",
+            "choices": [
+                "rudimentary",
+                "predominate",
+                "promote",
+                "duration",
+                "suitable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 废弃; n. 废词; n. 陈腐的人",
+            "choices": [
+                "presumably",
+                "eventually",
+                "elaborate",
+                "obsolete",
+                "ambitious"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 记住; vt. 雇; vt. 保持",
+            "choices": [
+                "diffuse",
+                "potential",
+                "retain",
+                "presumably",
+                "harsh"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 联立的; adj. 同时发生的; adj. 同时的",
+            "choices": [
+                "elaborate",
+                "simultaneous",
+                "ambitious",
+                "surplus",
+                "potential"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 退化的; adj. 未发展的; adj. 残遗的",
+            "choices": [
+                "substantial",
+                "harsh",
+                "elaborate",
+                "predominate",
+                "rudimentary"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 炫耀的; adj. 野心勃勃的; adj. 有雄心的",
+            "choices": [
+                "a",
+                "b",
+                "i",
+                "i",
+                "m",
+                "o",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 粗糙的; adj. 严厉的; adj. 严酷的",
+            "choices": [
+                "a",
+                "h",
+                "h",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 可假定; adv. 推测起来; adv. 大概",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "l",
+                "m",
+                "p",
+                "r",
+                "s",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 恣意放荡的; adj. 无约束的; v. 抛弃（abandon的过去式和过去分词）",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "d",
+                "d",
+                "e",
+                "n",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 功绩; vt. 开发，开拓; n. 勋绩",
+            "choices": [
+                "e",
+                "i",
+                "l",
+                "o",
+                "p",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 赶快; vt. 加速; vi. 急忙",
+            "choices": [
+                "a",
+                "e",
+                "h",
+                "n",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 新加入的; vt. 发起; n. 新加入者，接受初步知识者",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "i",
+                "i",
+                "n",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 剩余的; n. 过剩; n. [贸易] 顺差",
+            "choices": [
+                "l",
+                "p",
+                "r",
+                "s",
+                "s",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 未发展的; adj. 基本的; adj. 退化的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "m",
+                "n",
+                "r",
+                "r",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 淘汰; vt. 废弃; n. 陈腐的人",
+            "choices": [
+                "b",
+                "e",
+                "e",
+                "l",
+                "o",
+                "o",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 保持; vt. 记住; vt. 雇",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "n",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 只不过的; adj. 仅仅的; n. 小湖",
+            "choices": [
+                "e",
+                "e",
+                "m",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "conj. 因此; adv. 这样; adv. 从而",
+            "choices": [
+                "h",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 同时发生的; adj. 同时的; adj. 联立的",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "l",
+                "m",
+                "n",
+                "o",
+                "s",
+                "s",
+                "t",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 允许; vt. 给予; vi. 考虑",
+            "choices": [
+                "a",
+                "l",
+                "l",
+                "o",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 深厚的; adj. 渊博的; adj. 意义深远的",
+            "choices": [
+                "d",
+                "f",
+                "n",
+                "o",
+                "o",
+                "p",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 可能性; n. [电] 电势; n. 潜能",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "l",
+                "n",
+                "o",
+                "p",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 解散; vt. 让...离开; vt. 不予理会、不予考虑",
+            "choices": [
+                "d",
+                "i",
+                "i",
+                "m",
+                "s",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 最后，终于",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "l",
+                "l",
+                "n",
+                "t",
+                "u",
+                "v",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 逐渐的; n. 弥撒升阶圣歌集; adj. 平缓的",
+            "choices": [
+                "a",
+                "a",
+                "d",
+                "g",
+                "l",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 漫射; vi. 四散; adj. 弥漫的",
+            "choices": [
+                "d",
+                "e",
+                "f",
+                "f",
+                "i",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 明显的; adj. 有区别的; adj. 清楚的",
+            "choices": [
+                "c",
+                "d",
+                "i",
+                "i",
+                "n",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 惯例的; adj. 常见的; adj. 符合习俗的，传统的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "l",
+                "n",
+                "n",
+                "n",
+                "o",
+                "o",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 适当的; adj. 相配的",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "i",
+                "l",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有特色的，与众不同的",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "i",
+                "i",
+                "i",
+                "n",
+                "s",
+                "t",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 内容充实的; adj. 大量的; n. 本质",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "i",
+                "l",
+                "n",
+                "s",
+                "s",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 受激的; v. 刺激（stimulate的过去式和过去分词）",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "l",
+                "m",
+                "s",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 促进; vt. 发扬; vi. 成为王后或其他大于卒的子",
+            "choices": [
+                "e",
+                "m",
+                "o",
+                "o",
+                "p",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 起源; vt. 得自; vt. 源于",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "i",
+                "r",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 选民; adj. 选举的; adj. 构成的",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "n",
+                "n",
+                "o",
+                "s",
+                "t",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 持续，持续的时间，期间; . 语音学]音长，音延",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "n",
+                "o",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 在…中占优势; vi. 占优势; vi. 占主导（或支配）地位",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "i",
+                "m",
+                "n",
+                "o",
+                "p",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使…完整; adj. 完全的; adj. 整合的",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "g",
+                "i",
+                "n",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 详尽的; adj. 煞费苦心的; vi. 详细描述",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "e",
+                "e",
+                "l",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有利可图的，赚钱的; adj. 合算的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "l",
+                "r",
+                "t",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Before the laser, scientists developed a similar device: a maser which stands for Microwave Amplification by ______ Emission of Radiation.",
+            "choices": [
+                "conventional",
+                "stimulated",
+                "retain",
+                "promote",
+                "abandoned"
+            ],
+            "chn": "(VOA : special.2010.09.01)"
+        },
+        {
+            "cate": "choice",
+            "problem": "They allege that the company's drilling polluted their water with chemicals,metals and methane, the main ______ of natural gas, causing explosions as well as gastrointestinal and neurological illness.",
+            "choices": [
+                "eventually",
+                "conventional",
+                "distinct",
+                "presumably",
+                "constituent"
+            ],
+            "chn": "(VOA : standard.2010.01.02)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Agriculture Secretary Tom Vilsack points out that agriculture is one of the few major areas of the economy with a trade ______.",
+            "choices": [
+                "simultaneous",
+                "duration",
+                "presumably",
+                "surplus",
+                "initiate"
+            ],
+            "chn": "(VOA : special.2010.12.07)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And um, ______, at first, I was just, you know, sitting in, but then I had to take a licensing exam",
+            "choices": [
+                "promote",
+                "diffuse",
+                "surplus",
+                "predominate",
+                "eventually"
+            ],
+            "chn": "一开始我只坐在那里，可是之后还要进行一次许可考试，(SpeakingMax英语口语达人 : 广播人员怎么样？)"
+        },
+        {
+            "cate": "choice",
+            "problem": "He says Kampot pepper has a ______ flavor. It has a very fresh aroma with hints of eucalyptus and it lingers in the palate.",
+            "choices": [
+                "distinct",
+                "substantial",
+                "promote",
+                "obsolete",
+                "presumably"
+            ],
+            "chn": "(VOA : standard.2009.04.16)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But if it watches you over some amount of time just like it's been for years with advertisements, can this kind of algorithm, this kind of process ______ improve?",
+            "choices": [
+                "gradual",
+                "presumably",
+                "thus",
+                "potential",
+                "eventually"
+            ],
+            "chn": "但是如果它像关注广告一样,花费一些时间关注你，这些算法和进程，想必会提升吧？(计算机科学课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And of course, the hedonist will also ______ to point out that just because we can't do this perfectly or infallibly, that doesn't mean we can't make educated guesses, right?",
+            "choices": [
+                "hasten",
+                "harsh",
+                "thus",
+                "distinct",
+                "conventional"
+            ],
+            "chn": "当然享乐主义者也会急于指出,不能因为无法完美绝对地做到，就意味着不能做出有根据的猜想？(死亡课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "She says she will appeal to a St.Petersburg court to challenge the working conditions in the city's metro stations, in an attempt to make conditions more ______ for women.",
+            "choices": [
+                "profound",
+                "suitable",
+                "distinctive",
+                "constituent",
+                "eventually"
+            ],
+            "chn": "(VOA : standard.2009.11.05)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Nolan leads characters and the audience deeper and deeper into the subconscious, combining an ______ heist with science fiction and psychological drama.",
+            "choices": [
+                "obsolete",
+                "hasten",
+                "constituent",
+                "substantial",
+                "elaborate"
+            ],
+            "chn": "(VOA : standard.2010.07.20)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Okay, so it's not ______.",
+            "choices": [
+                "potential",
+                "obsolete",
+                "derive",
+                "allow",
+                "distinct"
+            ],
+            "chn": "好吧，看来这还并未过时。(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So after the reports, we had really hoped to ______ civic engagements in some way and some capacity into the curriculum.",
+            "choices": [
+                "diffuse",
+                "integrate",
+                "thus",
+                "derive",
+                "substantial"
+            ],
+            "chn": "写完报告后，我们真的,希望能够把公民权的一些活动,用某种方式融入到课程表中。(人性课程节选 : 普林斯顿公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "They have a ______ reality within the fictional context, the mimetic context, of this epic. These are angels.",
+            "choices": [
+                "substantial",
+                "hasten",
+                "duration",
+                "obsolete",
+                "predominate"
+            ],
+            "chn": "他们在这篇史诗虚构的模仿得来的，内容中具有极大的现实意义，他们是天使。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "that by our frame of government, the states which have slavery are to ______ it, or surrender it at their own pleasure;",
+            "choices": [
+                "dismiss",
+                "retain",
+                "thus",
+                "lucrative",
+                "promote"
+            ],
+            "chn": "(VOA : special.2009.02.09)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"I want to thank you and also ask you to show this warmness for the whole ______ of the tournament until they leave South Africa.\"",
+            "choices": [
+                "integrate",
+                "rudimentary",
+                "duration",
+                "suitable",
+                "predominate"
+            ],
+            "chn": "(VOA : standard.2010.06.11)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Three-fourths of the charities that answered the survey said the recession had forced them to ______ workers or cut other spending.",
+            "choices": [
+                "dismiss",
+                "stimulated",
+                "profound",
+                "obsolete",
+                "mere"
+            ],
+            "chn": "(VOA : special.2009.11.02)"
+        }
+    ],
+    "quiz_id": "81"
+}

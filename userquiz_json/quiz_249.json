@@ -1,0 +1,634 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "c_to_e",
+            "problem": "n. 眼界; n. 范围; n. [天] 地平线",
+            "choices": [
+                "grasp",
+                "horizon",
+                "grid",
+                "formulation",
+                "globalization"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 坡度; n. 倾斜度; n. [数][物] 梯度",
+            "choices": [
+                "fossil",
+                "friction",
+                "gradient",
+                "hierarchy",
+                "helix"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 身份证明; n. 认同; n. 鉴定，识别",
+            "choices": [
+                "forum",
+                "homework",
+                "formulation",
+                "identification",
+                "globalization"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [农药] 除草剂",
+            "choices": [
+                "freely",
+                "impulse",
+                "grasp",
+                "herbicide",
+                "fraction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 陈腐的，守旧的; n. 化石; adj. 化石的",
+            "choices": [
+                "friction",
+                "hawk",
+                "fossil",
+                "gauge",
+                "homework"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [生理] 激素，荷尔蒙",
+            "choices": [
+                "hip",
+                "grid",
+                "fundamentally",
+                "hormone",
+                "footnote"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 免除者; adj. 免疫的; n. 免疫者",
+            "choices": [
+                "immune",
+                "halfway",
+                "hawk",
+                "friction",
+                "gravity"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 抓住; vt. 领会; n. 理解",
+            "choices": [
+                "immune",
+                "grasp",
+                "hedge",
+                "grammatical",
+                "friction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 分数; n. 小部分; n. 部分",
+            "choices": [
+                "hydrogen",
+                "fraction",
+                "helix",
+                "harvest",
+                "gram"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 同一的; n. 完全相同的事物; adj. 完全相同的",
+            "choices": [
+                "identification",
+                "found",
+                "identical",
+                "headquarter",
+                "habitat"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 家庭作业，课外作业",
+            "choices": [
+                "immune",
+                "grammatical",
+                "homework",
+                "helix",
+                "halfway"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 概括; n. 一般化; n. 普遍化",
+            "choices": [
+                "hedge",
+                "impulse",
+                "generalization",
+                "gradient",
+                "footnote"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [外科] 骨折; vt. 使破裂; n. 破裂，断裂",
+            "choices": [
+                "impact",
+                "gram",
+                "genetics",
+                "halfway",
+                "fracture"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 直率地; adv. 慷慨地; adv. 免费地",
+            "choices": [
+                "hierarchy",
+                "generalize",
+                "freely",
+                "friction",
+                "illusion"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 障碍; n. 树篱; v. 用树篱笆围住",
+            "choices": [
+                "hierarchy",
+                "gram",
+                "generalization",
+                "hedge",
+                "genetics"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 收割; n. 收获; n. 产量",
+            "choices": [
+                "halfway",
+                "formulation",
+                "herbicide",
+                "genetics",
+                "harvest"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 鬼，幽灵; vt. 替…捉刀; vt. 作祟于",
+            "choices": [
+                "hierarchy",
+                "impulse",
+                "helix",
+                "ghost",
+                "grasp"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 忧郁; adj. 熟悉内情的; n. 臀部",
+            "choices": [
+                "historically",
+                "gut",
+                "gauge",
+                "hip",
+                "homework"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 公开讨论的广场; n. 论坛，讨论会; n. 法庭",
+            "choices": [
+                "hormone",
+                "grammatical",
+                "impulse",
+                "forum",
+                "fraction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 设立总部; vt. 在…设总部",
+            "choices": [
+                "habitat",
+                "headquarter",
+                "gut",
+                "halfway",
+                "formulation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 粗野的; n. 总额，总数; adj. 显而易见的",
+            "choices": [
+                "genetics",
+                "gravity",
+                "gross",
+                "goodness",
+                "fossil"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [物] 核聚变; n. 熔化; n. 融合物",
+            "choices": [
+                "gauge",
+                "hip",
+                "fringe",
+                "fusion",
+                "horizon"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 中途的; adv. 在中途; adj. 不彻底的",
+            "choices": [
+                "halfway",
+                "globalization",
+                "fraction",
+                "habitat",
+                "genetics"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 基础地; adv. 根本地，从根本上",
+            "choices": [
+                "fundamentally",
+                "grammatical",
+                "grasp",
+                "graph",
+                "impact"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 冲动; n. 推动力; vt. 推动",
+            "choices": [
+                "homework",
+                "genetics",
+                "halfway",
+                "impulse",
+                "horizon"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 曲线图; n. 图表; vt. 用曲线图表示",
+            "choices": [
+                "graph",
+                "gravity",
+                "grid",
+                "importantly",
+                "gradient"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 从历史观点上说; adv. 历史上地",
+            "choices": [
+                "helix",
+                "friction",
+                "hip",
+                "historically",
+                "hormone"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 输电网; n. 网格; n. 格子，栅格",
+            "choices": [
+                "formally",
+                "grasp",
+                "grid",
+                "impulse",
+                "immune"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 大量地; adv. 有名望地; adv. 自命不凡地",
+            "choices": [
+                "goodness",
+                "gram",
+                "importantly",
+                "gauge",
+                "fungus"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 给…作脚注; n. 补充说明; n. 脚注",
+            "choices": [
+                "hip",
+                "friction",
+                "footnote",
+                "ghost",
+                "generalize"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 山羊; n. 色鬼（美俚）; n. 替罪羊（美俚）",
+            "choices": [
+                "impact",
+                "fossil",
+                "goat",
+                "immune",
+                "fraction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 取出内脏; adj. 本能的，直觉的; n. 胆量",
+            "choices": [
+                "globalization",
+                "hormone",
+                "herbicide",
+                "impact",
+                "gut"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 真菌，霉菌; n. 菌类",
+            "choices": [
+                "fungus",
+                "horizontal",
+                "harvest",
+                "globalization",
+                "generalization"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 标准尺寸; vt. 估计; vt. 给…定规格",
+            "choices": [
+                "gauge",
+                "ideology",
+                "fracture",
+                "headquarter",
+                "historically"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 文法的; adj. 符合语法规则的",
+            "choices": [
+                "hormone",
+                "grammatical",
+                "grid",
+                "hierarchy",
+                "friction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 庄严; n. 重力，地心引力; n. 严重性",
+            "choices": [
+                "fringe",
+                "immune",
+                "friction",
+                "gravity",
+                "ideology"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 影响; vi. 撞击; vt. 挤入，压紧",
+            "choices": [
+                "friction",
+                "fraction",
+                "goat",
+                "impact",
+                "halfway"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 错误的观念或信仰; n. 幻觉，错觉",
+            "choices": [
+                "grid",
+                "hawk",
+                "illusion",
+                "gradient",
+                "friction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 克; n. 鹰嘴豆（用作饲料）",
+            "choices": [
+                "harvest",
+                "gram",
+                "generalization",
+                "hedge",
+                "hydrogen"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 全球化",
+            "choices": [
+                "globalization",
+                "gram",
+                "genetics",
+                "grasp",
+                "hip"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 层级; n. 等级制度",
+            "choices": [
+                "herbicide",
+                "gram",
+                "impulse",
+                "hierarchy",
+                "hydrogen"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 螺旋，螺旋状物; n. [解剖] 耳轮",
+            "choices": [
+                "helix",
+                "hawk",
+                "freely",
+                "footnote",
+                "genetics"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 合意的人; n. 商品; n. 真本领",
+            "choices": [
+                "harvest",
+                "hepatitis",
+                "goods",
+                "fungus",
+                "importantly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 形成概念; vt. 推广; vt. 概括",
+            "choices": [
+                "historically",
+                "generalize",
+                "helix",
+                "ghost",
+                "hierarchy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [化学] 氢",
+            "choices": [
+                "identification",
+                "formulation",
+                "impulse",
+                "hydrogen",
+                "ideology"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 创立，建立; v. 找到（find的过去分词）; vt. 创办",
+            "choices": [
+                "habitat",
+                "horizon",
+                "gram",
+                "found",
+                "hierarchy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 肝炎",
+            "choices": [
+                "fringe",
+                "identification",
+                "gram",
+                "gravity",
+                "hepatitis"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 咳嗽; vt. 兜售，沿街叫卖; n. 掠夺他人的人",
+            "choices": [
+                "formally",
+                "hawk",
+                "formulation",
+                "fundamentally",
+                "importantly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 水平的; n. 水平线，水平面; n. 水平位置",
+            "choices": [
+                "horizontal",
+                "grammatical",
+                "globalization",
+                "hedge",
+                "halfway"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 形式上; adv. 正式地",
+            "choices": [
+                "fundamentally",
+                "formally",
+                "fungus",
+                "identical",
+                "helix"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 简洁陈述; n. 公式化; n. 构想，规划",
+            "choices": [
+                "goodness",
+                "horizontal",
+                "formulation",
+                "gradient",
+                "found"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [生态] 栖息地，产地",
+            "choices": [
+                "gut",
+                "gradient",
+                "habitat",
+                "hip",
+                "gauge"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 思想意识; n. 意识形态; n. 观念学",
+            "choices": [
+                "herbicide",
+                "freely",
+                "immune",
+                "ideology",
+                "hip"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 遗传学",
+            "choices": [
+                "gauge",
+                "goat",
+                "hydrogen",
+                "horizontal",
+                "genetics"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 摩擦，[力] 摩擦力",
+            "choices": [
+                "fringe",
+                "friction",
+                "hormone",
+                "genetics",
+                "horizontal"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 穗; n. 刘海; adj. 边缘的",
+            "choices": [
+                "impact",
+                "fringe",
+                "grasp",
+                "impulse",
+                "genetics"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "int. 天哪; n. 精华，养分; n. 善良，优秀 ",
+            "choices": [
+                "goods",
+                "hepatitis",
+                "goodness",
+                "horizontal",
+                "gross"
+            ]
+        }
+    ],
+    "quiz_id": "249"
+}

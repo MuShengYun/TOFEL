@@ -1,0 +1,2614 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "composer",
+            "choices": [
+                "n. 设计者",
+                "n. 作家，著作者",
+                "vt. 澄清",
+                "n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+                "n. 作曲家",
+                "n. 开始",
+                "vt. 澄清",
+                "n. 条件句"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "circulation",
+            "choices": [
+                "n. 发行量",
+                "n. 文明",
+                "n. [临床] 化学疗法",
+                "n. [生理] 传导",
+                "n. 共产党员",
+                "n. 循环",
+                "n. 种群",
+                "n. 流通，传播"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conditional",
+            "choices": [
+                "n. 率",
+                "adj. 有条件的",
+                "n. 条件句",
+                "adj. 假定的",
+                "vt. 点击",
+                "n. 作曲家",
+                "n. 估计，计算",
+                "n. 条件语"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "clay",
+            "choices": [
+                "vt. 用黏土处理",
+                "n. 讨论",
+                "n. 似黏土的东西",
+                "n. [土壤] 粘土",
+                "n. 肉体",
+                "n. 泥土",
+                "n. [经] 客户",
+                "adv. 普通地"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "chemotherapy",
+            "choices": [
+                "n. 单击",
+                "vt. 为…提供线索",
+                "n. 教室",
+                "n. 分类",
+                "n. 集合体",
+                "n. [临床] 化学疗法",
+                "vt. 付报酬",
+                "n. 能力，胜任"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "classification",
+            "choices": [
+                "vt. 使合成",
+                "n. 混乱",
+                "vt. 禁闭",
+                "adv. 通常地",
+                "n. 分类",
+                "n. 殖民地居民",
+                "n. 怀孕",
+                "n. 类别，等级"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "comply",
+            "choices": [
+                "n. 氯化物",
+                "vi. 顺从，遵从",
+                "n. 化学过程",
+                "n. 限制",
+                "vt. 以为",
+                "vi. 答应",
+                "n. 设计者",
+                "vi. 遵守"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "complication",
+            "choices": [
+                "n. 并发症",
+                "n. 复杂",
+                "n. 概念",
+                "n. 混乱",
+                "n. 合成物",
+                "n. 顾客",
+                "n. 开始",
+                "n. 复杂化"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "competence",
+            "choices": [
+                "n. 能力，胜任",
+                "n. （塑料或金属的）夹子",
+                "vt. 持有",
+                "n. 国际象棋，西洋棋",
+                "n. 权限",
+                "n. 作证能力",
+                "n. 足以过舒适生活的收入",
+                "n. [工会、工党用语]（每年的）大会"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "chronic",
+            "choices": [
+                "n. 泥土",
+                "n. 估计，计算",
+                "n. 大块",
+                "adj. 聪明的",
+                "adj. 长期的",
+                "adj. 慢性的",
+                "adj. 习惯性的",
+                "n. （正式）讨论会"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conceptual",
+            "choices": [
+                "vt. 讨厌",
+                "vi. 顺从，遵从",
+                "n. [生理] 传导",
+                "n. 教室",
+                "n. 共产党员",
+                "n. [土壤] 粘土",
+                "n. 国际象棋，西洋棋",
+                "adj. 概念上的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "clever",
+            "choices": [
+                "adj. 机灵的",
+                ". 比较级cleverer 最高级 cleverest ]",
+                "n. 足以过舒适生活的收入",
+                "n. 作家，著作者",
+                "adv. 普通地",
+                "adj. 熟练的",
+                "adj. 聪明的",
+                "n. 大块"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "client",
+            "choices": [
+                "n. 殖民地",
+                "n. 顾客",
+                "vt. 限制",
+                "n. 无性系",
+                "n. [经] 客户",
+                "n. 教室",
+                "n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+                "n. 委托人"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "closure",
+            "choices": [
+                "n. 肉体",
+                "n. 关闭",
+                "n. 终止，结束",
+                "n. 圆锥体，圆锥形",
+                "vt. 使终止",
+                "vi. 变得明晰",
+                "adj. 认知的，认识的",
+                "vt. 以为"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "configuration",
+            "choices": [
+                "vt. 分类",
+                "n. 包含",
+                "n. 配置",
+                "vt. 补偿，赔偿",
+                "n. 结构",
+                "n. 临床",
+                "n. 循环",
+                "n. 外形"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "coherent",
+            "choices": [
+                "adj. 明了的",
+                "adj. 连贯的，一致的",
+                "adj. 清晰的",
+                "adj. 粘在一起的",
+                "adj. 凝聚性的",
+                "adj. 熟练的",
+                "adj. 互相耦合的",
+                "n. [经] 客户"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "compensate",
+            "choices": [
+                "vi. 抵消",
+                "vt. 付报酬",
+                "adj. 简洁的",
+                "vi. 举行或参加（系列）会议",
+                "vi. 补偿，赔偿",
+                "vt. 补偿，赔偿",
+                "vi. 遵守",
+                "adj. 可比较的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "chromosome",
+            "choices": [
+                "n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+                "n. 率",
+                "n. [生理] 传导",
+                "n. 类别，等级",
+                "n. [土壤] 粘土",
+                "n. 矮胖的人或物",
+                "vi. 剪",
+                "adv. 大约"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "computation",
+            "choices": [
+                "n. 权限",
+                "n. 协同因素",
+                "adj. 认知的，认识的",
+                "n. 共产主义者",
+                "n. 殖民地居民",
+                "n. 顾客",
+                "n. 化学",
+                "n. 估计，计算"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "comprehension",
+            "choices": [
+                "n. 教室",
+                "n. 理解",
+                "n. 国际象棋，西洋棋",
+                "n. 开始",
+                "n. 停顿",
+                "n. 说明",
+                "n. 复杂化",
+                "n. 包含"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "civilization",
+            "choices": [
+                "vi. 传播，流传",
+                "adj. 概念上的",
+                "n. 复杂化",
+                "n. 化学过程",
+                "vt. 澄清",
+                "n. 设想",
+                "n. 文明",
+                "n. 文化"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "classroom",
+            "choices": [
+                "n. 文明",
+                "n. 停顿",
+                "n. 配置",
+                "n. 混乱",
+                "n. 教室",
+                "n. 估计，计算",
+                "n. 诊所",
+                "n. 包含"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conception",
+            "choices": [
+                "n. 概念",
+                "n. 怀孕",
+                "n. 设想",
+                "n. 无性系",
+                "vt. 补偿，赔偿",
+                "n. 似黏土的东西",
+                "n. 开始",
+                "adj. 认知的，认识的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "clip",
+            "choices": [
+                "n. 设想",
+                "vi. 剪下报刊上的文章（或新闻、图片等）",
+                "n. 修剪",
+                "vi. 迅速行动",
+                "vt. 剪",
+                "vi. 用别针别在某物上，用夹子夹在某物上",
+                "n. （塑料或金属的）夹子",
+                "vi. 剪"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "click",
+            "choices": [
+                "n. 单击",
+                "vi. 作咔哒声",
+                "n. 作曲家",
+                "n. 估计，计算",
+                "vt. 使传播",
+                "vt. 点击",
+                "n. 滴答声",
+                "vt. 使发咔哒声"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "circa",
+            "choices": [
+                "n. [生理] 传导",
+                "vi. 抵消",
+                "vi. 遵守",
+                "adv. 大约",
+                "n. 种群",
+                "n. [临床] 化学疗法",
+                "prep. 大约于",
+                "adv. 普通地"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "commentary",
+            "choices": [
+                "n. 会议",
+                "n. 评论",
+                "n. 评注",
+                "n. [临床] 化学疗法",
+                "n. 说明",
+                "n. 作家，著作者",
+                "adj. 能干的",
+                "n. 注释"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cognitive",
+            "choices": [
+                "adj. 凝聚性的",
+                "vi. 遵守",
+                "adj. 认知的，认识的",
+                "vi. 考虑",
+                "n. 发行量",
+                "n. 殖民地居民",
+                "n. 国际象棋，西洋棋",
+                "adj. 合作的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "comparable",
+            "choices": [
+                "adv. 一般地",
+                "n. 克隆",
+                "adj. 可比较的",
+                "n. 发行量",
+                "n. 评注",
+                "n. 评注",
+                "n. 能力，胜任",
+                "adj. 比得上的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "confine",
+            "choices": [
+                "adj. 概念上的",
+                "n. [经] 客户",
+                "n. 约束",
+                "vt. 使循环",
+                "vt. 限制",
+                "n. 界限，边界",
+                "vt. 禁闭",
+                "n. 限制"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "chemistry",
+            "choices": [
+                "n. 足以过舒适生活的收入",
+                "n. 包含",
+                "n. 化学",
+                "n. 化学过程",
+                "n. 结构",
+                "adj. 机灵的",
+                "prep. 大约于",
+                "n. [经] 客户"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "chunk",
+            "choices": [
+                "n. 殖民地居民",
+                "n. [生理] 传导",
+                "n. 电影",
+                "n. 共产党员",
+                "n. 氯化物",
+                "n. 大块",
+                "n. 作证能力",
+                "n. 矮胖的人或物"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "comparative",
+            "choices": [
+                "vi. 答应",
+                "n. 分类",
+                "adj. 相当的",
+                "n. 比较级",
+                "adj. 比较的",
+                "n. 对手",
+                "n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+                "n. 分类"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "commonly",
+            "choices": [
+                "adv. 普通地",
+                "adj. 胜任的",
+                "adj. 胜任的",
+                "n. 共产党员",
+                "n. [生理] 传导",
+                "adv. 大约",
+                "adv. 通常地",
+                "adv. 一般地"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "clinic",
+            "choices": [
+                "vi. 遵守",
+                "vt. 使简洁",
+                "vt. 使紧密结合",
+                "n. 临床",
+                "vt. 点击",
+                "n. 诊所",
+                "n. 靠营养生殖而由母体分离繁殖的植物",
+                "n. 停顿"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "clue",
+            "choices": [
+                "n. （故事等的）情节",
+                "n. 殖民地居民",
+                "n. [临床] 化学疗法",
+                "n. 线索",
+                "n. 说明",
+                "adj. 概念上的",
+                "vt. 为…提供情况",
+                "vt. 为…提供线索"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "communist",
+            "choices": [
+                "vt. 使循环",
+                "n. [生理] 传导",
+                "n. 共产主义者",
+                "adj. 共产主义的",
+                "adj. 集体的",
+                "vi. 顺从，遵从",
+                "adj. 有条件的",
+                "n. 共产党员"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "classify",
+            "choices": [
+                "n. 补语",
+                "n. 日用品",
+                "vt. 分类",
+                "n. 化学过程",
+                "n. 估计，计算",
+                "vt. 分等",
+                "n. 诊所",
+                "n. 权限"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cinema",
+            "choices": [
+                "n. 教室",
+                "vt. 使成锥形",
+                "n. 电影",
+                "n. [生理] 传导",
+                "adj. 集合的",
+                "n. （正式）讨论会",
+                "n. 电影院",
+                "n. 电影业，电影制作术"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "coefficient",
+            "choices": [
+                "vt. 补偿，赔偿",
+                "n. 率",
+                "n. 协同因素",
+                "adj. 共同作用的",
+                "vt. 剪",
+                "adj. 合作的",
+                "adj. 有能力的",
+                "n. [数] 系数"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "chess",
+            "choices": [
+                "adj. 机灵的",
+                "n. 靠营养生殖而由母体分离繁殖的植物",
+                "n. 设想",
+                "n. 国际象棋，西洋棋",
+                "vt. 使成锥形",
+                "n. 作曲家",
+                "n. 顾客",
+                "vt. 分等"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "colony",
+            "choices": [
+                "n. 移民队",
+                "n. 日用品",
+                "vi. 遵守",
+                "adj. 概念上的",
+                "adj. 爱说话的，健谈的",
+                "n. 动物栖息地",
+                "n. 种群",
+                "n. 殖民地"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "compact",
+            "choices": [
+                "n. 小粉盒",
+                "vt. 使终止",
+                "adj. 紧凑的，紧密的",
+                "vt. 使简洁",
+                "n. 能力，胜任",
+                "adj. 简洁的",
+                "vt. 使紧密结合",
+                "n. 合同，契约"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "competent",
+            "choices": [
+                "adj. 胜任的",
+                "n. 分类",
+                "adj. 足够的",
+                "adj. 能干的",
+                "n. 估计，计算",
+                "adj. 认知的，认识的",
+                "adj. 有能力的",
+                "n. [生理] 传导"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "clone",
+            "choices": [
+                "n. 并发症",
+                "adj. 胜任的",
+                "n. 靠营养生殖而由母体分离繁殖的植物",
+                "n. 怀孕",
+                "vt. 无性繁殖，复制",
+                "n. 无性繁殖",
+                "n. 无性系",
+                "n. 克隆"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "clarify",
+            "choices": [
+                "vi. 得到净化",
+                "vi. 变得明晰",
+                "vt. 澄清",
+                "vi. 得到澄清",
+                "vt. 为…提供线索",
+                "vt. 阐明",
+                "vt. 限制",
+                "n. 移民队"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "composite",
+            "choices": [
+                "adj. 菊科的",
+                "vt. 使混合",
+                "n. 合成物",
+                "vt. 使合成",
+                "n. 菊科",
+                "n. 文化",
+                "adj. 复合的",
+                "adj. 合成的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "circulate",
+            "choices": [
+                "n. 化学过程",
+                "n. 殖民地",
+                "vi. 传播，流传",
+                "vi. 流通",
+                "vt. 使传播",
+                "vi. 循环",
+                "vt. 使循环",
+                "vt. 使流通"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "communicative",
+            "choices": [
+                "adj. 无隐讳交谈的",
+                "n. 分类",
+                "vt. 点击",
+                "n. [数] 系数",
+                "adj. 交际的",
+                "n. 国际象棋，西洋棋",
+                "adj. 爱说话的，健谈的",
+                "prep. 大约于"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "comma",
+            "choices": [
+                "n. 无性繁殖",
+                "n. 包含",
+                "n. 共产主义者",
+                "n. 评注",
+                "vi. 答应",
+                "n. 停顿",
+                "n. 逗号",
+                "vi. 得到净化"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conference",
+            "choices": [
+                "n. 联盟",
+                "n. 估计，计算",
+                "n. 会议",
+                "n. 协商",
+                "n. 讨论",
+                "vi. 举行或参加（系列）会议",
+                "n. [工会、工党用语]（每年的）大会",
+                "n. （正式）讨论会"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "commodity",
+            "choices": [
+                "n. 对手",
+                "n. 商品，货物",
+                "n. 日用品",
+                "n. 似黏土的东西",
+                "n. 诊所",
+                "n. 条件语",
+                "n. 包含",
+                "n. 氯化物"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conduction",
+            "choices": [
+                "n. 发行量",
+                "vt. 禁闭",
+                "n. 无性繁殖",
+                "n. [临床] 化学疗法",
+                "n. 线索",
+                "adj. 可比较的",
+                "n. 关闭",
+                "n. [生理] 传导"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "colonial",
+            "choices": [
+                "n. 足以过舒适生活的收入",
+                "adj. 有能力的",
+                "n. 殖民地居民",
+                "n. 无性系",
+                "adj. 殖民地的，殖民的",
+                "vt. 补足，补助",
+                "n. 条件语",
+                "n. 共产主义者"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conceive",
+            "choices": [
+                "vt. 持有",
+                "vi. 怀孕",
+                "vi. 设想",
+                "vt. 怀孕",
+                "vi. 考虑",
+                "vt. 以为",
+                "vt. 构思",
+                "adj. 习惯性的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "complement",
+            "choices": [
+                "n. 补足物",
+                "n. 商品，货物",
+                "vt. 分等",
+                "n. 余角",
+                "n. 补语",
+                "n. [工会、工党用语]（每年的）大会",
+                "vt. 补足，补助",
+                "n. 商品，货物"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "confound",
+            "choices": [
+                "adj. 粘在一起的",
+                "vt. 补足，补助",
+                "n. 评论",
+                "vt. 使混淆",
+                "vt. 讨厌",
+                "n. 殖民地居民",
+                "vt. 挫败",
+                "vt. 使混乱"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "collective",
+            "choices": [
+                "n. 集合体",
+                "n. 集合名词",
+                "adj. 共同的",
+                "n. 集团",
+                "adj. 集体的",
+                "adj. 集体主义的",
+                "vi. 遵守",
+                "adj. 集合的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cone",
+            "choices": [
+                "n. 圆锥体，圆锥形",
+                "vt. 使成锥形",
+                "n. [植] 球果",
+                "prep. 大约于",
+                "n. 循环",
+                "n. 临床",
+                "adj. 简洁的",
+                "n. 国际象棋，西洋棋"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "chloride",
+            "choices": [
+                "adj. 长期的",
+                "n. 氯化物",
+                "n. 诊所",
+                "vt. 补偿，赔偿",
+                "n. 余角",
+                "n. 文明",
+                "adj. 可比较的",
+                "n. 权限"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "prep. 大约于; adv. 大约",
+            "choices": [
+                "circa",
+                "conceptual",
+                "communicative",
+                "classify",
+                "clue"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 通常地; adv. 普通地; adv. 一般地",
+            "choices": [
+                "classroom",
+                "commonly",
+                "click",
+                "clinic",
+                "complication"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 比较级; adj. 比较的; n. 对手",
+            "choices": [
+                "classification",
+                "conceptual",
+                "comparative",
+                "comma",
+                "coherent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 文化; n. 文明",
+            "choices": [
+                "conduction",
+                "chronic",
+                "confine",
+                "civilization",
+                "colony"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 靠营养生殖而由母体分离繁殖的植物; vt. 无性繁殖，复制; n. 克隆",
+            "choices": [
+                "comprehension",
+                "conceptual",
+                "competence",
+                "clever",
+                "clone"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 联盟; n. 会议; n. （正式）讨论会",
+            "choices": [
+                "coefficient",
+                "configuration",
+                "conference",
+                "closure",
+                "clone"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 种群; n. 殖民地; n. 移民队",
+            "choices": [
+                "circulate",
+                "click",
+                "comma",
+                "colony",
+                "clip"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 逗号; n. 停顿",
+            "choices": [
+                "comparable",
+                "comma",
+                "chronic",
+                "circa",
+                "clue"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 化学; n. 化学过程",
+            "choices": [
+                "comma",
+                "comparative",
+                "coherent",
+                "chemistry",
+                "circa"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使紧密结合; n. 小粉盒; adj. 紧凑的，紧密的",
+            "choices": [
+                "confound",
+                "commodity",
+                "circa",
+                "confine",
+                "compact"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 集合体; adj. 共同的; n. 集合名词",
+            "choices": [
+                "commentary",
+                "collective",
+                "conceive",
+                "composite",
+                "click"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 怀孕; vi. 怀孕; vi. 考虑",
+            "choices": [
+                "conceive",
+                "computation",
+                "comparable",
+                "conceptual",
+                "conditional"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 用黏土处理; n. [土壤] 粘土; n. 泥土",
+            "choices": [
+                "conditional",
+                "conceive",
+                "clay",
+                "commonly",
+                "cone"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 线索; n. （故事等的）情节; vt. 为…提供情况",
+            "choices": [
+                "colony",
+                "classroom",
+                "chemotherapy",
+                "clue",
+                "clip"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 国际象棋，西洋棋",
+            "choices": [
+                "chess",
+                "configuration",
+                "clarify",
+                "client",
+                "chemistry"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [生理] 传导",
+            "choices": [
+                "collective",
+                "cognitive",
+                "conduction",
+                "computation",
+                "complement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 概念上的",
+            "choices": [
+                "conception",
+                "confound",
+                "collective",
+                "client",
+                "conceptual"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 包含; n. 理解",
+            "choices": [
+                "compact",
+                "conception",
+                "clay",
+                "commentary",
+                "comprehension"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 修剪; vi. 剪; n. 修剪",
+            "choices": [
+                "collective",
+                "commentary",
+                "clip",
+                "composite",
+                "commodity"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 临床; n. 诊所",
+            "choices": [
+                "chronic",
+                "clinic",
+                "clarify",
+                "classify",
+                "clip"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 得到净化; vi. 变得明晰; vi. 得到澄清",
+            "choices": [
+                "conduction",
+                "clarify",
+                "clone",
+                "clue",
+                "click"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 大块; n. 矮胖的人或物",
+            "choices": [
+                "clinic",
+                "chunk",
+                "commodity",
+                "commonly",
+                "chemotherapy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使传播; vi. 传播，流传; vt. 使流通",
+            "choices": [
+                "circulate",
+                "complement",
+                "confound",
+                "comparative",
+                "clue"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 并发症; n. 混乱; n. 复杂化",
+            "choices": [
+                "composite",
+                "clue",
+                "circa",
+                "chloride",
+                "complication"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 付报酬; vi. 补偿，赔偿; vi. 抵消",
+            "choices": [
+                "compensate",
+                "clever",
+                "complication",
+                "clue",
+                "circulate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 点击; n. 滴答声; vt. 使发咔哒声",
+            "choices": [
+                "click",
+                "circulation",
+                "compact",
+                "chunk",
+                "clinic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [临床] 化学疗法",
+            "choices": [
+                "chemotherapy",
+                "confine",
+                "composite",
+                "colonial",
+                "commonly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 机灵的; adj. 聪明的; . 比较级er 最高级 est ]",
+            "choices": [
+                "composite",
+                "competent",
+                "clever",
+                "commonly",
+                "coherent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+            "choices": [
+                "computation",
+                "click",
+                "comma",
+                "compensate",
+                "chromosome"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 分类; vt. 分等",
+            "choices": [
+                "classify",
+                "colonial",
+                "comma",
+                "conduction",
+                "cinema"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [植] 球果; vt. 使成锥形; n. 圆锥体，圆锥形",
+            "choices": [
+                "conditional",
+                "composite",
+                "cone",
+                "confine",
+                "cognitive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 余角; n. 补语; vt. 补足，补助",
+            "choices": [
+                "complement",
+                "cognitive",
+                "comply",
+                "confound",
+                "circulate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 认知的，认识的",
+            "choices": [
+                "cognitive",
+                "conduction",
+                "client",
+                "comma",
+                "conference"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 设计者; n. 作家，著作者; n. 作曲家",
+            "choices": [
+                "coherent",
+                "composer",
+                "commonly",
+                "comply",
+                "conduction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 结构; n. 配置; n. 外形",
+            "choices": [
+                "composer",
+                "configuration",
+                "commentary",
+                "clip",
+                "chemotherapy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 假定的; adj. 有条件的; n. 条件语",
+            "choices": [
+                "configuration",
+                "confine",
+                "conceptual",
+                "conditional",
+                "chronic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 循环; n. 流通，传播; n. 发行量",
+            "choices": [
+                "circa",
+                "compensate",
+                "chess",
+                "complement",
+                "circulation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 比得上的; adj. 可比较的",
+            "choices": [
+                "conception",
+                "commonly",
+                "confine",
+                "comparable",
+                "competence"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 共产主义者; n. 共产党员; adj. 共产主义的",
+            "choices": [
+                "chemistry",
+                "circulation",
+                "commentary",
+                "communist",
+                "civilization"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 分类; n. 类别，等级",
+            "choices": [
+                "configuration",
+                "civilization",
+                "classification",
+                "cognitive",
+                "clay"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 率; n. 协同因素; n. [数] 系数",
+            "choices": [
+                "chess",
+                "coefficient",
+                "confine",
+                "clinic",
+                "clever"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 答应; vi. 顺从，遵从; vi. 遵守",
+            "choices": [
+                "chunk",
+                "confound",
+                "comply",
+                "complication",
+                "comparative"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 连贯的，一致的; adj. 清晰的; adj. 互相耦合的",
+            "choices": [
+                "classify",
+                "coefficient",
+                "coherent",
+                "comprehension",
+                "chess"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使混乱; vt. 挫败; vt. 使混淆",
+            "choices": [
+                "complement",
+                "comprehension",
+                "confound",
+                "classification",
+                "clue"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 怀孕; n. 设想; n. 概念",
+            "choices": [
+                "compensate",
+                "complement",
+                "compact",
+                "comply",
+                "conception"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 说明; n. 评论; n. 评注",
+            "choices": [
+                "conditional",
+                "composite",
+                "clip",
+                "commentary",
+                "cone"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 教室",
+            "choices": [
+                "circulation",
+                "clue",
+                "classroom",
+                "coherent",
+                "click"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有能力的; adj. 能干的; adj. 足够的",
+            "choices": [
+                "competent",
+                "comprehension",
+                "conceive",
+                "click",
+                "clone"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 限制; n. 限制; n. 界限，边界",
+            "choices": [
+                "classification",
+                "coefficient",
+                "confine",
+                "communicative",
+                "clever"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 电影; n. 电影业，电影制作术; n. 电影院",
+            "choices": [
+                "complication",
+                "colony",
+                "classify",
+                "cinema",
+                "clinic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 无隐讳交谈的; adj. 交际的; adj. 爱说话的，健谈的",
+            "choices": [
+                "communicative",
+                "colonial",
+                "comparative",
+                "chloride",
+                "chromosome"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 殖民地居民; adj. 殖民地的，殖民的",
+            "choices": [
+                "chunk",
+                "colonial",
+                "conduction",
+                "compact",
+                "communist"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 日用品; n. 商品，货物",
+            "choices": [
+                "comma",
+                "circa",
+                "chromosome",
+                "commodity",
+                "clay"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 复合材料; vt. 使混合; adj. 菊科的",
+            "choices": [
+                "chronic",
+                "composite",
+                "chess",
+                "conduction",
+                "conception"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 氯化物",
+            "choices": [
+                "communist",
+                "chloride",
+                "compact",
+                "coherent",
+                "circulate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使终止; n. 终止，结束; n. 关闭",
+            "choices": [
+                "classification",
+                "composer",
+                "computation",
+                "closure",
+                "clever"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 估计，计算",
+            "choices": [
+                "computation",
+                "conceptual",
+                "commentary",
+                "coefficient",
+                "complement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 顾客; n. 委托人; n. [经] 客户",
+            "choices": [
+                "comma",
+                "comprehension",
+                "clone",
+                "client",
+                "coefficient"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 足以过舒适生活的收入; n. 权限; n. 能力，胜任",
+            "choices": [
+                "coefficient",
+                "competence",
+                "classification",
+                "chronic",
+                "communicative"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 长期的; adj. 习惯性的; adj. 慢性的",
+            "choices": [
+                "colonial",
+                "classify",
+                "chronic",
+                "civilization",
+                "communicative"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 文明; n. 文化",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "i",
+                "i",
+                "i",
+                "l",
+                "n",
+                "o",
+                "t",
+                "v",
+                "z"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 补足，补助; n. 余角; n. 补足物",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "l",
+                "m",
+                "m",
+                "n",
+                "o",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 讨论; n. [工会、工党用语]（每年的）大会; n. 联盟",
+            "choices": [
+                "c",
+                "c",
+                "e",
+                "e",
+                "e",
+                "f",
+                "n",
+                "n",
+                "o",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [生理] 传导",
+            "choices": [
+                "c",
+                "c",
+                "d",
+                "i",
+                "n",
+                "n",
+                "o",
+                "o",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "prep. 大约于; adv. 大约",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "i",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [土壤] 粘土; vt. 用黏土处理; n. 肉体",
+            "choices": [
+                "a",
+                "c",
+                "l",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 单击; vt. 点击; vi. 作咔哒声",
+            "choices": [
+                "c",
+                "c",
+                "i",
+                "k",
+                "l"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 分等; vt. 分类",
+            "choices": [
+                "a",
+                "c",
+                "f",
+                "i",
+                "l",
+                "s",
+                "s",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 比较的; n. 比较级; adj. 相当的",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "e",
+                "i",
+                "m",
+                "o",
+                "p",
+                "r",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 教室",
+            "choices": [
+                "a",
+                "c",
+                "l",
+                "m",
+                "o",
+                "o",
+                "r",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [临床] 化学疗法",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "e",
+                "h",
+                "h",
+                "m",
+                "o",
+                "p",
+                "r",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 无隐讳交谈的; adj. 爱说话的，健谈的; adj. 交际的",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "i",
+                "i",
+                "m",
+                "m",
+                "n",
+                "o",
+                "t",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 矮胖的人或物; n. 大块",
+            "choices": [
+                "c",
+                "h",
+                "k",
+                "n",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 电影院; n. 电影业，电影制作术; n. 电影",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "m",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 凝聚性的; adj. 清晰的; adj. 粘在一起的",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "h",
+                "n",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 无性繁殖; n. 克隆; n. 靠营养生殖而由母体分离繁殖的植物",
+            "choices": [
+                "c",
+                "e",
+                "l",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 设计者; n. 作家，著作者; n. 作曲家",
+            "choices": [
+                "c",
+                "e",
+                "m",
+                "o",
+                "o",
+                "p",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 国际象棋，西洋棋",
+            "choices": [
+                "c",
+                "e",
+                "h",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 共产党员; adj. 共产主义的; n. 共产主义者",
+            "choices": [
+                "c",
+                "i",
+                "m",
+                "m",
+                "n",
+                "o",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 用别针别在某物上，用夹子夹在某物上; vt. 剪掉; n. （塑料或金属的）夹子",
+            "choices": [
+                "c",
+                "i",
+                "l",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 遵守; vi. 顺从，遵从; vi. 答应",
+            "choices": [
+                "c",
+                "l",
+                "m",
+                "o",
+                "p",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 补偿，赔偿; vi. 抵消; vt. 付报酬",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "e",
+                "m",
+                "n",
+                "o",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 聪明的; adj. 熟练的; . 比较级cleverer 最高级 cleverest ]",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "l",
+                "r",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 氯化物",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "h",
+                "i",
+                "l",
+                "o",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 禁闭; vt. 限制; n. 限制",
+            "choices": [
+                "c",
+                "e",
+                "f",
+                "i",
+                "n",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 循环; n. 发行量; n. 流通，传播",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "i",
+                "i",
+                "l",
+                "n",
+                "o",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 澄清; vi. 变得明晰; vi. 得到净化",
+            "choices": [
+                "a",
+                "c",
+                "f",
+                "i",
+                "l",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 概念上的",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "l",
+                "n",
+                "o",
+                "p",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 认知的，认识的",
+            "choices": [
+                "c",
+                "e",
+                "g",
+                "i",
+                "i",
+                "n",
+                "o",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 包含; n. 理解",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "h",
+                "i",
+                "m",
+                "n",
+                "n",
+                "o",
+                "o",
+                "p",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使混淆; vt. 讨厌; vt. 挫败",
+            "choices": [
+                "c",
+                "d",
+                "f",
+                "n",
+                "n",
+                "o",
+                "o",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 评论; n. 注释; n. 评注",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "m",
+                "m",
+                "n",
+                "o",
+                "r",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使混合; adj. 菊科的; n. 合成物",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "m",
+                "o",
+                "o",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 足够的; adj. 有能力的; adj. 能干的",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "m",
+                "n",
+                "o",
+                "p",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 习惯性的; adj. 长期的; adj. 慢性的",
+            "choices": [
+                "c",
+                "c",
+                "h",
+                "i",
+                "n",
+                "o",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 商品，货物; n. 日用品",
+            "choices": [
+                "c",
+                "d",
+                "i",
+                "m",
+                "m",
+                "o",
+                "o",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 率; adj. 共同作用的; n. [数] 系数",
+            "choices": [
+                "c",
+                "c",
+                "e",
+                "e",
+                "f",
+                "f",
+                "i",
+                "i",
+                "n",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有条件的; n. 条件语; n. 条件句",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "i",
+                "i",
+                "l",
+                "n",
+                "n",
+                "o",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 一般地; adv. 普通地; adv. 通常地",
+            "choices": [
+                "c",
+                "l",
+                "m",
+                "m",
+                "n",
+                "o",
+                "o",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. （故事等的）情节; n. 线索; vt. 为…提供情况",
+            "choices": [
+                "c",
+                "e",
+                "l",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 配置; n. 结构; n. 外形",
+            "choices": [
+                "a",
+                "c",
+                "f",
+                "g",
+                "i",
+                "i",
+                "n",
+                "n",
+                "o",
+                "o",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使简洁; n. 小粉盒; adj. 紧凑的，紧密的",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "m",
+                "o",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 足以过舒适生活的收入; n. 能力，胜任; n. 权限",
+            "choices": [
+                "c",
+                "c",
+                "e",
+                "e",
+                "e",
+                "m",
+                "n",
+                "o",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 设想; n. 概念; n. 开始",
+            "choices": [
+                "c",
+                "c",
+                "e",
+                "i",
+                "n",
+                "n",
+                "o",
+                "o",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 比得上的; adj. 可比较的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "c",
+                "e",
+                "l",
+                "m",
+                "o",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+            "choices": [
+                "c",
+                "e",
+                "h",
+                "m",
+                "m",
+                "o",
+                "o",
+                "o",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 关闭; vt. 使终止; n. 终止，结束",
+            "choices": [
+                "c",
+                "e",
+                "l",
+                "o",
+                "r",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 类别，等级; n. 分类",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "c",
+                "f",
+                "i",
+                "i",
+                "i",
+                "l",
+                "n",
+                "o",
+                "s",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 诊所; n. 临床",
+            "choices": [
+                "c",
+                "c",
+                "i",
+                "i",
+                "l",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 委托人; n. [经] 客户; n. 顾客",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "l",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 构思; vt. 以为; vt. 持有",
+            "choices": [
+                "c",
+                "c",
+                "e",
+                "e",
+                "i",
+                "n",
+                "o",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 逗号; n. 停顿",
+            "choices": [
+                "a",
+                "c",
+                "m",
+                "m",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 殖民地; n. 动物栖息地; n. 移民队",
+            "choices": [
+                "c",
+                "l",
+                "n",
+                "o",
+                "o",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 传播，流传; vt. 使循环; vt. 使流通",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "i",
+                "l",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 估计，计算",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "m",
+                "n",
+                "o",
+                "o",
+                "p",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 集合的; n. 集合名词; n. 集团",
+            "choices": [
+                "c",
+                "c",
+                "e",
+                "e",
+                "i",
+                "l",
+                "l",
+                "o",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使成锥形; n. 圆锥体，圆锥形; n. [植] 球果",
+            "choices": [
+                "c",
+                "e",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 化学过程; n. 化学",
+            "choices": [
+                "c",
+                "e",
+                "h",
+                "i",
+                "m",
+                "r",
+                "s",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 复杂; n. 混乱; n. 并发症",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "i",
+                "i",
+                "l",
+                "m",
+                "n",
+                "o",
+                "o",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 殖民地居民; adj. 殖民地的，殖民的",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "l",
+                "l",
+                "n",
+                "o",
+                "o"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "But what if of certain abusive families and any religious background in location who really ______ women to their home?",
+            "choices": [
+                "colonial",
+                "classroom",
+                "confine",
+                "compact",
+                "competence"
+            ],
+            "chn": "但是，如果在某些发生虐待现象的家庭里,有着某种宗教背景,而这种宗教背景又允许监禁妇女的情况发生呢？(人性课程节选 : 普林斯顿公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Mumbai-based film trade analyst and critic Komal Nahata says Bollywood film producers have long been enthusiastic about trying their hand at crossover ______.",
+            "choices": [
+                "composite",
+                "clone",
+                "cinema",
+                "chunk",
+                "conceptual"
+            ],
+            "chn": "(VOA : standard.2010.07.22)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It's very difficult even to keep in mind the ______ difference between these two sorts of supplement.",
+            "choices": [
+                "conceptual",
+                "comparative",
+                "circa",
+                "collective",
+                "clever"
+            ],
+            "chn": "要记住,这两种补充的不同是很难的。(文学理论导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Then, there's a lot of ______ going on to figure out what's the right answer.",
+            "choices": [
+                "chunk",
+                "computation",
+                "clever",
+                "conceive",
+                "composer"
+            ],
+            "chn": "将进行大量计算,以找到正确答案。(百度CEO李彦宏演讲：全球最大搜索引擎的发展课程节选 : 斯坦福公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But there is yet a ______ to this problem.",
+            "choices": [
+                "complication",
+                "closure",
+                "classification",
+                "conception",
+                "client"
+            ],
+            "chn": "但这问题还要复杂。(1945年后的美国小说课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "(Poem) I search the chemistry of specific emotions, a combination of earth and air that evokes the vital detail, the phrase that heats the frying pan, the look that smiles, offering signals that localize, where I am, and ______ what I see.",
+            "choices": [
+                "coefficient",
+                "conception",
+                "colonial",
+                "conduction",
+                "clarify"
+            ],
+            "chn": "(VOA : special.2009.04.27)"
+        },
+        {
+            "cate": "choice",
+            "problem": "I got a better horoscope from The Onion actually: \"Riding in a golf cart with snow ______ in hand, you'll be tackled by two police officers this week after matching a composite caricature \" of a suspected murderer.\"",
+            "choices": [
+                "classification",
+                "civilization",
+                "cone",
+                "colonial",
+                "composer"
+            ],
+            "chn": "我在《洋葱报》上看到的星座运程更妙：,“别一手拿着刨冰一手开着高尔夫球车，否则本周你会被两名警官逮捕,因为你的长相,和谋杀疑犯的模拟肖像很像“(心理学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "You're not just trying to ______ the DNA, you're trying to also ______ or make many copies of the protein.",
+            "choices": [
+                "clone",
+                "classroom",
+                "client",
+                "comparative",
+                "chloride"
+            ],
+            "chn": "你不仅想要复制DNA,更想要克隆或是制造,许许多多的蛋白质产物(生物医学工程探索课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Pope Benedict named five new saints on Sunday, including a Catholic clergyman who cared for people in a leper ______.",
+            "choices": [
+                "coefficient",
+                "clip",
+                "colony",
+                "conference",
+                "confine"
+            ],
+            "chn": "(VOA : special.2009.10.14)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The findings are published in ______: Journal of the American Heart Association.",
+            "choices": [
+                "chromosome",
+                "clone",
+                "circulation",
+                "colony",
+                "clue"
+            ],
+            "chn": "(VOA : special.2010.01.13)"
+        },
+        {
+            "cate": "choice",
+            "problem": "This cation is attracting the ______ next to it and it is repelling the sodium as the next nearest neighbor.",
+            "choices": [
+                "clip",
+                "cone",
+                "chloride",
+                "conference",
+                "conditional"
+            ],
+            "chn": "这一阳离子被邻近的氯离子所吸引,并排斥钠离子,因为这是其最邻近的离子。(固态化学导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Fingerprints are one important ______ in a crime scene.",
+            "choices": [
+                "coherent",
+                "clue",
+                "clinic",
+                "composite",
+                "compact"
+            ],
+            "chn": "(VOA : special.2010.05.05)"
+        },
+        {
+            "cate": "choice",
+            "problem": "John Dalton was an Englishman who proposed the following ______ of the elements.",
+            "choices": [
+                "commentary",
+                "chess",
+                "client",
+                "complication",
+                "classification"
+            ],
+            "chn": "他是一个英国人,支持之后的元素分类法。(固态化学导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"The main effect of the Internet on language has been to increase the expressive richness of language, providing the language with a new set of ______ dimensions that haven't existed in the past,\".",
+            "choices": [
+                "complication",
+                "circulate",
+                "communicative",
+                "colonial",
+                "client"
+            ],
+            "chn": "(VOA : standard.2010.01.16)"
+        },
+        {
+            "cate": "choice",
+            "problem": "There are lots of Ancient Near Eastern stories of ; Gods fashioning humans from ______; We have depictions of gods as potters at a potter's wheel just turning out lots of little humans.",
+            "choices": [
+                "clay",
+                "confine",
+                "colony",
+                "conditional",
+                "chromosome"
+            ],
+            "chn": "也有很多古代近东故事,关于上帝用黏土造人;,我们看来上帝就像转盘旁边的陶艺工匠,造出许多小小的人类。(旧约导论课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "25"
+}

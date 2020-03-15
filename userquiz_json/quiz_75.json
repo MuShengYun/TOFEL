@@ -1,0 +1,264 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "profusely",
+            "choices": [
+                "adj. 可行的",
+                "adj. 可行的",
+                "vt. 预定",
+                "n. 闭尿",
+                "adv. 丰富地",
+                "n. 立场",
+                "n. 挡板",
+                "vt. 实施，执行"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "attest",
+            "choices": [
+                "v. 以强力获得（compel的ing形式）",
+                "adv. 丰富地",
+                "vi. 空出，腾出",
+                "vt. 为…作证",
+                "vt. 证明",
+                "vi. 作证",
+                "vi. 证明",
+                "vt. 证实"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "supplant",
+            "choices": [
+                "adj. 令人钦佩的",
+                "n. [地震] 震级",
+                "adj. 大量的",
+                "vt. 排挤掉",
+                "adj. 粗鲁的",
+                "n. 胶黏剂",
+                "adj. 可行的",
+                "vt. 代替"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "inexplicably",
+            "choices": [
+                "adv. 说不清的",
+                "adv. 无法说明地",
+                "n. 立场",
+                "adv. 令人难以理解地",
+                "adj. 能养活的",
+                "adj. 净余的",
+                "adv. 丰富地",
+                "n. 工具，器具"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "profound",
+            "choices": [
+                "vt. 代替",
+                "vi. 交战",
+                "adj. 废弃的",
+                "adv. 模糊地，不明确地",
+                "adj. 令人钦佩的",
+                "adj. 深厚的",
+                "adj. 意义深远的",
+                "adj. 渊博的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 闭尿; n. 保留; n. 扣留，滞留",
+            "choices": [
+                "magnitude",
+                "obstruction",
+                "successive",
+                "retention",
+                "robust"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 感人的; adj. 给人以深刻印象的; adj. 令人钦佩的",
+            "choices": [
+                "impressive",
+                "extensive",
+                "discarded",
+                "elaborate",
+                "drastic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 形成空洞; n. 山谷; adv. 彻底地",
+            "choices": [
+                "hollow",
+                "elaborate",
+                "impressive",
+                "discarded",
+                "implement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 废弃的; v. 丢弃（discard的过去分词）; adj. 丢弃的",
+            "choices": [
+                "elaborate",
+                "profusely",
+                "baffle",
+                "indefinitely",
+                "discarded"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 依次的; adj. 接替的; adj. 继承的",
+            "choices": [
+                "robust",
+                "successive",
+                "retention",
+                "inexplicably",
+                "deposit"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 休假; vt. 空出，搬出; vi. 辞职",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "d",
+                "e",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 重要; n. 量级; n. 大小",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "g",
+                "i",
+                "m",
+                "n",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 喷出; n. 冲刺; n. 喷射",
+            "choices": [
+                "p",
+                "r",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 敌对的（名词adverseness，副词adversely）; adj. 相反的; adj. 不利的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "r",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 保留; n. 扣留，滞留; n. 记忆力",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "n",
+                "n",
+                "o",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "\"I shall not name names, but ______ to say many countries are fishing illegally in Somalia waters.",
+            "choices": [
+                "engage",
+                "suffice",
+                "repetitive",
+                "stance",
+                "magnitude"
+            ],
+            "chn": "(VOA : standard.2009.10.30)"
+        },
+        {
+            "cate": "choice",
+            "problem": "An IOM study indicates about one-quarter of these families are living in squatter camps, public buildings or ______ homes.",
+            "choices": [
+                "hollow",
+                "vacated",
+                "robust",
+                "adhesive",
+                "stance"
+            ],
+            "chn": "(VOA : standard.2009.10.04)"
+        },
+        {
+            "cate": "choice",
+            "problem": "A lot of Freudians have tried and made a research program of extending their ideas scientifically, bringing them to ______ scientific tests.",
+            "choices": [
+                "drastic",
+                "robust",
+                "impressive",
+                "magnitude",
+                "adhesive"
+            ],
+            "chn": "许多精神分析的支持者们,都试图建立研究项目,来科学地扩展他们的理论观点，使得这些理论观点得到了大量的科学研究。(心理学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Well,I hope you do a good job,Colonel. If I do not, you will have my ______ apologies.",
+            "choices": [
+                "implement",
+                "reluctantly",
+                "suffice",
+                "profound",
+                "hollow"
+            ],
+            "chn": "(VOA : special.2009.03.22)"
+        },
+        {
+            "cate": "choice",
+            "problem": "______ approximation, Newton-Raphson was one nice example, but there's a whole class of things that get closer and closer, reducing your errors as you go along.",
+            "choices": [
+                "drastic",
+                "supplant",
+                "successive",
+                "impressive",
+                "engage"
+            ],
+            "chn": "逐渐逼近,牛顿迭代是一个很好的例子,随着你不断的时行下去,你会不断的离结果越来越近，逐渐地减少误差。(计算机科学及编程导论课程节选 : 麻省理工公开课)"
+        }
+    ],
+    "quiz_id": "75"
+}

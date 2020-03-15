@@ -1,0 +1,259 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "palpable",
+            "choices": [
+                "n. 连贯性",
+                "adj. 不偏不倚的",
+                "n. 话题",
+                "adj. 明显的",
+                "adj. 精力充沛的",
+                "adj. 可感知的",
+                "adj. 倔强的，难以对待的",
+                "adj. 易觉察的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "anathema",
+            "choices": [
+                "n. 令人厌恶的人",
+                "adj. 嘲弄的",
+                "n. 被诅咒者",
+                "n. 诅咒",
+                "n. 革出教门",
+                "vi. 搅拌",
+                "vt. 激起...的兴趣",
+                "adj. 变幻无常的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "stifle",
+            "choices": [
+                "vi. 窒息",
+                "n. （马等的）[动] 后膝关节病",
+                "vt. 使窒息",
+                "n. （马等的）后膝关节",
+                "adj. 引人发笑的",
+                "vi. 被扼杀",
+                "vt. 扼杀",
+                "vt. 藏匿"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ascribe",
+            "choices": [
+                "vt. 归因于",
+                "adj. 不可抵抗的",
+                "n. 阴谋",
+                "vt. 宽恕",
+                "vt. 归咎于",
+                "vt. 举起",
+                "n. 产业",
+                "vt. 宽恕"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "wistful",
+            "choices": [
+                "adj. 琐碎的",
+                "adj. 引起怀念的",
+                "vt. 赞成",
+                "adj. 不满足似的",
+                "adj. 沉思的，默想的",
+                "adj. 不成比例的",
+                "adj. 渴望的",
+                "n. 垂死的人"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 码尺",
+            "choices": [
+                "yardstick",
+                "dismal",
+                "gambit",
+                "transmogrify",
+                "stifle"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 授权，允许; vt. 使能够",
+            "choices": [
+                "impartial",
+                "arbitrary",
+                "empower",
+                "forestall",
+                "contemporary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 令人厌恶的人; n. 革出教门; n. 被诅咒者",
+            "choices": [
+                "ascribe",
+                "anathema",
+                "esoteric",
+                "fickle",
+                "stifle"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使变形; vt. 使变成奇形怪状",
+            "choices": [
+                "transmogrify",
+                "vacillation",
+                "fractious",
+                "disproportionate",
+                "crackling"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 积极的; adj. 有力的; adj. 精力充沛的",
+            "choices": [
+                "uphold",
+                "energetic",
+                "ascribe",
+                "petty",
+                "transmogrify"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使像下雹样落下（过去式hailed，过去分词hailed，现在分词hailing，第三人称单数hails）; vt. 致敬; vi. 下雹",
+            "choices": [
+                "a",
+                "h",
+                "i",
+                "l"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 要求; adj. 苛求的; v. 查问（demand的ing形式）",
+            "choices": [
+                "a",
+                "d",
+                "d",
+                "e",
+                "g",
+                "i",
+                "m",
+                "n",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 冒险的事; vt. 赌运气; vt. 冒…的危险，使遭受危险",
+            "choices": [
+                "a",
+                "a",
+                "d",
+                "h",
+                "r",
+                "z"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 易变的; adj. 变幻无常的; adj. 浮躁的",
+            "choices": [
+                "c",
+                "e",
+                "f",
+                "i",
+                "k",
+                "l"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 宽恕; vt. 赦免",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "n",
+                "n",
+                "o",
+                "o"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "\"It is funny to watch the situation today,20 years later, when we basically have the same ______ toward our present politicians and see them as jerks,basically,\"",
+            "choices": [
+                "churn",
+                "dismal",
+                "disregard",
+                "gambit",
+                "impartial"
+            ],
+            "chn": "(VOA : standard.2009.11.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "That means that p1 and -- where I am, the point number 1 and point number 2 were completely ______.",
+            "choices": [
+                "overblown",
+                "demanding",
+                "envisage",
+                "arbitrary",
+                "churn"
+            ],
+            "chn": "因为1和，两个点是2,陆军上面。(热力学与动力学课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Indeed, he was winning Grammys when he was in his twenties and has been recording sort of ______ jazz and sometimes more pop jazz thereafter.",
+            "choices": [
+                "petty",
+                "esoteric",
+                "shackle",
+                "stave",
+                "arbitrary"
+            ],
+            "chn": "的确,他二十岁的时候得过格莱美奖,录过一些小众的爵士乐,之后还录过一些流行爵士乐(聆听音乐课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Now, I think in certain circumstances it becomes necessary to overlook that unjustness, perhaps ______ that injustice as in the case of the cabin boy being killed for food.",
+            "choices": [
+                "shackle",
+                "domain",
+                "deprivation",
+                "ecosystem",
+                "condone"
+            ],
+            "chn": "我认为在某些情况下,我们需要忽视这种不公平，容忍这种不正义,例如在救生艇里被当作食物的男孩。(公正课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Right now,they just don't believe. And if they get some ______ signs of some improvement, I think things can turn  very quickly,\"",
+            "choices": [
+                "demanding",
+                "anathema",
+                "palpable",
+                "cinch",
+                "intrigue"
+            ],
+            "chn": "(VOA : standard.2009.03.10)"
+        }
+    ],
+    "quiz_id": "86"
+}

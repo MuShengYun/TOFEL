@@ -1,0 +1,89 @@
+The criticism, including from several high-profile and respected researchers, highlights the limits of a report produced by FTI Consulting, the company Bezos hired to investigate the matter. 
+
+But it also underscores the challenges of finding rock-bottom truth in the world of digital forensics, a messy business shaped less by absolute certainties and more by degrees of confidence and calculated probabilities.
+
+The report — a summary of which was released this week by United Nations investigators who vetted it — determined that in May 2018, Bezos's phone received a WhatsApp message from the account of Saudi Crown Prince Mohammed bin Salman, with whom Bezos had used WhatsApp to communicate since at least the previous month. After the message, the report said, Bezos's phone began transferring large amounts of data off of the device. And, according to the report, at least two subsequent messages from the crown prince's account seemed to indicate knowledge of events in Bezos's private life, the report said. The report suggested the incident bore hallmarks of sophisticated hacking software. 
+
+Saudi Arabia has denied it was responsible for hacking Bezos's device.
+
+"Recent media reports that suggest the Kingdom is behind a hacking of Mr. Jeff Bezos' phone are absurd," the Saudi embassy in Washington tweeted Tuesday. "We call for an investigation on these claims so that we can have all the facts out."
+
+Even as some analysts suggested FTI made the best of a difficult situation, critics of the FTI report said the paper revealed a lack of sophistication that could have been addressed by specialized mobile forensics experts, or law enforcement officials with access to premium tools.
+
+"It does seem like [FTI] gave it the good try, but it seems they're just not as knowledgeable in the mobile forensics realm as they could have been," said Sarah Edwards, an instructor at the SANS Institute, a security training and research organization.
+
+FTI Consulting declined to comment.
+
+A key shortcoming of the analysis, Edwards said, was that it relied on a restricted set of content obtained from Bezos's iTunes backup. A deeper analysis, she said, would have collected detailed records from the iPhone's underlying operating and file systems. 
+
+Other security experts characterized the evidence in the report as inconclusive.
+
+"It contains much that says 'anomalies we don't understand,' but lack of explanations point to incomplete forensics, not malicious APT actors," tweeted Rob Graham, the CEO of Errata Security, using the industry acronym to describe top-tier hacker groups. 
+
+Alex Stamos, the former chief information security officer at Facebook and a Stanford University professor, said the report was "not very strong."
+
+"Lots of odd circumstantial evidence, for sure, but no smoking gun," he tweeted.
+
+Other researchers suggested ways for the investigation to generate more useful information. Citizen Lab, a research group at the University of Toronto, offered a suggestion that could allow investigators to gain access to encrypted information that FTI said it could not unlock.
+
+The outpouring of researcher feedback suggests independent security and policy experts might be able to help shape what until now has been a private investigation. FTI has kept a tight hold on Bezos's device; a source close to the UN team said the UN did not have access to the phone when it vetted the report. On Wednesday, Sen. Ron Wyden (D-Ore.) sent a letter to Bezos asking for detailed technical information related to the probe to "help the United States Government, businesses and independent researchers discover who else may have been targeted."
+
+The FBI has been interested in the case from a counterintelligence perspective, according to two people familiar with the hacking investigation. Bezos's team performed its own forensic analysis and shared the results with the FBI.  
+
+Meanwhile, other members of the security research community are more sympathetic to FTI's findings.
+
+The report's limited results are a reminder that it can be extremely challenging to reconstruct the activities of a determined, well-resourced hacker, said Kenneth White, a security engineer and former adviser to the Defense Department and Department of Homeland Security. 
+
+"I think it has to be evaluated in the context of the entire investigation; it's just one part of the story," said White. "Some of the technical critiques around how the forensics were performed and what data were and were not analyzed are fair, but this is in no way a 'typical' phone hacking case, if there is such a thing." 
+
+Chris Vickery, director of cyber risk research at the security company UpGuard, said other evidence provided by FTI increased his confidence that Bezos was being digitally surveilled. 
+
+The report's analysis of WhatsApp messages sent by the crown prince's account — messages that appeared to indicate knowledge of otherwise private information — were a key indicator, said Vickery. 
+
+"When you're investigating a crime, it's important to consider lots of factors," said Vickery, "and you're not always going to have the smoking gun immediately. You have to bring the puzzle pieces together. You can't ask for the whole puzzle all at once."
+
+One security expert put it more bluntly.
+
+"There's an absurd amount of Monday morning quarterbacking going on," said the expert, who spoke on condition of anonymity in order to preserve professional relationships with the report's critics. "This isn't a movie — things don't proceed in a perfect, clean way. It's messy, and decisions are made the way they're made."
+
+"Recent media reports that suggest the Kingdom is behind a hacking of Mr. Jeff Bezos' phone are absurd," the Saudi embassy in Washington tweeted Tuesday. "We call for an investigation on these claims so that we can have all the facts out."
+
+Even as some analysts suggested FTI made the best of a difficult situation, critics of the FTI report said the paper revealed a lack of sophistication that could have been addressed by specialized mobile forensics experts, or law enforcement officials with access to premium tools.
+
+"It does seem like [FTI] gave it the good try, but it seems they're just not as knowledgeable in the mobile forensics realm as they could have been," said Sarah Edwards, an instructor at the SANS Institute, a security training and research organization.
+
+FTI Consulting declined to comment.
+
+A key shortcoming of the analysis, Edwards said, was that it relied on a restricted set of content obtained from Bezos's iTunes backup. A deeper analysis, she said, would have collected detailed records from the iPhone's underlying operating and file systems. 
+
+Other security experts characterized the evidence in the report as inconclusive.
+
+"It contains much that says 'anomalies we don't understand,' but lack of explanations point to incomplete forensics, not malicious APT actors," tweeted Rob Graham, the CEO of Errata Security, using the industry acronym to describe top-tier hacker groups. 
+
+Alex Stamos, the former chief information security officer at Facebook and a Stanford University professor, said the report was "not very strong."
+
+"Lots of odd circumstantial evidence, for sure, but no smoking gun," he tweeted.
+
+Other researchers suggested ways for the investigation to generate more useful information. Citizen Lab, a research group at the University of Toronto, offered a suggestion that could allow investigators to gain access to encrypted information that FTI said it could not unlock.
+
+The outpouring of researcher feedback suggests independent security and policy experts might be able to help shape what until now has been a private investigation. FTI has kept a tight hold on Bezos's device; a source close to the UN team said the UN did not have access to the phone when it vetted the report. On Wednesday, Sen. Ron Wyden (D-Ore.) sent a letter to Bezos asking for detailed technical information related to the probe to "help the United States Government, businesses and independent researchers discover who else may have been targeted."
+
+The FBI has been interested in the case from a counterintelligence perspective, according to two people familiar with the hacking investigation. Bezos's team performed its own forensic analysis and shared the results with the FBI.  
+
+Meanwhile, other members of the security research community are more sympathetic to FTI's findings.
+
+The report's limited results are a reminder that it can be extremely challenging to reconstruct the activities of a determined, well-resourced hacker, said Kenneth White, a security engineer and former adviser to the Defense Department and Department of Homeland Security. 
+
+"I think it has to be evaluated in the context of the entire investigation; it's just one part of the story," said White. "Some of the technical critiques around how the forensics were performed and what data were and were not analyzed are fair, but this is in no way a 'typical' phone hacking case, if there is such a thing." 
+
+Chris Vickery, director of cyber risk research at the security company UpGuard, said other evidence provided by FTI increased his confidence that Bezos was being digitally surveilled. 
+
+The report's analysis of WhatsApp messages sent by the crown prince's account — messages that appeared to indicate knowledge of otherwise private information — were a key indicator, said Vickery. 
+
+"When you're investigating a crime, it's important to consider lots of factors," said Vickery, "and you're not always going to have the smoking gun immediately. You have to bring the puzzle pieces together. You can't ask for the whole puzzle all at once."
+
+One security expert put it more bluntly.
+
+"There's an absurd amount of Monday morning quarterbacking going on," said the expert, who spoke on condition of anonymity in order to preserve professional relationships with the report's critics. "This isn't a movie — things don't proceed in a perfect, clean way. It's messy, and decisions are made the way they're made."
+
+

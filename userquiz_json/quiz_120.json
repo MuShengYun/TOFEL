@@ -1,0 +1,128 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "vt. 剪去; vt. 修剪; n. 深紫红色",
+            "choices": [
+                "e",
+                "n",
+                "p",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 美的; adj. 审美的，具有审美趣味的; adj. 美学的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "e",
+                "h",
+                "i",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 抗辩; n. 异议; n. 反对",
+            "choices": [
+                "d",
+                "e",
+                "m",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 混沌，混乱",
+            "choices": [
+                "a",
+                "c",
+                "h",
+                "o",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 闹鬼的; v. 常去; adj. 受到困扰的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "h",
+                "n",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Our system, therefore, so far as regards this inferior race, rests upon this great ______ law of nature.\"",
+            "choices": [
+                "immutable",
+                "deadpan",
+                "autonomy",
+                "nonetheless",
+                "glut"
+            ],
+            "chn": "因此,我们政府在对待这一劣等种族时,必须以这一永恒的自然规律为基础\"(美国内战与重建课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "He's tyrannical, he's ______, he's undisciplined, he's over-sexed.",
+            "choices": [
+                "demur",
+                "die hard",
+                "delineate",
+                "personage",
+                "rapacious"
+            ],
+            "chn": "残暴，贪婪，毫无修养，沉溺美色。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "______,Dubovik told VOA that Monday's burning of Ukrainian history books was justified.",
+            "choices": [
+                "haunted",
+                "nonetheless",
+                "reservoir",
+                "deadpan",
+                "solicitous"
+            ],
+            "chn": "(VOA : standard.2010.03.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The code is unusually ______, complex, and enigmatic; it attracts an inordinate amount of attention to itself, and this attention has to acquire the rigor of a method.",
+            "choices": [
+                "prompt",
+                "efficacious",
+                "autonomy",
+                "conspicuous",
+                "scrutinize"
+            ],
+            "chn": "这种代码通常很显著，复杂，神秘;,它把大量的注意力都吸引到自己身上，这种注意力得有一种方法的严肃性。(文学理论导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It's a religious image. It's also a gendered religious image; it's also an ______ image.",
+            "choices": [
+                "gall",
+                "rehash",
+                "delineate",
+                "ploy",
+                "aesthetic"
+            ],
+            "chn": "这是一个宗教场景，一个温柔的宗教场景;,也是一个具有审美意味的宗教场景。(1945年后的美国小说课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "120"
+}

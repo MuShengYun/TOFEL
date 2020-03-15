@@ -1,0 +1,77 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "n. 美术家（尤指画家）; n. 大师; n. 艺术家",
+            "choices": [
+                "a",
+                "i",
+                "r",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 人生观; n. 哲理; n. 哲学",
+            "choices": [
+                "h",
+                "h",
+                "i",
+                "l",
+                "o",
+                "o",
+                "p",
+                "p",
+                "s",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 沙龙; n. 美术展览馆; n. 画廊",
+            "choices": [
+                "a",
+                "l",
+                "n",
+                "o",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 手术室; n. 电影院，戏院，剧场; n. 戏剧",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "h",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 精神病学家，精神病医生",
+            "choices": [
+                "a",
+                "c",
+                "h",
+                "i",
+                "i",
+                "p",
+                "r",
+                "s",
+                "s",
+                "t",
+                "t",
+                "y"
+            ]
+        }
+    ],
+    "quiz_id": "155"
+}

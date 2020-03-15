@@ -1,0 +1,610 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "absorb",
+            "choices": [
+                "vt. 吸收",
+                "vt. 吸引",
+                "n. 合计",
+                "vt. 使…全神贯注",
+                "vt. 集合",
+                "n. 人工制品",
+                "vt. 理解",
+                "vt. 承受"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "antiquity",
+            "choices": [
+                "n. 广阔",
+                "n. 高龄",
+                "n. [数] 精确度，准确性",
+                "vt. 清晰地发（音）",
+                "adj. 激烈的",
+                "adj. 激烈的",
+                "n. 古物",
+                "n. 古代的遗物"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "amplitude",
+            "choices": [
+                "n. 手工艺品",
+                "n. 振幅",
+                "n. 手工艺品",
+                "n. 古代的遗物",
+                "vt. 承受",
+                "n. 广阔",
+                "adj. 激烈的",
+                "n. 丰富，充足"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "aggregate",
+            "choices": [
+                "vi. 合计",
+                "n. 铝",
+                "n. 合计",
+                "vt. 聚集",
+                "vt. 合计",
+                "n. 集合体",
+                "adj. 聚合的",
+                "adj. 集合的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "artifact",
+            "choices": [
+                "n. [数] 精确度，准确性",
+                "vt. 吸引",
+                "vt. 使…全神贯注",
+                "n. 手工艺品",
+                "n. 人工制品",
+                "n. 数组，阵列",
+                "n. 古代的遗物",
+                "n. 铝"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "accuracy",
+            "choices": [
+                "vt. 明确有力地表达",
+                "n. 排列，列阵",
+                "vi. 合计",
+                "n. 广阔",
+                "n. [数] 精确度，准确性",
+                "n. 总计",
+                "n. 丰富，充足",
+                "vt. 排列，部署"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "articulate",
+            "choices": [
+                "vt. 明确有力地表达",
+                "vt. 用关节连接",
+                "vi. 清楚地讲话",
+                "adj. 口才好的",
+                "n. 古代的遗物",
+                "adj. 有关节的",
+                "n. 【动物学】有节体的动物",
+                "vt. 使相互连贯"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "array",
+            "choices": [
+                "n. 数组，阵列",
+                "adj. 聚合的",
+                "n. 大批，一系列",
+                "n. 排列，列阵",
+                "n. 衣服",
+                "vt. 排列，部署",
+                "n. 人工制品",
+                "vt. 打扮"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "aluminum",
+            "choices": [
+                "n. 铝",
+                "n. [数] 精确度，准确性",
+                "n. 手工艺品",
+                "vt. 明确有力地表达",
+                "vt. 使相互连贯",
+                "n. [数] 精确度，准确性",
+                "n. 古物",
+                "vt. 理解"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "acute",
+            "choices": [
+                "n. 高龄",
+                "adj. 激烈的",
+                "n. 排列，列阵",
+                "adj. 尖声的",
+                "adj. 严重的，[医] 急性的",
+                "n. 铝",
+                "n. [数] 精确度，准确性",
+                "adj. 敏锐的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 古物; n. 高龄; n. 古代的遗物",
+            "choices": [
+                "antiquity",
+                "amplitude",
+                "acute",
+                "aluminum",
+                "aggregate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 广阔; n. 振幅; n. 丰富，充足",
+            "choices": [
+                "array",
+                "accuracy",
+                "absorb",
+                "amplitude",
+                "antiquity"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [数] 精确度，准确性",
+            "choices": [
+                "accuracy",
+                "antiquity",
+                "aggregate",
+                "articulate",
+                "array"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 集合体; n. 合计; n. 总计",
+            "choices": [
+                "aluminum",
+                "antiquity",
+                "articulate",
+                "amplitude",
+                "aggregate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 人工制品; n. 手工艺品",
+            "choices": [
+                "acute",
+                "absorb",
+                "artifact",
+                "accuracy",
+                "aggregate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 排列，部署; n. 大批，一系列; vt. 打扮",
+            "choices": [
+                "amplitude",
+                "array",
+                "acute",
+                "artifact",
+                "antiquity"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 理解; vt. 吸收; vt. 承受",
+            "choices": [
+                "amplitude",
+                "accuracy",
+                "artifact",
+                "absorb",
+                "aggregate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 铝",
+            "choices": [
+                "articulate",
+                "array",
+                "amplitude",
+                "aggregate",
+                "aluminum"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 尖声的; adj. 严重的，[医] 急性的; adj. 敏锐的",
+            "choices": [
+                "antiquity",
+                "aluminum",
+                "array",
+                "acute",
+                "accuracy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 口才好的; vt. 明确有力地表达; n. 【动物学】有节体的动物",
+            "choices": [
+                "accuracy",
+                "articulate",
+                "aggregate",
+                "acute",
+                "amplitude"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to take in (something, such as water) in a natural or gradual way",
+            "choices": [
+                "artifact",
+                "aluminum",
+                "antiquity",
+                "absorb",
+                "aggregate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": an imposing group : large number",
+            "choices": [
+                "array",
+                "aggregate",
+                "aluminum",
+                "antiquity",
+                "artifact"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": conformity to truth or to a standard or model : exactness",
+            "choices": [
+                "absorb",
+                "accuracy",
+                "acute",
+                "aggregate",
+                "antiquity"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a rock composed of mineral crystals of one or more kinds or of mineral rock fragments : an aggregate rock",
+            "choices": [
+                "articulate",
+                "amplitude",
+                "accuracy",
+                "aluminum",
+                "aggregate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": demanding urgent attention",
+            "choices": [
+                "amplitude",
+                "aggregate",
+                "acute",
+                "absorb",
+                "articulate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the height achieved on a jump by a snowboarder, skateboarder, skier, etc.",
+            "choices": [
+                "aggregate",
+                "array",
+                "accuracy",
+                "amplitude",
+                "acute"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to give clear and effective utterance to : to put into words",
+            "choices": [
+                "aluminum",
+                "articulate",
+                "amplitude",
+                "antiquity",
+                "absorb"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the quality of being ancient",
+            "choices": [
+                "aggregate",
+                "acute",
+                "artifact",
+                "absorb",
+                "antiquity"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a product of artificial character due to extraneous (as human) agency",
+            "choices": [
+                "accuracy",
+                "amplitude",
+                "artifact",
+                "acute",
+                "absorb"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a bluish silver-white light malleable ductile trivalent metallic element that has good electrical and thermal conductivity, high reflectivity, and resistance to oxidation and is the most abundant metal in the earth's crust where it always occurs in combination — see Chemical Elements Table",
+            "choices": [
+                "absorb",
+                "aggregate",
+                "articulate",
+                "array",
+                "aluminum"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 用关节连接起来; adj. 发音清晰的; vi. 发音",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "e",
+                "i",
+                "l",
+                "r",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 古代的遗物; n. 高龄; n. 古物",
+            "choices": [
+                "a",
+                "i",
+                "i",
+                "n",
+                "q",
+                "t",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 丰富，充足; n. 广阔; n. 振幅",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "l",
+                "m",
+                "p",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [数] 精确度，准确性",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "c",
+                "c",
+                "r",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 手工艺品; n. 人工制品",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "f",
+                "i",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 排列，列阵; n. 衣服; n. 大批，一系列",
+            "choices": [
+                "a",
+                "a",
+                "r",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 敏锐的; adj. 尖声的; adj. 激烈的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 合计; adj. 聚合的; n. 集合体",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "e",
+                "g",
+                "g",
+                "g",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使…全神贯注; vt. 承受; vt. 理解",
+            "choices": [
+                "a",
+                "b",
+                "b",
+                "o",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 铝",
+            "choices": [
+                "a",
+                "i",
+                "l",
+                "m",
+                "m",
+                "n",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "It's because we have these performers up there that are reading this blueprint and everyone is listening, basically to see how accurately they can reproduce, revivify this artistic ______.",
+            "choices": [
+                "acute",
+                "accuracy",
+                "amplitude",
+                "aluminum",
+                "artifact"
+            ],
+            "chn": "是因为台上有演奏人员,他们在看乐谱,大家都在听,基本上就是在揣摩,他们能在多大程度上精确地复制和再现,这件人工的艺术作品(聆听音乐课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "They did manage to establish a kingdom in the land that was known in ______ as Canaan around the year 1000.",
+            "choices": [
+                "absorb",
+                "artifact",
+                "antiquity",
+                "accuracy",
+                "articulate"
+            ],
+            "chn": "约公元前1000年时他们确实在那片叫迦南的土地上,立了一个自己的王国。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Over the centuries,scientific thinkers worked to develop these devices and improve their ______ and complexity.",
+            "choices": [
+                "aluminum",
+                "artifact",
+                "accuracy",
+                "absorb",
+                "array"
+            ],
+            "chn": "(VOA : special.2010.09.29)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"Of course,we don't know what doses they've received, but the only persons at risk of ______ radiation effects are the workers.\"",
+            "choices": [
+                "acute",
+                "articulate",
+                "accuracy",
+                "aggregate",
+                "absorb"
+            ],
+            "chn": "(VOA : special.2011.03.16)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The first radio broadcasts were made using ______ modulation.",
+            "choices": [
+                "artifact",
+                "acute",
+                "amplitude",
+                "aluminum",
+                "accuracy"
+            ],
+            "chn": "(VOA : special.2010.12.08)"
+        },
+        {
+            "cate": "choice",
+            "problem": "We're looking for trends. Obviously, if your ______ score is 75, you're passed.But, 0 I'm looking at what's going on in the vicinity of 50 because I don't think my point scheme is that accurate.",
+            "choices": [
+                "array",
+                "acute",
+                "aggregate",
+                "absorb",
+                "accuracy"
+            ],
+            "chn": "很明显我们在寻找发展动态，如果你的总分是75分，你就通过了，但是，我在寻找50分左右的同学的发展动态0,因为我不认为我的分值安排是正确的。(固态化学导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Joints need cartilage for smooth movement and to ______ shock when you put pressure on a joint.",
+            "choices": [
+                "articulate",
+                "array",
+                "acute",
+                "aluminum",
+                "absorb"
+            ],
+            "chn": "(VOA : special.2010.05.19)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The workers had been putting the medicine into droppers, then wrapping the tube with tape, ______ foil and plastic.",
+            "choices": [
+                "antiquity",
+                "accuracy",
+                "amplitude",
+                "aggregate",
+                "aluminum"
+            ],
+            "chn": "(VOA : special.2010.05.24)"
+        }
+    ],
+    "quiz_id": "174"
+}

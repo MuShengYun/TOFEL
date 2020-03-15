@@ -1,0 +1,2561 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "ecology",
+            "choices": [
+                "adj. 尺寸的",
+                "adj. 空间的",
+                "n. 生态学",
+                "n. 社会生态学",
+                "adj. 发展的",
+                "adj. 变化多的",
+                "adj. 尺寸的",
+                ". 语音学]音长，音延"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "directive",
+            "choices": [
+                "vt. 把…染上颜色",
+                "adj. 管理的",
+                "n. 指示",
+                "vt. 给…服药",
+                "n. 效力",
+                "n. 效力",
+                "n. 指令",
+                "adj. 指导的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "diverse",
+            "choices": [
+                "adj. 不同的",
+                "vt. 表示，指示",
+                "n. 诊断结论",
+                "adv. 在经济上",
+                "vt. 区分，区别",
+                "adj. 多种多样的",
+                "adj. 变化多的",
+                "adj. 动力的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "displacement",
+            "choices": [
+                "n. [船] 排水量",
+                "vi. 区分，区别",
+                "vi. 演说",
+                "n. 侦查，探测",
+                "n. 支配",
+                "n. 描述符号",
+                "n. 指示",
+                "n. 取代，位移"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dictionary",
+            "choices": [
+                "n. 词典",
+                "n. 支配",
+                "n. 字典",
+                "n. 独立部件",
+                "n. 损失",
+                "n. 同源语",
+                "vi. 诊断",
+                "adj. 引出的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "disadvantage",
+            "choices": [
+                "n. 缺点",
+                ". 语音学]音长，音延",
+                "n. 图表",
+                "vi. 服药",
+                "adv. 节俭地",
+                "n. 字典",
+                "n. 损失",
+                "n. 不利条件"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "discharge",
+            "choices": [
+                "vi. 流出",
+                "vi. 卸货",
+                "n. 解雇",
+                "vt. 解雇",
+                "n. 二氧化物",
+                "n. 排放",
+                "vi. 排放",
+                "vt. 免除"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "elaborate",
+            "choices": [
+                "vt. 详细阐述",
+                "vt. 精心制作",
+                "adj. 详尽的",
+                "n. 捐赠者",
+                "adj. 精心制作的",
+                "vi. 变复杂",
+                "vt. 从简单成分合成（复杂有机物）",
+                "vi. 详细描述"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "diagnostic",
+            "choices": [
+                "adj. 诊断的",
+                "n. 一剂，一服",
+                "adj. 生态的，生态学的",
+                "vi. 服药",
+                "n. 诊断法",
+                "n. 诊断结论",
+                "n. 后裔",
+                "adj. 特征的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "disturbance",
+            "choices": [
+                "vi. 服药",
+                "adv. 节俭地",
+                "n. 干扰",
+                "vi. 谈论",
+                "n. 骚乱",
+                "adj. 愚钝的",
+                "n. 忧虑",
+                "adj. 特异的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dose",
+            "choices": [
+                "adj. 稠密的",
+                "vt. 诊断",
+                "vt. 给药",
+                "vi. 谈论",
+                "n. 剂量",
+                "vt. 给…服药",
+                "n. 一剂，一服",
+                "vi. 服药"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "differential",
+            "choices": [
+                "n. 区别，辨别",
+                "n. 微分",
+                "adj. 微分的",
+                "n. 分立元件",
+                "adj. 差别的",
+                "n. 差别",
+                "adj. 特异的",
+                "adj. 诊断的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dependence",
+            "choices": [
+                "n. 依靠",
+                "n. 信任",
+                "n. 图解",
+                "n. 详细查究",
+                "adj. 动态的",
+                "adj. 占优势的",
+                "n. 依赖",
+                "n. 信赖"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ecological",
+            "choices": [
+                "vt. 精心制作",
+                "vt. 详细阐述",
+                "vt. 表示，指示",
+                "n. 二氧化物",
+                "adj. 指导的",
+                "vt. 排掉水",
+                "adj. 生态的，生态学的",
+                "adj. 指导的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dominance",
+            "choices": [
+                "adj. 生态的，生态学的",
+                "adj. 淡的",
+                "n. 分配",
+                "n. [船] 排水量",
+                "n. 优势",
+                "n. 支配",
+                "n. 统治",
+                "n. 持续，持续的时间，期间"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "drift",
+            "choices": [
+                "n. [船] 排水量",
+                "vt. 使…受风吹积",
+                "vt. 使…漂流",
+                "vi. 漂流，漂移",
+                "n. 漂流物",
+                "vi. 漂泊",
+                "n. 趋势",
+                "n. 漂流，漂移"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "distribution",
+            "choices": [
+                "vt. 解雇",
+                "n. 分布",
+                "n. 目的地，终点",
+                "n. 分配",
+                "adj. 差别的",
+                "adj. 动力学的",
+                "vt. 使听写",
+                "n. 供应"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dye",
+            "choices": [
+                "adj. 动力的",
+                "n. 染色",
+                "vt. 把…染上颜色",
+                "vi. 诊断",
+                "n. 染料",
+                "adj. 尺寸的",
+                "vt. 染",
+                "vi. 被染色"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "diameter",
+            "choices": [
+                "n. 直径",
+                "adj. 愚钝的",
+                "n. 不利条件",
+                "n. 损失",
+                "adj. 变化多的",
+                "n. 命名者",
+                "n. 动态",
+                "vi. 口述"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "drain",
+            "choices": [
+                "vi. 排水",
+                "adj. 支配的，统治的",
+                "vt. 使流出",
+                "vt. 喝光，耗尽",
+                "n. 下水道，排水管",
+                "vi. 流干",
+                "vt. 排掉水",
+                "n. 排水"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dissolve",
+            "choices": [
+                "vi. 溶解",
+                "n. 画面的溶暗",
+                "vt. 使溶解",
+                "vt. 使分解",
+                "n. 分布",
+                "vi. 消失",
+                "vt. 使液化",
+                "vi. 解散"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "destination",
+            "choices": [
+                "n. 指令",
+                "adj. 支配的，统治的",
+                "adj. 差别的",
+                "n. 诊断",
+                "n. 持续，持续的时间，期间",
+                "n. 目的地，终点",
+                "n. 生态学",
+                "adj. 下降的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "disability",
+            "choices": [
+                "adj. 动力学的",
+                "adj. 发展的",
+                "n. 无资格",
+                "n. 直径",
+                "n. 残疾",
+                "n. 区别",
+                "n. 无能",
+                "n. 不利条件"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dilute",
+            "choices": [
+                "vt. 冲淡",
+                "adj. 生态的，生态学的",
+                "vt. 削弱",
+                "vi. 变稀薄",
+                "adj. 稀释的",
+                "vi. 变淡",
+                "adj. 淡的",
+                "vt. 稀释"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "diffusion",
+            "choices": [
+                "n. 支配",
+                "n. 经济学者",
+                "adj. 下降的",
+                "n. 偏差",
+                "n. 取代，位移",
+                "n. 二氧化物",
+                "n. 扩散，传播",
+                "n. [光] 漫射"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "diagnosis",
+            "choices": [
+                "adj. 引出的",
+                "adj. 有活力的",
+                "n. 无能",
+                "n. 诊断",
+                "n. 子孙",
+                "n. 不利条件",
+                "n. 生态学",
+                "n. 共同特征或共同性质"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "economically",
+            "choices": [
+                "vi. 漂流，漂移",
+                "adv. 经济地",
+                "adv. 在经济上",
+                "n. 持续，持续的时间，期间",
+                "n. 区别",
+                "adj. 差别的",
+                "adv. 节俭地",
+                "n. 命名者"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "differentiation",
+            "choices": [
+                "adj. 启发的",
+                "n. 变异，[生物] 分化",
+                "n. 供者",
+                "n. 区别",
+                "n. 赠送人",
+                "n. 目的地，终点",
+                "adj. 特征的",
+                "n. 同源语"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "detection",
+            "choices": [
+                "adj. 空间的",
+                "n. 发觉，发现",
+                "vt. 精心制作",
+                "n. 侦查，探测",
+                "n. 察觉",
+                "n. 供应",
+                "n. 进退两难",
+                "n. 描述符号"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dioxide",
+            "choices": [
+                "n. 持续，持续的时间，期间",
+                "adj. 捐献的",
+                "n. [化学] 衍生物，派生物",
+                "n. 效力",
+                "vi. 区分，区别",
+                "n. 二氧化物",
+                "n. 效力",
+                "n. 统治"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "diary",
+            "choices": [
+                "vt. 诊断",
+                "n. 偏差",
+                "n. 日记簿",
+                "vt. 表示，指示",
+                "n. 日志，日记",
+                "vt. 演奏出",
+                "adj. 诊断的",
+                "adj. 空间的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "domain",
+            "choices": [
+                "adj. 派生的",
+                "adj. 多种多样的",
+                "n. 产业",
+                "n. 域名",
+                "n. 描述符号",
+                "n. 地产",
+                "n. 领域",
+                "n. 困境"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "denominator",
+            "choices": [
+                "n. 共同特征或共同性质",
+                "n. 直径",
+                "n. 命名者",
+                "n. 信赖",
+                "n. 平均水平或标准",
+                "adj. 差别的",
+                "n. [数] 分母",
+                "n. 诊断"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "economist",
+            "choices": [
+                "n. 动力",
+                "vt. 详细阐述",
+                "n. 进退两难",
+                "n. 经济学者",
+                "n. 节俭的人",
+                "n. 效力",
+                "n. 描述符号",
+                "n. 命令"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "discourse",
+            "choices": [
+                "n. 论述",
+                "n. 谈话",
+                "vt. 说出",
+                "vt. 染",
+                "vi. 讲述",
+                "vi. 演说",
+                "n. 演讲",
+                "vt. 演奏出"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "discrete",
+            "choices": [
+                "adj. 离散的，不连续的",
+                "n. 独立部件",
+                "n. 分立元件",
+                "n. 进退两难",
+                "n. 诊断",
+                "n. 描述符号",
+                "adj. 煞费苦心的",
+                "vt. 削弱"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "diagnose",
+            "choices": [
+                "adv. 在经济上",
+                "n. 目的地，终点",
+                "vt. 诊断",
+                "vi. 判断",
+                "vt. 断定",
+                "n. 控制",
+                "n. 供应",
+                "vi. 诊断"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dynamic",
+            "choices": [
+                "n. 动态",
+                "adj. 动态的",
+                "n. 微分",
+                "adj. 有活力的",
+                "n. 困境",
+                "adj. 动力学的",
+                "n. 动力",
+                "adj. 动力的"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "derivative",
+            "choices": [
+                "n. 导数",
+                "adj. 派生的",
+                "n. 分配",
+                "adj. 稠密的",
+                "n. [化学] 衍生物，派生物",
+                "adj. 引出的",
+                "n. 支配",
+                "n. 日记簿"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "donor",
+            "choices": [
+                "adj. 捐献的",
+                "n. 取代，位移",
+                "n. 供者",
+                "n. 漂流，漂移",
+                "n. 捐赠者",
+                "n. 节俭的人",
+                "n. 赠送人",
+                "adj. 经人工授精出生的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "depict",
+            "choices": [
+                "n. 经济学者",
+                "vt. 描述",
+                "n. 直径",
+                "adj. 空间的",
+                "vt. 描画",
+                "n. [光] 漫射",
+                "vi. 服药",
+                "n. 二氧化物"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dissection",
+            "choices": [
+                "n. 诊断",
+                "n. 子孙",
+                "vt. 表示，指示",
+                "n. 支配",
+                "n. 详细查究",
+                "n. 解剖，切开",
+                "n. 二氧化物",
+                "n. 解剖体"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "deviation",
+            "choices": [
+                "adj. 生态的，生态学的",
+                "n. 误差",
+                "n. 同源语",
+                "n. 偏差",
+                "n. 节俭的人",
+                "n. 背离",
+                "n. 扩散，传播",
+                "n. 目的地，终点"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "effectiveness",
+            "choices": [
+                "adj. 占优势的",
+                "n. 效力",
+                "n. 损失",
+                "n. [船] 排水量",
+                "adj. 显性的",
+                "n. 区别，辨别",
+                "n. [船] 排水量",
+                "vt. 精心制作"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "denote",
+            "choices": [
+                "n. 后裔",
+                "vi. 解散",
+                "n. 变异，[生物] 分化",
+                "vt. 表示，指示",
+                "n. 偏差",
+                "n. 侦查，探测",
+                "adj. 生态的，生态学的",
+                "n. 不利条件"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "domination",
+            "choices": [
+                "n. 行话",
+                "n. 控制",
+                "n. 解剖体",
+                "adj. 尺寸的",
+                "n. 目的地，终点",
+                "n. 字典",
+                "n. 支配",
+                "n. 二氧化物"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dominant",
+            "choices": [
+                "n. 社会生态学",
+                "adj. 占优势的",
+                "adj. 显性的",
+                "adj. 管理的",
+                "n. 显性",
+                "n. 剂量",
+                "n. 目的地，终点",
+                "adj. 支配的，统治的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "discrimination",
+            "choices": [
+                "n. 歧视",
+                "n. 区别，辨别",
+                "adj. 愚钝的",
+                "n. 支配",
+                "vi. 排放",
+                "n. 背离",
+                "n. 识别力",
+                "n. 域名"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "descendant",
+            "choices": [
+                "adj. 下降的",
+                "vt. 免除",
+                "n. 后裔",
+                "n. 子孙",
+                "n. 指示",
+                "adj. 支配的，统治的",
+                "adj. 祖传的",
+                "vt. 使液化"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dilemma",
+            "choices": [
+                "n. 骚乱",
+                "n. 导数",
+                "adj. 派生的",
+                "n. 进退两难",
+                "n. 区别",
+                "adj. 动态的",
+                "n. 困境",
+                "n. 两刀论法"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dimensional",
+            "choices": [
+                "adj. 尺寸的",
+                "n. 漂流物",
+                "n. 节俭的人",
+                "adj. 不同的",
+                "adv. 经济地",
+                "adj. 发展的",
+                "n. 经济学者",
+                "adj. 空间的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "duration",
+            "choices": [
+                "n. 侦查，探测",
+                "vi. 详细描述",
+                "n. 持续，持续的时间，期间",
+                "vt. 染",
+                "vt. 喝光，耗尽",
+                ". 语音学]音长，音延",
+                "n. 控制",
+                "n. 下水道，排水管"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "differentiate",
+            "choices": [
+                "adj. 动力的",
+                "n. 产业",
+                "vt. 区分，区别",
+                "vt. 表示，指示",
+                "n. 地产",
+                "adj. 动态的",
+                "n. 差别",
+                "vi. 区分，区别"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dialect",
+            "choices": [
+                "n. 同源语",
+                "n. 方言，土话",
+                "n. 行话",
+                "adj. 方言的",
+                "vi. 流出",
+                "n. 个人用语特征",
+                "adj. 动力的",
+                "n. [船] 排水量"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dense",
+            "choices": [
+                "vt. 诊断",
+                "n. 诊断",
+                "n. 共同特征或共同性质",
+                "n. 区别，辨别",
+                "adj. 浓厚的",
+                "n. 侦查，探测",
+                "adj. 稠密的",
+                "adj. 愚钝的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "descriptor",
+            "choices": [
+                "adj. 捐献的",
+                "adv. 经济地",
+                "n. 目的地，终点",
+                "vt. 表示，指示",
+                "n. 描述符号",
+                "n. 指示",
+                "vi. 服药",
+                "adj. 多种多样的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "developmental",
+            "choices": [
+                "adj. 生态的，生态学的",
+                "adv. 节俭地",
+                "vi. 诊断",
+                "n. 不利条件",
+                "adj. 启发的",
+                "n. 损失",
+                "adj. 发展的",
+                "n. 描述符号"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dictate",
+            "choices": [
+                "vi. 听写",
+                "vt. 命令",
+                "n. 命令",
+                "vi. 口述",
+                "vt. 口述",
+                "n. 描述符号",
+                "n. 指示",
+                "vt. 使听写"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "diagram",
+            "choices": [
+                "n. 图表",
+                "n. 平均水平或标准",
+                "n. 产业",
+                "adj. 浓厚的",
+                "adj. 煞费苦心的",
+                "vt. 用图解法表示",
+                "n. 地产",
+                "n. 图解"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 微分的; n. 差别; adj. 差别的",
+            "choices": [
+                "diagram",
+                "differential",
+                "dynamic",
+                "dilemma",
+                "discourse"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 方言，土话; n. 个人用语特征; n. 行话",
+            "choices": [
+                "discharge",
+                "drain",
+                "diameter",
+                "dialect",
+                "discrimination"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 不利条件; n. 损失; n. 缺点",
+            "choices": [
+                "differentiate",
+                "disadvantage",
+                "dissolve",
+                "economically",
+                "dialect"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 产业; n. 域名; n. 领域",
+            "choices": [
+                "discharge",
+                "economically",
+                "domain",
+                "drift",
+                "differentiation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 听写; n. 命令; vt. 命令",
+            "choices": [
+                "effectiveness",
+                "denominator",
+                "dictate",
+                "displacement",
+                "directive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使…漂流; vt. 使…受风吹积; n. 趋势",
+            "choices": [
+                "dense",
+                "domain",
+                "donor",
+                "displacement",
+                "drift"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 效力",
+            "choices": [
+                "diverse",
+                "duration",
+                "dimensional",
+                "differentiation",
+                "effectiveness"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 指令; n. 指示; adj. 管理的",
+            "choices": [
+                "diagnosis",
+                "diary",
+                "duration",
+                "directive",
+                "discourse"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 日记簿; n. 日志，日记",
+            "choices": [
+                "descriptor",
+                "descendant",
+                "diagnose",
+                "detection",
+                "diary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 描述符号",
+            "choices": [
+                "developmental",
+                "descriptor",
+                "dimensional",
+                "dilute",
+                "dialect"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 优势; n. 统治; n. 支配",
+            "choices": [
+                "dye",
+                "dilemma",
+                "donor",
+                "dominance",
+                "disturbance"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 占优势的; adj. 支配的，统治的; adj. 显性的",
+            "choices": [
+                "domain",
+                "elaborate",
+                "differential",
+                "dominant",
+                "disability"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 不同的; adj. 多种多样的; adj. 变化多的",
+            "choices": [
+                "ecology",
+                "dissection",
+                "duration",
+                "diverse",
+                "diffusion"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 图解; n. 图表; vt. 用图解法表示",
+            "choices": [
+                "discourse",
+                "detection",
+                "differentiation",
+                "diagram",
+                "dissection"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 支配; n. 控制",
+            "choices": [
+                "discrimination",
+                "domination",
+                "dominant",
+                "differentiation",
+                "ecological"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 表示，指示",
+            "choices": [
+                "dialect",
+                "duration",
+                "discharge",
+                "denote",
+                "dictionary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 持续，持续的时间，期间; . 语音学]音长，音延",
+            "choices": [
+                "dynamic",
+                "duration",
+                "denote",
+                "dense",
+                "depict"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 动力的; n. 动态; adj. 动力学的",
+            "choices": [
+                "duration",
+                "displacement",
+                "differential",
+                "dynamic",
+                "deviation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 平均水平或标准; n. 共同特征或共同性质; n. [数] 分母",
+            "choices": [
+                "denominator",
+                "depict",
+                "discharge",
+                "disturbance",
+                "developmental"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 给药; vt. 给…服药; n. 一剂，一服",
+            "choices": [
+                "detection",
+                "developmental",
+                "dose",
+                "disability",
+                "distribution"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 冲淡; adj. 稀释的; vt. 稀释",
+            "choices": [
+                "dilute",
+                "differential",
+                "diffusion",
+                "dependence",
+                "domain"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 生态学; n. 社会生态学",
+            "choices": [
+                "differentiate",
+                "dependence",
+                "diameter",
+                "ecology",
+                "dilute"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 分配; n. 供应; n. 分布",
+            "choices": [
+                "effectiveness",
+                "drift",
+                "discrimination",
+                "elaborate",
+                "distribution"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 染; vi. 被染色; n. 染料",
+            "choices": [
+                "duration",
+                "donor",
+                "directive",
+                "dye",
+                "diffusion"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 经济学者; n. 节俭的人",
+            "choices": [
+                "economist",
+                "denote",
+                "dynamic",
+                "derivative",
+                "domination"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 区别，辨别; n. 歧视; n. 识别力",
+            "choices": [
+                "displacement",
+                "dose",
+                "differential",
+                "discrimination",
+                "drift"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 浓厚的; adj. 愚钝的; adj. 稠密的",
+            "choices": [
+                "domain",
+                "detection",
+                "dose",
+                "dense",
+                "ecology"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 谈话; vt. 演奏出; vi. 演说",
+            "choices": [
+                "directive",
+                "dose",
+                "dioxide",
+                "dense",
+                "discourse"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 诊断法; adj. 特征的; adj. 诊断的",
+            "choices": [
+                "descendant",
+                "destination",
+                "diagnostic",
+                "disability",
+                "directive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 生态的，生态学的",
+            "choices": [
+                "duration",
+                "discourse",
+                "ecological",
+                "domain",
+                "directive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [光] 漫射; n. 扩散，传播",
+            "choices": [
+                "diffusion",
+                "diameter",
+                "diverse",
+                "ecology",
+                "denote"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 独立部件; adj. 离散的，不连续的; n. 分立元件",
+            "choices": [
+                "deviation",
+                "duration",
+                "discrete",
+                "diagnose",
+                "denominator"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 子孙; adj. 祖传的; n. 后裔",
+            "choices": [
+                "denominator",
+                "dimensional",
+                "descendant",
+                "dictionary",
+                "dense"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 导数; n. [化学] 衍生物，派生物; adj. 引出的",
+            "choices": [
+                "ecology",
+                "derivative",
+                "dominant",
+                "discourse",
+                "donor"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 目的地，终点",
+            "choices": [
+                "deviation",
+                "denominator",
+                "dye",
+                "dominant",
+                "destination"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 断定; vi. 判断; vi. 诊断",
+            "choices": [
+                "dye",
+                "dose",
+                "denote",
+                "ecology",
+                "diagnose"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 解剖，切开; n. 详细查究; n. 解剖体",
+            "choices": [
+                "dye",
+                "dissection",
+                "diffusion",
+                "distribution",
+                "detection"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 煞费苦心的; vt. 精心制作; vi. 详细描述",
+            "choices": [
+                "dilute",
+                "directive",
+                "elaborate",
+                "discrimination",
+                "depict"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 信任; n. 信赖; n. 依赖",
+            "choices": [
+                "differentiate",
+                "disturbance",
+                "duration",
+                "dependence",
+                "denote"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 捐赠者; adj. 经人工授精出生的; n. 赠送人",
+            "choices": [
+                "donor",
+                "dissection",
+                "dominance",
+                "drain",
+                "ecology"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 消耗; vi. 排水; vt. 使流出",
+            "choices": [
+                "economically",
+                "drain",
+                "dictionary",
+                "directive",
+                "diagnosis"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 词典; n. 字典",
+            "choices": [
+                "ecological",
+                "dictionary",
+                "dissolve",
+                "economist",
+                "disturbance"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 经济地; adv. 节俭地; adv. 在经济上",
+            "choices": [
+                "descendant",
+                "discrete",
+                "directive",
+                "ecology",
+                "economically"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 二氧化物",
+            "choices": [
+                "donor",
+                "diameter",
+                "dissolve",
+                "diagnose",
+                "dioxide"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 直径",
+            "choices": [
+                "diameter",
+                "diary",
+                "dialect",
+                "economist",
+                "developmental"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 忧虑; n. 骚乱; n. 干扰",
+            "choices": [
+                "dependence",
+                "descriptor",
+                "dynamic",
+                "disturbance",
+                "dominance"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 取代，位移; n. [船] 排水量",
+            "choices": [
+                "dynamic",
+                "discrimination",
+                "displacement",
+                "ecology",
+                "dictionary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 尺寸的; adj. 空间的",
+            "choices": [
+                "ecological",
+                "developmental",
+                "discrete",
+                "dimensional",
+                "economically"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 发觉，发现; n. 察觉; n. 侦查，探测",
+            "choices": [
+                "diagnosis",
+                "detection",
+                "dimensional",
+                "denote",
+                "diagnose"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 不利条件; n. 残疾; n. 无能",
+            "choices": [
+                "diagnostic",
+                "developmental",
+                "disability",
+                "duration",
+                "drain"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 描述; vt. 描画",
+            "choices": [
+                "differential",
+                "dioxide",
+                "drift",
+                "denote",
+                "depict"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 卸货; vt. 放出; vi. 卸货",
+            "choices": [
+                "discharge",
+                "disadvantage",
+                "diagnostic",
+                "duration",
+                "dense"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 区别; n. 变异，[生物] 分化",
+            "choices": [
+                "dialect",
+                "differentiation",
+                "dissection",
+                "diverse",
+                "duration"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 区分，区别; vt. 区分，区别",
+            "choices": [
+                "differentiate",
+                "elaborate",
+                "dynamic",
+                "dissection",
+                "dominant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 困境; n. 进退两难; n. 两刀论法",
+            "choices": [
+                "elaborate",
+                "dilemma",
+                "diagnostic",
+                "effectiveness",
+                "dense"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 背离; n. 误差; n. 偏差",
+            "choices": [
+                "effectiveness",
+                "domain",
+                "deviation",
+                "duration",
+                "diagnose"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 诊断",
+            "choices": [
+                "diagnosis",
+                "displacement",
+                "detection",
+                "ecological",
+                "ecology"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 溶解; n. 画面的溶暗; vt. 使分解",
+            "choices": [
+                "drain",
+                "distribution",
+                "effectiveness",
+                "economically",
+                "dissolve"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 启发的; adj. 发展的",
+            "choices": [
+                "diary",
+                "dimensional",
+                "domain",
+                "developmental",
+                "dictionary"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 进退两难; n. 两刀论法; n. 困境",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "l",
+                "m",
+                "m"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 被染色; vt. 把…染上颜色; n. 染色",
+            "choices": [
+                "d",
+                "e",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 描述; vt. 描画",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "i",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 生态的，生态学的",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "g",
+                "i",
+                "l",
+                "l",
+                "o",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 供应; n. 分配; n. 分布",
+            "choices": [
+                "b",
+                "d",
+                "i",
+                "i",
+                "i",
+                "n",
+                "o",
+                "r",
+                "s",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 特异的; adj. 差别的; n. 微分",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "f",
+                "f",
+                "i",
+                "i",
+                "l",
+                "n",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 愚钝的; adj. 稠密的; adj. 浓厚的",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "n",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 损失; n. 不利条件; n. 缺点",
+            "choices": [
+                "a",
+                "a",
+                "a",
+                "d",
+                "d",
+                "e",
+                "g",
+                "i",
+                "n",
+                "s",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 残疾; n. 无能; n. 无资格",
+            "choices": [
+                "a",
+                "b",
+                "d",
+                "i",
+                "i",
+                "i",
+                "l",
+                "s",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 多种多样的; adj. 变化多的; adj. 不同的",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "i",
+                "r",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 漂流，漂移; vt. 使…受风吹积; vi. 漂泊",
+            "choices": [
+                "d",
+                "f",
+                "i",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 诊断",
+            "choices": [
+                "a",
+                "d",
+                "g",
+                "i",
+                "i",
+                "n",
+                "o",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 发展的; adj. 启发的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "e",
+                "l",
+                "l",
+                "m",
+                "n",
+                "o",
+                "p",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 详尽的; vt. 从简单成分合成（复杂有机物）; adj. 精心制作的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "e",
+                "e",
+                "l",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 区分，区别; vi. 区分，区别",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "e",
+                "f",
+                "f",
+                "i",
+                "i",
+                "n",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 放出; vt. 免除; n. 解雇",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "g",
+                "h",
+                "i",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 图表; vt. 用图解法表示; n. 图解",
+            "choices": [
+                "a",
+                "a",
+                "d",
+                "g",
+                "i",
+                "m",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 平均水平或标准; n. 命名者; n. [数] 分母",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "m",
+                "n",
+                "n",
+                "o",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 离散的，不连续的; n. 分立元件; n. 独立部件",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "e",
+                "i",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 经济学者; n. 节俭的人",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "m",
+                "n",
+                "o",
+                "o",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 表示，指示",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "n",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 侦查，探测; n. 发觉，发现; n. 察觉",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "e",
+                "i",
+                "n",
+                "o",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 在经济上; adv. 经济地; adv. 节俭地",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "i",
+                "l",
+                "l",
+                "m",
+                "n",
+                "o",
+                "o",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 排水; vt. 排掉水; n. 下水道，排水管",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "n",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 子孙; adj. 下降的; n. 后裔",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "d",
+                "e",
+                "e",
+                "n",
+                "n",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 直径",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "i",
+                "m",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 领域; n. 产业; n. 地产",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "m",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 效力",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "e",
+                "e",
+                "f",
+                "f",
+                "i",
+                "n",
+                "s",
+                "s",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 目的地，终点",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "i",
+                "n",
+                "n",
+                "o",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 识别力; n. 歧视; n. 区别，辨别",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "i",
+                "i",
+                "i",
+                "i",
+                "m",
+                "n",
+                "n",
+                "o",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 一剂，一服; vt. 给…服药; vi. 服药",
+            "choices": [
+                "d",
+                "e",
+                "o",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 忧虑; n. 骚乱; n. 干扰",
+            "choices": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "i",
+                "n",
+                "r",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 生态学; n. 社会生态学",
+            "choices": [
+                "c",
+                "e",
+                "g",
+                "l",
+                "o",
+                "o",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 稀释; adj. 稀释的; vt. 削弱",
+            "choices": [
+                "d",
+                "e",
+                "i",
+                "l",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 二氧化物",
+            "choices": [
+                "d",
+                "d",
+                "e",
+                "i",
+                "i",
+                "o",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 取代，位移; n. [船] 排水量",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "e",
+                "i",
+                "l",
+                "m",
+                "n",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 动力的; n. 动态; n. 动力",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "i",
+                "m",
+                "n",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 诊断; vi. 判断; vt. 断定",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "g",
+                "i",
+                "n",
+                "o",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 误差; n. 背离; n. 偏差",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "i",
+                "n",
+                "o",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 日志，日记; n. 日记簿",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [光] 漫射; n. 扩散，传播",
+            "choices": [
+                "d",
+                "f",
+                "f",
+                "i",
+                "i",
+                "n",
+                "o",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 变异，[生物] 分化; n. 区别",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "f",
+                "f",
+                "i",
+                "i",
+                "i",
+                "n",
+                "n",
+                "o",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 讲述; n. 演讲; n. 谈话",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "i",
+                "o",
+                "r",
+                "s",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 词典; n. 字典",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "i",
+                "i",
+                "n",
+                "o",
+                "r",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 行话; n. 个人用语特征; adj. 方言的",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "i",
+                "l",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 支配; n. 统治; n. 优势",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "i",
+                "m",
+                "n",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 支配; n. 控制",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "i",
+                "m",
+                "n",
+                "n",
+                "o",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使分解; n. 画面的溶暗; vt. 使溶解",
+            "choices": [
+                "d",
+                "e",
+                "i",
+                "l",
+                "o",
+                "s",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 捐献的; adj. 经人工授精出生的; n. 捐赠者",
+            "choices": [
+                "d",
+                "n",
+                "o",
+                "o",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 描述符号",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "i",
+                "o",
+                "p",
+                "r",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 指令; n. 指示; adj. 管理的",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "e",
+                "i",
+                "i",
+                "r",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 尺寸的; adj. 空间的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "i",
+                "l",
+                "m",
+                "n",
+                "n",
+                "o",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 特征的; adj. 诊断的; n. 诊断结论",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "g",
+                "i",
+                "i",
+                "n",
+                "o",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 支配的，统治的; adj. 占优势的; adj. 显性的",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "m",
+                "n",
+                "n",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 依靠; n. 依赖; n. 信任",
+            "choices": [
+                "c",
+                "d",
+                "d",
+                "e",
+                "e",
+                "e",
+                "e",
+                "n",
+                "n",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [化学] 衍生物，派生物; adj. 引出的; n. 导数",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "i",
+                "i",
+                "r",
+                "t",
+                "v",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 口述; vi. 听写; vt. 命令",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "i",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": ". 语音学]音长，音延; n. 持续，持续的时间，期间",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "n",
+                "o",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 详细查究; n. 解剖，切开; n. 解剖体",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "i",
+                "i",
+                "n",
+                "o",
+                "s",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "The rise time and the peak energy and the sustained ______ of some of these sounds are highly detrimental to our hearing.",
+            "choices": [
+                "duration",
+                "dilute",
+                "dense",
+                "drift",
+                "diverse"
+            ],
+            "chn": "某些声响的起始，高峰以及持续阶段,对我们听力的损害,是极大的。(7个颠覆你思想的演讲课程节选 : 斯坦福公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "I gave you the definition of strict ______ last time and it's also in the handout.",
+            "choices": [
+                "derivative",
+                "dose",
+                "dilute",
+                "dominance",
+                "developmental"
+            ],
+            "chn": "上节课我给出了严格优势的定义,并且讲义中也有(博弈论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Once you get this information then you are going to be able to ______ between a risky proposition for purchase to a less risky .\"",
+            "choices": [
+                "disadvantage",
+                "dissection",
+                "dictate",
+                "destination",
+                "differentiate"
+            ],
+            "chn": "(VOA : standard.2010.05.28)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And it's a ______.",
+            "choices": [
+                "disability",
+                "diffusion",
+                "dioxide",
+                "directive",
+                "discharge"
+            ],
+            "chn": "这是一个命令句式。(SpeakingMax英语口语达人 : Don't 课堂)"
+        },
+        {
+            "cate": "choice",
+            "problem": "That's got the lowest possible standard ______ of expected return and that's 25% stocks and 75% bonds with this sample period.",
+            "choices": [
+                "dominance",
+                "diary",
+                "descendant",
+                "disability",
+                "deviation"
+            ],
+            "chn": "这个组合预期回报的标准差最小,在这一点上，投资组合,由25%的股票和75%的债券构成。(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Now, in writing in these genres, Milton is, of course, confronted with a ______. He's a humanist scholar.",
+            "choices": [
+                "dose",
+                "descriptor",
+                "dilemma",
+                "diffusion",
+                "discharge"
+            ],
+            "chn": "当然，弥尔顿用这种风格来写，就会面临一种窘境，他是一位人文主义学者。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "They said no one wanted to hear that industrial companies could cause great ______ damage.",
+            "choices": [
+                "displacement",
+                "dissolve",
+                "diverse",
+                "ecological",
+                "differentiate"
+            ],
+            "chn": "(VOA : special.2010.03.14)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The World Health Organization says alcohol abuse is the third leading cause of death and ______ in the world.",
+            "choices": [
+                "elaborate",
+                "disadvantage",
+                "disability",
+                "derivative",
+                "dialect"
+            ],
+            "chn": "(VOA : special.2011.03.08)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Hawaii wants to re-invent itself as more than a \"sun,sand and surf ______,\"",
+            "choices": [
+                "dioxide",
+                "dose",
+                "diagnostic",
+                "detection",
+                "destination"
+            ],
+            "chn": "(VOA : special.2009.03.02)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"A lot of these patients are at the highest risk of death and re-hospitalization and problems in the six months following ______ from the hospital.\"",
+            "choices": [
+                "differentiation",
+                "discharge",
+                "dominance",
+                "destination",
+                "dimensional"
+            ],
+            "chn": "(VOA : standard.2010.03.07)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So, even if the cost is small, $10 a ______, it quickly amounts to a large amount of money.",
+            "choices": [
+                "discourse",
+                "elaborate",
+                "dose",
+                "displacement",
+                "denominator"
+            ],
+            "chn": "因此,即使单只成本很小,可能只有十美元,但是这很快就会累积成为很大的金额(生物医学工程探索课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"Memorial should not ______ to us what we do in our own time, off the time clock.\"",
+            "choices": [
+                "directive",
+                "displacement",
+                "diagram",
+                "dictate",
+                "diagnostic"
+            ],
+            "chn": "(VOA : standard.2010.02.18)"
+        }
+    ],
+    "quiz_id": "125"
+}

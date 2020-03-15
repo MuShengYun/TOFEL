@@ -1,0 +1,337 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "c_to_e",
+            "problem": "n. 改正，修正",
+            "choices": [
+                "deflection",
+                "correction",
+                "consciousness",
+                "conscious",
+                "continent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 潮湿的; vi. 减幅，阻尼; vt. 使潮湿",
+            "choices": [
+                "contradict",
+                "damp",
+                "constrain",
+                "corpus",
+                "credibility"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 自制的，克制的; n. 大陆，洲，陆地",
+            "choices": [
+                "cue",
+                "coordinate",
+                "critique",
+                "continent",
+                "decay"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 一致; n. 相当; n. 通信",
+            "choices": [
+                "cylinder",
+                "contrary",
+                "contour",
+                "consultation",
+                "correspondence"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 治病; vt. 治愈; n. 治愈",
+            "choices": [
+                "consensus",
+                "consciousness",
+                "definite",
+                "decay",
+                "cure"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 咨询; n. [临床] 会诊; n. 磋商",
+            "choices": [
+                "contradictory",
+                "conscious",
+                "correctly",
+                "cure",
+                "consultation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 挠曲; n. 偏差; n. 偏向",
+            "choices": [
+                "cord",
+                "coronary",
+                "deflection",
+                "crystal",
+                "degrade"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 对立的; n. 相反; adv. 相反地",
+            "choices": [
+                "contrary",
+                "correlation",
+                "curriculum",
+                "coordinate",
+                "degrade"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使腐烂，使腐败; n. 衰退，[核] 衰减; n. 腐烂，腐朽",
+            "choices": [
+                "decay",
+                "cortex",
+                "contradiction",
+                "connotation",
+                "consonant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 反驳; vt. 与…矛盾; vt. 否定",
+            "choices": [
+                "contrary",
+                "contradict",
+                "container",
+                "damp",
+                "consonant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 对等，同等; n. 协调，调和",
+            "choices": [
+                "connotation",
+                "coordination",
+                "degrade",
+                "converge",
+                "correctly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 反驳; n. 否认; n. 矛盾",
+            "choices": [
+                "contradiction",
+                "cylinder",
+                "consent",
+                "coordinate",
+                "critique"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 欺骗; v. 行骗",
+            "choices": [
+                "consent",
+                "conservation",
+                "deceive",
+                "crude",
+                "crystal"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 关联; vt. 使有相互关系; vt. 互相有关系",
+            "choices": [
+                "damp",
+                "cortex",
+                "consensus",
+                "correlate",
+                "cue"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 靠拢; vi. 收敛; vi. 聚集",
+            "choices": [
+                "convergence",
+                "contour",
+                "converge",
+                "cord",
+                "congruent"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to assert the contrary of : take issue with",
+            "choices": [
+                "conservation",
+                "deficiency",
+                "consonant",
+                "criteria",
+                "contradict"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act or process of consuming",
+            "choices": [
+                "conserve",
+                "constrain",
+                "constitution",
+                "defect",
+                "consumption"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": inclined to criticize severely and unfavorably",
+            "choices": [
+                "deficiency",
+                "crystal",
+                "consciousness",
+                "critically",
+                "crude"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a change that makes something right, true, accurate, etc.",
+            "choices": [
+                "cyclic",
+                "curriculum",
+                "deficiency",
+                "correction",
+                "consciousness"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to examine critically : review",
+            "choices": [
+                "critique",
+                "criteria",
+                "conserve",
+                "continuity",
+                "degrade"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": epitome",
+            "choices": [
+                "consciousness",
+                "consensus",
+                "degrade",
+                "continent",
+                "cord"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": council, conference",
+            "choices": [
+                "consultation",
+                "damp",
+                "corruption",
+                "cord",
+                "cortex"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the physical makeup of the individual especially with respect to the health, strength, and appearance of the body",
+            "choices": [
+                "cue",
+                "constitution",
+                "coordinate",
+                "decay",
+                "definite"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to give a cue to : prompt",
+            "choices": [
+                "continuity",
+                "criteria",
+                "correctly",
+                "cue",
+                "coordination"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a process or method of curing",
+            "choices": [
+                "cure",
+                "conserve",
+                "convergence",
+                "defect",
+                "degrade"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": one that demonstrates:",
+            "choices": [
+                "correctly",
+                "deficiency",
+                "demonstrator",
+                "container",
+                "curriculum"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": coronary thrombosis",
+            "choices": [
+                "congruent",
+                "consensus",
+                "decay",
+                "connotation",
+                "coronary"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the state or property of being convergent",
+            "choices": [
+                "controversy",
+                "deficiency",
+                "constrain",
+                "convergence",
+                "continent"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the process of organizing people or groups so that they work together properly and well",
+            "choices": [
+                "defect",
+                "connotation",
+                "coordination",
+                "constrain",
+                "cord"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the courses offered by an educational institution",
+            "choices": [
+                "converge",
+                "cylinder",
+                "curriculum",
+                "contour",
+                "correction"
+            ]
+        }
+    ],
+    "quiz_id": "234"
+}

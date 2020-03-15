@@ -1,0 +1,63 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "n. 行为主义",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "h",
+                "i",
+                "i",
+                "m",
+                "o",
+                "r",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 本质的，固有的",
+            "choices": [
+                "c",
+                "i",
+                "i",
+                "i",
+                "n",
+                "n",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 膏药; n. 石膏; vt. 使平服",
+            "choices": [
+                "a",
+                "e",
+                "l",
+                "p",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 砖形物; adj. 用砖做的; adj. 似砖的",
+            "choices": [
+                "b",
+                "c",
+                "i",
+                "k",
+                "r"
+            ]
+        }
+    ],
+    "quiz_id": "153"
+}

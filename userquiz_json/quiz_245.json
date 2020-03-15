@@ -1,0 +1,95 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 演奏出; vi. 讲述; vi. 谈论",
+            "choices": [
+                "diverse",
+                "denominator",
+                "discourse",
+                "dissolve",
+                "elaborate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 干扰; n. 骚乱; n. 忧虑",
+            "choices": [
+                "dissection",
+                "diverse",
+                "disturbance",
+                "denominator",
+                "discourse"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 解剖体; n. 解剖，切开; n. 详细查究",
+            "choices": [
+                "elaborate",
+                "displacement",
+                "diverse",
+                "denominator",
+                "dissection"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 取代，位移; n. [船] 排水量",
+            "choices": [
+                "dissection",
+                "elaborate",
+                "discourse",
+                "displacement",
+                "disturbance"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 变化多的; adj. 多种多样的; adj. 不同的",
+            "choices": [
+                "elaborate",
+                "denominator",
+                "displacement",
+                "diverse",
+                "dissection"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 共同特征或共同性质; n. [数] 分母; n. 平均水平或标准",
+            "choices": [
+                "discourse",
+                "displacement",
+                "diverse",
+                "denominator",
+                "dissolve"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 精心制作的; vi. 变复杂; vi. 详细描述",
+            "choices": [
+                "discourse",
+                "dissolve",
+                "elaborate",
+                "dissection",
+                "denominator"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 溶解; vi. 解散; n. 画面的溶暗",
+            "choices": [
+                "dissection",
+                "disturbance",
+                "denominator",
+                "dissolve",
+                "displacement"
+            ]
+        }
+    ],
+    "quiz_id": "245"
+}

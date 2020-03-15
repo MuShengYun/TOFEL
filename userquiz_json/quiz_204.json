@@ -1,0 +1,320 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "agriculture",
+            "choices": [
+                "n. 农艺，农学",
+                "vt. 肯定",
+                "adj. 发音清晰的",
+                "n. 箭状物",
+                "n. 农耕",
+                "n. 农业生产",
+                "n. 农业",
+                "adj. 未成熟的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "allocate",
+            "choices": [
+                "n. [免疫] 抗体",
+                "vi. 分配",
+                "vt. 使坐落于",
+                "vt. 拨出",
+                "vt. 分配",
+                "n. (阿拉伯)安提",
+                "n. 代数学",
+                "vi. 指定"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "accumulate",
+            "choices": [
+                "n. 类推",
+                "vi. 积聚",
+                "adj. 未成熟的",
+                "n. 鼓掌欢迎",
+                "vi. 累积",
+                "vt. 积攒",
+                "adj. 有美感的",
+                "n. [数] 精确度，准确性"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "activate",
+            "choices": [
+                "vt. 使活动",
+                "vi. 有活力",
+                "vt. 使活泼",
+                "vt. 刺激",
+                "vt. 使产生放射性",
+                "prep. 在…之中",
+                "adj. 有美感的",
+                "vi. 激活"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "arrow",
+            "choices": [
+                "n. (英)阿罗",
+                "n. 鼓掌欢迎",
+                "vt. 以箭头指示",
+                "n. 箭状物",
+                "vi. 清楚地讲话",
+                "n. 箭头记号",
+                "vt. 箭一般地飞向",
+                "n. 箭，箭头"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 欢呼，喝采; n. 鼓掌欢迎",
+            "choices": [
+                "articulate",
+                "accelerate",
+                "archaeology",
+                "applause",
+                "alliance"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有关节的; vi. 清楚地讲话; adj. 发音清晰的",
+            "choices": [
+                "aesthetic",
+                "articulate",
+                "artificial",
+                "adolescent",
+                "airplane"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 抗生素，抗菌素; adj. 抗生的; adj. 抗菌的",
+            "choices": [
+                "ancestor",
+                "aerosol",
+                "affirm",
+                "antibiotic",
+                "accumulate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. (英)阿罗; n. 箭头记号; n. 箭，箭头",
+            "choices": [
+                "adolescent",
+                "antiquity",
+                "arrow",
+                "accumulate",
+                "abdominal"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 人工制品; n. 手工艺品",
+            "choices": [
+                "adolescent",
+                "acid",
+                "absorb",
+                "artifact",
+                "alliance"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a bluish silver-white light malleable ductile trivalent metallic element that has good electrical and thermal conductivity, high reflectivity, and resistance to oxidation and is the most abundant metal in the earth's crust where it always occurs in combination — see Chemical Elements Table",
+            "choices": [
+                "altitude",
+                "acute",
+                "arbitrary",
+                "aluminum",
+                "anthropology"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": considered as a whole : collectively",
+            "choices": [
+                "artificial",
+                "abdominal",
+                "agriculture",
+                "accelerate",
+                "aggregate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": special concern or attention : emphasis",
+            "choices": [
+                "anti",
+                "affirm",
+                "activate",
+                "accent",
+                "acute"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": vertical distance or extent",
+            "choices": [
+                "antiquity",
+                "altitude",
+                "applause",
+                "aerosol",
+                "adverse"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the science, art, or practice of cultivating the soil, producing crops, and raising livestock and in varying degrees the preparation and marketing of the resulting products",
+            "choices": [
+                "agriculture",
+                "accent",
+                "activate",
+                "ancestor",
+                "adaptation"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 联盟，联合; n. 联姻",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "e",
+                "i",
+                "l",
+                "l",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 反对者，反对论者; n. (阿拉伯)安提; n. (意)安蒂",
+            "choices": [
+                "a",
+                "i",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 艺术的; adj. 风雅的; adj. 有美感的",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "i",
+                "r",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 抗菌的; adj. 抗生的; n. 抗生素，抗菌素",
+            "choices": [
+                "a",
+                "b",
+                "c",
+                "i",
+                "i",
+                "i",
+                "n",
+                "o",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 飞机",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "i",
+                "l",
+                "n",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Don't worry, it doesn't matter that they're called methods, it's a historical ______.",
+            "choices": [
+                "adverse",
+                "artifact",
+                "aesthetic",
+                "accent",
+                "absorb"
+            ],
+            "chn": "别担心，被称为方法没什么关系,这只是一个历史古董。(计算机科学及编程导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And in fact, Skinner explicitly made the ______ from the natural selection of species to the natural selection of behavior.",
+            "choices": [
+                "adverse",
+                "anthropology",
+                "applause",
+                "analogy",
+                "acid"
+            ],
+            "chn": "实际上，斯金纳也确实明确地,对物种的自然选择,同行为的自然选择进行过类比。(心理学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "and hit balls as well from the back of elephants, ______ other things.",
+            "choices": [
+                "adolescent",
+                "arrow",
+                "arbitrary",
+                "amongst",
+                "ancestor"
+            ],
+            "chn": "是从象背上去击球，除此之外都是一样的。(SpeakingMax英语口语达人 : 知道马球吗？)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The International Society of ______ Plastic Surgery says liposuction is the most popular form of cosmetic surgery worldwide.",
+            "choices": [
+                "amplitude",
+                "approximate",
+                "architect",
+                "aluminum",
+                "aesthetic"
+            ],
+            "chn": "(VOA : special.2011.07.05)"
+        },
+        {
+            "cate": "choice",
+            "problem": "I expect a robust agreement at Copenhagen summit meeting that will be effective immediately and include specific recommendations on mitigation,______, finance and technology.",
+            "choices": [
+                "allocate",
+                "abdominal",
+                "acute",
+                "adaptation",
+                "amplitude"
+            ],
+            "chn": "(VOA : standard.2009.12.09)"
+        }
+    ],
+    "quiz_id": "204"
+}

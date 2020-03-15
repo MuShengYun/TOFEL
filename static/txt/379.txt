@@ -1,0 +1,117 @@
+One professor is building tools to detect faked videos of major political figures such as Donald Trump, Theresa May and Justin Trudeau, as well as the US presidential candidates. It could help fight off the next generation of misinformation, where artificial intelligence is likely to play an increasingly prominent role in engineering deceptive media.
+
+Deepfakes — a combination of the terms "deep learning" and "fake" —  are persuasive-looking but false video and audio files. Made using cutting-edge and relatively accessible AI technology, they purport to show a real person doing or saying something they did not.
+
+They've already been used to embarrass celebrities and politicians, and the videos are easier and cheaper than ever to produce — and look increasingly realistic. The seemingly endless real footage of politicians speaking on YouTube, including US presidential candidates, is a gold mine for anyone considering using this type of AI for election meddling.
+
+Deepfakes are not yet pervasive, but the US government is concerned that foreign adversaries could use them in attempts to interfere with the 2020 election. In a worldwide threat assessment in January, Dan Coats, US Director of National Intelligence, warned that deepfakes or similar tech-driven fake media will probably be among the tactics used by people who want to disrupt the election. On Thursday, the House Intelligence Committee will hold its first hearing on the potential threats posed by deepfake technology. 
+
+Telling the real from the deepfaked
+
+In hopes of stopping deepfake-related misinformation from circulating, Hany Farid, a professor and image-forensics expert at Dartmouth College, is building software that can spot political deepfakes, and perhaps authenticate genuine videos called out as fakes as well.
+
+With this new breed of falsified videos, it's more difficult than ever to trust that what we see is real. Farid told CNN Business he is concerned that such videos could cause harm to citizens or democracies.
+
+"The stakes have gotten really high all of a sudden," he said.
+
+Farid and a graduate student, Shruti Agarwal, are building what they call a "soft biometric" — a way to distinguish one person from a fake version of themselves.
+
+The researchers are figuring this out by using automated tools to pore over hours of authentic YouTube videos of people like President Trump and former President Barack Obama, looking for relationships between head movements, speech patterns, and facial expressions.
+
+For instance, Farid said, when Obama delivers bad news, he frowns and tends to tilt his head down; he tends to tilt his head up when giving happy news.
+
+These correlations are used to build a model for an individual — such as Obama — so that when a new video is spotted the model can be used to determine if the Obama pictured in it has the speech patterns, head movements, and facial expressions that correspond to the former president.
+
+Farid points out that in a deepfake, such as this one that features actor and comedian Jordan Peele putting words in Obama's mouth, the former president's head and eyes are moving relative to what he was saying in one video. His mouth, meanwhile, is moving relative to what Peele is having him say.
+
+"It's not obvious to you and me," Farid said. "Maybe it's obvious to Michelle Obama."
+
+Farid has also begun building the same system for 2020 Democratic presidential primary candidates, including Joe Biden, Elizabeth Warren, and Bernie Sanders.
+
+To test the detection system, Farid is using deepfakes created by researchers at the University of Southern California. The researchers created the fakes of some of the major candidates by mapping the candidates' real faces on the Saturday Night Live cast members who play them on the show. The result: rather jarring videos of Alec Baldwin's facial expressions controlling Trump's face, Kate McKinnon's portrayal of Elizabeth Warren got the same treatment.
+
+Farid told CNN Business that he hopes to roll his detection tools out to journalists in December, via a website where they can check the authenticity of a video. 
+
+"If you're a reporter and you see a video, surely before you report on it you should have a mechanism to vet it," he said. 
+
+The fight to stay one step ahead 
+
+Farid has been studying image forensics since the late 1990s, back when digital cameras were in their infancy and film still reigned supreme. He's long been concerned about digital photo hoaxes, especially since cellphone cameras became common in the mid-2000s.
+
+Until recently, video hoaxes were relatively rare since they are harder to pull off, but this is changing rapidly thanks to the rise of an AI technique called GANs, or generative adversarial networks. GANs can use data (such as pictures of human faces) to produce new things (such as impressively realistic images of ersatz human faces). The technique is also used for making deepfakes. 
+
+Farid won't say exactly how his software will work, because he knows any information he reveals could be used to engineer even better deepfakes. However, it's likely that motivated deepfake makers will eventually find their way around what he's building anyway. 
+
+Siwei Lyu, director of the computer vision and machine learning lab at University at Albany, SUNY, said his research group is helping Farid by generating and sharing deepfakes — including some of Obama — with him for his project.
+
+Lyu, who was advised by Farid while completing his graduate studies at Dartmouth, has seen firsthand how quickly people making deepfake videos can improve them to remove telltale cues that they aren't the real deal. Last year, he developed a way to spot deepfake videos by tracking inconsistencies in the way the person in the video blinked; less than a month later, someone generated a deepfake with realistic blinking, he said.
+
+Yet while he thinks Farid's approach is unique and could be useful for spotting deepfakes of celebrities including politicians — of whom there is ample online footage — he's concerned about whether it can be generalized to help a larger group of people.
+
+As of April, Farid said that his tool is 95% accurate in identifying deepfake videos of famous people it's been trained on. It can confirm about 95% of genuine videos as the real deal. He thinks he can get to 99% accuracy within the next six months, which would be just in time for a handful of primary debates.
+
+For all the fuss, some say the threat of deepfakes is being blown out of proportion, pointing out that deepfake video is not pervasive and has yet to cause the chaos some have predicted.
+
+But Farid pointed out with the current disinformation landscape and the active foreign disinformation campaigns targeting the US, coupled with a polarized electorate, it doesn't take a wild stretch of the imagination to picture deepfakes being used.
+
+Sam Gregory, program director at WITNESS, a nonprofit that works with human rights defenders, says it's better to be proactive, than reactive. "It's clear," he said, "seeing the response to previous misinformation and disinformation threats globally that we need to prepare better for this threat, rather than have the reactive, US-centric responses from platforms that took place after the 2016 elections. Even if the threat is less than anticipated - which would be good -- it's better to prepare than react."
+
+Farid noted that it only took a team of four at University of Southern California, a graduate student, two post doctorates, and a professor, to create the SNL fakes. "So can a nation state that is highly motivated to do this do it? Absolutely. This technology is in the ether," he said.
+
+A version of this story was originally published on April 26. 
+
+Telling the real from the deepfaked
+
+In hopes of stopping deepfake-related misinformation from circulating, Hany Farid, a professor and image-forensics expert at Dartmouth College, is building software that can spot political deepfakes, and perhaps authenticate genuine videos called out as fakes as well.
+
+With this new breed of falsified videos, it's more difficult than ever to trust that what we see is real. Farid told CNN Business he is concerned that such videos could cause harm to citizens or democracies.
+
+"The stakes have gotten really high all of a sudden," he said.
+
+Farid and a graduate student, Shruti Agarwal, are building what they call a "soft biometric" — a way to distinguish one person from a fake version of themselves.
+
+The researchers are figuring this out by using automated tools to pore over hours of authentic YouTube videos of people like President Trump and former President Barack Obama, looking for relationships between head movements, speech patterns, and facial expressions.
+
+For instance, Farid said, when Obama delivers bad news, he frowns and tends to tilt his head down; he tends to tilt his head up when giving happy news.
+
+These correlations are used to build a model for an individual — such as Obama — so that when a new video is spotted the model can be used to determine if the Obama pictured in it has the speech patterns, head movements, and facial expressions that correspond to the former president.
+
+Farid points out that in a deepfake, such as this one that features actor and comedian Jordan Peele putting words in Obama's mouth, the former president's head and eyes are moving relative to what he was saying in one video. His mouth, meanwhile, is moving relative to what Peele is having him say.
+
+"It's not obvious to you and me," Farid said. "Maybe it's obvious to Michelle Obama."
+
+Farid has also begun building the same system for 2020 Democratic presidential primary candidates, including Joe Biden, Elizabeth Warren, and Bernie Sanders.
+
+To test the detection system, Farid is using deepfakes created by researchers at the University of Southern California. The researchers created the fakes of some of the major candidates by mapping the candidates' real faces on the Saturday Night Live cast members who play them on the show. The result: rather jarring videos of Alec Baldwin's facial expressions controlling Trump's face, Kate McKinnon's portrayal of Elizabeth Warren got the same treatment.
+
+Farid told CNN Business that he hopes to roll his detection tools out to journalists in December, via a website where they can check the authenticity of a video. 
+
+"If you're a reporter and you see a video, surely before you report on it you should have a mechanism to vet it," he said. 
+
+The fight to stay one step ahead 
+
+Farid has been studying image forensics since the late 1990s, back when digital cameras were in their infancy and film still reigned supreme. He's long been concerned about digital photo hoaxes, especially since cellphone cameras became common in the mid-2000s.
+
+Until recently, video hoaxes were relatively rare since they are harder to pull off, but this is changing rapidly thanks to the rise of an AI technique called GANs, or generative adversarial networks. GANs can use data (such as pictures of human faces) to produce new things (such as impressively realistic images of ersatz human faces). The technique is also used for making deepfakes. 
+
+Farid won't say exactly how his software will work, because he knows any information he reveals could be used to engineer even better deepfakes. However, it's likely that motivated deepfake makers will eventually find their way around what he's building anyway. 
+
+Siwei Lyu, director of the computer vision and machine learning lab at University at Albany, SUNY, said his research group is helping Farid by generating and sharing deepfakes — including some of Obama — with him for his project.
+
+Lyu, who was advised by Farid while completing his graduate studies at Dartmouth, has seen firsthand how quickly people making deepfake videos can improve them to remove telltale cues that they aren't the real deal. Last year, he developed a way to spot deepfake videos by tracking inconsistencies in the way the person in the video blinked; less than a month later, someone generated a deepfake with realistic blinking, he said.
+
+Yet while he thinks Farid's approach is unique and could be useful for spotting deepfakes of celebrities including politicians — of whom there is ample online footage — he's concerned about whether it can be generalized to help a larger group of people.
+
+As of April, Farid said that his tool is 95% accurate in identifying deepfake videos of famous people it's been trained on. It can confirm about 95% of genuine videos as the real deal. He thinks he can get to 99% accuracy within the next six months, which would be just in time for a handful of primary debates.
+
+For all the fuss, some say the threat of deepfakes is being blown out of proportion, pointing out that deepfake video is not pervasive and has yet to cause the chaos some have predicted.
+
+But Farid pointed out with the current disinformation landscape and the active foreign disinformation campaigns targeting the US, coupled with a polarized electorate, it doesn't take a wild stretch of the imagination to picture deepfakes being used.
+
+Sam Gregory, program director at WITNESS, a nonprofit that works with human rights defenders, says it's better to be proactive, than reactive. "It's clear," he said, "seeing the response to previous misinformation and disinformation threats globally that we need to prepare better for this threat, rather than have the reactive, US-centric responses from platforms that took place after the 2016 elections. Even if the threat is less than anticipated - which would be good -- it's better to prepare than react."
+
+Farid noted that it only took a team of four at University of Southern California, a graduate student, two post doctorates, and a professor, to create the SNL fakes. "So can a nation state that is highly motivated to do this do it? Absolutely. This technology is in the ether," he said.
+
+A version of this story was originally published on April 26. 
+
+

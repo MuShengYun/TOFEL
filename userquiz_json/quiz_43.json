@@ -1,0 +1,258 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "biodiversity",
+            "choices": [
+                "n. 便宜货",
+                "n. 生物多样性",
+                "adv. 直接地",
+                "n. 插图",
+                "n. 生物学",
+                "n. [微] 细菌",
+                "vt. 把…归入同一类",
+                "n. 桶，水桶"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "carrier",
+            "choices": [
+                "n. 带菌者",
+                "n. 描述",
+                "n. 运送者",
+                "vt. 发送",
+                "n. 货架",
+                "n. [化学] 载体",
+                "adj. 原子的，原子能的",
+                "vi. 欺骗"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bundle",
+            "choices": [
+                "vt. 捆",
+                "vi. 匆忙离开",
+                "vi. 发出气泡声",
+                "n. 拍卖",
+                "n. 捆",
+                "adv. 明显地",
+                "n. 束",
+                "n. [微] 细菌"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "basin",
+            "choices": [
+                "n. （一个地区全部的）生物",
+                "n. 流域",
+                "adv. 露骨地",
+                "n. 水池",
+                "n. 盆",
+                "n. 盆地",
+                "adj. 声音的",
+                "adv. 相反地"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bang",
+            "choices": [
+                "vt. 发巨响",
+                "vt. 重击",
+                "n. 突然巨响",
+                "n. 拍卖",
+                "adv. 直接地",
+                "n. 重击",
+                "adv. 砰然地",
+                "n. 刘海"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 毛细管; adj. 毛细管的; adj. 毛状的",
+            "choices": [
+                "axiom",
+                "bleed",
+                "carrier",
+                "campus",
+                "capillary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 奇异的（指态度，容貌，款式等）",
+            "choices": [
+                "artwork",
+                "bizarre",
+                "calculation",
+                "basin",
+                "capitalist"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 一桶的量; v. 倾盆而下; n. 铲斗",
+            "choices": [
+                "blank",
+                "bucket",
+                "barrel",
+                "breakdown",
+                "assignment"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 快速移动; vt. 把……装入桶内; n. 桶",
+            "choices": [
+                "behavioral",
+                "backward",
+                "artwork",
+                "barrel",
+                "bodily"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 应试者; n. 候选人，候补者",
+            "choices": [
+                "calculus",
+                "candidate",
+                "cheer",
+                "censor",
+                "breakdown"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 直接地; vt. 发巨响; adv. 砰然地",
+            "choices": [
+                "a",
+                "b",
+                "g",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 体格健壮的; adj. 运动的，运动员的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "h",
+                "i",
+                "l",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 运送者; n. [化学] 载体; n. 货架",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "r",
+                "r",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 豆子; n. 只选某党全部候选人的投票; n. 子弹",
+            "choices": [
+                "b",
+                "e",
+                "l",
+                "l",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 信件检查员; n. 检查员; n. [心理] 潜意识压抑力",
+            "choices": [
+                "c",
+                "e",
+                "n",
+                "o",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "It's a definition. It's an ______.",
+            "choices": [
+                "cattle",
+                "bound",
+                "capillary",
+                "bonus",
+                "axiom"
+            ],
+            "chn": "是一个定义，是一个原理。(计算机科学及编程导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "They ______ everyone,even the devil.",
+            "choices": [
+                "autonomy",
+                "basin",
+                "cheat",
+                "assignment",
+                "availability"
+            ],
+            "chn": "(VOA : special.2010.01.10)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Differences between budgets, equipment and the ______ of skilled workers have created uneven quality from lab to lab.",
+            "choices": [
+                "availability",
+                "axiom",
+                "atomic",
+                "backward",
+                "cheat"
+            ],
+            "chn": "(VOA : special.2009.10.03)"
+        },
+        {
+            "cate": "choice",
+            "problem": "There is a plurality of solutions that conform to the ______ary conditions, which is that the system must be ______.",
+            "choices": [
+                "calculator",
+                "capillary",
+                "calcium",
+                "bound",
+                "bracket"
+            ],
+            "chn": "这有许多解决方式,来遵守这个有界条件，那个系统必须是有界的。(固态化学导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "He saw outsider ______ as being free from the worries of competition and social acceptance that define the official art world.",
+            "choices": [
+                "capitalist",
+                "atom",
+                "cheat",
+                "bullet",
+                "artwork"
+            ],
+            "chn": "(VOA : special.2010.04.14)"
+        }
+    ],
+    "quiz_id": "43"
+}

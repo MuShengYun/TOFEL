@@ -1,0 +1,285 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "conference",
+            "choices": [
+                "n. 联盟",
+                "vi. 举行或参加（系列）会议",
+                "n. 氯化物",
+                "n. （正式）讨论会",
+                "n. 会议",
+                "n. 协商",
+                "n. [工会、工党用语]（每年的）大会",
+                "n. 讨论"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conception",
+            "choices": [
+                "adj. 明了的",
+                "n. 化学",
+                "adj. 殖民地的，殖民的",
+                "n. 设想",
+                "n. 开始",
+                "adv. 普通地",
+                "n. 概念",
+                "n. 怀孕"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "confound",
+            "choices": [
+                "vi. 顺从，遵从",
+                "n. 文化",
+                "vt. 讨厌",
+                "vt. 使混淆",
+                "n. 诊所",
+                "vt. 挫败",
+                "vt. 使混乱",
+                "n. [临床] 化学疗法"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "colony",
+            "choices": [
+                "n. 分类",
+                "n. 余角",
+                "n. 权限",
+                "n. 种群",
+                "n. 殖民地",
+                "n. 移民队",
+                "n. 动物栖息地",
+                "n. 理解"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "comparable",
+            "choices": [
+                "adj. 慢性的",
+                "n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+                "n. 关闭",
+                "adj. 比得上的",
+                "n. 估计，计算",
+                "adj. 长期的",
+                "n. 诊所",
+                "adj. 可比较的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 合成物; adj. 菊科的; n. 菊科",
+            "choices": [
+                "circulation",
+                "circulate",
+                "conditional",
+                "cinema",
+                "composite"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 氯化物",
+            "choices": [
+                "compact",
+                "chloride",
+                "cone",
+                "coherent",
+                "conference"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 认知的，认识的",
+            "choices": [
+                "confound",
+                "conceptual",
+                "communicative",
+                "cognitive",
+                "civilization"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 共同的; n. 集团; adj. 集体的",
+            "choices": [
+                "comparable",
+                "collective",
+                "circulation",
+                "clinic",
+                "comparative"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 权限; n. 作证能力; n. 能力，胜任",
+            "choices": [
+                "commodity",
+                "clay",
+                "competence",
+                "clarify",
+                "comparable"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 交际的; adj. 无隐讳交谈的; adj. 爱说话的，健谈的",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "i",
+                "i",
+                "m",
+                "m",
+                "n",
+                "o",
+                "t",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 比得上的; adj. 可比较的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "c",
+                "e",
+                "l",
+                "m",
+                "o",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 抵消; vt. 补偿，赔偿; vi. 补偿，赔偿",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "e",
+                "m",
+                "n",
+                "o",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 分类; n. 类别，等级",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "c",
+                "f",
+                "i",
+                "i",
+                "i",
+                "l",
+                "n",
+                "o",
+                "s",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 率; n. 协同因素; adj. 共同作用的",
+            "choices": [
+                "c",
+                "c",
+                "e",
+                "e",
+                "f",
+                "f",
+                "i",
+                "i",
+                "n",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "The Cleveland ______ says the cause of cluster headaches is in a brain area known as a trigeminal-autonomic reflex pathway.",
+            "choices": [
+                "circulate",
+                "colony",
+                "coefficient",
+                "clinic",
+                "cognitive"
+            ],
+            "chn": "(VOA : special.2010.03.30)"
+        },
+        {
+            "cate": "choice",
+            "problem": "What I want to do is get you to appreciate the unique perspective that you will get from studying solid-state ______.",
+            "choices": [
+                "comparable",
+                "conduction",
+                "commentary",
+                "chemistry",
+                "collective"
+            ],
+            "chn": "我要做的是，让你们,欣赏领会到它独特的远景,在学习固体化学的过程中。(固态化学导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So let's think about how we can ______ single and double and triple bonds, which is what we're really used to dealing with in terms of these sigma bonds and these pi bonds.",
+            "choices": [
+                "collective",
+                "comparable",
+                "colony",
+                "circa",
+                "classify"
+            ],
+            "chn": "让我们想想怎么来分类单键双键,和三键，这在我们在考虑sigma键,和π键是很有用的。(化学原理课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Also, we need to know how much individual stocks are correlated with rm; we measure that by the regression ______.",
+            "choices": [
+                "chromosome",
+                "composer",
+                "coefficient",
+                "collective",
+                "classification"
+            ],
+            "chn": "我们必须清楚,有多少个股与市场总体收益率相关;,我们用回归系数，即β系数来表示。(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So, more data to come, so this is a ______ some of you might have seen in section already.",
+            "choices": [
+                "conception",
+                "chromosome",
+                "cognitive",
+                "clip",
+                "communicative"
+            ],
+            "chn": "随着更多数据的出现，就会形成一个标签,有些人可能已在相应章节中看到过了。(计算机科学课程节选 : 哈佛公开课)"
+        }
+    ],
+    "quiz_id": "31"
+}

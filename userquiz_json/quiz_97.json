@@ -1,0 +1,265 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "cerebral",
+            "choices": [
+                "adj. 违反直觉的",
+                "adj. 直觉的",
+                "n. 先驱，前导",
+                "adj. 大脑的，脑的",
+                "adj. 违反直觉的",
+                "vt. 列出",
+                "n. 先驱，前导",
+                "adj. 稳定的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ornate",
+            "choices": [
+                "vt. 置换",
+                "adj. （文体）绚丽的",
+                "adj. 装饰的",
+                "n. 先驱，前导",
+                "adj. 不平衡的，倾向一方的",
+                "n. [数][物] 梯度",
+                "adj. 华丽的",
+                "vt. 不再重视，不再强调"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "uncanny",
+            "choices": [
+                "adj. 神秘的",
+                "adj. 做不到的",
+                "adj. 大脑的，脑的",
+                "adj. 可怕的",
+                "adj. 华丽的",
+                "adj. 庄严的，严肃的",
+                "adj. 有理解力的",
+                "adj. 离奇的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "homogeneous",
+            "choices": [
+                "n. 乖离率",
+                "adj. [数] 齐次的",
+                "n. 流放，充军",
+                "adj. 震耳欲聋的",
+                "adj. 均匀的",
+                "n. 符合",
+                "adj. 同种的",
+                "adj. 同类的，同质的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "list",
+            "choices": [
+                "vt. 列出",
+                "n. 清单",
+                "vt. 记入名单内",
+                "vt. 蕴含",
+                "n. 目录",
+                "vi. 列于表上",
+                "adj. 大脑的，脑的",
+                "n. [计] 列表"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 严惩; vt. 惩罚; vt. 责骂",
+            "choices": [
+                "displace",
+                "entail",
+                "chastise",
+                "comprehensive",
+                "settlement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 先驱，前导",
+            "choices": [
+                "accord",
+                "uncanny",
+                "formulaic",
+                "precursor",
+                "cerebral"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 不再重视，不再强调",
+            "choices": [
+                "gradient",
+                "solemn",
+                "de-emphasize",
+                "omnipresent",
+                "exile"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 胜算; n. 不平等; n. 几率",
+            "choices": [
+                "comprehensive",
+                "evasive",
+                "odds",
+                "intuitive",
+                "instrumental"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 综合的; n. 综合学校; adj. 有理解力的",
+            "choices": [
+                "indiscriminate",
+                "comprehensive",
+                "preventive",
+                "omnipresent",
+                "gradient"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 先驱，前导",
+            "choices": [
+                "c",
+                "e",
+                "o",
+                "p",
+                "r",
+                "r",
+                "r",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 托辞的; adj. 推托的; adj. 逃避的",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "i",
+                "s",
+                "v",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 使用缩写词; vt. 缩写，使省略; vt. 使简短",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "b",
+                "e",
+                "e",
+                "i",
+                "r",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 承担; n. 继承; vt. 使需要，必需",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "l",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 华丽的; adj. 装饰的; adj. （文体）绚丽的",
+            "choices": [
+                "a",
+                "e",
+                "n",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "The Duke study with child ______ palsy patients is a clinical test.",
+            "choices": [
+                "displace",
+                "cerebral",
+                "explicable",
+                "gradient",
+                "omnipresent"
+            ],
+            "chn": "(VOA : special.2011.02.01)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Rochelle says this account of how property arises would fit what was going on in North America during the time of the European ______.",
+            "choices": [
+                "entail",
+                "settlement",
+                "discriminatory",
+                "spotlight",
+                "odds"
+            ],
+            "chn": "罗谢尔认为，他的关于财产如何产生的观点,是在迎合欧洲人刚来此殖民时,美洲的情况。(公正课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The United States Supreme Court found that the \"extreme facts\" of the case raised the probability of ______ to an unconstitutional level.",
+            "choices": [
+                "omnipresent",
+                "homogeneous",
+                "bias",
+                "lopsided",
+                "preventive"
+            ],
+            "chn": "(VOA : special.2009.06.12)"
+        },
+        {
+            "cate": "choice",
+            "problem": "In that case,your ______ plant might not be so ______.",
+            "choices": [
+                "ornamental",
+                "list",
+                "clamorous",
+                "misguided",
+                "solemn"
+            ],
+            "chn": "(VOA : special.2011.04.19)"
+        },
+        {
+            "cate": "choice",
+            "problem": "- Now, this idea in a way is-- I don't know. Maybe it's a little ______.",
+            "choices": [
+                "evasive",
+                "counterintuitive",
+                "preventive",
+                "unattainable",
+                "ornate"
+            ],
+            "chn": "某种意义上，这个观点-,我不知道，可能有点违反直觉。(心理学导论课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "97"
+}

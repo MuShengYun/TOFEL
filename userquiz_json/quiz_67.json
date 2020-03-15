@@ -1,0 +1,2487 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "offspring",
+            "choices": [
+                "adj. 亲代的，亲本的",
+                "n. 讨厌的人",
+                "n. 后代，子孙",
+                "adj. 局部的",
+                "n. 概观",
+                "n. 产物",
+                "vt. 确定方向",
+                "n. 适应"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "occupation",
+            "choices": [
+                "n. 占有",
+                "n. 遵守者",
+                "n. 职业",
+                "adv. 偏袒地",
+                "n. 自相矛盾的人或事",
+                "n. （Paradox）《杀破狼：贪狼》（一部剧情动作电影）",
+                "n. 占有期",
+                "n. 消遣"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "plantation",
+            "choices": [
+                "adj. 适用于种植园或热带、亚热带国家的",
+                "adj. 亲代的，亲本的",
+                "adv. 部分地",
+                "n. 栽植",
+                "n. 大农场",
+                "n. 标准",
+                "n. 间歇，插曲",
+                "n. 殖民"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "oxygen",
+            "choices": [
+                "n. [化学] 氧气，[化学] 氧",
+                "n. [物] 质点",
+                "n. 圆括号",
+                "n. 适应",
+                "adj. 异常的",
+                "n. 复数",
+                "n. 害虫",
+                "adv. 部分地"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "phonological",
+            "choices": [
+                "adv. 身体上，身体上地",
+                "n. 隔离物",
+                "adj. 最适宜的",
+                "n. 哲学家",
+                "vt. 获得",
+                "adj. 生理学的，生理的",
+                "vi. 获得",
+                "adj. 音韵学的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "philosopher",
+            "choices": [
+                "n. 包裹，小包",
+                "n. 途径，路径",
+                "n. 复数",
+                "n. 哲学家",
+                "n. 哲人",
+                "n. [化学] 氧气，[化学] 氧",
+                "n. [化学] 氧气，[化学] 氧",
+                "adj. 定期的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "parenthesis",
+            "choices": [
+                "n. 情况介绍",
+                "adj. 生理学的，生理的",
+                "adj. 貌似可信的，花言巧语的",
+                "n. 间歇，插曲",
+                "n. 悖论，反论",
+                "n. 插入语,插入成分",
+                "n. 开始，着手",
+                "n. 圆括号"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "oxidize",
+            "choices": [
+                "adj. 父母亲的，父母的",
+                "vt. 使氧化",
+                "adv. 身体上，身体上地",
+                "vi. 氧化",
+                "vi. 部分的同时发生",
+                "vt. 使生锈",
+                "n. 栽植",
+                "n. 似是而非的论点"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "plug",
+            "choices": [
+                "n. 塞子",
+                "vt. 插入",
+                "vi. 用插头将与电源接通",
+                "n. 插头",
+                "vt. 接插头",
+                "vt. 塞住",
+                "n. 乡下人",
+                "n. 栓"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "organism",
+            "choices": [
+                "adj. 生理学的，生理的",
+                "n. 复数",
+                "n. 悖论，反论",
+                "n. 有机体",
+                "n. 微生物",
+                "n. 销路",
+                "vt. 打包",
+                "n. 生物体"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "physiological",
+            "choices": [
+                "n. 有机体",
+                "n. 开始，着手",
+                "n. 害虫",
+                "n. [化学] 氧气，[化学] 氧",
+                "adj. 生理学的，生理的",
+                "adj. 周期的",
+                "n. 定向",
+                "n. [数] 分割"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "overlap",
+            "choices": [
+                "n. 重复",
+                "vi. 部分重叠",
+                "n. 产物",
+                "vi. 部分的同时发生",
+                "n. 重叠",
+                "n. 间接费用",
+                "vt. 与…重叠",
+                "vt. 与…同时发生"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "onset",
+            "choices": [
+                "n. 发作",
+                "n. 攻击，进攻",
+                "adj. 音韵学的",
+                "adj. 惊人的，非凡的",
+                "adj. 音韵学的",
+                "n. 开始，着手",
+                "n. 电极",
+                "n. 摆动"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "partially",
+            "choices": [
+                "adv. 部分地",
+                "adj. 偏爱的",
+                "n. 大农场",
+                "n. 农民",
+                "vt. 使氧化",
+                "adj. 适用于种植园或热带、亚热带国家的",
+                "vi. 氧化",
+                "adv. 偏袒地"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "philosophical",
+            "choices": [
+                "adj. 哲学的（等于philosophic）",
+                "adj. 远离中心的",
+                "n. 占有期",
+                "n. 农民",
+                "n. 杆",
+                "adj. 冷静的",
+                "vi. 获得",
+                "adj. 逼真的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "outer",
+            "choices": [
+                "adj. 亲代的，亲本的",
+                "n. 环外命中",
+                "n. 计划者，规划师",
+                "n. 事件",
+                "adj. 外面的，外部的",
+                "adj. 远离中心的",
+                "n. 有机体",
+                "n. 有害之物"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "planner",
+            "choices": [
+                "adj. 定期的",
+                "n. 概观",
+                "adj. 次要的",
+                "n. 杀虫剂",
+                "adj. 定期的",
+                "adj. 冷静的",
+                "n. 词形变化表",
+                "n. 计划者，规划师"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "overhead",
+            "choices": [
+                "n. 吊脚架空层",
+                "n. 间接费用",
+                "adv. 在空中",
+                "adj. 在头顶上的",
+                "adv. 在头顶上",
+                "n. [会计] 经常费用",
+                "n. 参量",
+                "adj. 在头上的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "phenomenal",
+            "choices": [
+                "adj. 现象的",
+                "n. 内科医师",
+                "adj. 异常的",
+                "adj. 能知觉的",
+                "adj. 惊人的，非凡的",
+                "adj. 显著的",
+                "n. 物理学",
+                "n. [医] 医师"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "pest",
+            "choices": [
+                "n. 讨厌的人",
+                "adj. 定期的",
+                "n. 害虫",
+                "n. 有害之物",
+                "n. [数] 分割",
+                "n. 最适宜条件",
+                "adj. 前进的",
+                "n. 振荡"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "optical",
+            "choices": [
+                "n. 皮膜化成",
+                "adv. 偏袒地",
+                "adj. 光学的",
+                "adj. 周期的",
+                "adj. 次要的",
+                "adj. 远离中心的",
+                "adv. 部分地",
+                "adj. 眼睛的，视觉的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "pathway",
+            "choices": [
+                "n. 开始，着手",
+                "n. [化学] 氧气，[化学] 氧",
+                "n. 路，道",
+                "n. 途径，路径",
+                "n. 间歇，插曲",
+                "adj. 复数的",
+                "adj. 生理学的，生理的",
+                "adj. 最理想的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "orientation",
+            "choices": [
+                "n. 方向",
+                "adj. 不公平的",
+                "n. 情况介绍",
+                "n. 内科医师",
+                "n. 适应",
+                "adj. 局部的",
+                "n. 吊脚架空层",
+                "n. 定向"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "painful",
+            "choices": [
+                "adj. 令人不快的",
+                "n. 途径，路径",
+                "vt. 分隔",
+                "n. 环外命中",
+                "adj. 痛苦的",
+                "adj. 在头顶上的",
+                "adj. 疼痛的",
+                "adj. 适用于种植园或热带、亚热带国家的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "partial",
+            "choices": [
+                "adj. 不公平的",
+                "n. 插入语,插入成分",
+                "adj. 局部的",
+                "n. 大农场",
+                "n. 颗粒",
+                "n. 概观",
+                "n. 害虫",
+                "adj. 偏爱的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "pole",
+            "choices": [
+                "n. 极点",
+                "n. 杆",
+                "n. [图情] 综述",
+                "adj. 最理想的",
+                "n. 电极",
+                "n. 职业",
+                "vt. 用竿支撑",
+                "n. 原谅"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "periodic",
+            "choices": [
+                "n. 发现",
+                "adj. 周期的",
+                "n. 遵守者",
+                "adj. 定期的",
+                "adj. 眼睛的，视觉的",
+                "n. 隔离物",
+                "n. 占有",
+                "vi. 用插头将与电源接通"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "optimal",
+            "choices": [
+                "adj. 最佳的",
+                "n. 小品词",
+                "adj. 最理想的",
+                "n. 物理学",
+                "adj. 局部的",
+                "adj. 外面的，外部的",
+                "n. 吊脚架空层",
+                "n. [化学] 氧气，[化学] 氧"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "physics",
+            "choices": [
+                "adj. 定期的",
+                "adj. 口头的，口述的",
+                "n. 包裹，小包",
+                "n. 害虫",
+                "adj. 音韵学的",
+                "n. 自相矛盾的人或事",
+                "n. 物理学",
+                "n. 物理现象"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "oscillation",
+            "choices": [
+                "n. 环外命中",
+                "n. 职业",
+                "n. 摆动",
+                "n. 发作",
+                "adj. 父母亲的，父母的",
+                "n. 振动",
+                "adj. 父母亲的，父母的",
+                "n. 振荡"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "paradox",
+            "choices": [
+                "n. 最适宜条件",
+                "adj. 向前的",
+                "n. 哲人",
+                "n. 外部设备",
+                "n. 自相矛盾的人或事",
+                "n. 似是而非的论点",
+                "n. 悖论，反论",
+                "n. （Paradox）《杀破狼：贪狼》（一部剧情动作电影）"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "oral",
+            "choices": [
+                "n. 口试",
+                "n. 生物体",
+                "vt. 使氧化",
+                "n. 器官",
+                "n. 吊脚架空层",
+                "n. 系数",
+                "adj. 口头的，口述的",
+                "n. 计划者，规划师"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "pesticide",
+            "choices": [
+                "adj. 哲学的（等于philosophic）",
+                "n. 词形变化表",
+                "n. 包裹，小包",
+                "adj. 亲代的，亲本的",
+                "n. 最适宜条件",
+                "n. 杀虫剂",
+                "adv. 身体上，身体上地",
+                "n. 参量"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "plausible",
+            "choices": [
+                "n. 皮膜化成",
+                "n. 极小量",
+                "n. 发现",
+                "adj. 票面的",
+                "adj. 貌似可信的，花言巧语的",
+                "n. 物理现象",
+                "adv. 向前",
+                "adj. 貌似真实的，貌似有理的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "physically",
+            "choices": [
+                "adv. 身体上，身体上地",
+                "adj. 父母亲的，父母的",
+                "adj. 口头的，口述的",
+                "n. 讨厌的人",
+                "adv. 部分地",
+                "n. 有害之物",
+                "n. 塞子",
+                "adj. 最佳的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "paradigm",
+            "choices": [
+                "n. 振荡",
+                "adj. 前进的",
+                "adj. 最佳的",
+                "n. 词形变化表",
+                "adj. （神经）末梢区域的",
+                "n. 电极",
+                "n. 似是而非的论点",
+                "n. 范例"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "parental",
+            "choices": [
+                "adj. 亲代的，亲本的",
+                "n. [图情] 综述",
+                "vt. 使氧化",
+                "n. 杀虫剂",
+                "vt. 获得",
+                "adj. 最适宜的",
+                "adj. 哲学的（等于philosophic）",
+                "adj. 父母亲的，父母的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "observer",
+            "choices": [
+                "n. 消遣",
+                "n. [医] 医师",
+                "n. [天] 观测者",
+                "n. 遵守者",
+                "adj. 向前的",
+                "n. 害虫",
+                "n. 观察者",
+                "adj. 前进的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "parcel",
+            "choices": [
+                "n. 杀虫剂",
+                "n. 包裹，小包",
+                "n. 天花板",
+                "vt. 捆扎",
+                "vt. 打包",
+                "adj. 生理学的，生理的",
+                "adj. 周期的",
+                "n. 东方"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "onward",
+            "choices": [
+                "n. 发作",
+                "adj. 前进的",
+                "adv. 身体上，身体上地",
+                "adv. 向前",
+                "n. 重叠",
+                "adj. 向前的",
+                "adv. 在前面",
+                "vt. 使适应"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "occurrence",
+            "choices": [
+                "adj. 复数的",
+                "n. 发现",
+                "n. 事件",
+                "n. [化学] 氧气，[化学] 氧",
+                "n. 发生",
+                "n. 杀虫剂",
+                "vi. 获得",
+                "n. 出现"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "plural",
+            "choices": [
+                "n. 天花板",
+                "n. （Paradox）《杀破狼：贪狼》（一部剧情动作电影）",
+                "adj. 不公平的",
+                "adj. 摄影的",
+                "adj. 东方的",
+                "vt. 使生锈",
+                "n. 复数",
+                "adj. 复数的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "partition",
+            "choices": [
+                "n. 划分，分开",
+                "n. 隔离物",
+                "n. 隔墙",
+                "vt. 区分",
+                "vt. 分隔",
+                "vt. [数] 分割",
+                "n. 皮膜化成",
+                "n. [数] 分割"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "obtain",
+            "choices": [
+                "n. 农民",
+                "adv. 身体上，身体上地",
+                "n. 最适宜条件",
+                "adj. 最理想的",
+                "vi. 流行",
+                "n. [数] 分割",
+                "vi. 获得",
+                "vt. 获得"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "par",
+            "choices": [
+                "adj. 东方的",
+                "n. 票面价值",
+                "adj. 标准的",
+                "n. 平均数量",
+                "adj. 票面的",
+                "n. 标准",
+                "vt. 使生锈",
+                "vi. 获得"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "phosphate",
+            "choices": [
+                "n. 讨厌的人",
+                "adj. 逼真的",
+                "adj. 周期的",
+                "n. 产物",
+                "n. 皮膜化成",
+                "adj. 疼痛的",
+                "n. 磷酸盐",
+                "n. 词形变化表"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "peasant",
+            "choices": [
+                "n. 乡下人",
+                "n. 农民",
+                "vi. 氧化",
+                "vi. 流行",
+                "n. 内科医师",
+                "n. 哲学家",
+                "n. [物] 质点",
+                "adj. 外围的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "organ",
+            "choices": [
+                "n. 风琴",
+                "vt. 打包",
+                "n. 器官",
+                "n. 出现",
+                "n. 机构",
+                "n. 管风琴",
+                "n. 阴茎",
+                "n. 嗓音"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "physician",
+            "choices": [
+                "n. 内科医师",
+                "vi. 氧化",
+                "n. 阴茎",
+                "n. 观察者",
+                "n. 系数",
+                "n. 电极",
+                "n. [医] 医师",
+                "n. 参量"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "orient",
+            "choices": [
+                "vi. 向东",
+                "adj. 东方的",
+                "vt. 打包",
+                "n. 物理现象",
+                "vt. 确定方向",
+                "n. 东方",
+                "n. 东方诸国",
+                "vt. 使适应"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "parameter",
+            "choices": [
+                "n. 参数",
+                "adj. 不公平的",
+                "n. 系数",
+                "adj. 远离中心的",
+                "adv. 身体上，身体上地",
+                "n. 参量",
+                "adj. （尤指记忆）详细准确的",
+                "adj. 口头的，口述的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "overview",
+            "choices": [
+                "n. 词形变化表",
+                "n. 概观",
+                "n. 杆",
+                "adj. 异常的",
+                "vi. 氧化",
+                "n. [图情] 综述",
+                "adj. 眼睛的，视觉的",
+                "adj. 标准的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "peripheral",
+            "choices": [
+                "adj. （神经）末梢区域的",
+                "vi. 向东",
+                "adj. （尤指记忆）详细准确的",
+                "adj. 次要的",
+                "adv. 身体上，身体上地",
+                "adj. 生理学的，生理的",
+                "adj. 外围的",
+                "n. 外部设备"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "optimum",
+            "choices": [
+                "vt. 赦免",
+                "n. 消遣",
+                "n. 最适宜条件",
+                "adj. 摄影的",
+                "adj. 最适宜的",
+                "adv. 身体上，身体上地",
+                "adv. 在前面",
+                "n. 最佳效果"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "particle",
+            "choices": [
+                "adj. 远离中心的",
+                "adj. 眼睛的，视觉的",
+                "adj. 最理想的",
+                "n. 小品词",
+                "n. 机构",
+                "n. 极小量",
+                "n. 颗粒",
+                "n. [物] 质点"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "outlet",
+            "choices": [
+                "n. 计划者，规划师",
+                "n. 批发商店",
+                "n. 农民",
+                "n. 发泄的方法",
+                "n. [电] 电源插座",
+                "vt. 获得",
+                "n. 出口，排放孔",
+                "n. 销路"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "pardon",
+            "choices": [
+                "vt. 原谅",
+                "vt. 赦免",
+                "n. 天花板",
+                "n. 事件",
+                "vt. 宽恕",
+                "n. 原谅",
+                "n. 宽恕",
+                "n. 赦免"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "photographic",
+            "choices": [
+                "adj. 摄影的",
+                "n. 自相矛盾的人或事",
+                "adj. 复数的",
+                "n. 物理学",
+                "adj. 逼真的",
+                "n. [化学] 氧气，[化学] 氧",
+                "adj. 亲代的，亲本的",
+                "adj. （尤指记忆）详细准确的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 口试; adj. 口头的，口述的",
+            "choices": [
+                "partial",
+                "pathway",
+                "plug",
+                "oral",
+                "partition"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 隔离物; n. 划分，分开; vt. 区分",
+            "choices": [
+                "phosphate",
+                "partition",
+                "orientation",
+                "physiological",
+                "pole"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 显著的; adj. 能知觉的; adj. 现象的",
+            "choices": [
+                "overlap",
+                "orient",
+                "phenomenal",
+                "optimal",
+                "parenthesis"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 最适宜条件; adj. 最适宜的; n. 最佳效果",
+            "choices": [
+                "pesticide",
+                "particle",
+                "optimal",
+                "pole",
+                "optimum"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 产物; n. 后代，子孙",
+            "choices": [
+                "overlap",
+                "offspring",
+                "pesticide",
+                "outer",
+                "physics"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [图情] 综述; n. 概观",
+            "choices": [
+                "occupation",
+                "overview",
+                "parental",
+                "phenomenal",
+                "parameter"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 开始，着手; n. 发作; n. 攻击，进攻",
+            "choices": [
+                "onset",
+                "optimal",
+                "physician",
+                "par",
+                "partially"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 生理学的，生理的",
+            "choices": [
+                "periodic",
+                "oral",
+                "physiological",
+                "overlap",
+                "onward"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 复数; adj. 复数的",
+            "choices": [
+                "organism",
+                "plausible",
+                "plural",
+                "phosphate",
+                "optimal"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 插头; n. 栓; vt. 接插头",
+            "choices": [
+                "parental",
+                "occupation",
+                "oscillation",
+                "plug",
+                "outlet"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 偏袒地; adv. 部分地",
+            "choices": [
+                "partially",
+                "offspring",
+                "parental",
+                "outer",
+                "peasant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 物理学; n. 物理现象",
+            "choices": [
+                "physician",
+                "partially",
+                "pardon",
+                "physics",
+                "photographic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 磷酸盐; n. 皮膜化成",
+            "choices": [
+                "phosphate",
+                "planner",
+                "painful",
+                "physically",
+                "phonological"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 局部的; adj. 不公平的; adj. 偏爱的",
+            "choices": [
+                "phenomenal",
+                "partial",
+                "occurrence",
+                "outer",
+                "painful"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 与…同时发生; vi. 部分的同时发生; vi. 部分重叠",
+            "choices": [
+                "plural",
+                "photographic",
+                "parenthesis",
+                "overlap",
+                "onset"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 宽恕; n. 原谅; vt. 赦免",
+            "choices": [
+                "occupation",
+                "pardon",
+                "paradox",
+                "organism",
+                "organ"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 哲学的（等于philosophic）; adj. 冷静的",
+            "choices": [
+                "partially",
+                "pardon",
+                "planner",
+                "observer",
+                "philosophical"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 痛苦的; adj. 疼痛的; adj. 令人不快的",
+            "choices": [
+                "partition",
+                "parenthesis",
+                "pathway",
+                "physician",
+                "painful"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [化学] 氧气，[化学] 氧",
+            "choices": [
+                "parenthesis",
+                "physiological",
+                "paradigm",
+                "plantation",
+                "oxygen"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 定向; n. 适应; n. 方向",
+            "choices": [
+                "peasant",
+                "orientation",
+                "observer",
+                "orient",
+                "occurrence"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 貌似可信的，花言巧语的; adj. 貌似真实的，貌似有理的",
+            "choices": [
+                "orientation",
+                "plausible",
+                "painful",
+                "periodic",
+                "orient"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 插入语,插入成分; n. 圆括号; n. 间歇，插曲",
+            "choices": [
+                "physics",
+                "pathway",
+                "parenthesis",
+                "plantation",
+                "oral"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 眼睛的，视觉的; adj. 光学的",
+            "choices": [
+                "oxygen",
+                "observer",
+                "overview",
+                "optical",
+                "partition"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 获得; vt. 获得; vi. 流行",
+            "choices": [
+                "overview",
+                "painful",
+                "obtain",
+                "paradox",
+                "observer"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 身体上，身体上地",
+            "choices": [
+                "physically",
+                "phonological",
+                "optimal",
+                "physics",
+                "painful"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 哲人; n. 哲学家",
+            "choices": [
+                "philosopher",
+                "philosophical",
+                "peasant",
+                "optimum",
+                "plural"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 东方; adj. 东方的; n. 东方诸国",
+            "choices": [
+                "partition",
+                "partial",
+                "planner",
+                "orient",
+                "oral"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 外围的; adj. 次要的; adj. （神经）末梢区域的",
+            "choices": [
+                "occurrence",
+                "paradox",
+                "pathway",
+                "peripheral",
+                "overview"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 小品词; n. 极小量; n. [物] 质点",
+            "choices": [
+                "oxidize",
+                "partition",
+                "particle",
+                "paradox",
+                "plantation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 自相矛盾的人或事; n. （）《杀破狼：贪狼》（一部剧情动作电影）; n. 似是而非的论点",
+            "choices": [
+                "pole",
+                "parameter",
+                "paradox",
+                "parcel",
+                "painful"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [电] 电源插座; n. 批发商店; n. 销路",
+            "choices": [
+                "partition",
+                "pesticide",
+                "outlet",
+                "organism",
+                "parenthesis"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 摄影的; adj. 逼真的; adj. （尤指记忆）详细准确的",
+            "choices": [
+                "offspring",
+                "physician",
+                "phosphate",
+                "paradigm",
+                "photographic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 计划者，规划师",
+            "choices": [
+                "phonological",
+                "planner",
+                "oscillation",
+                "onward",
+                "outlet"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 杀虫剂",
+            "choices": [
+                "pesticide",
+                "onset",
+                "oxidize",
+                "plural",
+                "par"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 外面的，外部的; adj. 远离中心的; n. 环外命中",
+            "choices": [
+                "outer",
+                "plantation",
+                "overview",
+                "optical",
+                "periodic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 农民; n. 乡下人",
+            "choices": [
+                "pathway",
+                "pest",
+                "peasant",
+                "optical",
+                "peripheral"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 用竿支撑; n. 极点; n. 电极",
+            "choices": [
+                "pole",
+                "parcel",
+                "onset",
+                "overview",
+                "orientation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [天] 观测者; n. 观察者; n. 遵守者",
+            "choices": [
+                "onward",
+                "observer",
+                "pesticide",
+                "occupation",
+                "planner"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 氧化; vt. 使生锈; vt. 使氧化",
+            "choices": [
+                "partition",
+                "oxidize",
+                "optimal",
+                "oxygen",
+                "periodic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 适用于种植园或热带、亚热带国家的; n. 大农场; n. 栽植",
+            "choices": [
+                "philosopher",
+                "physician",
+                "plantation",
+                "paradox",
+                "pardon"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 向前; adj. 向前的; adv. 在前面",
+            "choices": [
+                "onward",
+                "orient",
+                "partially",
+                "oral",
+                "overlap"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 音韵学的",
+            "choices": [
+                "onset",
+                "phonological",
+                "plug",
+                "optimal",
+                "outer"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 振动; n. 摆动; n. 振荡",
+            "choices": [
+                "phonological",
+                "obtain",
+                "par",
+                "optical",
+                "oscillation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 路，道; n. 途径，路径",
+            "choices": [
+                "phonological",
+                "optimum",
+                "pathway",
+                "obtain",
+                "plantation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 最理想的; adj. 最佳的",
+            "choices": [
+                "plug",
+                "optimal",
+                "pathway",
+                "parameter",
+                "partial"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 害虫; n. 讨厌的人; n. 有害之物",
+            "choices": [
+                "occupation",
+                "occurrence",
+                "optimum",
+                "parental",
+                "pest"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 生物体; n. 微生物; n. 有机体",
+            "choices": [
+                "particle",
+                "physically",
+                "partially",
+                "paradigm",
+                "organism"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 占有; n. 占有期; n. 消遣",
+            "choices": [
+                "occupation",
+                "partition",
+                "peripheral",
+                "oxygen",
+                "painful"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 周期的; adj. 定期的",
+            "choices": [
+                "periodic",
+                "parental",
+                "photographic",
+                "physiological",
+                "physician"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 标准的; n. 平均数量; n. 票面价值",
+            "choices": [
+                "overlap",
+                "photographic",
+                "planner",
+                "par",
+                "partition"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 内科医师; n. [医] 医师",
+            "choices": [
+                "overhead",
+                "physician",
+                "pathway",
+                "observer",
+                "optimum"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 阴茎; n. 风琴; n. 机构",
+            "choices": [
+                "oral",
+                "outlet",
+                "organ",
+                "parental",
+                "onset"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 父母亲的，父母的; adj. 亲代的，亲本的",
+            "choices": [
+                "physics",
+                "oxygen",
+                "parental",
+                "philosophical",
+                "plug"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 范例; n. 词形变化表",
+            "choices": [
+                "partition",
+                "paradigm",
+                "physiological",
+                "pole",
+                "pathway"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 参量; n. 参数; n. 系数",
+            "choices": [
+                "pest",
+                "partition",
+                "oxidize",
+                "parameter",
+                "phenomenal"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 包裹，小包; vt. 打包; vt. 捆扎",
+            "choices": [
+                "parameter",
+                "planner",
+                "offspring",
+                "pardon",
+                "parcel"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [会计] 经常费用; adj. 高架的; adj. 在头上的",
+            "choices": [
+                "overhead",
+                "oxidize",
+                "painful",
+                "pest",
+                "orient"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 发现; n. 事件; n. 发生",
+            "choices": [
+                "occurrence",
+                "outer",
+                "observer",
+                "philosophical",
+                "plantation"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [图情] 综述; n. 概观",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "o",
+                "r",
+                "v",
+                "v",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 后代，子孙; n. 产物",
+            "choices": [
+                "f",
+                "f",
+                "g",
+                "i",
+                "n",
+                "o",
+                "p",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 事件; n. 发现; n. 发生",
+            "choices": [
+                "c",
+                "c",
+                "c",
+                "e",
+                "e",
+                "n",
+                "o",
+                "r",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 物理现象; n. 物理学",
+            "choices": [
+                "c",
+                "h",
+                "i",
+                "p",
+                "s",
+                "s",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 微生物; n. 生物体; n. 有机体",
+            "choices": [
+                "a",
+                "g",
+                "i",
+                "m",
+                "n",
+                "o",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 系数; n. 参量; n. 参数",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "e",
+                "m",
+                "p",
+                "r",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 路，道; n. 途径，路径",
+            "choices": [
+                "a",
+                "a",
+                "h",
+                "p",
+                "t",
+                "w",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 部分地; adv. 偏袒地",
+            "choices": [
+                "a",
+                "a",
+                "i",
+                "l",
+                "l",
+                "p",
+                "r",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 哲学的（等于philosophic）; adj. 冷静的",
+            "choices": [
+                "a",
+                "c",
+                "h",
+                "h",
+                "i",
+                "i",
+                "l",
+                "l",
+                "o",
+                "o",
+                "p",
+                "p",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 乡下人; n. 农民",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "n",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 口头的，口述的; n. 口试",
+            "choices": [
+                "a",
+                "l",
+                "o",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 复数; adj. 复数的",
+            "choices": [
+                "a",
+                "l",
+                "l",
+                "p",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 内科医师; n. [医] 医师",
+            "choices": [
+                "a",
+                "c",
+                "h",
+                "i",
+                "i",
+                "n",
+                "p",
+                "s",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 划分，分开; vt. 分隔; vt. 区分",
+            "choices": [
+                "a",
+                "i",
+                "i",
+                "n",
+                "o",
+                "p",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 占有期; n. 职业; n. 占有",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "i",
+                "n",
+                "o",
+                "o",
+                "p",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 流行; vt. 获得; vi. 获得",
+            "choices": [
+                "a",
+                "b",
+                "i",
+                "n",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 音韵学的",
+            "choices": [
+                "a",
+                "c",
+                "g",
+                "h",
+                "i",
+                "l",
+                "l",
+                "n",
+                "o",
+                "o",
+                "o",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 亲代的，亲本的; adj. 父母亲的，父母的",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "l",
+                "n",
+                "p",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 在空中; adj. 在头顶上的; adj. 高架的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "h",
+                "o",
+                "r",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 外面的，外部的; adj. 远离中心的; n. 环外命中",
+            "choices": [
+                "e",
+                "o",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 票面的; n. 票面价值; n. 平均数量",
+            "choices": [
+                "a",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 悖论，反论; n. 自相矛盾的人或事; n. （Paradox）《杀破狼：贪狼》（一部剧情动作电影）",
+            "choices": [
+                "a",
+                "a",
+                "d",
+                "o",
+                "p",
+                "r",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [化学] 氧气，[化学] 氧",
+            "choices": [
+                "e",
+                "g",
+                "n",
+                "o",
+                "x",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 最佳的; adj. 最理想的",
+            "choices": [
+                "a",
+                "i",
+                "l",
+                "m",
+                "o",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 摆动; n. 振荡; n. 振动",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "i",
+                "l",
+                "l",
+                "n",
+                "o",
+                "o",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 皮膜化成; n. 磷酸盐",
+            "choices": [
+                "a",
+                "e",
+                "h",
+                "h",
+                "o",
+                "p",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 原谅; n. 宽恕; n. 赦免",
+            "choices": [
+                "a",
+                "d",
+                "n",
+                "o",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 插入语,插入成分; n. 间歇，插曲; n. 圆括号",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "h",
+                "i",
+                "n",
+                "p",
+                "r",
+                "s",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使适应; vt. 确定方向; vi. 向东",
+            "choices": [
+                "e",
+                "i",
+                "n",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 局部的; adj. 不公平的; adj. 偏爱的",
+            "choices": [
+                "a",
+                "a",
+                "i",
+                "l",
+                "p",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 管风琴; n. 器官; n. 机构",
+            "choices": [
+                "a",
+                "g",
+                "n",
+                "o",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 逼真的; adj. （尤指记忆）详细准确的; adj. 摄影的",
+            "choices": [
+                "a",
+                "c",
+                "g",
+                "h",
+                "h",
+                "i",
+                "o",
+                "o",
+                "p",
+                "p",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 销路; n. [电] 电源插座; n. 出口，排放孔",
+            "choices": [
+                "e",
+                "l",
+                "o",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 害虫; n. 讨厌的人; n. 有害之物",
+            "choices": [
+                "e",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 眼睛的，视觉的; adj. 光学的",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "l",
+                "o",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 周期的; adj. 定期的",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "i",
+                "i",
+                "o",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 重复; vt. 与…同时发生; vi. 部分重叠",
+            "choices": [
+                "a",
+                "e",
+                "l",
+                "o",
+                "p",
+                "r",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 身体上，身体上地",
+            "choices": [
+                "a",
+                "c",
+                "h",
+                "i",
+                "l",
+                "l",
+                "p",
+                "s",
+                "y",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 极点; n. 电极; n. 杆",
+            "choices": [
+                "e",
+                "l",
+                "o",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 现象的; adj. 惊人的，非凡的; adj. 异常的",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "h",
+                "l",
+                "m",
+                "n",
+                "n",
+                "o",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 塞子; vt. 塞住; vi. 塞住",
+            "choices": [
+                "g",
+                "l",
+                "p",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 向前; adv. 在前面; adj. 前进的",
+            "choices": [
+                "a",
+                "d",
+                "n",
+                "o",
+                "r",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 大农场; adj. 适用于种植园或热带、亚热带国家的; n. 栽植",
+            "choices": [
+                "a",
+                "a",
+                "i",
+                "l",
+                "n",
+                "n",
+                "o",
+                "p",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 杀虫剂",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "e",
+                "i",
+                "i",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 哲人; n. 哲学家",
+            "choices": [
+                "e",
+                "h",
+                "h",
+                "i",
+                "l",
+                "o",
+                "o",
+                "p",
+                "p",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 最佳效果; adj. 最适宜的; n. 最适宜条件",
+            "choices": [
+                "i",
+                "m",
+                "m",
+                "o",
+                "p",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 遵守者; n. 观察者; n. [天] 观测者",
+            "choices": [
+                "b",
+                "e",
+                "e",
+                "o",
+                "r",
+                "r",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 小品词; n. 颗粒; n. 极小量",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "l",
+                "p",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使生锈; vt. 使氧化; vi. 氧化",
+            "choices": [
+                "d",
+                "e",
+                "i",
+                "i",
+                "o",
+                "x",
+                "z"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 情况介绍; n. 定向; n. 方向",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "i",
+                "n",
+                "n",
+                "o",
+                "o",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 生理学的，生理的",
+            "choices": [
+                "a",
+                "c",
+                "g",
+                "h",
+                "i",
+                "i",
+                "l",
+                "l",
+                "o",
+                "o",
+                "p",
+                "s",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 貌似真实的，貌似有理的; adj. 貌似可信的，花言巧语的",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "i",
+                "l",
+                "l",
+                "p",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 外部设备; adj. 次要的; adj. （神经）末梢区域的",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "h",
+                "i",
+                "l",
+                "p",
+                "p",
+                "r",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 捆扎; vt. 打包; n. 包裹，小包",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "l",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 范例; n. 词形变化表",
+            "choices": [
+                "a",
+                "a",
+                "d",
+                "g",
+                "i",
+                "m",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 痛苦的; adj. 令人不快的; adj. 疼痛的",
+            "choices": [
+                "a",
+                "f",
+                "i",
+                "l",
+                "n",
+                "p",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 计划者，规划师",
+            "choices": [
+                "a",
+                "e",
+                "l",
+                "n",
+                "n",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 发作; n. 开始，着手; n. 攻击，进攻",
+            "choices": [
+                "e",
+                "n",
+                "o",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "What's the difference between this cell which I call a committed progenitor cell and its ______, and the ______ of that ______.",
+            "choices": [
+                "oscillation",
+                "offspring",
+                "obtain",
+                "parenthesis",
+                "optimal"
+            ],
+            "chn": "我所称的定向祖细胞,和它的子细胞之间,还有它子细胞的子细胞之间有什么区别呢(生物医学工程探索课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "He says the ______ parts of brown rice slow down the work of the body's digestive enzymes into starch.",
+            "choices": [
+                "occupation",
+                "parameter",
+                "peasant",
+                "outer",
+                "plug"
+            ],
+            "chn": "(VOA : special.2010.06.30)"
+        },
+        {
+            "cate": "choice",
+            "problem": "His ______,Dr.Richard Jonas, still gets regular progress reports on EJ and thousands of other patients from a surgical registry.",
+            "choices": [
+                "physician",
+                "philosopher",
+                "phonological",
+                "onset",
+                "occurrence"
+            ],
+            "chn": "(VOA : standard.2010.01.01)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Place the non-bonding pairs on ______ atoms first, which the higher average valence electron energy.",
+            "choices": [
+                "phenomenal",
+                "partially",
+                "periodic",
+                "peripheral",
+                "pardon"
+            ],
+            "chn": "首先将孤对电子放在外围的原子，那儿具有较高的平均价电子能。(固态化学导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And what you'll find is that the maximum work out is ______ for a reversible path.",
+            "choices": [
+                "optical",
+                "parental",
+                "overview",
+                "obtain",
+                "organism"
+            ],
+            "chn": "对于各种可能的中间路径，我们将发现,做功做多的是可逆路径。(热力学与动力学课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Her first book was \"North to the ______\" in nineteen thirty-five.",
+            "choices": [
+                "orient",
+                "offspring",
+                "pardon",
+                "pole",
+                "plural"
+            ],
+            "chn": "(VOA : special.2009.06.28)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Thomas says Enterprise learned to be strong from the Boll Weevil. The ______ taught the town the value of a diverse economy.",
+            "choices": [
+                "pest",
+                "partition",
+                "philosopher",
+                "occupation",
+                "planner"
+            ],
+            "chn": "(VOA : standard.2010.08.10)"
+        },
+        {
+            "cate": "choice",
+            "problem": "You can prove that, in fact, if you were writing a contract, if there was a social ______ you'd work more.",
+            "choices": [
+                "physiological",
+                "outlet",
+                "planner",
+                "oxidize",
+                "physician"
+            ],
+            "chn": "事实上你会发现,如果有书面合同,或者有个规划师的话人们会超常发挥(博弈论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But, like a lot of these films, this one has a ______ guidance rating of \"PG-13.\"",
+            "choices": [
+                "oxygen",
+                "painful",
+                "parental",
+                "philosophical",
+                "overhead"
+            ],
+            "chn": "(VOA : special.2011.06.20)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Since ancient times, thinkers including the Greek astronomer Ptolemy believed in the existence of a huge continent on the South ______.",
+            "choices": [
+                "optimal",
+                "overview",
+                "parenthesis",
+                "photographic",
+                "pole"
+            ],
+            "chn": "(VOA : special.2009.06.03)"
+        },
+        {
+            "cate": "choice",
+            "problem": "What is the ______? what is the ideal?",
+            "choices": [
+                "outer",
+                "optimum",
+                "oscillation",
+                "physics",
+                "overlap"
+            ],
+            "chn": "什么是最有利的选择？什么是理想状态？(幸福课课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Steven Slater apparently argued with a passenger over baggage in the ______ bin and got hit on the head.",
+            "choices": [
+                "parenthesis",
+                "onset",
+                "oscillation",
+                "phonological",
+                "overhead"
+            ],
+            "chn": "(VOA : special.2010.08.13)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Lo and behold, their bonds would go up because people had discovered that you might be entitled to ______.",
+            "choices": [
+                "planner",
+                "oxidize",
+                "peasant",
+                "occurrence",
+                "par"
+            ],
+            "chn": "你可以发现，他们的债券价格会上升因为人们,已经发现你可能有权以票面价值。(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "I don't mean they dig in the ground, but they supervise it; they think about it. They are like people who are in charge of a ______, their own ______,I mean.",
+            "choices": [
+                "parameter",
+                "peasant",
+                "parenthesis",
+                "painful",
+                "plantation"
+            ],
+            "chn": "他们亲自开垦土地,但是他们亲自监督,他们出谋划策,他们就像是,自己种植园的负责人(古希腊历史简介课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "67"
+}

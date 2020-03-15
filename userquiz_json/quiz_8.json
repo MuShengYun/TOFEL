@@ -1,0 +1,436 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "fibre",
+            "choices": [
+                "n. 狮子",
+                "n. 全人类",
+                "vt. 开除",
+                "n. 象",
+                "vt. 测试",
+                "n. 纤维制品",
+                "n. 纤维",
+                "n. 表示问候， 惊奇或唤起注意时的用语"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fire",
+            "choices": [
+                "n. 火灾",
+                "vt. 解雇",
+                "vi. 着火",
+                "int. 哈罗",
+                "n. 炉火",
+                "vi. 烧火",
+                "n. 磨难",
+                "vi. 激动"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "world",
+            "choices": [
+                "int. 喂",
+                "n. 试验",
+                "vt. 测试",
+                "n. 领域",
+                "n. 世界",
+                "n. 世俗",
+                "n. 物质生活",
+                "n. 全人类"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "hello",
+            "choices": [
+                "int. 喂",
+                "n. 社交场合的名流",
+                "n. 纤维制品",
+                "n. 凶暴的人",
+                "vi. 测试",
+                "n. 表示问候， 惊奇或唤起注意时的用语",
+                "adj. 网络的，计算机的",
+                "int. 哈罗"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "tiger",
+            "choices": [
+                "adj. 网络的，计算机的",
+                "vi. 试验",
+                "adj. 网络的，计算机的",
+                "n. 大号图画纸",
+                "n. 老虎",
+                "n. 名人",
+                "n. 凶暴的人",
+                "adj. 网络的，计算机的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "elephant",
+            "choices": [
+                "n. 象",
+                "n. 狮子",
+                "n. 社交场合的名流",
+                "n. 纤维",
+                "vt. 试验",
+                "vi. 测试",
+                "n. 世界",
+                "n. 大号图画纸"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "lion",
+            "choices": [
+                "n. 名人",
+                "n. 狮子",
+                "n. 物质生活",
+                "n. 物质生活",
+                "n. 纤维制品",
+                "n. 勇猛的人",
+                "int. 哈罗",
+                "n. 社交场合的名流"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "test",
+            "choices": [
+                "n. 试验",
+                "vt. 试验",
+                "vt. 测试",
+                "n. 凶暴的人",
+                "adj. 网络的，计算机的",
+                "vi. 试验",
+                "n. 检验",
+                "vi. 测试"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cyber",
+            "choices": [
+                "n. 纤维",
+                "n. 勇猛的人",
+                "n. 名人",
+                "n. 大号图画纸",
+                "n. 凶暴的人",
+                "adj. 网络的，计算机的",
+                "n. 纤维制品",
+                "n. 狮子"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 纤维; n. 纤维制品",
+            "choices": [
+                "fire",
+                "hello",
+                "fibre",
+                "lion",
+                "test"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 火灾; vt. 解雇; vi. 激动",
+            "choices": [
+                "tiger",
+                "world",
+                "elephant",
+                "fibre",
+                "fire"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 领域; n. 全人类; n. 世界",
+            "choices": [
+                "hello",
+                "cyber",
+                "test",
+                "world",
+                "fire"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 表示问候， 惊奇或唤起注意时的用语; int. 哈罗; int. 喂",
+            "choices": [
+                "test",
+                "cyber",
+                "fibre",
+                "hello",
+                "fire"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 老虎; n. 凶暴的人",
+            "choices": [
+                "test",
+                "world",
+                "tiger",
+                "fire",
+                "fibre"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 大号图画纸; n. 象",
+            "choices": [
+                "lion",
+                "hello",
+                "world",
+                "elephant",
+                "cyber"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 勇猛的人; n. 狮子; n. 社交场合的名流",
+            "choices": [
+                "fire",
+                "cyber",
+                "hello",
+                "fibre",
+                "lion"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 试验; vt. 测试; vi. 测试",
+            "choices": [
+                "hello",
+                "fire",
+                "cyber",
+                "lion",
+                "test"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 网络的，计算机的",
+            "choices": [
+                "fire",
+                "hello",
+                "tiger",
+                "elephant",
+                "cyber"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 纤维制品; n. 纤维",
+            "choices": [
+                "b",
+                "e",
+                "f",
+                "i",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 射击; vt. 解雇; vi. 激动",
+            "choices": [
+                "e",
+                "f",
+                "i",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 世俗; n. 全人类; n. 领域",
+            "choices": [
+                "d",
+                "l",
+                "o",
+                "r",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "int. 哈罗; int. 喂; n. 表示问候， 惊奇或唤起注意时的用语",
+            "choices": [
+                "e",
+                "h",
+                "l",
+                "l",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 凶暴的人; n. 老虎",
+            "choices": [
+                "e",
+                "g",
+                "i",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 象; n. 大号图画纸",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "h",
+                "l",
+                "n",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 社交场合的名流; n. 勇猛的人; n. 名人",
+            "choices": [
+                "i",
+                "l",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 检验; vt. 试验; vt. 测试",
+            "choices": [
+                "e",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 网络的，计算机的",
+            "choices": [
+                "b",
+                "c",
+                "e",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Yeats counterposes Isaiah's prophetic coal to the blazing body of Section IV, where ______ is spontaneous, imminent, something that arises from the body.",
+            "choices": [
+                "elephant",
+                "world",
+                "test",
+                "fire",
+                "lion"
+            ],
+            "chn": "叶芝将比赛亚的预言性的煤,和第五节里燃烧的身体相对照，这里火是自燃的，迫在眉睫的，是从人身体里升出的。(现代诗歌课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So the nature of the ______, post-cold war ______ is increasingly one about competition for markets, govern of one nation's markets.",
+            "choices": [
+                "fibre",
+                "world",
+                "cyber",
+                "hello",
+                "lion"
+            ],
+            "chn": "因此冷战之后，市场的竞争,成为世界的主题，一国市场的管理，如果事实如此。(媒体、教育、市场课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So if you haven't already, just glance at the person next to you, or say ______ if you don't know them.",
+            "choices": [
+                "hello",
+                "elephant",
+                "test",
+                "lion",
+                "fibre"
+            ],
+            "chn": "如果你还没有做好，那就看看你旁边的人,如果你不认识他们就跟他们打个招呼。(计算机科学课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "She thought of her lover opening the door on the other side of which waited the sharp teeth of the ______!",
+            "choices": [
+                "lion",
+                "elephant",
+                "world",
+                "fibre",
+                "tiger"
+            ],
+            "chn": "(VOA : special.2009.04.18)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Another animal with a good memory -- the ______ -- often raids field crops, especially maize and cassava.",
+            "choices": [
+                "elephant",
+                "fire",
+                "lion",
+                "fibre",
+                "hello"
+            ],
+            "chn": "(VOA : special.2010.07.27)"
+        },
+        {
+            "cate": "choice",
+            "problem": "If a ______ does kill a herd animal, the Maasai receive money from a program that repays herders for losses.",
+            "choices": [
+                "fire",
+                "tiger",
+                "fibre",
+                "lion",
+                "test"
+            ],
+            "chn": "(VOA : special.2009.05.05)"
+        },
+        {
+            "cate": "choice",
+            "problem": "______ projects have already begun, and he says the main part of the National Children's Study will begin next year.",
+            "choices": [
+                "world",
+                "lion",
+                "hello",
+                "fibre",
+                "test"
+            ],
+            "chn": "(VOA : special.2011.08.03)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"The State Department was looking to allow, I'll say, ______ dissidents,______ activists, to communicate among themselves and to do that in a restricted environment.",
+            "choices": [
+                "fire",
+                "fibre",
+                "elephant",
+                "test",
+                "cyber"
+            ],
+            "chn": "(VOA : special.2011.06.20)"
+        }
+    ],
+    "quiz_id": "8"
+}

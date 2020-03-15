@@ -1,0 +1,281 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "cue",
+            "choices": [
+                "adv. 相反地",
+                "n. 舆论",
+                "vt. 给…暗示",
+                "n. 提示，暗示",
+                "vt. 与…抵触",
+                "n. 改正，修正",
+                "n. 改正，修正",
+                "n. 线索"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "contradictory",
+            "choices": [
+                "n. 矛盾因素",
+                "adj. 抗辩的",
+                "adj. 反驳的",
+                "n. 大陆，洲，陆地",
+                "vi. 被硫化",
+                "adj. 矛盾的",
+                "n. 对立物",
+                "adj. 反对的"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "consultation",
+            "choices": [
+                "n. [临床] 会诊",
+                "n. 讨论会",
+                "n. 论战",
+                "n. 咨询",
+                "n. 标准，条件（criterion的复数）",
+                "n. 德耳塔（希腊字母的第四个字）",
+                "n. 磋商",
+                "n. 截止期限，最后期限"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "congruent",
+            "choices": [
+                "adj. 全等的",
+                "vt. 使潮湿",
+                "adj. 花冠的",
+                "adj. 和谐的",
+                "n. 通信",
+                "adj. 适合的，一致的",
+                "n. 含蓄",
+                "vt. 使潮湿"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "convergence",
+            "choices": [
+                "n. 一连串",
+                "adj. 故意的",
+                "n. 会聚，集合",
+                "n. 相反",
+                "n. 连接器，连接头",
+                "n. 绳索",
+                "n. 示威者",
+                "n. [数] 收敛"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 将…做成蜜饯; vt. 使守恒; n. 果酱",
+            "choices": [
+                "crystal",
+                "conserve",
+                "corruption",
+                "controversy",
+                "convergence"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 容器; n. 集装箱",
+            "choices": [
+                "consumption",
+                "correlation",
+                "corpus",
+                "container",
+                "decay"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 讨论会; n. 磋商; n. 咨询",
+            "choices": [
+                "critically",
+                "consultation",
+                "correspondence",
+                "congruent",
+                "defect"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 论证者; n. 示威者; n. 证明者",
+            "choices": [
+                "connotation",
+                "defect",
+                "controversy",
+                "constrain",
+                "demonstrator"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 本金; n. 文集; n. [计] 语料库",
+            "choices": [
+                "cord",
+                "cyclic",
+                "corpus",
+                "critique",
+                "correlate"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 保护; n. 保存，保持",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "n",
+                "n",
+                "o",
+                "o",
+                "r",
+                "s",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 得体地; adv. 正确地",
+            "choices": [
+                "c",
+                "c",
+                "e",
+                "l",
+                "o",
+                "r",
+                "r",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 反驳; n. 矛盾; n. 否认",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "d",
+                "i",
+                "i",
+                "n",
+                "n",
+                "o",
+                "o",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 关联; vt. 互相有关系; n. 相关物",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "e",
+                "l",
+                "o",
+                "r",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [数] 收敛; n. 会聚，集合",
+            "choices": [
+                "c",
+                "c",
+                "e",
+                "e",
+                "e",
+                "g",
+                "n",
+                "n",
+                "o",
+                "r",
+                "v"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Here in Can Tho,in southern Vietnam, boats carrying goods ______ on the Mekong River to trade.",
+            "choices": [
+                "delta",
+                "corpus",
+                "converge",
+                "correctly",
+                "contour"
+            ],
+            "chn": "(VOA : standard.2009.12.21)"
+        },
+        {
+            "cate": "choice",
+            "problem": "No dear,Nature made you so perfectly that this small ______ shocks me as being a sign of earthly imperfection.\"",
+            "choices": [
+                "decay",
+                "continuity",
+                "contradiction",
+                "defect",
+                "damp"
+            ],
+            "chn": "(VOA : special.2009.09.26)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Mister Veblen argued that people gathered wealth for the purpose of \"conspicuous ______.\"",
+            "choices": [
+                "consumption",
+                "degrade",
+                "connector",
+                "contour",
+                "critique"
+            ],
+            "chn": "(VOA : special.2011.05.01)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Well, here we're going to have, of course, more modest and more bold versions of the valuable ______ theory.",
+            "choices": [
+                "container",
+                "consciousness",
+                "correspondence",
+                "deceive",
+                "critique"
+            ],
+            "chn": "当然这时候出现了，较保守和较激进的有价值容器理论。(死亡课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "There is no attempt to ______.",
+            "choices": [
+                "deceive",
+                "critique",
+                "contrary",
+                "defect",
+                "damp"
+            ],
+            "chn": "不要尝试欺骗。(固态化学导论课程节选 : 麻省理工公开课)"
+        }
+    ],
+    "quiz_id": "33"
+}

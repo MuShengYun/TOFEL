@@ -1,0 +1,537 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "discriminating",
+            "choices": [
+                "v. 识别（discriminate的ing形式）",
+                "n. 观赏植物",
+                "adj. 有差别的",
+                "adj. 预防的，防止的",
+                "adj. 有识别力的",
+                "n. 几率",
+                "v. 区别对待",
+                "adj. 识别的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "odds",
+            "choices": [
+                "n. 胜算",
+                "n. 继承",
+                "n. 不平等",
+                "v. 区别对待",
+                "n. 器乐曲",
+                "n. 几率",
+                "v. 使震耳欲聋",
+                "n. 差别"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "instrumental",
+            "choices": [
+                "adj. 乐器的",
+                "n. 工具字，工具格",
+                "n. 差别",
+                "n. 需要",
+                "adj. 有帮助的",
+                "n. 器乐曲",
+                "adj. 仪器的，器械的",
+                "adj. 华丽的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "preventive",
+            "choices": [
+                "n. 预防药",
+                "adj. 预防的，防止的",
+                "adj. 凭直觉获知的",
+                "adj. 装饰的",
+                "adj. 极好的",
+                "vt. 承担",
+                "n. 预防法",
+                "adj. 直觉的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ornate",
+            "choices": [
+                "adj. 装饰的",
+                "n. 预防药",
+                "adj. （文体）绚丽的",
+                "n. 器乐曲",
+                "adj. 直觉的",
+                "n. 胜算",
+                "adj. 华丽的",
+                "adj. 有识别力的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "intuitive",
+            "choices": [
+                "vt. 使需要，必需",
+                "adj. 直觉的",
+                "n. 几率",
+                "adj. 震耳欲聋的",
+                "n. 继承",
+                "adj. 华丽的",
+                "v. 使震耳欲聋",
+                "adj. 凭直觉获知的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "omnipresent",
+            "choices": [
+                "adj. 华丽的",
+                "v. 把…打昏",
+                "adj. 凭直觉获知的",
+                "adj. 装饰的，装饰性的",
+                "adj. 装饰的",
+                "adj. 无所不在的",
+                "n. 预防法",
+                "n. 差别"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "stunning",
+            "choices": [
+                "adj. 使人晕倒的",
+                "v. 使震耳欲聋",
+                "adj. 仪器的，器械的",
+                "n. 预防药",
+                "adj. 震耳欲聋的",
+                "v. 使大吃一惊（stun的ing形式）",
+                "adj. 极好的",
+                "v. 把…打昏"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "entail",
+            "choices": [
+                "vt. 使需要，必需",
+                "n. 继承",
+                "vt. 蕴含",
+                "n. 需要",
+                "vt. 遗传给",
+                "vt. 承担",
+                "adj. 仪器的，器械的",
+                "n. 引起"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ornamental",
+            "choices": [
+                "n. 观赏植物",
+                "n. 装饰品",
+                "n. 几率",
+                "adj. 装饰的，装饰性的",
+                "adj. 装饰的",
+                "adj. 仪器的，器械的",
+                "adj. 有差别的",
+                "adj. 凭直觉获知的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 直觉的; adj. 凭直觉获知的",
+            "choices": [
+                "discriminating",
+                "intuitive",
+                "ornamental",
+                "stunning",
+                "instrumental"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. （文体）绚丽的; adj. 装饰的; adj. 华丽的",
+            "choices": [
+                "preventive",
+                "ornate",
+                "entail",
+                "omnipresent",
+                "ornamental"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 装饰的，装饰性的; n. 装饰品; n. 观赏植物",
+            "choices": [
+                "odds",
+                "ornamental",
+                "stunning",
+                "ornate",
+                "intuitive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 使大吃一惊（stun的ing形式）; adj. 极好的; v. 把…打昏",
+            "choices": [
+                "preventive",
+                "stunning",
+                "discriminating",
+                "entail",
+                "intuitive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有差别的; v. 区别对待; adj. 识别的",
+            "choices": [
+                "odds",
+                "stunning",
+                "discriminating",
+                "omnipresent",
+                "entail"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 无所不在的",
+            "choices": [
+                "ornate",
+                "preventive",
+                "entail",
+                "discriminating",
+                "omnipresent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 遗传给; n. 继承; n. 引起",
+            "choices": [
+                "stunning",
+                "omnipresent",
+                "ornamental",
+                "discriminating",
+                "entail"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 预防的，防止的; n. 预防药; n. 预防法",
+            "choices": [
+                "discriminating",
+                "preventive",
+                "stunning",
+                "ornamental",
+                "intuitive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 几率; n. 胜算; n. 差别",
+            "choices": [
+                "odds",
+                "entail",
+                "ornamental",
+                "intuitive",
+                "ornate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 器乐曲; adj. 仪器的，器械的; adj. 有帮助的",
+            "choices": [
+                "preventive",
+                "intuitive",
+                "discriminating",
+                "instrumental",
+                "odds"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 直觉的; adj. 凭直觉获知的",
+            "choices": [
+                "e",
+                "i",
+                "i",
+                "i",
+                "n",
+                "t",
+                "t",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 不平等; n. 几率; n. 差别",
+            "choices": [
+                "d",
+                "d",
+                "o",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 装饰的，装饰性的; n. 观赏植物; n. 装饰品",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "l",
+                "m",
+                "n",
+                "n",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 预防法; adj. 预防的，防止的; n. 预防药",
+            "choices": [
+                "e",
+                "e",
+                "e",
+                "i",
+                "n",
+                "p",
+                "r",
+                "t",
+                "v",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 华丽的; adj. （文体）绚丽的; adj. 装饰的",
+            "choices": [
+                "a",
+                "e",
+                "n",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 工具字，工具格; adj. 有帮助的; n. 器乐曲",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "l",
+                "m",
+                "n",
+                "n",
+                "r",
+                "s",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 无所不在的",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "m",
+                "n",
+                "n",
+                "o",
+                "p",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 使大吃一惊（stun的ing形式）; adj. 极好的; adj. 使人晕倒的",
+            "choices": [
+                "g",
+                "i",
+                "n",
+                "n",
+                "n",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 识别（discriminate的ing形式）; adj. 有差别的; adj. 有识别力的",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "g",
+                "i",
+                "i",
+                "i",
+                "i",
+                "m",
+                "n",
+                "n",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使需要，必需; n. 继承; n. 需要",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "l",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Experts debate about the differences between terms such as Naive Art, Visionary Art,Folk Art, ______ Art and Outsider Art.",
+            "choices": [
+                "stunning",
+                "entail",
+                "omnipresent",
+                "preventive",
+                "intuitive"
+            ],
+            "chn": "(VOA : special.2010.04.14)"
+        },
+        {
+            "cate": "choice",
+            "problem": "They include making sure that every adult and child has a right to ______ medical services.",
+            "choices": [
+                "ornamental",
+                "intuitive",
+                "ornate",
+                "preventive",
+                "stunning"
+            ],
+            "chn": "(VOA : special.2009.07.21)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Critics say that as a result these schools are ______ against women and admitting less qualified men.",
+            "choices": [
+                "preventive",
+                "discriminating",
+                "omnipresent",
+                "ornate",
+                "intuitive"
+            ],
+            "chn": "(VOA : special.2009.11.19)"
+        },
+        {
+            "cate": "choice",
+            "problem": "An ______ bureaucracy with its detailed and all encompassing records gives the clearest picture of the power exercised by the centralized monarchs of the Mycenaean Age.\"",
+            "choices": [
+                "omnipresent",
+                "entail",
+                "stunning",
+                "preventive",
+                "discriminating"
+            ],
+            "chn": "一个无处不在的官僚体制,所留下详尽细致,无所不包的记录,清晰地描绘了,迈锡尼时期中央集权统治的实行\"(古希腊历史简介课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "These ______ masquerades and charades that are part of his complexity reveal something about his identity.",
+            "choices": [
+                "entail",
+                "odds",
+                "preventive",
+                "ornamental",
+                "ornate"
+            ],
+            "chn": "这些华丽的化装舞会和猜谜游戏,揭露了他复杂个性中的一部分(欧洲文明课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "He used that experience to combine jewelry design and traditional mosaic techniques to create ______ portraits.",
+            "choices": [
+                "stunning",
+                "instrumental",
+                "omnipresent",
+                "ornate",
+                "discriminating"
+            ],
+            "chn": "(VOA : standard.2010.07.30)"
+        },
+        {
+            "cate": "choice",
+            "problem": "In that case,your ______ plant might not be so ______.",
+            "choices": [
+                "discriminating",
+                "instrumental",
+                "ornate",
+                "ornamental",
+                "entail"
+            ],
+            "chn": "(VOA : special.2011.04.19)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Straight No Chaser is an acapella group which means the singers do not perform with any ______ music.",
+            "choices": [
+                "instrumental",
+                "ornate",
+                "odds",
+                "discriminating",
+                "intuitive"
+            ],
+            "chn": "(VOA : special.2009.12.25)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But Specter said he found himself increasingly at ______ with a Republican Party that has moved to the right.",
+            "choices": [
+                "odds",
+                "stunning",
+                "intuitive",
+                "omnipresent",
+                "ornate"
+            ],
+            "chn": "(VOA : standard.2009.04.28)"
+        },
+        {
+            "cate": "choice",
+            "problem": "What exactly that purgation will ______ and why Milton's voice needs to be purged at all I think these questions are really the subject of the entire rest of the poem.",
+            "choices": [
+                "preventive",
+                "ornamental",
+                "discriminating",
+                "instrumental",
+                "entail"
+            ],
+            "chn": "这种净化是很有必要的,弥尔顿的语言为什么需要被完全净化,我认为这个问题才是所有剩余诗歌,真正的主题。(弥尔顿课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "147"
+}

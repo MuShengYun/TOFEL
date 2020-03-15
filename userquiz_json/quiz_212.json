@@ -1,0 +1,355 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "connotation",
+            "choices": [
+                "n. 含蓄",
+                "n. 内涵",
+                "n. [数] 收敛",
+                "adj. 花冠的",
+                "adj. 天然的，未加工的",
+                "n. 暗示，隐含意义",
+                "n. 大陆，洲，陆地",
+                "n. 储蓄的东西（词、语等）"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "correspondence",
+            "choices": [
+                "n. 暗示，隐含意义",
+                "n. [数] 收敛",
+                "n. 缺点，缺陷",
+                "adj. 花冠的",
+                "n. 通信",
+                "n. 缺点，缺陷",
+                "adj. 自制的，克制的",
+                "n. 一致"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "consensus",
+            "choices": [
+                "n. 合意",
+                "n. 原油",
+                "n. 一致",
+                "n. 暗示，隐含意义",
+                "vt. 将…做成蜜饯",
+                "vi. 变节",
+                "n. 舆论",
+                "vt. 治愈"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cure",
+            "choices": [
+                "n. 协调，调和",
+                "vi. 被加工处理",
+                "n. 提示，暗示",
+                "n. [临床] 疗法",
+                "n. 治愈",
+                "vt. 治疗",
+                "vi. 治病",
+                "n. 大陆，洲，陆地"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "coordination",
+            "choices": [
+                "n. 相当",
+                "n. 对等，同等",
+                "vt. 使守恒",
+                "vt. 将…做成蜜饯",
+                "n. [数] 收敛",
+                "n. [数] 收敛",
+                "n. 协调，调和",
+                "n. 大陆，洲，陆地"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "crude",
+            "choices": [
+                "adj. 花冠的",
+                "n. 通信",
+                "adj. 粗鲁的",
+                "adj. 粗糙的",
+                "n. 原油",
+                "n. 天然的物质",
+                "adj. 天然的，未加工的",
+                "n. 不足之处"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cue",
+            "choices": [
+                "vi. 叛变",
+                "n. 提示，暗示",
+                "vt. 给…暗示",
+                "n. 原油",
+                "n. 暗示，隐含意义",
+                "n. 线索",
+                "n. 通信",
+                "adj. 冠状的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "defect",
+            "choices": [
+                "n. 相当",
+                "n. 缺点，缺陷",
+                "n. 果酱",
+                "vt. 将…做成蜜饯",
+                "n. 线索",
+                "vi. 叛变",
+                "vi. 变节",
+                "n. 不足之处"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "continent",
+            "choices": [
+                "n. 协调，调和",
+                "n. 会聚，集合",
+                "n. 大陆，洲，陆地",
+                "n. 对等，同等",
+                "adj. 冠状的",
+                "adj. 自制的，克制的",
+                "adj. 冠的",
+                "n. 对等，同等"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "deflection",
+            "choices": [
+                "vi. 被加工处理",
+                "n. [临床] 疗法",
+                "n. 挠曲",
+                "n. 偏向",
+                "vt. 加工处理",
+                "vt. 将…做成蜜饯",
+                "adj. 花冠的",
+                "n. 偏差"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 通信; n. 一致; n. 相当",
+            "choices": [
+                "consensus",
+                "conserve",
+                "correspondence",
+                "cure",
+                "coronary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 不足之处; n. 缺点，缺陷; vi. 变节",
+            "choices": [
+                "conserve",
+                "cue",
+                "coordination",
+                "crude",
+                "defect"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [临床] 疗法; vi. 被硫化; vi. 痊愈",
+            "choices": [
+                "cure",
+                "coordination",
+                "coronary",
+                "conserve",
+                "crude"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 舆论; n. 合意; n. 一致",
+            "choices": [
+                "cue",
+                "crude",
+                "continent",
+                "coronary",
+                "consensus"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 天然的物质; n. 原油; adj. 粗糙的",
+            "choices": [
+                "coronary",
+                "continent",
+                "cure",
+                "crude",
+                "defect"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 蜜饯; vt. 保存; vt. 将…做成蜜饯",
+            "choices": [
+                "coordination",
+                "connotation",
+                "crude",
+                "consensus",
+                "conserve"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [数] 收敛; n. 会聚，集合",
+            "choices": [
+                "convergence",
+                "continent",
+                "coordination",
+                "defect",
+                "connotation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 冠状的; adj. 冠的; adj. 花冠的",
+            "choices": [
+                "coronary",
+                "cure",
+                "connotation",
+                "continent",
+                "deflection"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 自制的，克制的; n. 大陆，洲，陆地",
+            "choices": [
+                "consensus",
+                "cue",
+                "defect",
+                "continent",
+                "coronary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 偏差; n. 偏向; n. 挠曲",
+            "choices": [
+                "correspondence",
+                "cure",
+                "conserve",
+                "deflection",
+                "coordination"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 储蓄的东西（词、语等）; n. 暗示，隐含意义; n. 内涵",
+            "choices": [
+                "crude",
+                "continent",
+                "convergence",
+                "consensus",
+                "connotation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 对等，同等; n. 协调，调和",
+            "choices": [
+                "cure",
+                "conserve",
+                "deflection",
+                "coordination",
+                "defect"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 线索; vt. 给…暗示; n. 提示，暗示",
+            "choices": [
+                "coronary",
+                "convergence",
+                "cue",
+                "defect",
+                "deflection"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": marked by the primitive, gross, or elemental or by uncultivated simplicity or vulgarity",
+            "choices": [
+                "deflection",
+                "coronary",
+                "convergence",
+                "coordination",
+                "crude"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": movement of the two eyes so coordinated that the images of a single point fall on corresponding points of the two retinas",
+            "choices": [
+                "convergence",
+                "coordination",
+                "deflection",
+                "cue",
+                "cure"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": exercising continence",
+            "choices": [
+                "deflection",
+                "convergence",
+                "connotation",
+                "cue",
+                "continent"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the process of organizing people or groups so that they work together properly and well",
+            "choices": [
+                "convergence",
+                "connotation",
+                "deflection",
+                "crude",
+                "coordination"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to strike with a cue",
+            "choices": [
+                "conserve",
+                "cue",
+                "crude",
+                "deflection",
+                "continent"
+            ]
+        }
+    ],
+    "quiz_id": "212"
+}

@@ -1,0 +1,322 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "lithosphere",
+            "choices": [
+                "vt. 启发",
+                "n. 分贝",
+                "n. （学生作弊用的）译文对照本",
+                "vt. 啄食",
+                "n. 污水",
+                "n. 污物",
+                ". ??热",
+                "n. 陆界，[地物][地质] 岩石圈"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "decibel",
+            "choices": [
+                "n. 补偿，赔偿",
+                "n. 分贝",
+                "n. 污物",
+                "vi. 起腐蚀作用",
+                ". ??热",
+                "vt. 抵销",
+                "n. 下水道",
+                "vi. 起腐蚀作用"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "stratum",
+            "choices": [
+                "n. 污物",
+                "n. 许多",
+                "n. [地质] 地层",
+                "n. 社会阶层",
+                "vi. 溶解",
+                "n. 保障",
+                "vi. 吹毛求疵",
+                "n. （组织的）层"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "sewage",
+            "choices": [
+                "n. 轻擦",
+                "n. 污物",
+                "n. [有化] 甲烷",
+                "n. 污水",
+                "n. 下水道",
+                "vt. 教诲",
+                "vt. 啄食",
+                "n. [地质] 地层"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "trot",
+            "choices": [
+                "n. 马小跑的步态",
+                "n. （人）慢跑",
+                "adj. 教诲的",
+                "vt. 徐徐滴入",
+                "vi. 快步走",
+                "n. 小跑的马蹄声",
+                "n. 腹泻",
+                "vi. （人）慢跑"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [地质] 地层; n. （组织的）层; n. 社会阶层",
+            "choices": [
+                "polymerization",
+                "gasp",
+                "instill",
+                "stratum",
+                "noxious"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 卵; v. 产卵; v. 酿成，造成",
+            "choices": [
+                "noxious",
+                "decomposition",
+                "stale",
+                "spawn",
+                "polymerization"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 变质; n. 分解，腐烂",
+            "choices": [
+                "decomposition",
+                "lithosphere",
+                "spawn",
+                "gasp",
+                "stratum"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 提高; n. 崇高; n. 高地",
+            "choices": [
+                "sewage",
+                "peck",
+                "gasp",
+                "elevation",
+                "mantle"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 隐匿的; adj. 休眠的; adj. 睡眠状态的",
+            "choices": [
+                "bleach",
+                "peck",
+                "dissolve",
+                "dormant",
+                "stratum"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": designed or intended to teach",
+            "choices": [
+                "decibel",
+                "methane",
+                "sewage",
+                "indemnity",
+                "didactic"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": disagreeable, obnoxious",
+            "choices": [
+                "catalyst",
+                "noxious",
+                "graze",
+                "caustic",
+                "dormant"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a region of little or no change in a graphic representation",
+            "choices": [
+                "trot",
+                "solubility",
+                "extenuate",
+                "bleach",
+                "plateau"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the solid part of a celestial body (such as the earth)",
+            "choices": [
+                "edify",
+                "trot",
+                "instill",
+                "lithosphere",
+                "indemnity"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act or process of bleaching",
+            "choices": [
+                "extenuate",
+                "methane",
+                "trot",
+                "stratum",
+                "bleach"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 老太婆; n. 小跑的马蹄声; vt. 使快步走",
+            "choices": [
+                "o",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 社会阶层; n. [地质] 地层; n. （组织的）层",
+            "choices": [
+                "a",
+                "m",
+                "r",
+                "s",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 减轻（过错等）的程度，使看起来情有可原; v. （文）使瘦削",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "e",
+                "n",
+                "t",
+                "t",
+                "u",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 变质; n. 分解，腐烂",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "i",
+                "i",
+                "m",
+                "n",
+                "o",
+                "o",
+                "o",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有害的; adj. 讨厌的; adj. 有毒的",
+            "choices": [
+                "i",
+                "n",
+                "o",
+                "o",
+                "s",
+                "u",
+                "x"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "And where will people come from that, if they all follow the psychology of fear and ? self-interest that Hobbes wants to ______ in us?",
+            "choices": [
+                "elevation",
+                "instill",
+                "solubility",
+                "extenuate",
+                "stratum"
+            ],
+            "chn": "如果都按霍布斯灌输给我们的那样想，时刻保持着恐惧和利己的心态,那又从哪招募那些消防员，警察和军人呢？(政治哲学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The fish are part of a living experiment to find out how different species affect the growth of ______ seaweed that can harm coral reefs.",
+            "choices": [
+                "graze",
+                "noxious",
+                "stratum",
+                "mantle",
+                "decomposition"
+            ],
+            "chn": "这些鱼是活体动物实验中的一部分，用来找出不同物种怎样来影响可能会损害珊瑚礁的有毒海藻的生长。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "It is this shoving of the ______ that created the volcanoes of the Mediterranean, they said.",
+            "choices": [
+                "bleach",
+                "mantle",
+                "scorch",
+                "dormant",
+                "methane"
+            ],
+            "chn": "他们说，正是这种地幔的推动，才创造了地中海地区的这些火山。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "This is a time to be ______, not asleep.",
+            "choices": [
+                "trot",
+                "dormant",
+                "neutralize",
+                "elevation",
+                "corrode"
+            ],
+            "chn": "这是蛰伏的时机，而不是睡眠的时机。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "She scrubbed the counters down with ______.",
+            "choices": [
+                "bleach",
+                "stratum",
+                "caustic",
+                "catalyst",
+                "indemnity"
+            ],
+            "chn": "她用漂白剂把柜台擦洗干净。()"
+        }
+    ],
+    "quiz_id": "241"
+}

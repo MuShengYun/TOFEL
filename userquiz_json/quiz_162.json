@@ -1,0 +1,546 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_e",
+            "problem": ": to make active or more active: such as",
+            "choices": [
+                "antibody",
+                "absorb",
+                "artistic",
+                "activate",
+                "admission"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": relating to, being, or containing an amine group",
+            "choices": [
+                "arbitrary",
+                "analogy",
+                "algebra",
+                "airplane",
+                "amino"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a procedure for solving a mathematical problem (as of finding the greatest common divisor) in a finite number of steps that frequently involves repetition of an operation",
+            "choices": [
+                "artistic",
+                "aluminum",
+                "amino",
+                "algorithm",
+                "anthropology"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": validate, confirm",
+            "choices": [
+                "archaeology",
+                "algebra",
+                "acute",
+                "adaptation",
+                "affirm"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the angle assigned to a complex number when it is plotted in a complex plane using polar coordinates",
+            "choices": [
+                "altitude",
+                "accumulate",
+                "absorb",
+                "architect",
+                "amplitude"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": marked by keen discernment or intellectual perception especially of subtle distinctions",
+            "choices": [
+                "airplane",
+                "acute",
+                "adaptation",
+                "approximate",
+                "appendix"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a person who was in someone's family in past times : one of the people from whom a person is descended",
+            "choices": [
+                "adverse",
+                "articulate",
+                "arbitrary",
+                "affirm",
+                "ancestor"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act or process of adapting",
+            "choices": [
+                "admission",
+                "adaptation",
+                "activate",
+                "abdominal",
+                "amplitude"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": at a later time",
+            "choices": [
+                "antibody",
+                "airplane",
+                "afterward",
+                "abdominal",
+                "adolescent"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": opposed to one's interests",
+            "choices": [
+                "articulate",
+                "accuracy",
+                "antibiotic",
+                "antiquity",
+                "adverse"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a person who designs buildings and advises in their construction",
+            "choices": [
+                "acute",
+                "appendix",
+                "architect",
+                "accumulate",
+                "activate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to shoot (an animal) with an arrow",
+            "choices": [
+                "arbitrary",
+                "arrow",
+                "artistic",
+                "altitude",
+                "array"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": not planned or chosen for a particular reason : not based on reason or evidence",
+            "choices": [
+                "approximate",
+                "antibiotic",
+                "adolescent",
+                "anthropology",
+                "arbitrary"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": any of a large number of proteins of high molecular weight that are produced normally by specialized B cells after stimulation by an antigen and act specifically against the antigen in an immune response, that are produced abnormally by some cancer cells, and that typically consist of four subunits including two heavy chains and two light chains",
+            "choices": [
+                "abdominal",
+                "anthropology",
+                "applause",
+                "antibody",
+                "adverse"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the people of ancient times",
+            "choices": [
+                "anti",
+                "acid",
+                "antiquity",
+                "amplitude",
+                "agriculture"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": collect sense 3, gather",
+            "choices": [
+                "affirm",
+                "aluminum",
+                "accumulate",
+                "antiquity",
+                "architect"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act of admitting or allowing something",
+            "choices": [
+                "archaeology",
+                "afterward",
+                "appendix",
+                "admission",
+                "analogy"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a substance produced by or a semisynthetic (see semisynthetic sense 1) substance derived from a microorganism and able in dilute solution to inhibit or kill another microorganism",
+            "choices": [
+                "adaptation",
+                "antibiotic",
+                "approximate",
+                "altitude",
+                "applause"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to engage or engross wholly",
+            "choices": [
+                "absorb",
+                "acid",
+                "agriculture",
+                "aesthetic",
+                "aggregate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a bluish silver-white light malleable ductile trivalent metallic element that has good electrical and thermal conductivity, high reflectivity, and resistance to oxidation and is the most abundant metal in the earth's crust where it always occurs in combination — see Chemical Elements Table",
+            "choices": [
+                "allocate",
+                "accuracy",
+                "arrow",
+                "accumulate",
+                "aluminum"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a part of a book giving added and helpful information (as notes or tables)",
+            "choices": [
+                "antibody",
+                "affirm",
+                "arbitrary",
+                "appendix",
+                "amongst"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a treaty of alliance",
+            "choices": [
+                "adverse",
+                "allocate",
+                "algebra",
+                "alliance",
+                "aggregate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": not distant : nearby",
+            "choices": [
+                "accumulate",
+                "affirm",
+                "arrow",
+                "adjacent",
+                "absorb"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": relating to or made by a process in which the furnace is lined with acidic material and an acidic slag is used",
+            "choices": [
+                "appendix",
+                "antibiotic",
+                "aggregate",
+                "acid",
+                "antibody"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": done or made to improve a person's appearance or to correct defects in a person's appearance",
+            "choices": [
+                "admission",
+                "adaptation",
+                "acid",
+                "aesthetic",
+                "affirm"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": humanly contrived (see contrive sense 1b) often on a natural model : man-made",
+            "choices": [
+                "acid",
+                "acute",
+                "artifact",
+                "alien",
+                "artificial"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a suspension of fine solid or liquid particles in gas",
+            "choices": [
+                "adaptation",
+                "airplane",
+                "aerosol",
+                "aesthetic",
+                "appendix"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to give special attention or prominence to (something)",
+            "choices": [
+                "accent",
+                "admission",
+                "activate",
+                "algorithm",
+                "aesthetic"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the science, art, or practice of cultivating the soil, producing crops, and raising livestock and in varying degrees the preparation and marketing of the resulting products",
+            "choices": [
+                "abdominal",
+                "aggregate",
+                "anthropology",
+                "appendix",
+                "agriculture"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to express (something, such as an idea) in words",
+            "choices": [
+                "adjacent",
+                "articulate",
+                "amongst",
+                "altitude",
+                "accent"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": showing imaginative skill in arrangement or execution",
+            "choices": [
+                "ancestor",
+                "algebra",
+                "affirm",
+                "artistic",
+                "adaptation"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act of comparing things that are alike in some way",
+            "choices": [
+                "analogy",
+                "affirm",
+                "anti",
+                "aesthetic",
+                "artifact"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a foreign-born resident who has not been naturalized and is still a subject or citizen of a foreign country",
+            "choices": [
+                "adaptation",
+                "adjacent",
+                "approximate",
+                "artifact",
+                "alien"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the part of the body between the thorax and the pelvis with the exception of the back",
+            "choices": [
+                "antibiotic",
+                "accuracy",
+                "allocate",
+                "afterward",
+                "abdominal"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to move or cause to move faster",
+            "choices": [
+                "artistic",
+                "aggregate",
+                "accelerate",
+                "algorithm",
+                "arrow"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a usually simple object (such as a tool or ornament) showing human workmanship or modification as distinguished from a natural object",
+            "choices": [
+                "approximate",
+                "airplane",
+                "artifact",
+                "array",
+                "arbitrary"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to dress or decorate especially in splendid or impressive attire : adorn",
+            "choices": [
+                "array",
+                "absorb",
+                "admission",
+                "archaeology",
+                "appendix"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": in shares to each of",
+            "choices": [
+                "accelerate",
+                "appendix",
+                "amongst",
+                "activate",
+                "aluminum"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": opposed to (something or someone)",
+            "choices": [
+                "allocate",
+                "archaeology",
+                "antiquity",
+                "anti",
+                "aluminum"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the science of human beings",
+            "choices": [
+                "algebra",
+                "antibiotic",
+                "anthropology",
+                "artistic",
+                "afterward"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a young person who is developing into an adult : one who is in the state of adolescence",
+            "choices": [
+                "antibiotic",
+                "acute",
+                "adaptation",
+                "arrow",
+                "adolescent"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": freedom from mistake or error : correctness",
+            "choices": [
+                "accuracy",
+                "aggregate",
+                "adolescent",
+                "artistic",
+                "anthropology"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": marked commendation : acclaim",
+            "choices": [
+                "aesthetic",
+                "applause",
+                "alliance",
+                "aggregate",
+                "adaptation"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": considered as a whole : collectively",
+            "choices": [
+                "anthropology",
+                "acute",
+                "artistic",
+                "absorb",
+                "aggregate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to bring near or close",
+            "choices": [
+                "approximate",
+                "archaeology",
+                "accent",
+                "architect",
+                "admission"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a high level (as of quality or feeling)",
+            "choices": [
+                "artificial",
+                "altitude",
+                "algebra",
+                "accelerate",
+                "approximate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to apportion for a specific purpose or to particular persons or things : distribute",
+            "choices": [
+                "agriculture",
+                "aluminum",
+                "articulate",
+                "allocate",
+                "adaptation"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the scientific study of material remains (such as tools, pottery, jewelry, stone walls, and monuments) of past human life and activities",
+            "choices": [
+                "admission",
+                "archaeology",
+                "artificial",
+                "antibiotic",
+                "antiquity"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a generalization of arithmetic in which letters representing numbers are combined according to the rules of arithmetic",
+            "choices": [
+                "algebra",
+                "artistic",
+                "aesthetic",
+                "artifact",
+                "amplitude"
+            ]
+        }
+    ],
+    "quiz_id": "162"
+}

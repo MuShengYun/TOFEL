@@ -1,0 +1,72 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "encode",
+            "choices": [
+                "adv. 本来",
+                "vt. 编码，编制成计算机语言",
+                "vt. （将文字材料）译成密码",
+                "n. 实体",
+                "n. 疲劳，疲乏",
+                "n. 传染病学",
+                "n. 适应性",
+                "vt. 使深留脑中"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 编码，编制成计算机语言; vt. （将文字材料）译成密码",
+            "choices": [
+                "emergence",
+                "entity",
+                "enormously",
+                "estimation",
+                "finite"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": ": to take unfair advantage of",
+            "choices": [
+                "expertise",
+                "evident",
+                "elevate",
+                "entrant",
+                "elimination"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 编码，编制成计算机语言; vt. （将文字材料）译成密码",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "i",
+                "l",
+                "l",
+                "p",
+                "t",
+                "x",
+                "y"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Notice that when you change the variables on one ______ class, that change cascades to the other classes.",
+            "choices": [
+                "emission",
+                "elastic",
+                "equivalence",
+                "fertility",
+                "enzyme"
+            ],
+            "chn": "注意，当您改变一个等价类的变量时，这个变化会串联影响到其他等价类。()"
+        }
+    ],
+    "quiz_id": "156"
+}

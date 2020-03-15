@@ -1,0 +1,839 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "glacier",
+            "choices": [
+                "adj. 社交的",
+                "n. [动] 食草动物",
+                "n. 冰河，冰川",
+                "vt. 违反",
+                "n. 继承权，继承人的地位",
+                "n. 非嫡出子",
+                "n. 继承权，继承人的地位",
+                "adj. 任性的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "petrify",
+            "choices": [
+                "vt. 使…石化",
+                "vi. 石化",
+                "vt. 使…惊呆",
+                "n. 公断，仲裁",
+                "n. （美）[无脊椎] 软体动物",
+                "vt. 破坏",
+                "vi. 惊呆",
+                "vt. 证明…有罪"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "default",
+            "choices": [
+                "n. 系统默认值",
+                "v. 对……处以缺席裁判",
+                "n. 地震学",
+                "v. 默认，预设",
+                "v. （未）不到场",
+                "vi. 侵犯",
+                "v. 因未到场而取消……参赛资格",
+                "n. 恒温动物"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ore",
+            "choices": [
+                "vt. 在…上形成坑",
+                "adj. 社交的",
+                "n. 矿",
+                "n. 罪犯",
+                "n. 矿石",
+                "n. 罪犯",
+                "adj. 社交的",
+                "n. 公断，仲裁"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "seismology",
+            "choices": [
+                "n. 冰河，冰川",
+                "n. [医] 震颤",
+                "n. 矿石",
+                "n. [动] 食草动物",
+                "adj. 跋扈的",
+                "vi. 惊呆",
+                "n. （美）[无脊椎] 软体动物",
+                "n. 地震学"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "carnivore",
+            "choices": [
+                "n. 非嫡出子",
+                "adj. 任性的",
+                "vt. 使…惊呆",
+                "adj. 不正当的",
+                "n. [动] 食草动物",
+                "n. 食虫植物",
+                "n. [动] 食肉动物",
+                "adj. 命令的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "crater",
+            "choices": [
+                "vi. 形成坑",
+                "vt. 在…上形成坑",
+                "adj. 因地震而引起的",
+                "vi. 消亡",
+                "n. 火山口",
+                "vt. 毁坏",
+                "vt. 取消",
+                "n. [医] 震颤"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "rodent",
+            "choices": [
+                "vt. 没收",
+                "v. 流行（domineer的ing形式）",
+                "adj. （与） 啮齿动物（有关）的",
+                "n. [动] 食肉动物",
+                "n. 啮齿目动物（如老鼠等）",
+                "vt. 违反",
+                "vt. 宣告…有罪",
+                "n. （美）[无脊椎] 软体动物"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "convict",
+            "choices": [
+                "adj. 违法的",
+                "adj. 两栖类的",
+                "adj. 难驾驭的",
+                "vt. 宣告…有罪",
+                "vt. 证明…有罪",
+                "adj. 因地震而引起的",
+                "n. [动] 杂食动物",
+                "n. [动] 食肉动物"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "illegitimate",
+            "choices": [
+                "adj. 非法的",
+                "adj. 私生的",
+                "vt. 认做私生子",
+                "n. 非嫡出子",
+                "n. [脊椎] 两栖动物",
+                "vt. 认为违法",
+                "n. 庶子",
+                "adj. 不合理的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "mandatory",
+            "choices": [
+                "adj. 强制的",
+                "n. 变温动物",
+                "n. 矿石",
+                "adj. 任性的",
+                "n. 受托者（等于mandatary）",
+                "vi. 惊呆",
+                "adj. 托管的",
+                "n. 量级"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "amphibian",
+            "choices": [
+                "vt. 违反",
+                "adj. 具有双重性格的",
+                "vt. 充公",
+                "vt. 使…惊呆",
+                "n. 继承权，继承人的地位",
+                "n. [脊椎] 两栖动物",
+                "vt. 证明…有罪",
+                "n. 变温动物"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "infringe",
+            "choices": [
+                "vi. 侵害",
+                "vt. 违反",
+                "vt. 破坏",
+                "vi. 侵犯",
+                "adj. 专横的",
+                "vt. 侵犯",
+                "adj. 难驾驭的",
+                "adj. 盛气凌人的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "homotherm",
+            "choices": [
+                "n. 冰河，冰川",
+                "n. 罪犯",
+                "n. 公断，仲裁",
+                "n. 公断，仲裁",
+                "n. 罪犯",
+                "adj. 不守规矩的",
+                "n. 冰河，冰川",
+                "n. 恒温动物"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "penal",
+            "choices": [
+                "n. （美）[无脊椎] 软体动物",
+                "adj. 刑事的",
+                "n. 啮齿目动物（如老鼠等）",
+                "adj. 刑罚的",
+                "n. 光度",
+                "n. 公断，仲裁",
+                "adj. 地震的",
+                "n. 公断，仲裁"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "confiscate",
+            "choices": [
+                "adj. 被没收的",
+                "adj. 社交的",
+                "vt. 没收",
+                "vt. 查抄",
+                "n. 啮齿目动物（如老鼠等）",
+                "n. [动] 食草动物",
+                "vt. 充公",
+                "vi. 成群，聚在一起"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "poikilotherm",
+            "choices": [
+                "n. 食虫植物",
+                "vt. 使…惊呆",
+                "adj. 两栖类的",
+                "n. [动] 食草动物",
+                "adj. 因地震而引起的",
+                "n. 受托者（等于mandatary）",
+                "n. 继承权，继承人的地位",
+                "n. 变温动物"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "gregarious",
+            "choices": [
+                "n. 公断，仲裁",
+                "adj. 群居的",
+                "n. [地理] 冰山",
+                "adj. 两栖类的",
+                "vt. 侵犯",
+                "adj. 社交的",
+                "adj. 地震的",
+                "n. 地震学"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "illicit",
+            "choices": [
+                "adj. 违法的",
+                "n. 违约，拖欠",
+                "adj. 不正当的",
+                "vt. 证明…有罪",
+                "n. 细菌，微生物",
+                "n. 地震学",
+                "adj. 专横的",
+                "vt. 没收"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "tremor",
+            "choices": [
+                "adj. [车辆] 水陆两用的",
+                "adj. 不正当的",
+                "n. 颤动",
+                "adj. 不正当的",
+                "n. 公断，仲裁",
+                "adj. 社交的",
+                "n. [医] 震颤",
+                "adj. 刑事的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "herbivore",
+            "choices": [
+                "vt. 使成群",
+                "n. 重要",
+                "vi. 石化",
+                "adj. 刑罚的",
+                "adj. 私生的",
+                "vt. 认为违法",
+                "n. [动] 食草动物",
+                "adj. 不合理的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "microbe",
+            "choices": [
+                "n. 矿",
+                "adj. 因地震而引起的",
+                "n. 啮齿目动物（如老鼠等）",
+                "adj. 刑事的",
+                "n. [医] 震颤",
+                "adj. 地震的",
+                "n. 细菌，微生物",
+                "n. （美）[无脊椎] 软体动物"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "unruly",
+            "choices": [
+                "n. （美）[无脊椎] 软体动物",
+                "adj. 群居的",
+                "adj. 不守规矩的",
+                "n. 公断，仲裁",
+                "adj. 群居的",
+                "adj. 命令的",
+                "adj. 难驾驭的",
+                "adj. 任性的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "herd",
+            "choices": [
+                "n. 放牧人",
+                "n. 啮齿目动物（如老鼠等）",
+                "vt. 没收",
+                "vt. 放牧",
+                "vi. 成群，聚在一起",
+                "n. 兽群，畜群",
+                "n. [地震] 震级",
+                "n. 恒温动物"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "heirship",
+            "choices": [
+                "adj. 强制的",
+                "n. 冰河，冰川",
+                "n. [动] 杂食动物",
+                "adj. 不正当的",
+                "n. [动] 食草动物",
+                "adj. 违法的",
+                "n. 继承权，继承人的地位",
+                "v. 不参加（比赛等）"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "omnivore",
+            "choices": [
+                "adj. 不正当的",
+                "n. 不偏食的人",
+                "n. 受托者（等于mandatary）",
+                "vt. 放牧",
+                "vt. 在…上形成坑",
+                "n. [动] 杂食动物",
+                "vt. 破坏",
+                "n. 公断，仲裁"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "arbitration",
+            "choices": [
+                "n. 公断，仲裁",
+                "adj. 不守规矩的",
+                "n. 矿",
+                "n. 水陆两用飞机",
+                "n. 食虫植物",
+                "adj. 不正当的",
+                "adj. 不守规矩的",
+                "adj. 盛气凌人的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "seismic",
+            "choices": [
+                "n. 地震学",
+                "adj. 刑罚的",
+                "adj. 地震的",
+                "adj. 刑事的",
+                "adj. 因地震而引起的",
+                "adj. 群居的",
+                "adj. 刑罚的",
+                "vt. 在…上形成坑"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "domineering",
+            "choices": [
+                "v. 实行暴政",
+                "v. 高耸",
+                "adj. 跋扈的",
+                "adj. 专横的",
+                "adj. 被没收的",
+                "adj. 盛气凌人的",
+                "v. 流行（domineer的ing形式）",
+                "n. （美）[无脊椎] 软体动物"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "iceberg",
+            "choices": [
+                "n. 火山口",
+                "adj. （与） 啮齿动物（有关）的",
+                "vt. 违反",
+                "v. （计算机等）自动转到（默认值）",
+                "n. 显露部分",
+                "n. [动] 食草动物",
+                "n. 恒温动物",
+                "n. [地理] 冰山"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "magnitude",
+            "choices": [
+                "adj. 托管的",
+                "adj. 刑事的",
+                "n. 冰河，冰川",
+                "n. 冰河，冰川",
+                "n. 重要",
+                "n. 变温动物",
+                "n. 大小",
+                "vt. 放牧"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "mollusk",
+            "choices": [
+                "adj. 专横的",
+                "n. 细菌，微生物",
+                "vt. 充公",
+                "n. [动] 食草动物",
+                "adj. 不守规矩的",
+                "n. 地震学",
+                "n. 地震学",
+                "n. （美）[无脊椎] 软体动物"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 变温动物",
+            "choices": [
+                "poikilotherm",
+                "petrify",
+                "illicit",
+                "infringe",
+                "carnivore"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 恒温动物",
+            "choices": [
+                "default",
+                "homotherm",
+                "seismic",
+                "gregarious",
+                "domineering"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 显露部分; n. [地理] 冰山",
+            "choices": [
+                "glacier",
+                "unruly",
+                "infringe",
+                "iceberg",
+                "poikilotherm"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 颤动; n. [医] 震颤",
+            "choices": [
+                "magnitude",
+                "homotherm",
+                "tremor",
+                "petrify",
+                "infringe"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 没收; adj. 被没收的; vt. 查抄",
+            "choices": [
+                "seismic",
+                "homotherm",
+                "confiscate",
+                "petrify",
+                "tremor"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 因地震而引起的; adj. 地震的",
+            "choices": [
+                "arbitration",
+                "domineering",
+                "seismic",
+                "glacier",
+                "infringe"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 继承权，继承人的地位",
+            "choices": [
+                "gregarious",
+                "arbitration",
+                "glacier",
+                "heirship",
+                "herbivore"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. （与） 啮齿动物（有关）的; n. 啮齿目动物（如老鼠等）",
+            "choices": [
+                "convict",
+                "rodent",
+                "carnivore",
+                "default",
+                "arbitration"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 重要; n. 大小; n. [地震] 震级",
+            "choices": [
+                "omnivore",
+                "default",
+                "heirship",
+                "magnitude",
+                "microbe"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 刑事的; adj. 刑罚的",
+            "choices": [
+                "seismology",
+                "confiscate",
+                "carnivore",
+                "penal",
+                "mandatory"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 地震学",
+            "choices": [
+                "seismology",
+                "mandatory",
+                "confiscate",
+                "rodent",
+                "ore"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. （美）[无脊椎] 软体动物",
+            "choices": [
+                "microbe",
+                "seismic",
+                "mollusk",
+                "tremor",
+                "default"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 宣告…有罪; n. 罪犯; vt. 证明…有罪",
+            "choices": [
+                "convict",
+                "mollusk",
+                "carnivore",
+                "arbitration",
+                "illegitimate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 矿石; n. 矿",
+            "choices": [
+                "seismic",
+                "petrify",
+                "gregarious",
+                "ore",
+                "carnivore"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 强制的; adj. 托管的; n. 受托者（等于mandatary）",
+            "choices": [
+                "herd",
+                "unruly",
+                "petrify",
+                "iceberg",
+                "mandatory"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 违法的; adj. 不正当的",
+            "choices": [
+                "glacier",
+                "illicit",
+                "poikilotherm",
+                "herbivore",
+                "unruly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 公断，仲裁",
+            "choices": [
+                "homotherm",
+                "magnitude",
+                "herbivore",
+                "arbitration",
+                "gregarious"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 高耸; adj. 盛气凌人的; v. 实行暴政",
+            "choices": [
+                "domineering",
+                "heirship",
+                "tremor",
+                "illicit",
+                "illegitimate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 破坏; vi. 侵犯; vt. 违反",
+            "choices": [
+                "infringe",
+                "convict",
+                "illegitimate",
+                "ore",
+                "domineering"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 成群，聚在一起; vt. 使成群; vt. 放牧",
+            "choices": [
+                "convict",
+                "herd",
+                "ore",
+                "default",
+                "unruly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 社交的; adj. 群居的",
+            "choices": [
+                "petrify",
+                "unruly",
+                "homotherm",
+                "gregarious",
+                "seismology"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 违约，拖欠; v. 不参加（比赛等）; v. 不履行，拖欠，违约",
+            "choices": [
+                "ore",
+                "seismic",
+                "tremor",
+                "default",
+                "mandatory"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 火山口; vt. 取消; vi. 形成坑",
+            "choices": [
+                "rodent",
+                "convict",
+                "illicit",
+                "illegitimate",
+                "crater"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 水陆两用飞机; adj. 具有双重性格的; n. [脊椎] 两栖动物",
+            "choices": [
+                "mandatory",
+                "amphibian",
+                "microbe",
+                "omnivore",
+                "seismic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使…惊呆; vt. 使…石化; vi. 石化",
+            "choices": [
+                "homotherm",
+                "default",
+                "illegitimate",
+                "crater",
+                "petrify"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 细菌，微生物",
+            "choices": [
+                "microbe",
+                "domineering",
+                "magnitude",
+                "petrify",
+                "illegitimate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 冰河，冰川",
+            "choices": [
+                "mollusk",
+                "glacier",
+                "default",
+                "homotherm",
+                "omnivore"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 非嫡出子; vt. 认做私生子; vt. 认为违法",
+            "choices": [
+                "penal",
+                "glacier",
+                "amphibian",
+                "iceberg",
+                "illegitimate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [动] 食肉动物; n. 食虫植物",
+            "choices": [
+                "arbitration",
+                "crater",
+                "carnivore",
+                "microbe",
+                "penal"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 不偏食的人; n. [动] 杂食动物",
+            "choices": [
+                "heirship",
+                "omnivore",
+                "gregarious",
+                "domineering",
+                "arbitration"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 任性的; adj. 难驾驭的; adj. 不守规矩的",
+            "choices": [
+                "carnivore",
+                "petrify",
+                "iceberg",
+                "unruly",
+                "illicit"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [动] 食草动物",
+            "choices": [
+                "herbivore",
+                "convict",
+                "infringe",
+                "ore",
+                "homotherm"
+            ]
+        }
+    ],
+    "quiz_id": "238"
+}

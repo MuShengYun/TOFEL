@@ -1,0 +1,261 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "converge",
+            "choices": [
+                "n. 一连串",
+                "n. 否认",
+                "vi. 聚集",
+                "vi. 靠拢",
+                "n. 保存，保持",
+                "vt. 使汇聚",
+                "vi. 变潮湿",
+                "vi. 收敛"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "coordination",
+            "choices": [
+                "n. 蜜饯",
+                "n. 协调，调和",
+                "n. 意识",
+                "n. 相互关系",
+                "n. 对等，同等",
+                "n. 德耳塔（希腊字母的第四个字）",
+                "adj. 相反的",
+                "n. 消费"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "coronary",
+            "choices": [
+                "n. 论证者",
+                "n. 束缚",
+                "adj. 花冠的",
+                "adj. 冠的",
+                "n. 含蓄",
+                "adj. 冠状的",
+                "vi. 叛变",
+                "adj. 环的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "consultation",
+            "choices": [
+                "n. 磋商",
+                "n. [临床] 会诊",
+                "vt. 强迫",
+                "vt. 评论",
+                "n. 讨论会",
+                "n. 树皮",
+                "n. 分镜头剧本",
+                "n. 咨询"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "correspondence",
+            "choices": [
+                "n. 截止期限，最后期限",
+                "n. 一致",
+                "n. 衰退，[核] 衰减",
+                "n. 相互关系",
+                "v. 行骗",
+                "n. 通信",
+                "n. 相当",
+                "n. 提示，暗示"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 消耗; n. 肺痨; n. 消费",
+            "choices": [
+                "curriculum",
+                "deficiency",
+                "controversy",
+                "consensus",
+                "consumption"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 加工处理; vi. 痊愈; n. 治疗",
+            "choices": [
+                "cortex",
+                "corruption",
+                "contradiction",
+                "cure",
+                "constrain"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 正确地; adv. 得体地",
+            "choices": [
+                "corruption",
+                "converge",
+                "correctly",
+                "contradiction",
+                "conserve"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使潮湿; vt. 使沮丧，抑制; vt. 使阻尼",
+            "choices": [
+                "damp",
+                "correlate",
+                "coronary",
+                "correctly",
+                "contradictory"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 争论; n. 论战; n. 辩论",
+            "choices": [
+                "c",
+                "e",
+                "n",
+                "o",
+                "o",
+                "r",
+                "r",
+                "s",
+                "t",
+                "v",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 确切的; adj. 一定的",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "f",
+                "i",
+                "i",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 内涵; n. 含蓄; n. 储蓄的东西（词、语等）",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "n",
+                "n",
+                "n",
+                "o",
+                "o",
+                "o",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 衰退，[核] 衰减; n. 腐烂，腐朽; vi. 衰退，[核] 衰减",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 与…抵触; vi. 反驳; vi. 否认",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "d",
+                "i",
+                "n",
+                "o",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "When the water heater is working ______, water will flow from the storage tank to the collector and back again.",
+            "choices": [
+                "contradictory",
+                "degrade",
+                "cord",
+                "correctly",
+                "conserve"
+            ],
+            "chn": "(VOA : special.2009.04.20)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The astronauts made the ______ from a plastic bag, cardboard and tape.",
+            "choices": [
+                "contradictory",
+                "connector",
+                "correlation",
+                "consent",
+                "damp"
+            ],
+            "chn": "(VOA : special.2009.07.22)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It is possible that every country has at least one or two socially ______ hip-hop singers or groups.",
+            "choices": [
+                "crude",
+                "conscious",
+                "conserve",
+                "cue",
+                "coronary"
+            ],
+            "chn": "(VOA : special.2009.11.25)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"What many Rwandans face today is quite ______, where you are remembering but you have to forget in order to continue to live,\".",
+            "choices": [
+                "curriculum",
+                "contradictory",
+                "crystal",
+                "contradiction",
+                "cue"
+            ],
+            "chn": "(VOA : standard.2009.04.08)"
+        },
+        {
+            "cate": "choice",
+            "problem": "They hope studying these genes more closely could help in development of new treatments for the disease,and possibly a ______.",
+            "choices": [
+                "continuity",
+                "cure",
+                "demonstrator",
+                "cue",
+                "contour"
+            ],
+            "chn": "(VOA : special.2010.06.15)"
+        }
+    ],
+    "quiz_id": "52"
+}

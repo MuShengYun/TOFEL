@@ -1,0 +1,131 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "n. 水库; n. 蓄水池",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "o",
+                "r",
+                "r",
+                "r",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 本质的，固有的",
+            "choices": [
+                "c",
+                "i",
+                "i",
+                "i",
+                "n",
+                "n",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": ". ??然; . 由于",
+            "choices": [
+                " ",
+                "a",
+                "h",
+                "n",
+                "o",
+                "t",
+                "t",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 显著的; adj. 显而易见的",
+            "choices": [
+                "c",
+                "c",
+                "i",
+                "n",
+                "o",
+                "o",
+                "p",
+                "s",
+                "s",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 审美的，具有审美趣味的; adj. 美学的; adj. 美的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "e",
+                "h",
+                "i",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "What do you think is your strongest ______ that helped you get into this university?",
+            "choices": [
+                "rehash",
+                "deadpan",
+                "embargo",
+                "undue",
+                "trait"
+            ],
+            "chn": "你觉得你的什么特质帮你进入了这所大学？(SpeakingMax英语口语达人 : 成绩不是全部)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"But I think what we need to focus on, and focus our efforts , in making ______ in reversing the Taliban's momentum and strengthening the Afghan army and police and really going after al-Qaida.\"",
+            "choices": [
+                "nonetheless",
+                "prompt",
+                "trait",
+                "anchor",
+                "headway"
+            ],
+            "chn": "(VOA : standard.2009.03.29)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Egypt also enforces the ______ on Gaza.",
+            "choices": [
+                "embargo",
+                "lethargy",
+                "deadpan",
+                "jubilant",
+                "pellucid"
+            ],
+            "chn": "(VOA : special.2010.06.05)"
+        },
+        {
+            "cate": "choice",
+            "problem": "ArgC How many words were typed at the ______, by default, Arg C, should always be at least one.",
+            "choices": [
+                "ploy",
+                "prompt",
+                "chaos",
+                "aesthetic",
+                "haunted"
+            ],
+            "chn": "提示符那里默认要输入多少单词，至少需要一个单词。(计算机科学课程节选 : 哈佛公开课)"
+        }
+    ],
+    "quiz_id": "164"
+}

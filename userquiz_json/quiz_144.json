@@ -1,0 +1,1083 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "preventive",
+            "choices": [
+                "adj. 预防的，防止的",
+                "n. 产业",
+                "n. 域名",
+                "n. 预防药",
+                "adj. （文体）绚丽的",
+                "adj. 华丽的",
+                "adj. 装饰的，装饰性的",
+                "n. 预防法"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "undeserved",
+            "choices": [
+                "adj. 易怒的",
+                "adj. 易觉察的",
+                "adj. 不应得的，不该受的",
+                "n. 预防法",
+                "adj. 易觉察的",
+                "adj. 无所不在的",
+                "adj. 冤枉的",
+                "n. 踌躇"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "anathema",
+            "choices": [
+                "n. 令人厌恶的人",
+                "n. 被诅咒者",
+                "n. 革出教门",
+                "adj. 直觉的",
+                "adj. 装饰的，装饰性的",
+                "v. 使大吃一惊（stun的ing形式）",
+                "n. 不果断",
+                "n. 诅咒"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "stunning",
+            "choices": [
+                "vt. 正视，面对",
+                "v. 使大吃一惊（stun的ing形式）",
+                "adj. 使人晕倒的",
+                "adj. 震耳欲聋的",
+                "v. 使震耳欲聋",
+                "v. 把…打昏",
+                "adj. 极好的",
+                "n. 几率"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dismal",
+            "choices": [
+                "vt. 想像",
+                "adj. 不应得的，不该受的",
+                "adj. 鬼鬼祟祟的，秘密的",
+                "n. 低落的情绪",
+                "vt. 正视，面对",
+                "n. 胜算",
+                "adj. 凄凉的，忧郁的",
+                "adj. 阴沉的，沉闷的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "domain",
+            "choices": [
+                "n. 产业",
+                "n. 领域",
+                "n. 地产",
+                "adj. 易觉察的",
+                "n. 观赏植物",
+                "adj. 无所不在的",
+                "n. 域名",
+                "adj. 无所不在的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ornamental",
+            "choices": [
+                "n. 预防药",
+                "adj. 直觉的",
+                "n. 冰雹",
+                "adj. 装饰的，装饰性的",
+                "vt. 遗传给",
+                "n. 装饰品",
+                "adj. 鬼鬼祟祟的，秘密的",
+                "n. 观赏植物"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "odds",
+            "choices": [
+                "n. 差别",
+                "n. 不平等",
+                "n. 胜算",
+                "n. 几率",
+                "adj. 鬼鬼祟祟的，秘密的",
+                "vt. 致敬",
+                "adj. 不成比例的",
+                "n. 引起"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "instrumental",
+            "choices": [
+                "n. 工具字，工具格",
+                "adj. 有帮助的",
+                "adj. 华丽的",
+                "n. 被诅咒者",
+                "adj. 乐器的",
+                "adj. 无所不在的",
+                "n. 器乐曲",
+                "adj. 仪器的，器械的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "moribund",
+            "choices": [
+                "adj. 可感知的",
+                "vi. 下雹",
+                "adj. 停滞不前的",
+                "adj. 凄凉的，忧郁的",
+                "n. 不平等",
+                "adj. 垂死的",
+                "adj. 鬼鬼祟祟的，秘密的",
+                "n. 垂死的人"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "envisage",
+            "choices": [
+                "vt. 想像",
+                "n. 垂死的人",
+                "vt. 正视，面对",
+                "int. 欢迎",
+                "adj. 极好的",
+                "adj. 凭直觉获知的",
+                "adj. 直觉的",
+                "adj. 小气的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "vacillation",
+            "choices": [
+                "n. 游移不定",
+                "n. 踌躇",
+                "adj. 易怒的",
+                "n. 不果断",
+                "adj. 冤枉的",
+                "vi. 招呼",
+                "adj. 凄凉的，忧郁的",
+                "n. 不平等"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ornate",
+            "choices": [
+                "adj. （文体）绚丽的",
+                "adj. 预防的，防止的",
+                "n. 不果断",
+                "adj. 华丽的",
+                "adj. 装饰的",
+                "adj. 不成比例的",
+                "adj. 停滞不前的",
+                "n. 观赏植物"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "omnipresent",
+            "choices": [
+                "adj. 有帮助的",
+                "adj. 琐碎的",
+                "adj. 鬼鬼祟祟的，秘密的",
+                "adj. 凄凉的，忧郁的",
+                "n. 引起",
+                "adj. 凄凉的，忧郁的",
+                "adj. 无所不在的",
+                "adj. 有识别力的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fractious",
+            "choices": [
+                "v. 使震耳欲聋",
+                "adj. 直觉的",
+                "n. 踌躇",
+                "adj. 不成比例的",
+                "adj. 不应得的，不该受的",
+                "n. 游移不定",
+                "adj. 倔强的，难以对待的",
+                "adj. 易怒的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "disproportionate",
+            "choices": [
+                "adj. 小规模的",
+                "n. 引起",
+                "adj. （文体）绚丽的",
+                "n. 被诅咒者",
+                "n. 产业",
+                "vt. 正视，面对",
+                "n. 令人厌恶的人",
+                "adj. 不成比例的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "petty",
+            "choices": [
+                "n. 差别",
+                "vt. 想像",
+                "adj. 直觉的",
+                "adj. 琐碎的",
+                "adj. 小规模的",
+                "v. 使大吃一惊（stun的ing形式）",
+                "adj. 小气的",
+                "n. 诅咒"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "hail",
+            "choices": [
+                "n. 招呼",
+                "vt. 招呼",
+                "vt. 向...欢呼",
+                "vi. 招呼",
+                "vt. 致敬",
+                "adj. 垂死的",
+                "vt. 使像下雹样落下（过去式hailed，过去分词hailed，现在分词hailing，第三人称单数hails）",
+                "vt. 猛发"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "intuitive",
+            "choices": [
+                "adj. 凭直觉获知的",
+                "adj. 直觉的",
+                "n. 领域",
+                "adj. 垂死的",
+                "adj. 小气的",
+                "adj. 易怒的",
+                "vt. 正视，面对",
+                "n. 装饰品"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "furtive",
+            "choices": [
+                "adj. 鬼鬼祟祟的，秘密的",
+                "vt. 正视，面对",
+                "adj. 有帮助的",
+                "adj. 不成比例的",
+                "n. 工具字，工具格",
+                "adj. 不成比例的",
+                "adj. 极好的",
+                "vt. 正视，面对"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "palpable",
+            "choices": [
+                "n. 继承",
+                "n. 诅咒",
+                "adj. 易觉察的",
+                "adj. （文体）绚丽的",
+                "n. 装饰品",
+                "adj. 明显的",
+                "vt. 使需要，必需",
+                "adj. 可感知的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "discriminating",
+            "choices": [
+                "n. 令人厌恶的人",
+                "v. 区别对待",
+                "adj. 有差别的",
+                "adj. 有识别力的",
+                "n. 不平等",
+                "adj. 易怒的",
+                "v. 识别（discriminate的ing形式）",
+                "adj. 识别的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "entail",
+            "choices": [
+                "vt. 遗传给",
+                "vt. 使需要，必需",
+                "vt. 蕴含",
+                "vt. 承担",
+                "n. 引起",
+                "n. 继承",
+                "adj. 小规模的",
+                "n. 需要"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 蕴含; vt. 承担; vt. 使需要，必需",
+            "choices": [
+                "ornate",
+                "anathema",
+                "omnipresent",
+                "undeserved",
+                "entail"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 不成比例的",
+            "choices": [
+                "disproportionate",
+                "moribund",
+                "intuitive",
+                "palpable",
+                "vacillation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 识别的; v. 区别对待; adj. 有识别力的",
+            "choices": [
+                "vacillation",
+                "ornamental",
+                "discriminating",
+                "stunning",
+                "furtive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 使震耳欲聋; adj. 使人晕倒的; v. 把…打昏",
+            "choices": [
+                "vacillation",
+                "hail",
+                "fractious",
+                "stunning",
+                "dismal"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 域名; n. 领域; n. 产业",
+            "choices": [
+                "anathema",
+                "moribund",
+                "entail",
+                "domain",
+                "preventive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 停滞不前的; n. 垂死的人; adj. 垂死的",
+            "choices": [
+                "odds",
+                "moribund",
+                "furtive",
+                "vacillation",
+                "omnipresent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 鬼鬼祟祟的，秘密的",
+            "choices": [
+                "ornamental",
+                "disproportionate",
+                "furtive",
+                "odds",
+                "preventive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 易觉察的; adj. 明显的; adj. 可感知的",
+            "choices": [
+                "vacillation",
+                "palpable",
+                "dismal",
+                "ornate",
+                "stunning"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 革出教门; n. 令人厌恶的人; n. 被诅咒者",
+            "choices": [
+                "ornate",
+                "dismal",
+                "anathema",
+                "entail",
+                "palpable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 器乐曲; n. 工具字，工具格; adj. 仪器的，器械的",
+            "choices": [
+                "furtive",
+                "discriminating",
+                "preventive",
+                "instrumental",
+                "palpable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 倔强的，难以对待的; adj. 易怒的",
+            "choices": [
+                "intuitive",
+                "envisage",
+                "omnipresent",
+                "vacillation",
+                "fractious"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 装饰的; adj. （文体）绚丽的; adj. 华丽的",
+            "choices": [
+                "anathema",
+                "dismal",
+                "ornate",
+                "envisage",
+                "instrumental"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 装饰的，装饰性的; n. 观赏植物; n. 装饰品",
+            "choices": [
+                "ornamental",
+                "omnipresent",
+                "instrumental",
+                "hail",
+                "envisage"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 凄凉的，忧郁的; adj. 阴沉的，沉闷的; n. 低落的情绪",
+            "choices": [
+                "preventive",
+                "undeserved",
+                "stunning",
+                "dismal",
+                "furtive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 不应得的，不该受的; adj. 冤枉的",
+            "choices": [
+                "ornamental",
+                "instrumental",
+                "furtive",
+                "undeserved",
+                "petty"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 向...欢呼; int. 万岁; n. 致敬",
+            "choices": [
+                "stunning",
+                "domain",
+                "hail",
+                "palpable",
+                "preventive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 无所不在的",
+            "choices": [
+                "instrumental",
+                "discriminating",
+                "omnipresent",
+                "undeserved",
+                "odds"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 不平等; n. 差别; n. 胜算",
+            "choices": [
+                "disproportionate",
+                "intuitive",
+                "petty",
+                "anathema",
+                "odds"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 琐碎的; adj. 小规模的; adj. 小气的",
+            "choices": [
+                "domain",
+                "disproportionate",
+                "discriminating",
+                "petty",
+                "undeserved"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 想像; vt. 正视，面对",
+            "choices": [
+                "discriminating",
+                "vacillation",
+                "dismal",
+                "envisage",
+                "intuitive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 踌躇; n. 游移不定; n. 不果断",
+            "choices": [
+                "omnipresent",
+                "ornamental",
+                "discriminating",
+                "entail",
+                "vacillation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 预防法; n. 预防药; adj. 预防的，防止的",
+            "choices": [
+                "moribund",
+                "fractious",
+                "entail",
+                "preventive",
+                "instrumental"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 凭直觉获知的; adj. 直觉的",
+            "choices": [
+                "hail",
+                "intuitive",
+                "domain",
+                "ornate",
+                "dismal"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 易怒的; adj. 倔强的，难以对待的",
+            "choices": [
+                "a",
+                "c",
+                "f",
+                "i",
+                "o",
+                "r",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 不成比例的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "i",
+                "n",
+                "o",
+                "o",
+                "o",
+                "p",
+                "p",
+                "r",
+                "r",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "int. 万岁; vt. 致敬; n. 招呼",
+            "choices": [
+                "a",
+                "h",
+                "i",
+                "l"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 器乐曲; n. 工具字，工具格; adj. 有帮助的",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "l",
+                "m",
+                "n",
+                "n",
+                "r",
+                "s",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 识别（discriminate的ing形式）; v. 区别对待; adj. 有差别的",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "g",
+                "i",
+                "i",
+                "i",
+                "i",
+                "m",
+                "n",
+                "n",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 继承; vt. 使需要，必需; vt. 蕴含",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "l",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 装饰的; adj. 华丽的; adj. （文体）绚丽的",
+            "choices": [
+                "a",
+                "e",
+                "n",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 装饰品; n. 观赏植物; adj. 装饰的，装饰性的",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "l",
+                "m",
+                "n",
+                "n",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 明显的; adj. 易觉察的; adj. 可感知的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "e",
+                "l",
+                "l",
+                "p",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 使震耳欲聋; adj. 极好的; v. 把…打昏",
+            "choices": [
+                "g",
+                "i",
+                "n",
+                "n",
+                "n",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 小气的; adj. 小规模的; adj. 琐碎的",
+            "choices": [
+                "e",
+                "p",
+                "t",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 诅咒; n. 令人厌恶的人; n. 革出教门",
+            "choices": [
+                "a",
+                "a",
+                "a",
+                "e",
+                "h",
+                "m",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 冤枉的; adj. 不应得的，不该受的",
+            "choices": [
+                "d",
+                "d",
+                "e",
+                "e",
+                "e",
+                "n",
+                "r",
+                "s",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 预防的，防止的; n. 预防法; n. 预防药",
+            "choices": [
+                "e",
+                "e",
+                "e",
+                "i",
+                "n",
+                "p",
+                "r",
+                "t",
+                "v",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 差别; n. 几率; n. 不平等",
+            "choices": [
+                "d",
+                "d",
+                "o",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 想像; vt. 正视，面对",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "g",
+                "i",
+                "n",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 不果断; n. 踌躇; n. 游移不定",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "i",
+                "i",
+                "l",
+                "l",
+                "n",
+                "o",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 直觉的; adj. 凭直觉获知的",
+            "choices": [
+                "e",
+                "i",
+                "i",
+                "i",
+                "n",
+                "t",
+                "t",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 停滞不前的; adj. 垂死的; n. 垂死的人",
+            "choices": [
+                "b",
+                "d",
+                "i",
+                "m",
+                "n",
+                "o",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 无所不在的",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "m",
+                "n",
+                "n",
+                "o",
+                "p",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 阴沉的，沉闷的; adj. 凄凉的，忧郁的; n. 低落的情绪",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "l",
+                "m",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 鬼鬼祟祟的，秘密的",
+            "choices": [
+                "e",
+                "f",
+                "i",
+                "r",
+                "t",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 地产; n. 产业; n. 域名",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "m",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Right now,they just don't believe. And if they get some ______ signs of some improvement, I think things can turn  very quickly,\"",
+            "choices": [
+                "ornamental",
+                "hail",
+                "petty",
+                "palpable",
+                "envisage"
+            ],
+            "chn": "(VOA : standard.2009.03.10)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The advice came from experts who are appointed by the government to develop guidelines for ______ services, like mammograms.",
+            "choices": [
+                "petty",
+                "omnipresent",
+                "preventive",
+                "hail",
+                "odds"
+            ],
+            "chn": "(VOA : special.2009.11.25)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Deuteronomy emphasizes God's gracious and ______ love of Israel, and that's expressed in his mighty acts on Israel's behalf.",
+            "choices": [
+                "undeserved",
+                "petty",
+                "domain",
+                "intuitive",
+                "ornate"
+            ],
+            "chn": "申命记强调上帝对以色列亲切甚至不相称的爱，这在他对以色列人全能的行为上表现出来。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "He has won Grammy Awards for two of his comedy albums and for best country ______ performance.",
+            "choices": [
+                "intuitive",
+                "odds",
+                "furtive",
+                "instrumental",
+                "disproportionate"
+            ],
+            "chn": "(VOA : special.2009.07.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It also is driven very much by a secessionist account of Judaism as being something that was ______ at the time of Jesus.",
+            "choices": [
+                "stunning",
+                "preventive",
+                "moribund",
+                "ornate",
+                "disproportionate"
+            ],
+            "chn": "它同样也被一系列的犹太主义推动,作为在耶酥时期停滞不前的东西。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "She has way more power than she needs, it would seem, to destroy a ______ little mages like Comus.",
+            "choices": [
+                "disproportionate",
+                "petty",
+                "odds",
+                "stunning",
+                "moribund"
+            ],
+            "chn": "她会拥有更多的力量，那看上去足够，摧毁一个像科玛斯这样的英俊的法师。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "I think it's possible to see that \"they\" as the sort of general forces of modernity, of everything at ______ with the aristocratic culture Yeats and these women shared, inhabited.",
+            "choices": [
+                "intuitive",
+                "ornamental",
+                "odds",
+                "anathema",
+                "discriminating"
+            ],
+            "chn": "我认为可以把它们看作“,某种现代性的力量，所有和贵族文化不一致的,叶芝和两个女人所共有的。(现代诗歌课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The king,while being viewed as above politics, has played a stabilizing role over the years in Thailand's often ______ political climate.",
+            "choices": [
+                "ornamental",
+                "vacillation",
+                "furtive",
+                "odds",
+                "fractious"
+            ],
+            "chn": "(VOA : standard.2009.09.21)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So, we'll do all of that hosting for you which will be a nice way of giving a little more personal touch to your final projects if you decide to implement something web based and would like your own so called ______.",
+            "choices": [
+                "domain",
+                "palpable",
+                "furtive",
+                "discriminating",
+                "anathema"
+            ],
+            "chn": "这是我们能为你们的毕业设计所做的,一点点人文关怀,如果你们想做一些基于网站的东西,而且不愿意别人插手。(计算机科学课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "He says the Council has devoted a ______ amount of time on Israel and that has to stop.",
+            "choices": [
+                "ornamental",
+                "anathema",
+                "entail",
+                "hail",
+                "disproportionate"
+            ],
+            "chn": "(VOA : standard.2009.10.03)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Experts debate about the differences between terms such as Naive Art, Visionary Art,Folk Art, ______ Art and Outsider Art.",
+            "choices": [
+                "ornate",
+                "intuitive",
+                "hail",
+                "preventive",
+                "omnipresent"
+            ],
+            "chn": "(VOA : special.2010.04.14)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Greenery and flowering bushes surround the ______ Pool in the gardens.",
+            "choices": [
+                "furtive",
+                "hail",
+                "envisage",
+                "dismal",
+                "ornamental"
+            ],
+            "chn": "(VOA : special.2009.09.21)"
+        }
+    ],
+    "quiz_id": "144"
+}

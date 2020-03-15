@@ -1,0 +1,1182 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "cyclic",
+            "choices": [
+                "adj. 一定的",
+                "n. 一致",
+                "n. 标准，条件（criterion的复数）",
+                "adj. 环的",
+                "n. 容器",
+                "n. 本金",
+                "adj. 周期的",
+                "adj. 循环的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "crude",
+            "choices": [
+                "adj. 粗鲁的",
+                "adj. 天然的，未加工的",
+                "adj. 粗糙的",
+                "n. 相当",
+                "adj. 神志清醒的",
+                "vi. 降级，降低",
+                "n. 天然的物质",
+                "n. 原油"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "convergence",
+            "choices": [
+                "n. [数] 收敛",
+                "adv. 危急地",
+                "n. [数] 相关，关联",
+                "n. [数] 柱面",
+                "n. 觉悟",
+                "n. 矛盾",
+                "n. 一致",
+                "n. 会聚，集合"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "critically",
+            "choices": [
+                "adv. 精密地",
+                "adv. 危急地",
+                "adv. 严重地",
+                "adv. 很大程度上",
+                "n. [临床] 疗法",
+                "n. 果皮",
+                "n. 矛盾",
+                "adv. 批评性地"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "consumption",
+            "choices": [
+                "n. 论战",
+                "n. 树皮",
+                "n. 缺乏",
+                "adj. 并列的",
+                "n. 消耗",
+                "n. 消费",
+                "n. 肺痨",
+                "adj. 适合的，一致的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "contradiction",
+            "choices": [
+                "n. 协调，调和",
+                "n. 否认",
+                "n. 潮湿，湿气",
+                "n. 不足之处",
+                "adj. 冠的",
+                "n. 反驳",
+                "n. 矛盾",
+                "n. 德耳塔（希腊字母的第四个字）"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cylinder",
+            "choices": [
+                "adv. 危急地",
+                "n. 圆筒",
+                "n. 概要",
+                "n. [数] 柱面",
+                "n. 圆柱状物",
+                "n. 标准，条件（criterion的复数）",
+                "n. 肺痨",
+                "n. 汽缸"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conscious",
+            "choices": [
+                "n. 标准，条件（criterion的复数）",
+                "n. 暗示，隐含意义",
+                "adj. 神志清醒的",
+                "adj. 矛盾的",
+                "n. 一连串",
+                "adj. 故意的",
+                "vi. 关联",
+                "adj. 意识到的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "credibility",
+            "choices": [
+                "n. 蜜饯",
+                "n. 辅音字母",
+                "n. 可信性",
+                "n. 天然的物质",
+                "n. 协调，调和",
+                "n. 确实性",
+                "n. [数] 相关，关联",
+                "n. 坐标"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "critique",
+            "choices": [
+                "adj. 花冠的",
+                "n. 批评",
+                "n. 一致",
+                "adj. 粗糙的",
+                "vt. 使潮湿",
+                "vt. 使沮丧，抑制",
+                "vt. 批判",
+                "n. [计] 语料库"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "decay",
+            "choices": [
+                "vt. 驱使",
+                "n. 感觉",
+                "n. 衰退，[核] 衰减",
+                "n. 含蓄",
+                "adj. 花冠的",
+                "vt. 使衰退，使衰落",
+                "n. 评论文章",
+                "n. 意识"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "connotation",
+            "choices": [
+                "n. 储蓄的东西（词、语等）",
+                "n. 意识",
+                "vi. 收敛",
+                "n. 暗示，隐含意义",
+                "n. 肺痨",
+                "n. 含蓄",
+                "n. （河流的）三角洲",
+                "n. 内涵"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "consensus",
+            "choices": [
+                "n. 果皮",
+                "vt. 使有相互关系",
+                "n. 分镜头剧本",
+                "n. 截止期限，最后期限",
+                "n. 一致",
+                "n. 舆论",
+                "n. 合意",
+                "adj. 一致的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "degrade",
+            "choices": [
+                "vt. 使……丢脸",
+                "vi. 降级，降低",
+                "vt. 使……降解",
+                "n. 缺点，缺陷",
+                "n. 肺痨",
+                "vt. 使……降级",
+                "n. 合意",
+                "vi. 退化"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "consultation",
+            "choices": [
+                "n. 缺乏",
+                "n. 暗示，隐含意义",
+                "n. 树皮",
+                "n. 辅音",
+                "n. 矛盾",
+                "n. 讨论会",
+                "n. [临床] 会诊",
+                "n. 咨询"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cue",
+            "choices": [
+                "n. 线索",
+                "n. 集装箱",
+                "adj. 故意的",
+                "vt. 给…暗示",
+                "adj. 循环的",
+                "n. [数] 柱面",
+                "n. 提示，暗示",
+                "n. [解剖] 皮质"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "constitution",
+            "choices": [
+                "n. 体制",
+                "adv. 很大程度上",
+                "n. 宪法",
+                "n. 体格",
+                "n. 构造",
+                "n. 章程",
+                "n. 贪污，腐败",
+                "n. 建立，组成"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "correspondence",
+            "choices": [
+                "n. 相当",
+                "vt. 使潮湿",
+                "n. 不足之处",
+                "n. 一致",
+                "n. 通信",
+                "vi. 叛变",
+                "n. 改正，修正",
+                "adv. 得体地"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "corruption",
+            "choices": [
+                "n. 贪污，腐败",
+                "n. 偏差",
+                "adv. 得体地",
+                "n. 果皮",
+                "n. 挠曲",
+                "adj. 透明的，清澈的",
+                "n. 辩论",
+                "n. 堕落"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "correlation",
+            "choices": [
+                "n. 章程",
+                "n. [数] 相关，关联",
+                "adj. 相反的",
+                "vi. 同意",
+                "n. 宪法",
+                "n. 相互关系",
+                "adj. 粗糙的",
+                "vi. 退化"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 果酱; vt. 将…做成蜜饯; vt. 使守恒",
+            "choices": [
+                "convergence",
+                "conserve",
+                "cylinder",
+                "cure",
+                "consent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 一连串; n. 连续性; n. 分镜头剧本",
+            "choices": [
+                "continuity",
+                "decay",
+                "consent",
+                "demonstrator",
+                "conservation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 容器; n. 集装箱",
+            "choices": [
+                "coordination",
+                "definite",
+                "contour",
+                "container",
+                "controversy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 正确地; adv. 得体地",
+            "choices": [
+                "demonstrator",
+                "continent",
+                "deadline",
+                "connector",
+                "correctly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 与…抵触; vt. 与…矛盾; vi. 反驳",
+            "choices": [
+                "coronary",
+                "critique",
+                "contradict",
+                "definite",
+                "consciousness"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 衰退，[核] 衰减; n. 衰退，[核] 衰减; vi. 腐烂，腐朽",
+            "choices": [
+                "delta",
+                "convergence",
+                "cure",
+                "decay",
+                "coronary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 自制的，克制的; n. 大陆，洲，陆地",
+            "choices": [
+                "continent",
+                "correspondence",
+                "cord",
+                "correctly",
+                "conscious"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 赞成; n. 赞成; n. （意见等的）一致",
+            "choices": [
+                "credibility",
+                "critique",
+                "consent",
+                "consultation",
+                "cortex"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 不足的数额; n. 缺乏; n. 缺陷，缺点",
+            "choices": [
+                "congruent",
+                "cylinder",
+                "deficiency",
+                "curriculum",
+                "connector"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 保护; n. 保存，保持",
+            "choices": [
+                "conservation",
+                "crude",
+                "damp",
+                "correctly",
+                "consciousness"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 相反; n. 反面; adj. 相反的",
+            "choices": [
+                "cyclic",
+                "curriculum",
+                "defect",
+                "contrary",
+                "deadline"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 证明者; n. 示威者; n. 论证者",
+            "choices": [
+                "congruent",
+                "degrade",
+                "contradict",
+                "coronary",
+                "demonstrator"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 环的; adj. 循环的; adj. 周期的",
+            "choices": [
+                "cure",
+                "contour",
+                "constitution",
+                "cyclic",
+                "deficiency"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 截止期限，最后期限",
+            "choices": [
+                "conservation",
+                "consumption",
+                "correlation",
+                "criteria",
+                "deadline"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 故意的; adj. 意识到的; adj. 神志清醒的",
+            "choices": [
+                "demonstrator",
+                "constrain",
+                "conscious",
+                "congruent",
+                "correspondence"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 等高线; vt. 画等高线; n. 电路",
+            "choices": [
+                "conservation",
+                "constrain",
+                "coordinate",
+                "contour",
+                "correction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 含蓄; n. 内涵; n. 储蓄的东西（词、语等）",
+            "choices": [
+                "contradiction",
+                "connotation",
+                "cyclic",
+                "corruption",
+                "convergence"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [数] 相关，关联; n. 相互关系",
+            "choices": [
+                "deflection",
+                "curriculum",
+                "connotation",
+                "correlation",
+                "damp"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 堕落; n. 贪污，腐败",
+            "choices": [
+                "corruption",
+                "cue",
+                "definite",
+                "container",
+                "constitution"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 改正，修正",
+            "choices": [
+                "correspondence",
+                "continuity",
+                "correction",
+                "corruption",
+                "container"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 连接器，连接头",
+            "choices": [
+                "deadline",
+                "congruent",
+                "correlation",
+                "cord",
+                "connector"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [计] 语料库; n. 文集; n. 本金",
+            "choices": [
+                "corpus",
+                "connector",
+                "consonant",
+                "conserve",
+                "correctly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 不足之处; vi. 变节; n. 缺点，缺陷",
+            "choices": [
+                "degrade",
+                "defect",
+                "correctly",
+                "coronary",
+                "curriculum"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [数] 收敛; n. 会聚，集合",
+            "choices": [
+                "deadline",
+                "deficiency",
+                "convergence",
+                "correlation",
+                "coronary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 治疗; vt. 治疗; vi. 痊愈",
+            "choices": [
+                "corruption",
+                "cure",
+                "deceive",
+                "congruent",
+                "correctly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [临床] 会诊; n. 讨论会; n. 咨询",
+            "choices": [
+                "cure",
+                "contradict",
+                "converge",
+                "consciousness",
+                "consultation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 相关联的人; vt. 使有相互关系; vi. 关联",
+            "choices": [
+                "converge",
+                "cortex",
+                "contradict",
+                "correlate",
+                "consonant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 抗辩的; adj. 反驳的; adj. 矛盾的",
+            "choices": [
+                "correctly",
+                "cord",
+                "deceive",
+                "contradictory",
+                "curriculum"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 花冠的; adj. 冠状的; adj. 冠的",
+            "choices": [
+                "decay",
+                "cue",
+                "deficiency",
+                "coronary",
+                "correction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 确实性; n. 可信性",
+            "choices": [
+                "critique",
+                "credibility",
+                "connector",
+                "correction",
+                "correlation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 舆论; n. 一致; n. 合意",
+            "choices": [
+                "degrade",
+                "conservation",
+                "consensus",
+                "cue",
+                "cylinder"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 构造; n. 宪法; n. 建立，组成",
+            "choices": [
+                "conservation",
+                "deadline",
+                "deflection",
+                "constitution",
+                "degrade"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 绳索; n. 束缚; vt. 用绳子捆绑",
+            "choices": [
+                "cyclic",
+                "cord",
+                "conscious",
+                "correlation",
+                "corpus"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 潮湿的; vi. 变潮湿; vt. 使沮丧，抑制",
+            "choices": [
+                "damp",
+                "contradiction",
+                "correction",
+                "critically",
+                "convergence"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 危急地; adv. 严重地; adv. 极为重要地",
+            "choices": [
+                "constrain",
+                "critically",
+                "consumption",
+                "cyclic",
+                "contradict"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 束缚; vt. 驱使; vt. 强迫",
+            "choices": [
+                "damp",
+                "consent",
+                "congruent",
+                "constrain",
+                "contradictory"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 反驳; n. 否认; n. 矛盾",
+            "choices": [
+                "deflection",
+                "contradiction",
+                "correction",
+                "cure",
+                "connotation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. （河流的）三角洲; n. 德耳塔（希腊字母的第四个字）",
+            "choices": [
+                "damp",
+                "coordinate",
+                "delta",
+                "crude",
+                "controversy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 消费; n. 肺痨; n. 消耗",
+            "choices": [
+                "corpus",
+                "damp",
+                "coordinate",
+                "continuity",
+                "consumption"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 相当; n. 通信; n. 一致",
+            "choices": [
+                "correspondence",
+                "deceive",
+                "conserve",
+                "cord",
+                "degrade"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 全等的; adj. 和谐的; adj. 适合的，一致的",
+            "choices": [
+                "congruent",
+                "consumption",
+                "delta",
+                "connector",
+                "coordinate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [解剖] 皮质; n. 果皮; n. 树皮",
+            "choices": [
+                "convergence",
+                "contrary",
+                "connector",
+                "contradictory",
+                "cortex"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 批判; vt. 评论; n. 评论文章",
+            "choices": [
+                "critique",
+                "consciousness",
+                "delta",
+                "contour",
+                "decay"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使汇聚; vi. 收敛; vi. 靠拢",
+            "choices": [
+                "converge",
+                "critique",
+                "cue",
+                "crude",
+                "conservation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 同等的; vi. 协调; n. 坐标",
+            "choices": [
+                "cord",
+                "cue",
+                "cyclic",
+                "continent",
+                "coordinate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 一定的; adj. 确切的",
+            "choices": [
+                "correlation",
+                "definite",
+                "crystal",
+                "deadline",
+                "deceive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 贬低; vi. 退化; vt. 使……丢脸",
+            "choices": [
+                "degrade",
+                "cylinder",
+                "contradictory",
+                "cyclic",
+                "constrain"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 挠曲; n. 偏差; n. 偏向",
+            "choices": [
+                "converge",
+                "correctly",
+                "coordination",
+                "decay",
+                "deflection"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 线索; n. 提示，暗示; vt. 给…暗示",
+            "choices": [
+                "continuity",
+                "consonant",
+                "cue",
+                "definite",
+                "cord"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 标准，条件（criterion的复数）",
+            "choices": [
+                "correctly",
+                "consumption",
+                "constitution",
+                "criteria",
+                "continent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 水晶; adj. 水晶的; n. 结晶，晶体",
+            "choices": [
+                "cue",
+                "corpus",
+                "demonstrator",
+                "consent",
+                "crystal"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 对等，同等; n. 协调，调和",
+            "choices": [
+                "coordination",
+                "contradictory",
+                "conserve",
+                "consonant",
+                "correspondence"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 汽缸; n. 圆筒; n. [数] 柱面",
+            "choices": [
+                "deceive",
+                "correlate",
+                "degrade",
+                "conscious",
+                "cylinder"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 意识; n. 感觉; n. 知觉",
+            "choices": [
+                "container",
+                "coronary",
+                "consciousness",
+                "corruption",
+                "connector"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 辅音; adj. 辅音的; adj. 和谐的",
+            "choices": [
+                "consonant",
+                "curriculum",
+                "critically",
+                "damp",
+                "deflection"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 天然的，未加工的; n. 天然的物质; adj. 粗鲁的",
+            "choices": [
+                "corruption",
+                "crude",
+                "decay",
+                "congruent",
+                "cylinder"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 辩论; n. 争论; n. 论战",
+            "choices": [
+                "coronary",
+                "contradiction",
+                "controversy",
+                "deflection",
+                "damp"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 欺骗; v. 行骗",
+            "choices": [
+                "correctly",
+                "deceive",
+                "consent",
+                "corpus",
+                "delta"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the state or relation of being correlated",
+            "choices": [
+                "consensus",
+                "contour",
+                "correlation",
+                "consonant",
+                "congruent"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": slightly or moderately wet : moist",
+            "choices": [
+                "damp",
+                "consonant",
+                "converge",
+                "correlation",
+                "credibility"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to secure by or as if by bonds : confine",
+            "choices": [
+                "constrain",
+                "cord",
+                "correctly",
+                "contradict",
+                "demonstrator"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to tend or move toward one point or one another : come together : meet",
+            "choices": [
+                "converge",
+                "consensus",
+                "connotation",
+                "continuity",
+                "correlate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": epitome",
+            "choices": [
+                "correlate",
+                "crude",
+                "definite",
+                "continent",
+                "conserve"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act of saying something that is opposite or very different in meaning to something else",
+            "choices": [
+                "corpus",
+                "consensus",
+                "contradiction",
+                "consumption",
+                "correspondence"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to shape the contour of",
+            "choices": [
+                "decay",
+                "contrary",
+                "delta",
+                "correlation",
+                "contour"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to deal with in a way that eliminates or rectifies",
+            "choices": [
+                "correctly",
+                "cure",
+                "deceive",
+                "demonstrator",
+                "connector"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to examine critically : review",
+            "choices": [
+                "contradict",
+                "contour",
+                "container",
+                "critique",
+                "coordination"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": an embryonic movement that involves streaming of material from the dorsal and lateral surfaces of the gastrula toward the blastopore and concurrent shifting of lateral materials toward the middorsal line and that is a process fundamental to the establishment of the germ layers",
+            "choices": [
+                "consonant",
+                "cue",
+                "convergence",
+                "coronary",
+                "cortex"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 花冠的; adj. 冠的; adj. 冠状的",
+            "choices": [
+                "a",
+                "c",
+                "n",
+                "o",
+                "o",
+                "r",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 体格; n. 构造; n. 宪法",
+            "choices": [
+                "c",
+                "i",
+                "i",
+                "n",
+                "n",
+                "o",
+                "o",
+                "s",
+                "t",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 水晶饰品; n. 结晶，晶体; n. 水晶",
+            "choices": [
+                "a",
+                "c",
+                "l",
+                "r",
+                "s",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 粗糙的; n. 天然的物质; n. 原油",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. （河流的）三角洲; n. 德耳塔（希腊字母的第四个字）",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "l",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "And I get down to a certain card and I am stumped, so I will leave a space waiting for that card to appear on ______.",
+            "choices": [
+                "congruent",
+                "correction",
+                "continuity",
+                "cue",
+                "consultation"
+            ],
+            "chn": "我遇到某张牌,会被困住，我会留些地方给,恰好要出现的牌。(固态化学导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Of course, the ______ steps that we've taken to do this apply not just for breaking down reactants and product into the elements in their standards states, but of course we could also look at whole sets of reactions and write cycles as well, right.",
+            "choices": [
+                "corpus",
+                "defect",
+                "controversy",
+                "cortex",
+                "cyclic"
+            ],
+            "chn": "当然，我们这里用的循环的,步骤不仅仅在把生成物,和反应物拆成其标准状态下,的元素时有效,我们也可以研究整个一系列,反应并写出相应循环。(热力学与动力学课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "There's no ______ between them ... and that means that the variance-- and I want to talk about equally-weighted portfolio.",
+            "choices": [
+                "continuity",
+                "correlation",
+                "correlate",
+                "converge",
+                "corpus"
+            ],
+            "chn": "它们之间没有相关性,也就是说。。。方差-,我想讲一下,权重相等的投资组合。(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"There is a growing ______ that we as a nation need to recreate our communities and environments where healthy choices are easy choices and affordable choices. Agriculture Secretary Tom Vilsack -- who has talked about his own childhood struggles with weight -- agrees about the need.",
+            "choices": [
+                "consensus",
+                "contradiction",
+                "converge",
+                "connotation",
+                "coordinate"
+            ],
+            "chn": "(VOA : special.2010.03.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So that they will want to ______ the wilderness.\" That's what it was about.",
+            "choices": [
+                "contrary",
+                "contradictory",
+                "conserve",
+                "definite",
+                "congruent"
+            ],
+            "chn": "这样他们就会想要保护这片荒野。”那就是它的作用。(SpeakingMax英语口语达人 : 美国的博物馆教育)"
+        }
+    ],
+    "quiz_id": "210"
+}

@@ -1,0 +1,228 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "amino",
+            "choices": [
+                "n. [化学] 氨基",
+                "vi. 接近于",
+                "adj. 讽刺的",
+                "n. (英、意、印尼)阿米诺",
+                "adj. 氨基的",
+                "n. 青少年",
+                "n. 铝",
+                "n. 飞机"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "artistic",
+            "choices": [
+                "vt. 使产生放射性",
+                "vi. 累积",
+                "adj. 有美感的",
+                "adj. 艺术的",
+                "n. 代数学",
+                "n. 青少年",
+                "adj. 风雅的",
+                "prep. 在…当中（等于among）"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "absorb",
+            "choices": [
+                "vt. 吸收",
+                "vi. 确认",
+                "n. 铝",
+                "vt. 理解",
+                "vt. 使…全神贯注",
+                "vt. 承受",
+                "n. [计][数] 算法，运算法则",
+                "vt. 吸引"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "alliance",
+            "choices": [
+                "vt. 强调",
+                "n. 联盟，联合",
+                "adj. 尖声的",
+                "n. [计][数] 算法，运算法则",
+                "vi. 分配",
+                "adj. 仿造的",
+                "n. 联姻",
+                "n. (英、意、印尼)阿米诺"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "anti",
+            "choices": [
+                "adj. 反对的",
+                "n. 高龄",
+                "vt. 肯定",
+                "n. (意)安蒂",
+                "n. (阿拉伯)安提",
+                "adj. 抗生的",
+                "vt. 使产生放射性",
+                "n. 反对者，反对论者"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 振幅; n. 广阔; n. 丰富，充足",
+            "choices": [
+                "algebra",
+                "aggregate",
+                "accent",
+                "anti",
+                "amplitude"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 激活; vt. 使产生放射性; vt. 使活动",
+            "choices": [
+                "antiquity",
+                "analogy",
+                "adverse",
+                "accelerate",
+                "activate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 酸; n. <俚>迷幻药; adj. 刻薄的",
+            "choices": [
+                "alien",
+                "accumulate",
+                "artificial",
+                "adaptation",
+                "acid"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使……加快; vi. 促进; vt. 使……增速",
+            "choices": [
+                "anthropology",
+                "accelerate",
+                "architect",
+                "aluminum",
+                "aerosol"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 手工艺品; n. 人工制品",
+            "choices": [
+                "artifact",
+                "arbitrary",
+                "architect",
+                "agriculture",
+                "approximate"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [数] 精确度，准确性",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "c",
+                "c",
+                "r",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 阑尾; n. 附录; n. 附加物",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "n",
+                "p",
+                "p",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 高龄; n. 古物; n. 古代的遗物",
+            "choices": [
+                "a",
+                "i",
+                "i",
+                "n",
+                "q",
+                "t",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "But the ______-priest, ______-cult sentiment, of European Protest______sm, is apparent in the history of biblical scholarship in the last few centuries.",
+            "choices": [
+                "amongst",
+                "articulate",
+                "amplitude",
+                "anti",
+                "allocate"
+            ],
+            "chn": "但是反牧师反仪式的欧洲清教主义,在过去几个世纪的《圣经》研究历史中很显著。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The first radio broadcasts were made using ______ modulation.",
+            "choices": [
+                "amplitude",
+                "accelerate",
+                "alliance",
+                "antiquity",
+                "aerosol"
+            ],
+            "chn": "(VOA : special.2010.12.08)"
+        },
+        {
+            "cate": "choice",
+            "problem": "An example is production of certain molecules called cytokines by T-cells that ______ themselves.",
+            "choices": [
+                "architect",
+                "arrow",
+                "aluminum",
+                "activate",
+                "absorb"
+            ],
+            "chn": "细胞能分泌这类叫做细胞因子的分子,实现自激活(生物医学工程探索课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And she knew about the value of ______.\"",
+            "choices": [
+                "applause",
+                "accumulate",
+                "artistic",
+                "arrow",
+                "affirm"
+            ],
+            "chn": "(VOA : special.2011.02.27)"
+        }
+    ],
+    "quiz_id": "103"
+}

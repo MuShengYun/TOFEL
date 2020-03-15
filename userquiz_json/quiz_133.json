@@ -1,0 +1,187 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "choice",
+            "problem": "Although some of them are a little ______, basically they're pretty simple.",
+            "choices": [
+                "disperse",
+                "fragments",
+                "obscure",
+                "diffuse",
+                "vast"
+            ],
+            "chn": "虽然它们中的有些有点模糊，但事实上，它们非常简单。(SpeakingMax英语口语达人 : 经常犯的失误)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Under the ______ pact, the government agreed to the cleric's main demand of imposing Islamic law in the insurgency-hit districts.",
+            "choices": [
+                "controversial",
+                "indispensable",
+                "refine",
+                "lone",
+                "conducive"
+            ],
+            "chn": "(VOA : standard.2009.07.26)"
+        },
+        {
+            "cate": "choice",
+            "problem": "We know what to do to prevent infections and save or ______ lives.",
+            "choices": [
+                "prolong",
+                "startled",
+                "attest",
+                "mask",
+                "in essence"
+            ],
+            "chn": "我们知道该怎么去做，来预防感染并且拯救或者延长生命。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "And in this battle contentious battle ______ the public will lose,\".",
+            "choices": [
+                "discrepancy",
+                "invariably",
+                "impede",
+                "segregated",
+                "notably"
+            ],
+            "chn": "(VOA : standard.2009.12.21)"
+        },
+        {
+            "cate": "choice",
+            "problem": "They showed the faces of people in a land that still wore the ______ of defeat in America's Civil War.",
+            "choices": [
+                "propose",
+                "mask",
+                "cumulative",
+                "sustain",
+                "periodically"
+            ],
+            "chn": "(VOA : special.2009.05.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "There are ______ controversies about it, and many of the courses you would take in law school are meant to try to get to the bottom of these thorny questions.",
+            "choices": [
+                "exceptional",
+                "dramatically",
+                "widespread",
+                "attest",
+                "tend"
+            ],
+            "chn": "这个问题有很多争议，法学院的很多课都旨在,把这些棘手的问题弄得水落石出。(文学理论导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"The strength of this relationship between obesity and inflammation is concerning, that something's happening that could be ______.\"",
+            "choices": [
+                "gradual",
+                "cumulative",
+                "conducive",
+                "doubtless",
+                "replicate"
+            ],
+            "chn": "(VOA : standard.2010.03.09)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"They must keep paying that fee on an annual basis until they ______ the .",
+            "choices": [
+                "startled",
+                "replenish",
+                "widespread",
+                "pioneering",
+                "irritating"
+            ],
+            "chn": "(VOA : standard.2009.04.20)"
+        },
+        {
+            "cate": "choice",
+            "problem": "In some cases, people can ______ the information being represented but need a machine to use it properly.",
+            "choices": [
+                "compelling",
+                "erase",
+                "disperse",
+                "decipher",
+                "doubtless"
+            ],
+            "chn": "在一些情况下，人们可以解释所表达的信息但是需要机器正确地使用它们。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "During that unexpected rendezvous, I felt more in tune with the rhythms of life on this ______ planet than I ever have.",
+            "choices": [
+                "terminate",
+                "obscure",
+                "fragments",
+                "vast",
+                "unfavorable"
+            ],
+            "chn": "在那次意外的聚会中，在这个浩瀚的行星上，我前所未有地感觉到了与生命的节奏是如此地协调。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "We thought that the Taliban will be reduced to a minor ______ factor within 6 months to a year.",
+            "choices": [
+                "prevailing",
+                "irritating",
+                "mimic",
+                "attest",
+                "synthesizing"
+            ],
+            "chn": "我们原以为,在六个月到一年之内塔利班分子会减少成为一个很小的势利。(国际座谈会课程节选 : 普林斯顿公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "What do you ______ we do?",
+            "choices": [
+                "propose",
+                "mask",
+                "dramatically",
+                "peculiar",
+                "decipher"
+            ],
+            "chn": "你建议我们怎么做？()"
+        },
+        {
+            "cate": "choice",
+            "problem": "What place can it occupy in each type of discourse, what ______ can it assume, and by obeying what rules?\"",
+            "choices": [
+                "functions",
+                "synthesizing",
+                "startled",
+                "controversial",
+                "anticipate"
+            ],
+            "chn": "它可以在每种话语中占据什么样的位置，它在遵循什么原则的情况下可以有什么样的功能？“(文学理论导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "One tough moment Bradley was asked to ______ on was the loss to Costa Rica earlier in the week.",
+            "choices": [
+                "erase",
+                "elaborate",
+                "confine",
+                "draw to",
+                "decipher"
+            ],
+            "chn": "(VOA : standard.2009.06.07)"
+        },
+        {
+            "cate": "choice",
+            "problem": "I wrote my first book--I already talked about that, ______ Portfolio Management--that deals with the challenges that face institutional investors.",
+            "choices": [
+                "scanty",
+                "diffuse",
+                "erase",
+                "exploit",
+                "pioneering"
+            ],
+            "chn": "我写的第一本书,我已经提到过了,《机构投资的创新之路》,讨论了机构投资者所面临的挑战(金融市场课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "133"
+}

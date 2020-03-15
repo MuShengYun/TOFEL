@@ -1,0 +1,539 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "circulate",
+            "choices": [
+                "vi. 顺从，遵从",
+                "vt. 使循环",
+                "vi. 传播，流传",
+                "vt. 使传播",
+                "vi. 流通",
+                "vt. 使流通",
+                "vi. 答应",
+                "vi. 循环"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "comprehension",
+            "choices": [
+                "n. 国际象棋，西洋棋",
+                "vt. 挫败",
+                "adj. 比较的",
+                "n. 包含",
+                "n. 理解",
+                "vt. 使发咔哒声",
+                "n. [土壤] 粘土",
+                "n. 混乱"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "configuration",
+            "choices": [
+                "n. 教室",
+                "n. 结构",
+                "n. 补语",
+                "vt. 使混淆",
+                "adj. 集合的",
+                "vt. 怀孕",
+                "n. 外形",
+                "n. 配置"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conditional",
+            "choices": [
+                "n. 氯化物",
+                "n. 顾客",
+                "n. 氯化物",
+                "n. 移民队",
+                "n. 条件句",
+                "adj. 假定的",
+                "adv. 通常地",
+                "n. 小粉盒"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "comma",
+            "choices": [
+                "vi. 得到澄清",
+                "adj. 集体主义的",
+                "n. 逗号",
+                "vt. 怀孕",
+                "n. 电影院",
+                "adj. 有条件的",
+                "n. 大块",
+                "n. 停顿"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 氯化物",
+            "choices": [
+                "complement",
+                "chloride",
+                "comparable",
+                "conceive",
+                "conduction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [植] 球果; vt. 使成锥形; n. 圆锥体，圆锥形",
+            "choices": [
+                "chromosome",
+                "cone",
+                "cinema",
+                "competent",
+                "complement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 胜任的; adj. 足够的; adj. 有能力的",
+            "choices": [
+                "coefficient",
+                "commentary",
+                "clay",
+                "competent",
+                "conduction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 认知的，认识的",
+            "choices": [
+                "cinema",
+                "cognitive",
+                "clinic",
+                "clip",
+                "coefficient"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 答应; vi. 顺从，遵从; vi. 遵守",
+            "choices": [
+                "comply",
+                "conception",
+                "coefficient",
+                "confound",
+                "circulate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 关闭; n. 终止，结束; vt. 使终止",
+            "choices": [
+                "conceive",
+                "conduction",
+                "closure",
+                "chemotherapy",
+                "chemistry"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 慢性的; adj. 长期的; adj. 习惯性的",
+            "choices": [
+                "conception",
+                "confound",
+                "chronic",
+                "clue",
+                "commentary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 滴答声; vt. 使发咔哒声; vi. 作咔哒声",
+            "choices": [
+                "click",
+                "classification",
+                "complement",
+                "composer",
+                "conceive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 并发症; n. 复杂化; n. 复杂",
+            "choices": [
+                "complication",
+                "computation",
+                "clay",
+                "configuration",
+                "comply"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 补偿，赔偿; vt. 付报酬; vi. 抵消",
+            "choices": [
+                "chunk",
+                "compact",
+                "compensate",
+                "clue",
+                "civilization"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 简洁的; n. 小粉盒; vt. 使紧密结合",
+            "choices": [
+                "cognitive",
+                "compact",
+                "conceptual",
+                "conditional",
+                "cone"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 考虑; vt. 持有; vt. 以为",
+            "choices": [
+                "confound",
+                "circa",
+                "comma",
+                "cone",
+                "conceive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 怀孕; n. 设想; n. 开始",
+            "choices": [
+                "clever",
+                "confine",
+                "chunk",
+                "civilization",
+                "conception"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 得到净化; vi. 得到澄清; vt. 阐明",
+            "choices": [
+                "clip",
+                "coefficient",
+                "collective",
+                "clarify",
+                "circa"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 临床; n. 诊所",
+            "choices": [
+                "comparable",
+                "clinic",
+                "competence",
+                "clever",
+                "complement"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": subject to, implying, or dependent upon a condition",
+            "choices": [
+                "conditional",
+                "conduction",
+                "conceptual",
+                "comply",
+                "cone"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act or process of comprising",
+            "choices": [
+                "confound",
+                "collective",
+                "comprehension",
+                "closure",
+                "commentary"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a shape that has a pointed top and sides that form a circle at the bottom",
+            "choices": [
+                "classroom",
+                "cone",
+                "colonial",
+                "compact",
+                "chess"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act or method of distributing into a class or category according to characteristics",
+            "choices": [
+                "cognitive",
+                "comparable",
+                "classification",
+                "click",
+                "chunk"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a system of reckoning",
+            "choices": [
+                "chloride",
+                "conditional",
+                "clever",
+                "configuration",
+                "computation"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": of or relating to the original 13 colonies forming the United States",
+            "choices": [
+                "comply",
+                "colonial",
+                "compensate",
+                "clay",
+                "classification"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to cut or cut off with or as if with shears",
+            "choices": [
+                "click",
+                "clip",
+                "conception",
+                "conduction",
+                "computation"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": similar, like",
+            "choices": [
+                "comparable",
+                "composer",
+                "classroom",
+                "client",
+                "circulate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": of, relating to, or consisting of concepts",
+            "choices": [
+                "comma",
+                "chloride",
+                "chronic",
+                "conceptual",
+                "composer"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a group of persons institutionalized away from others",
+            "choices": [
+                "chemistry",
+                "colony",
+                "complication",
+                "chemotherapy",
+                "confine"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to hold within a location",
+            "choices": [
+                "confine",
+                "conditional",
+                "chemotherapy",
+                "closure",
+                "competence"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to complete or enhance by providing something additional : to be complementary to",
+            "choices": [
+                "configuration",
+                "complement",
+                "confound",
+                "click",
+                "communicative"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": made of different parts or elements",
+            "choices": [
+                "confound",
+                "composite",
+                "communicative",
+                "composer",
+                "complication"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a meeting of two or more persons for discussing matters of common concern",
+            "choices": [
+                "conference",
+                "commentary",
+                "compensate",
+                "communist",
+                "clone"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to provide with a clue",
+            "choices": [
+                "click",
+                "clue",
+                "confine",
+                "comma",
+                "clone"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 委托人; n. [经] 客户; n. 顾客",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "l",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 集体主义的; n. 集团; n. 集合体",
+            "choices": [
+                "c",
+                "c",
+                "e",
+                "e",
+                "i",
+                "l",
+                "l",
+                "o",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "prep. 大约于; adv. 大约",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "i",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 得到澄清; vt. 阐明; vi. 得到净化",
+            "choices": [
+                "a",
+                "c",
+                "f",
+                "i",
+                "l",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 传播，流传; vi. 流通; vi. 循环",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "i",
+                "l",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "But even though they became freed, they were still considered a member of this guy's household, as his ______ and his freedman.",
+            "choices": [
+                "collective",
+                "communist",
+                "clay",
+                "client",
+                "clone"
+            ],
+            "chn": "但是虽然被释放了，但他们仍然是原主人家户中的一员，仍是主人的被庇护人及自由人。(新约课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "If you ______ on Courseware you will get to this menu, the first of which preferences is Periodic Table.",
+            "choices": [
+                "communist",
+                "comma",
+                "confound",
+                "clone",
+                "click"
+            ],
+            "chn": "如果你点击课件，就会来到这个菜单，第一个选择就是周期表。(固态化学导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But even in the prose accounts in Exodus 14 we can see a ______ of two intertwined versions.",
+            "choices": [
+                "composite",
+                "coefficient",
+                "comma",
+                "conduction",
+                "coherent"
+            ],
+            "chn": "即使在《出埃及记》14的白话诗中4,我们可以看到两个版本的混合版。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The findings suggest that even a half-hour walk at a quick speed every day could lower the risk of ______ impairment.",
+            "choices": [
+                "composer",
+                "civilization",
+                "client",
+                "chronic",
+                "cognitive"
+            ],
+            "chn": "(VOA : special.2011.07.27)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Lonestar's lead guitarist Michael Britt says, \"We feel that this album is a complete reflection of the group,______ 2010.",
+            "choices": [
+                "chess",
+                "colonial",
+                "circa",
+                "compact",
+                "communist"
+            ],
+            "chn": "(VOA : standard.2010.04.30)"
+        }
+    ],
+    "quiz_id": "232"
+}

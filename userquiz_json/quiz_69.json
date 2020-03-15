@@ -1,0 +1,277 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "phenomenal",
+            "choices": [
+                "n. 系数",
+                "adj. 现象的",
+                "adj. 惊人的，非凡的",
+                "n. 微生物",
+                "adj. 异常的",
+                "adj. 显著的",
+                "adj. 能知觉的",
+                "n. [电] 电源插座"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "pardon",
+            "choices": [
+                "vt. 宽恕",
+                "vt. 赦免",
+                "n. 赦免",
+                "vt. 原谅",
+                "n. 宽恕",
+                "n. 原谅",
+                "vi. 获得",
+                "n. 杀虫剂"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "parental",
+            "choices": [
+                "adj. 父母亲的，父母的",
+                "n. 风琴",
+                "n. 攻击，进攻",
+                "n. 大农场",
+                "n. 杀虫剂",
+                "n. 后代，子孙",
+                "adj. 亲代的，亲本的",
+                "adj. 最理想的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "overlap",
+            "choices": [
+                "n. [化学] 氧气，[化学] 氧",
+                "vi. 部分的同时发生",
+                "n. 重叠",
+                "vt. 与…同时发生",
+                "n. 重复",
+                "vt. 与…重叠",
+                "n. 皮膜化成",
+                "vi. 部分重叠"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "onward",
+            "choices": [
+                "adj. 局部的",
+                "adj. 眼睛的，视觉的",
+                "adv. 在前面",
+                "adj. 前进的",
+                "adv. 向前",
+                "adj. 定期的",
+                "adj. 向前的",
+                "n. 皮膜化成"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 似是而非的论点; n. 自相矛盾的人或事; n. 悖论，反论",
+            "choices": [
+                "pole",
+                "optimal",
+                "oxidize",
+                "paradox",
+                "offspring"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 复数的; n. 复数",
+            "choices": [
+                "partially",
+                "phenomenal",
+                "physics",
+                "orient",
+                "plural"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 亲代的，亲本的; adj. 父母亲的，父母的",
+            "choices": [
+                "plug",
+                "plantation",
+                "parental",
+                "oscillation",
+                "obtain"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 向前的; adv. 在前面; adj. 前进的",
+            "choices": [
+                "physically",
+                "physics",
+                "outer",
+                "onward",
+                "philosophical"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 局部的; adj. 不公平的; adj. 偏爱的",
+            "choices": [
+                "periodic",
+                "orientation",
+                "painful",
+                "partial",
+                "pole"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 参量; n. 系数; n. 参数",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "e",
+                "m",
+                "p",
+                "r",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 哲学家; n. 哲人",
+            "choices": [
+                "e",
+                "h",
+                "h",
+                "i",
+                "l",
+                "o",
+                "o",
+                "p",
+                "p",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. （神经）末梢区域的; n. 外部设备; adj. 外围的",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "h",
+                "i",
+                "l",
+                "p",
+                "p",
+                "r",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 间歇，插曲; n. 圆括号; n. 插入语,插入成分",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "h",
+                "i",
+                "n",
+                "p",
+                "r",
+                "s",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 杀虫剂",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "e",
+                "i",
+                "i",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "If your friend does not seem to understand how ______ your broken heart is, you may ask her to have a heart.",
+            "choices": [
+                "oxidize",
+                "onset",
+                "phosphate",
+                "phonological",
+                "painful"
+            ],
+            "chn": "(VOA : special.2010.07.18)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Then when I am talking to young people about Columbine they almost always understand it in the context of school bullying in the context of ______ neglect in the context of kids' lack of self-esteem and dignity.",
+            "choices": [
+                "onset",
+                "periodic",
+                "partially",
+                "partial",
+                "parental"
+            ],
+            "chn": "当我和人们讨论科罗拉多可伦拜高中枪杀案时,他们几乎都是这样理解的,无非是校园暴力,缺乏父母管教,以及孩子们缺少自尊自立。(媒体、教育、市场课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "If you want it to take a so-called argument or a ______, there's a subtle semantic distinction between arguments and ______, but for all intents and purposes, they're the same thing.",
+            "choices": [
+                "peasant",
+                "parameter",
+                "pesticide",
+                "pathway",
+                "phosphate"
+            ],
+            "chn": "如果你想要你的函数携带参数或,参量，这里有一个微妙的语义差别在,参数和参量之中，但是为了所有的意图,和目的，他们作用是一样的。(计算机科学课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "She founded the ______ media company, the Oprah's Angel Network charity and the Harpo film,television and radio production company.",
+            "choices": [
+                "physically",
+                "outer",
+                "obtain",
+                "photographic",
+                "oxygen"
+            ],
+            "chn": "(VOA : special.2010.04.16)"
+        },
+        {
+            "cate": "choice",
+            "problem": "They're going to move from a negative ______ to a positive ______, so they're going to move through this gel.",
+            "choices": [
+                "pesticide",
+                "pole",
+                "physics",
+                "parenthesis",
+                "plausible"
+            ],
+            "chn": "它们会从负极移向正极,会通过这块凝胶板(生物医学工程探索课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "69"
+}

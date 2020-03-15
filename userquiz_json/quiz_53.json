@@ -1,0 +1,268 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "continuity",
+            "choices": [
+                "n. 连续性",
+                "n. 感觉",
+                "n. 磋商",
+                "n. 暗示，隐含意义",
+                "n. 一连串",
+                "n. 分镜头剧本",
+                "adj. 冠的",
+                "n. 蜜饯"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "contour",
+            "choices": [
+                "n. 电路",
+                "n. 周线",
+                "n. 概要",
+                "adj. 确切的",
+                "vt. 画等高线",
+                "n. 轮廓",
+                "n. 等高线",
+                "vt. 画轮廓"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "continent",
+            "choices": [
+                "n. 连接器，连接头",
+                "adj. 自制的，克制的",
+                "adv. 严重地",
+                "vt. 强迫",
+                "n. [数] 收敛",
+                "adj. 相反的",
+                "adj. 一定的",
+                "n. 大陆，洲，陆地"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "credibility",
+            "choices": [
+                "adj. 一致的",
+                "n. 确实性",
+                "n. 天然的物质",
+                "vt. 强迫",
+                "adj. 冠的",
+                "vt. 否定",
+                "n. 讨论会",
+                "n. 可信性"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "deceive",
+            "choices": [
+                "adj. 相反的",
+                "n. 蜜饯",
+                "n. 章程",
+                "n. 辅音字母",
+                "v. 欺骗",
+                "adj. 循环的",
+                "adj. 并列的",
+                "v. 行骗"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 确实性; n. 可信性",
+            "choices": [
+                "contrary",
+                "criteria",
+                "credibility",
+                "continent",
+                "converge"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 偏向; n. 挠曲; n. 偏差",
+            "choices": [
+                "contradict",
+                "demonstrator",
+                "crystal",
+                "decay",
+                "deflection"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 合意; n. 舆论; n. 一致",
+            "choices": [
+                "consensus",
+                "damp",
+                "contrary",
+                "connotation",
+                "contradiction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 减幅，阻尼; vt. 使潮湿; vi. 变潮湿",
+            "choices": [
+                "contradictory",
+                "damp",
+                "correction",
+                "corruption",
+                "consonant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 建立，组成; n. 章程; n. 体格",
+            "choices": [
+                "consultation",
+                "constitution",
+                "deflection",
+                "coronary",
+                "definite"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 意识到的; adj. 神志清醒的; adj. 故意的",
+            "choices": [
+                "c",
+                "c",
+                "i",
+                "n",
+                "o",
+                "o",
+                "s",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 确切的; adj. 一定的",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "f",
+                "i",
+                "i",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 欺骗; v. 行骗",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "e",
+                "e",
+                "i",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 自制的，克制的; n. 大陆，洲，陆地",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "n",
+                "n",
+                "n",
+                "o",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 汽缸; n. 圆柱状物; n. [数] 柱面",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "i",
+                "l",
+                "n",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "That might be the ______ of 99% of the time.",
+            "choices": [
+                "damp",
+                "consciousness",
+                "credibility",
+                "container",
+                "contour"
+            ],
+            "chn": "至少是99%可能位于的范围的轮廓。(固态化学导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But this pious subservience that you have ending this passage - and certainly it's ______ with that image from the Nativity Ode - nonetheless, I think it's safe to say that it comes as quite a shock when you consider the sentence as a whole.",
+            "choices": [
+                "controversy",
+                "contrary",
+                "consonant",
+                "crude",
+                "consultation"
+            ],
+            "chn": "但文章结尾这种虔诚的奉献,当然与耶稣诞生颂当中的比喻是一致的,尽管如此，当你把这句话作为一个整体来考虑的时候,任然会很震惊。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "In any case, the tension between denotation and ______ is part of the way in which irony works.",
+            "choices": [
+                "contrary",
+                "coordination",
+                "constitution",
+                "connotation",
+                "correction"
+            ],
+            "chn": "在任何情况下，讽刺的作用,都是表达了符号和涵义之间的张力。(文学理论导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It's been shown that higher levels of education ______ with high voter turnout.",
+            "choices": [
+                "cue",
+                "correlate",
+                "cyclic",
+                "cord",
+                "cortex"
+            ],
+            "chn": "有研究显示，教育程度越高，选民的参与度越高。(SpeakingMax英语口语达人 : 对于义务投票制)"
+        },
+        {
+            "cate": "choice",
+            "problem": "If I understand it ______, science as science insofar as its belike scientific methodology, he needs to be defended.",
+            "choices": [
+                "correctly",
+                "defect",
+                "constrain",
+                "continent",
+                "demonstrator"
+            ],
+            "chn": "如果我没有弄错的话，就论文所用的科学方法本身而言,就论文所用的科学方法本身而言，作者的立场应该受到维护。(人性课程节选 : 普林斯顿公开课)"
+        }
+    ],
+    "quiz_id": "53"
+}

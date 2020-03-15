@@ -1,0 +1,257 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "bleed",
+            "choices": [
+                "adj. 毛细管的",
+                "vt. 使出血",
+                "vt. 榨取",
+                "n. 盆地",
+                "vi. 渗出",
+                "vi. 流血",
+                "vi. 悲痛",
+                "n. 微积分学"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "carrier",
+            "choices": [
+                "vt. 括在一起",
+                "n. [计量] 秤杆",
+                "n. 运送者",
+                "n. 校园内的草地",
+                "n. 带菌者",
+                "n. 货架",
+                "n. 装配",
+                "n. [化学] 载体"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "broadly",
+            "choices": [
+                "adv. 明显地",
+                "adv. 露骨地",
+                "adv. 宽广地",
+                "n. 大学，大学生活",
+                "adv. 概括地",
+                "adv. 粗鄙地",
+                "n. [化学] 钙",
+                "adj. [数] 二进制的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bracket",
+            "choices": [
+                "n. 生物多样性",
+                "n. 括号",
+                "n. 跺脚曳步舞",
+                "vt. 括在一起",
+                "vt. 排除",
+                "n. 支架",
+                "n. 墙上凸出的托架",
+                "vt. 把…归入同一类"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bucket",
+            "choices": [
+                "n. 一桶的量",
+                "v. 颠簸着行进",
+                "v. 倾盆而下",
+                "adj. 毛细管的",
+                "n. 桶，水桶",
+                "n. 铲斗",
+                "vt. 使扩大，使形成大量",
+                "n. 空虚"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [化学] 钙",
+            "choices": [
+                "audit",
+                "bargain",
+                "biodiversity",
+                "calcium",
+                "bonus"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [化学] 载体; n. 货架; n. 带菌者",
+            "choices": [
+                "bilingual",
+                "breakdown",
+                "carrier",
+                "artwork",
+                "bound"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 流域; n. 盆地; n. 水池",
+            "choices": [
+                "aspect",
+                "biodiversity",
+                "atom",
+                "authority",
+                "basin"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 双语的; n. 通两种语言的人",
+            "choices": [
+                "audio",
+                "binary",
+                "bullet",
+                "bilingual",
+                "biodiversity"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 直接地; n. 重击; vt. 发巨响",
+            "choices": [
+                "authority",
+                "bang",
+                "cattle",
+                "bilingual",
+                "axiom"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 弹起; n. 跳跃; adj. 受约束的",
+            "choices": [
+                "b",
+                "d",
+                "n",
+                "o",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 竞卖; n. 拍卖; vt. 拍卖",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "n",
+                "o",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 欺骗，作弊; vi. 欺骗; n. 骗子",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "h",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 透明圆形罩，圆形顶; vi. 沸腾，冒泡; n. 气泡，泡沫，泡状物",
+            "choices": [
+                "b",
+                "b",
+                "b",
+                "e",
+                "l",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 运送者; n. 货架; n. 带菌者",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "r",
+                "r",
+                "r"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "They ______ everyone,even the devil.",
+            "choices": [
+                "bacteria",
+                "cheat",
+                "basin",
+                "breakdown",
+                "audit"
+            ],
+            "chn": "(VOA : special.2010.01.10)"
+        },
+        {
+            "cate": "choice",
+            "problem": "At the February 14th ______, Treasury bills were-- sixty-day treasury bills were sold and the ______ price is given.",
+            "choices": [
+                "bacteria",
+                "broadly",
+                "blank",
+                "calculus",
+                "auction"
+            ],
+            "chn": "在2月14日的拍卖中,卖出了60天期国库券期,这里给出了拍卖价格(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "LaReesa Wolfenbarger is a University of Nebraska ______ professor and a member of the committee that wrote the report.",
+            "choices": [
+                "backward",
+                "cheat",
+                "biology",
+                "assignment",
+                "candidate"
+            ],
+            "chn": "(VOA : special.2010.04.27)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Milton wrote his epic in lines of unrhymed iambic pentameter or what we call, and what Milton would have called, ______ verse.",
+            "choices": [
+                "aspect",
+                "audit",
+                "capitalism",
+                "blank",
+                "bubble"
+            ],
+            "chn": "弥尔顿的史诗由不押韵的抑扬格五音步诗句写成,我们，还有弥尔顿都称其为无韵诗。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "He saw outsider ______ as being free from the worries of competition and social acceptance that define the official art world.",
+            "choices": [
+                "backward",
+                "artwork",
+                "breakdown",
+                "calculation",
+                "bizarre"
+            ],
+            "chn": "(VOA : special.2010.04.14)"
+        }
+    ],
+    "quiz_id": "41"
+}

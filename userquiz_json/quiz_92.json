@@ -1,0 +1,228 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "activate",
+            "choices": [
+                "vt. 使产生放射性",
+                "vt. 刺激",
+                "vt. 使活动",
+                "n. 古物",
+                "vi. 激活",
+                "vt. 使活泼",
+                "vi. 有活力",
+                "vt. 吸引"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "afterward",
+            "choices": [
+                "adv. 以后，后来",
+                "n. 人工制品",
+                "vi. 累积",
+                "vt. 使活泼",
+                "adj. 审美的，具有审美趣味的",
+                "n. 农艺，农学",
+                "n. [计][数] 算法，运算法则",
+                "n. 飞机"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "arrow",
+            "choices": [
+                "n. 箭状物",
+                "vt. 以箭头指示",
+                "n. 箭头记号",
+                "vt. 箭一般地飞向",
+                "adj. 有腹鳍的",
+                "vi. 指定",
+                "n. (英)阿罗",
+                "n. 箭，箭头"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "aggregate",
+            "choices": [
+                "vi. 聚集",
+                "adj. 集合的",
+                "n. 合计",
+                "vi. 合计",
+                "vt. 聚集",
+                "n. 总计",
+                "vt. 合计",
+                "n. 铝"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 联盟，联合; n. 联姻",
+            "choices": [
+                "absorb",
+                "alliance",
+                "alien",
+                "amplitude",
+                "abdominal"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 代数学",
+            "choices": [
+                "approximate",
+                "antibody",
+                "articulate",
+                "algebra",
+                "amino"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 外国的; n. (法)阿利安; vt. 让渡，转让",
+            "choices": [
+                "airplane",
+                "accumulate",
+                "aerosol",
+                "amplitude",
+                "alien"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 类比; n. 类推; n. 类似",
+            "choices": [
+                "analogy",
+                "array",
+                "arbitrary",
+                "adverse",
+                "artifact"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. (英、意、印尼)阿米诺; n. [化学] 氨基; adj. 氨基的",
+            "choices": [
+                "a",
+                "i",
+                "m",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [数] 精确度，准确性",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "c",
+                "c",
+                "r",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使活泼; vt. 使产生放射性; vi. 激活",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "e",
+                "i",
+                "t",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 抗菌的; adj. 抗生的; n. 抗生素，抗菌素",
+            "choices": [
+                "a",
+                "b",
+                "c",
+                "i",
+                "i",
+                "i",
+                "n",
+                "o",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 铝",
+            "choices": [
+                "a",
+                "i",
+                "l",
+                "m",
+                "m",
+                "n",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "It can increase the risk of ______ resistance and serious kinds of diarrhea.",
+            "choices": [
+                "alien",
+                "aesthetic",
+                "antibiotic",
+                "anti",
+                "antiquity"
+            ],
+            "chn": "(VOA : special.2010.05.25)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Joints need cartilage for smooth movement and to ______ shock when you put pressure on a joint.",
+            "choices": [
+                "affirm",
+                "absorb",
+                "adjacent",
+                "adaptation",
+                "alliance"
+            ],
+            "chn": "(VOA : special.2010.05.19)"
+        },
+        {
+            "cate": "choice",
+            "problem": "At least in some ______ sense that's what they are doing.",
+            "choices": [
+                "applause",
+                "accuracy",
+                "altitude",
+                "approximate",
+                "appendix"
+            ],
+            "chn": "从某种程度来说,他们就是做这个的。(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The first radio broadcasts were made using ______ modulation.",
+            "choices": [
+                "artistic",
+                "adjacent",
+                "algebra",
+                "aerosol",
+                "amplitude"
+            ],
+            "chn": "(VOA : special.2010.12.08)"
+        }
+    ],
+    "quiz_id": "92"
+}

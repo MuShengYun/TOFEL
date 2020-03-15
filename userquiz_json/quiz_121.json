@@ -1,0 +1,122 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "adj. 易怒的; adj. 倔强的，难以对待的",
+            "choices": [
+                "a",
+                "c",
+                "f",
+                "i",
+                "o",
+                "r",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 令人厌恶的人; n. 革出教门; n. 被诅咒者",
+            "choices": [
+                "a",
+                "a",
+                "a",
+                "e",
+                "h",
+                "m",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 加枷锁; n. 脚镣; vt. 束缚",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "h",
+                "k",
+                "l",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 招呼; vi. 招呼; vt. 致敬",
+            "choices": [
+                "a",
+                "h",
+                "i",
+                "l"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 公平的，公正的; adj. 不偏不倚的",
+            "choices": [
+                "a",
+                "a",
+                "i",
+                "i",
+                "l",
+                "m",
+                "p",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Mr.Abbas urged the United States to pressure Israel's hawkish new government to ______ previous peace agreements and agree to the creation of a Palestinian state.",
+            "choices": [
+                "uphold",
+                "intrigue",
+                "quizzical",
+                "disregard",
+                "dismal"
+            ],
+            "chn": "(VOA : standard.2009.04.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The king,while being viewed as above politics, has played a stabilizing role over the years in Thailand's often ______ political climate.",
+            "choices": [
+                "intrigue",
+                "ecosystem",
+                "fractious",
+                "hazard",
+                "quizzical"
+            ],
+            "chn": "(VOA : standard.2009.09.21)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Because any velocity I ______ to a particle or an object, you will add a certain constant to it by the law of composition of velocity.",
+            "choices": [
+                "disproportionate",
+                "esoteric",
+                "ascribe",
+                "tenet",
+                "wistful"
+            ],
+            "chn": "因为我描述的任何一个质点或者物体的速度,你都要根据速度叠加法则,给它加上某个常数(基础物理课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "I'm going to read parts of them to you, and together I think they give you the sort of ______ I want you to have of where literature stands, where reading stands, at the middle of the twentieth century.",
+            "choices": [
+                "yardstick",
+                "snapshot",
+                "uphold",
+                "partiality",
+                "cede"
+            ],
+            "chn": "我要读一部分给大家听，这些可以给大家,一个关于二十世纪中期，文学和阅读的立足点是什么的简单印象。(1945年后的美国小说课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "121"
+}

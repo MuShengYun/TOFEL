@@ -1,0 +1,323 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "gasp",
+            "choices": [
+                "n. [能源] 沼气",
+                "n. [地质] 地层",
+                "vi. 吹毛求疵",
+                ". ??热",
+                "vt. 气喘吁吁地说",
+                "n. [高分子] 聚合作用",
+                "vi. 渴望",
+                "vi. 喘气"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "neutralize",
+            "choices": [
+                "vi. 变无效",
+                "vt. 使…中和",
+                "vt. 使…无效",
+                "n. [地质] 地层",
+                "n. 画面的溶暗",
+                "vi. 中立化",
+                "n. （组织的）层",
+                "n. 斗篷"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "noxious",
+            "choices": [
+                "vi. 啄食",
+                "adj. 败坏道德的",
+                "adj. 有害的",
+                "adj. 说教的",
+                "n. 聚合",
+                "adj. 有毒的",
+                "n. 高地",
+                "adj. 讨厌的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "peck",
+            "choices": [
+                "vt. 扔",
+                "n. 快速轻吻",
+                "n. 分贝",
+                "vi. 扔石头",
+                "vi. 烧焦",
+                "n. 许多",
+                "vi. 吹毛求疵",
+                "vi. 啄食"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "mantle",
+            "choices": [
+                "n. 覆盖物",
+                "n. 斗篷",
+                "vi. 吹毛求疵",
+                "n. 提高",
+                "vi. 覆盖",
+                "n. 地幔",
+                "vt. 覆盖",
+                "vi. 脸红"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 稳定水平; n. 托盘; n. 高原",
+            "choices": [
+                "stratum",
+                "didactic",
+                "bleach",
+                "plateau",
+                "extenuate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 卵; v. 大量生产; n. 菌丝",
+            "choices": [
+                "decomposition",
+                "sewage",
+                "spawn",
+                "edify",
+                "indemnity"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 刺激因素; n. [物化] 催化剂",
+            "choices": [
+                "catalyst",
+                "instill",
+                "peck",
+                "methane",
+                "elevation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 放牧; n. 轻擦; vi. 吃草",
+            "choices": [
+                "edify",
+                "stratum",
+                "scorch",
+                "caustic",
+                "graze"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 分解，腐烂; n. 变质",
+            "choices": [
+                "decomposition",
+                "stale",
+                "peck",
+                "gasp",
+                "graze"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": designed or intended to teach",
+            "choices": [
+                "graze",
+                "caustic",
+                "peck",
+                "geothermy",
+                "didactic"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": represented on a coat of arms in a lying position with the head on the forepaws",
+            "choices": [
+                "stale",
+                "stratum",
+                "dormant",
+                "geothermy",
+                "decomposition"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": tedious from familiarity",
+            "choices": [
+                "extenuate",
+                "stale",
+                "stratum",
+                "trot",
+                "edify"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a level of attainment or achievement",
+            "choices": [
+                "sewage",
+                "stratum",
+                "neutralize",
+                "plateau",
+                "elevation"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to strike or pierce especially repeatedly with the bill or a pointed tool",
+            "choices": [
+                "didactic",
+                "peck",
+                "solubility",
+                "scorch",
+                "lithosphere"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 刻薄的; adj. 焦散的; n. 焦散曲线",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "i",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 分解，腐烂; n. 变质",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "i",
+                "i",
+                "m",
+                "n",
+                "o",
+                "o",
+                "o",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 啄食; n. 配克（容量单位，等于2加仑）; n. 许多",
+            "choices": [
+                "c",
+                "e",
+                "k",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 溶解度; n. 可解决性",
+            "choices": [
+                "b",
+                "i",
+                "i",
+                "l",
+                "l",
+                "o",
+                "s",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 分贝",
+            "choices": [
+                "b",
+                "c",
+                "d",
+                "e",
+                "e",
+                "i",
+                "l"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "But the point is there's a connection between this condition, this skin condition, and its ______ and death.",
+            "choices": [
+                "dormant",
+                "sewage",
+                "decomposition",
+                "instill",
+                "noxious"
+            ],
+            "chn": "关键是，这个症状，这个皮肤症状和它的腐烂和人的死亡有一定的关系。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Let's take salt, solid, and ______ it in a bunch of liquid water.",
+            "choices": [
+                "neutralize",
+                "solubility",
+                "plateau",
+                "sewage",
+                "dissolve"
+            ],
+            "chn": "我们把食盐晶体，溶解在一些水中。(热力学与动力学课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Tests showed that instead of killing the bacteria, the ______ actually caused the bacteria levels to increase.",
+            "choices": [
+                "stratum",
+                "scorch",
+                "bleach",
+                "lithosphere",
+                "geothermy"
+            ],
+            "chn": "(VOA : special.2009.10.13)"
+        },
+        {
+            "cate": "choice",
+            "problem": "He have to pay an ______ of￡100.",
+            "choices": [
+                "solubility",
+                "methane",
+                "sewage",
+                "didactic",
+                "indemnity"
+            ],
+            "chn": "他必须支付100英镑的赔偿。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "This will ______ acids which may form and cause a bad smell.",
+            "choices": [
+                "neutralize",
+                "solubility",
+                "decomposition",
+                "sewage",
+                "caustic"
+            ],
+            "chn": "(VOA : special.2009.06.23)"
+        }
+    ],
+    "quiz_id": "240"
+}

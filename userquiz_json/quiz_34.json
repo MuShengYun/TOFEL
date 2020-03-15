@@ -1,0 +1,224 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "admission",
+            "choices": [
+                "n. 人工制品",
+                "n. 坦白",
+                "n. 入场费",
+                "n. 飞机",
+                "n. 承认",
+                "n. 铝",
+                "n. 录用",
+                "n. 进入许可"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "artificial",
+            "choices": [
+                "adj. 武断的",
+                "adj. 审美的，具有审美趣味的",
+                "adj. 仿造的",
+                "adj. 人造的",
+                "n. (意)安蒂",
+                "vt. 强调",
+                "adj. 非原产地的",
+                "adj. 虚伪的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "abdominal",
+            "choices": [
+                "n. 人工制品",
+                "adj. 有腹鳍的",
+                "n. 被继承人",
+                "vt. 使坐落于",
+                "vi. 有活力",
+                "adj. 腹部的",
+                "n. 青少年",
+                "vt. 使坐落于"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "aerosol",
+            "choices": [
+                "adj. 喷雾器的",
+                "n. [物化] 气溶胶",
+                "n. 喷雾器",
+                "n. 气雾剂",
+                "n. 箭头记号",
+                "n. 浮质",
+                "n. 飞机",
+                "adj. 喷雾的"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "allocate",
+            "choices": [
+                "vi. 指定",
+                "n. 手工艺品",
+                "vi. 分配",
+                "n. 坦白",
+                "vt. 排列，部署",
+                "vt. 拨出",
+                "vt. 分配",
+                "vt. 使坐落于"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 美学的; adj. 美的; adj. 审美的，具有审美趣味的",
+            "choices": [
+                "abdominal",
+                "activate",
+                "approximate",
+                "aesthetic",
+                "airplane"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [数] 精确度，准确性",
+            "choices": [
+                "agriculture",
+                "antiquity",
+                "artistic",
+                "amplitude",
+                "accuracy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使坐落于; vt. 分配; vi. 分配",
+            "choices": [
+                "allocate",
+                "arrow",
+                "affirm",
+                "artificial",
+                "aerosol"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 古物; n. 高龄; n. 古代的遗物",
+            "choices": [
+                "antiquity",
+                "accuracy",
+                "acute",
+                "admission",
+                "agriculture"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 聚集; vi. 集合; n. 合计",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "e",
+                "g",
+                "g",
+                "g",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "prep. 在…当中（等于among）; prep. 在…之中",
+            "choices": [
+                "a",
+                "g",
+                "m",
+                "n",
+                "o",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 酸; adj. 刻薄的; adj. 酸的",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "i"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Yet,it took some time for the team to confirm that the ______ acid glycine came from space.",
+            "choices": [
+                "applause",
+                "absorb",
+                "aluminum",
+                "abdominal",
+                "amino"
+            ],
+            "chn": "(VOA : special.2009.09.30)"
+        },
+        {
+            "cate": "choice",
+            "problem": "and how do we fairly and sort of accurately, you know, ______ that out.",
+            "choices": [
+                "appendix",
+                "allocate",
+                "adjacent",
+                "antibody",
+                "ancestor"
+            ],
+            "chn": "我们要怎么样公平并准确的地分配。(SpeakingMax英语口语达人 : 学生会馆的实习部门)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And so the fact that in this whole slide here, this ______ for sorting, I'm using the verb sort.",
+            "choices": [
+                "admission",
+                "algorithm",
+                "archaeology",
+                "alliance",
+                "appendix"
+            ],
+            "chn": "在这个排序算法中,我用到了一个动词排序。(计算机科学课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "You might ask, well is this an ______ formula?",
+            "choices": [
+                "architect",
+                "anthropology",
+                "antiquity",
+                "adverse",
+                "approximate"
+            ],
+            "chn": "你们可能会问,这是一个约等式吗(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Ladakh,situated more than 11,000 feet above sea level, is a high ______ desert where rainfall is usually very small.",
+            "choices": [
+                "amongst",
+                "accelerate",
+                "altitude",
+                "admission",
+                "aggregate"
+            ],
+            "chn": "(VOA : standard.2010.08.06)"
+        }
+    ],
+    "quiz_id": "34"
+}

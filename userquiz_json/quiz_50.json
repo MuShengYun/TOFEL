@@ -1,0 +1,262 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "conscious",
+            "choices": [
+                "adj. 意识到的",
+                "n. 否认",
+                "adj. 自制的，克制的",
+                "adj. 神志清醒的",
+                "n. 消费",
+                "n. 德耳塔（希腊字母的第四个字）",
+                "adj. 环的",
+                "adj. 故意的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cortex",
+            "choices": [
+                "n. 提示，暗示",
+                "n. 树皮",
+                "n. 证明者",
+                "n. 果皮",
+                "n. [解剖] 皮质",
+                "n. [数] 相关，关联",
+                "vt. 否定",
+                "adj. 水晶的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "delta",
+            "choices": [
+                "n. 集装箱",
+                "n. 磋商",
+                "n. 本金",
+                "n. [数] 柱面",
+                "n. 通信",
+                "n. 德耳塔（希腊字母的第四个字）",
+                "n. 偏向",
+                "n. （河流的）三角洲"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "corpus",
+            "choices": [
+                "n. 果酱",
+                "n. 一致",
+                "n. 通信",
+                "n. 本金",
+                "n. 文集",
+                "n. [计] 语料库",
+                "n. 意识",
+                "vi. 衰退，[核] 衰减"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "demonstrator",
+            "choices": [
+                "n. 论证者",
+                "vt. 使阻尼",
+                "adj. 一定的",
+                "n. 证明者",
+                "n. 指示者",
+                "n. 示威者",
+                "n. [数] 相关，关联",
+                "n. 论战"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 绳索; vt. 用绳子捆绑; n. 束缚",
+            "choices": [
+                "cord",
+                "decay",
+                "corpus",
+                "consciousness",
+                "continent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 对立的; adv. 相反地; n. 反面",
+            "choices": [
+                "crude",
+                "deceive",
+                "contrary",
+                "correspondence",
+                "corruption"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 协调，调和; n. 对等，同等",
+            "choices": [
+                "correction",
+                "cue",
+                "conservation",
+                "deceive",
+                "coordination"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 树皮; n. 果皮; n. [解剖] 皮质",
+            "choices": [
+                "correlate",
+                "corpus",
+                "cue",
+                "cord",
+                "cortex"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使潮湿; n. 潮湿，湿气; vi. 变潮湿",
+            "choices": [
+                "consultation",
+                "damp",
+                "crude",
+                "crystal",
+                "contradict"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 协调; adj. 同等的; vt. 整合",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "i",
+                "n",
+                "o",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 建立，组成; n. 构造; n. 体制",
+            "choices": [
+                "c",
+                "i",
+                "i",
+                "n",
+                "n",
+                "o",
+                "o",
+                "s",
+                "t",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 衰退，[核] 衰减; vt. 使衰退，使衰落; vi. 腐烂，腐朽",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 咨询; n. 磋商; n. 讨论会",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "l",
+                "n",
+                "n",
+                "o",
+                "o",
+                "s",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 截止期限，最后期限",
+            "choices": [
+                "a",
+                "d",
+                "d",
+                "e",
+                "e",
+                "i",
+                "l",
+                "n"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Australia has set a November ______ to zero, for Japan to stop whaling in Antarctic waters, or face international court action.",
+            "choices": [
+                "correctly",
+                "deadline",
+                "decay",
+                "criteria",
+                "controversy"
+            ],
+            "chn": "(VOA : standard.2010.02.20)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And now we're almost done, except what we H really want is ______ H and not ______ U, right.",
+            "choices": [
+                "contradiction",
+                "conservation",
+                "correlation",
+                "delta",
+                "conscious"
+            ],
+            "chn": "我们差不多已经完成了,除了我们实际上想要的是Δ(热力学与动力学课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "One of the initial things that Keyes found is that there was as much as a ten-fold difference in rates of ______ disease.",
+            "choices": [
+                "curriculum",
+                "correlate",
+                "cyclic",
+                "delta",
+                "coronary"
+            ],
+            "chn": "凯斯首先发现的其中一项结果是,七个国家的冠心病发病率(关于食物的心理学、生物学和政治学课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "He said massive fiscal deficits will ______ economic growth and job creation, increase inflationary risks, boost interest rates, and reduce private investment in productive enterprises.",
+            "choices": [
+                "criteria",
+                "cylinder",
+                "decay",
+                "contrary",
+                "constrain"
+            ],
+            "chn": "(VOA : standard.2010.04.21)"
+        }
+    ],
+    "quiz_id": "50"
+}

@@ -1,0 +1,845 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "circulate",
+            "choices": [
+                "vt. 使传播",
+                "vt. 使流通",
+                "vi. 传播，流传",
+                "vt. 使混乱",
+                "vt. 使循环",
+                "vi. 循环",
+                "vt. 使混淆",
+                "vi. 流通"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "classification",
+            "choices": [
+                "n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+                "n. 分类",
+                "n. 率",
+                "vt. 使混乱",
+                "n. 率",
+                "adj. 有条件的",
+                "n. 化学过程",
+                "n. 类别，等级"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "closure",
+            "choices": [
+                "n. 终止，结束",
+                "n. 率",
+                "n. 类别，等级",
+                "n. 化学",
+                "n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+                "n. 关闭",
+                "vt. 使终止",
+                "n. 类别，等级"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "coefficient",
+            "choices": [
+                "n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+                "n. 混乱",
+                "adj. 合作的",
+                "n. [数] 系数",
+                "n. 率",
+                "adj. 共同作用的",
+                "adj. 假定的",
+                "n. 协同因素"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "complication",
+            "choices": [
+                "adj. 假定的",
+                "vt. 讨厌",
+                "n. 混乱",
+                "n. 概念",
+                "n. 补足物",
+                "n. 复杂",
+                "n. 复杂化",
+                "n. 并发症"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "colony",
+            "choices": [
+                "n. 种群",
+                "n. 终止，结束",
+                "n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+                "vt. 使循环",
+                "n. 动物栖息地",
+                "n. 移民队",
+                "n. 条件语",
+                "n. 殖民地"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conception",
+            "choices": [
+                "n. 开始",
+                "n. 概念",
+                "n. 怀孕",
+                "n. 设想",
+                "vi. 顺从，遵从",
+                "n. 补语",
+                "n. 动物栖息地",
+                "n. 条件语"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "confound",
+            "choices": [
+                "n. 并发症",
+                "vt. 挫败",
+                "vt. 使混淆",
+                "n. 分类",
+                "vt. 讨厌",
+                "n. 类别，等级",
+                "adj. 合作的",
+                "vt. 使混乱"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "comply",
+            "choices": [
+                "vt. 使混乱",
+                "vi. 答应",
+                "vi. 顺从，遵从",
+                "vi. 遵守",
+                "n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+                "vt. 使循环",
+                "vt. 补足，补助",
+                "n. 分类"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "chemistry",
+            "choices": [
+                "n. 分类",
+                "n. 概念",
+                "vi. 循环",
+                "n. 率",
+                "n. 化学",
+                "n. 化学过程",
+                "vi. 答应",
+                "n. 分类"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conditional",
+            "choices": [
+                "n. 补足物",
+                "vi. 答应",
+                "adj. 有条件的",
+                "n. 终止，结束",
+                "vi. 流通",
+                "adj. 假定的",
+                "n. 条件语",
+                "n. 条件句"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "chromosome",
+            "choices": [
+                "n. 动物栖息地",
+                "n. 类别，等级",
+                "n. 动物栖息地",
+                "vt. 挫败",
+                "n. 类别，等级",
+                "n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+                "vi. 顺从，遵从",
+                "n. [数] 系数"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "complement",
+            "choices": [
+                "vt. 补足，补助",
+                "adj. 有条件的",
+                "n. 关闭",
+                "n. 余角",
+                "vi. 遵守",
+                "n. 补语",
+                "vt. 使传播",
+                "n. 补足物"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 协同因素; n. 率; n. [数] 系数",
+            "choices": [
+                "classification",
+                "complement",
+                "colony",
+                "complication",
+                "coefficient"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 化学过程; n. 化学",
+            "choices": [
+                "coefficient",
+                "chemistry",
+                "chromosome",
+                "confound",
+                "complement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 类别，等级; n. 分类",
+            "choices": [
+                "complement",
+                "chemistry",
+                "classification",
+                "circulate",
+                "confound"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使循环; vt. 使流通; vi. 循环",
+            "choices": [
+                "complication",
+                "chemistry",
+                "confound",
+                "circulate",
+                "complement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 种群; n. 殖民地; n. 动物栖息地",
+            "choices": [
+                "complication",
+                "closure",
+                "colony",
+                "chromosome",
+                "chemistry"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 条件句; adj. 有条件的; n. 条件语",
+            "choices": [
+                "confound",
+                "chromosome",
+                "conception",
+                "conditional",
+                "complication"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 补语; n. 余角; n. 补足物",
+            "choices": [
+                "complement",
+                "closure",
+                "colony",
+                "coefficient",
+                "comply"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 复杂; n. 复杂化; n. 混乱",
+            "choices": [
+                "complication",
+                "classification",
+                "chromosome",
+                "conditional",
+                "complement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使混乱; vt. 使混淆; vt. 挫败",
+            "choices": [
+                "classification",
+                "complement",
+                "closure",
+                "confound",
+                "circulate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 开始; n. 设想; n. 概念",
+            "choices": [
+                "conception",
+                "complement",
+                "colony",
+                "comply",
+                "coefficient"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使终止; n. 终止，结束; n. 关闭",
+            "choices": [
+                "circulate",
+                "closure",
+                "comply",
+                "classification",
+                "conditional"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 遵守; vi. 顺从，遵从; vi. 答应",
+            "choices": [
+                "confound",
+                "complement",
+                "chromosome",
+                "comply",
+                "complication"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+            "choices": [
+                "conception",
+                "coefficient",
+                "complication",
+                "circulate",
+                "chromosome"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to pass from person to person or place to place: such as",
+            "choices": [
+                "circulate",
+                "complication",
+                "closure",
+                "comply",
+                "complement"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": any of the rod-shaped or threadlike DNA-containing structures of cellular organisms that are located in the nucleus of eukaryotes, are usually ring-shaped in prokaryotes (such as bacteria), and contain all or most of the genes of the organism",
+            "choices": [
+                "comply",
+                "complement",
+                "colony",
+                "chromosome",
+                "complication"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": complexity, intricacy",
+            "choices": [
+                "chemistry",
+                "complement",
+                "confound",
+                "comply",
+                "complication"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": any of the factors of a product considered in relation to a specific factor",
+            "choices": [
+                "coefficient",
+                "chemistry",
+                "conditional",
+                "chromosome",
+                "closure"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a science that deals with the composition, structure, and properties of substances and with the transformations that they undergo",
+            "choices": [
+                "colony",
+                "chromosome",
+                "chemistry",
+                "confound",
+                "complication"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act or method of distributing into a class or category according to characteristics",
+            "choices": [
+                "classification",
+                "closure",
+                "conception",
+                "comply",
+                "conditional"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": something that closes",
+            "choices": [
+                "closure",
+                "colony",
+                "complement",
+                "chromosome",
+                "conditional"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a circumscribed mass of microorganisms usually growing in or on a solid medium",
+            "choices": [
+                "complement",
+                "colony",
+                "conditional",
+                "complication",
+                "chromosome"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a word, clause, or sentence that shows that something is true or happens only if something else is true or happens",
+            "choices": [
+                "colony",
+                "complement",
+                "complication",
+                "closure",
+                "conditional"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the process of becoming pregnant involving fertilization or implantation or both",
+            "choices": [
+                "coefficient",
+                "conditional",
+                "conception",
+                "colony",
+                "confound"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": damn",
+            "choices": [
+                "complication",
+                "confound",
+                "circulate",
+                "classification",
+                "chemistry"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to complete or enhance by providing something additional : to be complementary to",
+            "choices": [
+                "chromosome",
+                "conception",
+                "complication",
+                "complement",
+                "confound"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to be ceremoniously courteous",
+            "choices": [
+                "comply",
+                "colony",
+                "closure",
+                "chemistry",
+                "conception"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 类别，等级; n. 分类",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "c",
+                "f",
+                "i",
+                "i",
+                "i",
+                "l",
+                "n",
+                "o",
+                "s",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [遗][细胞][染料] 染色体（形容词chromosomal，副词chromosomally）",
+            "choices": [
+                "c",
+                "e",
+                "h",
+                "m",
+                "m",
+                "o",
+                "o",
+                "o",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使混淆; vt. 讨厌; vt. 挫败",
+            "choices": [
+                "c",
+                "d",
+                "f",
+                "n",
+                "n",
+                "o",
+                "o",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 补足，补助; n. 补足物; n. 补语",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "l",
+                "m",
+                "m",
+                "n",
+                "o",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 遵守; vi. 答应; vi. 顺从，遵从",
+            "choices": [
+                "c",
+                "l",
+                "m",
+                "o",
+                "p",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使流通; vt. 使循环; vi. 流通",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "i",
+                "l",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 条件语; adj. 假定的; n. 条件句",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "i",
+                "i",
+                "l",
+                "n",
+                "n",
+                "o",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 混乱; n. 复杂化; n. 复杂",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "i",
+                "i",
+                "l",
+                "m",
+                "n",
+                "o",
+                "o",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 化学过程; n. 化学",
+            "choices": [
+                "c",
+                "e",
+                "h",
+                "i",
+                "m",
+                "r",
+                "s",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使终止; n. 终止，结束; n. 关闭",
+            "choices": [
+                "c",
+                "e",
+                "l",
+                "o",
+                "r",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 移民队; n. 殖民地; n. 种群",
+            "choices": [
+                "c",
+                "l",
+                "n",
+                "o",
+                "o",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 合作的; adj. 共同作用的; n. [数] 系数",
+            "choices": [
+                "c",
+                "c",
+                "e",
+                "e",
+                "f",
+                "f",
+                "i",
+                "i",
+                "n",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 设想; n. 开始; n. 怀孕",
+            "choices": [
+                "c",
+                "c",
+                "e",
+                "i",
+                "n",
+                "n",
+                "o",
+                "o",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "And you can interact with the ______, the passive visualizations in a very nice way.",
+            "choices": [
+                "confound",
+                "chromosome",
+                "complement",
+                "classification",
+                "colony"
+            ],
+            "chn": "你可以和物质进行互动,和被动型直观化里的物质,完美地互动。(媒体、教育、市场课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Marie Curie became the first person to be awarded a second Nobel Prize in nineteen eleven, this time in ______.",
+            "choices": [
+                "conditional",
+                "conception",
+                "chemistry",
+                "chromosome",
+                "circulate"
+            ],
+            "chn": "(VOA : special.2009.05.13)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The capture adds another ______ in what has been a steady deterioration of North-South ties since last year's inauguration of South Korean President Lee Myung-bak.",
+            "choices": [
+                "colony",
+                "complication",
+                "conception",
+                "comply",
+                "confound"
+            ],
+            "chn": "(VOA : standard.2009.07.30)"
+        },
+        {
+            "cate": "choice",
+            "problem": "This is also the ______ of user's needs in our search box.",
+            "choices": [
+                "circulate",
+                "closure",
+                "classification",
+                "confound",
+                "chemistry"
+            ],
+            "chn": "这是根据用户需求,进行的分类。(百度CEO李彦宏演讲：全球最大搜索引擎的发展课程节选 : 斯坦福公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Since taking office, Mister Obama has ordered the ______ of the American detention center at Guantanamo Bay,Cuba.",
+            "choices": [
+                "closure",
+                "comply",
+                "complication",
+                "chromosome",
+                "chemistry"
+            ],
+            "chn": "(VOA : special.2009.05.02)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But some people are born with an extra copy of the twenty-first ______.",
+            "choices": [
+                "chromosome",
+                "complication",
+                "classification",
+                "circulate",
+                "conception"
+            ],
+            "chn": "(VOA : special.2009.09.09)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Instead of windows, the new systems used tunnel fans to ______ air.",
+            "choices": [
+                "conception",
+                "chromosome",
+                "colony",
+                "circulate",
+                "comply"
+            ],
+            "chn": "(VOA : special.2009.09.08)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But Chicago Mayor Richard Daley is countering the court's decision by pushing for new restrictions on guns which would still ______ with Second Amendment rights.",
+            "choices": [
+                "complication",
+                "conditional",
+                "comply",
+                "confound",
+                "complement"
+            ],
+            "chn": "(VOA : standard.2010.07.06)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Now, the ______ that relates the amount of heat in to the temperature change is obviously going to be different for these two cases.",
+            "choices": [
+                "classification",
+                "coefficient",
+                "circulate",
+                "conditional",
+                "chemistry"
+            ],
+            "chn": "在这两个例子中,很显然联系热量和温度变化的系数,是不一样的。(热力学与动力学课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Milton ultimately is a pious man and wants us to frown on Satan's critique of the Judeo-Christian ______ of divinity.",
+            "choices": [
+                "chromosome",
+                "complement",
+                "confound",
+                "colony",
+                "conception"
+            ],
+            "chn": "弥尔顿终究还是个虔诚的教徒，想要我们厌恶撒旦,对犹太教与基督教共有的神权概念的批判。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "You'll see enough things that will ______ you, but right now I want to demonstrate a simple paradigm of what it means to know the present and what it means to say this is what the future behavior will be.",
+            "choices": [
+                "classification",
+                "confound",
+                "chemistry",
+                "complication",
+                "chromosome"
+            ],
+            "chn": "你将会发现很多物理问题会让你困扰,而眼下我会举一个例子来阐述,什么叫了解现在,什么又叫预测未来(基础物理课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And finally,this week Michael Vick won a ______ return to the National Football League.",
+            "choices": [
+                "complement",
+                "complication",
+                "conception",
+                "circulate",
+                "conditional"
+            ],
+            "chn": "(VOA : special.2009.08.01)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Pope Benedict named five new saints on Sunday, including a Catholic clergyman who cared for people in a leper ______.",
+            "choices": [
+                "closure",
+                "comply",
+                "chemistry",
+                "colony",
+                "confound"
+            ],
+            "chn": "(VOA : special.2009.10.14)"
+        }
+    ],
+    "quiz_id": "181"
+}

@@ -1,0 +1,263 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "complication",
+            "choices": [
+                "n. 矮胖的人或物",
+                "n. 并发症",
+                "prep. 大约于",
+                "n. 作家，著作者",
+                "n. 复杂化",
+                "n. 复杂",
+                "n. 混乱",
+                "adj. 概念上的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "clever",
+            "choices": [
+                "adj. 聪明的",
+                "n. 评注",
+                "adj. 胜任的",
+                ". 比较级cleverer 最高级 cleverest ]",
+                "n. 圆锥体，圆锥形",
+                "prep. 大约于",
+                "adj. 熟练的",
+                "adj. 机灵的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conceive",
+            "choices": [
+                "vi. 设想",
+                "vt. 构思",
+                "vt. 持有",
+                "vt. 以为",
+                "vi. 怀孕",
+                "n. 电影",
+                "vi. 考虑",
+                "vt. 怀孕"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "commonly",
+            "choices": [
+                "adv. 一般地",
+                "adj. 复合的",
+                "adv. 普通地",
+                "n. 条件句",
+                "vi. 举行或参加（系列）会议",
+                ". 比较级cleverer 最高级 cleverest ]",
+                "adv. 通常地",
+                "n. 设计者"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conditional",
+            "choices": [
+                "n. 条件句",
+                "vt. 点击",
+                "adj. 假定的",
+                "adj. 有条件的",
+                "vt. 无性繁殖，复制",
+                "n. 条件语",
+                "vt. 构思",
+                "n. 单击"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 氯化物",
+            "choices": [
+                "client",
+                "chloride",
+                "composite",
+                "coefficient",
+                "competent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 类别，等级; n. 分类",
+            "choices": [
+                "classification",
+                "circa",
+                "communist",
+                "complement",
+                "chemistry"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 共产主义者; n. 共产党员; adj. 共产主义的",
+            "choices": [
+                "communist",
+                "communicative",
+                "coherent",
+                "conception",
+                "clue"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 认知的，认识的",
+            "choices": [
+                "circulation",
+                "comma",
+                "cognitive",
+                "conceptual",
+                "compensate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 爱说话的，健谈的; adj. 无隐讳交谈的; adj. 交际的",
+            "choices": [
+                "commodity",
+                "communicative",
+                "clever",
+                "circulation",
+                "complication"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 日用品; n. 商品，货物",
+            "choices": [
+                "c",
+                "d",
+                "i",
+                "m",
+                "m",
+                "o",
+                "o",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 氯化物",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "h",
+                "i",
+                "l",
+                "o",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 用黏土处理; n. 似黏土的东西; n. 肉体",
+            "choices": [
+                "a",
+                "c",
+                "l",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 遵守; vi. 答应; vi. 顺从，遵从",
+            "choices": [
+                "c",
+                "l",
+                "m",
+                "o",
+                "p",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 化学过程; n. 化学",
+            "choices": [
+                "c",
+                "e",
+                "h",
+                "i",
+                "m",
+                "r",
+                "s",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Also, we need to know how much individual stocks are correlated with rm; we measure that by the regression ______.",
+            "choices": [
+                "chromosome",
+                "composer",
+                "classification",
+                "coefficient",
+                "comprehension"
+            ],
+            "chn": "我们必须清楚,有多少个股与市场总体收益率相关;,我们用回归系数，即β系数来表示。(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "She called on Eritrea to ______ the whereabouts of 11 MPs who disappeared without a trace in September,2001.",
+            "choices": [
+                "cinema",
+                "circa",
+                "clue",
+                "chunk",
+                "clarify"
+            ],
+            "chn": "(VOA : standard.2009.04.09)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Some analysts say that Speaker Pelosi and President Barack Obama ______ each other, with her tough, behind-the-scenes way of getting things done, and his gift for inspiring many with his public speeches.",
+            "choices": [
+                "competence",
+                "clever",
+                "cone",
+                "conceptual",
+                "complement"
+            ],
+            "chn": "(VOA : standard.2010.05.11)"
+        },
+        {
+            "cate": "choice",
+            "problem": "If you wanted to buy a company up and own it yourself completely, you could ______ of buying all the shares in the company.",
+            "choices": [
+                "conceive",
+                "comparative",
+                "complication",
+                "composite",
+                "circulation"
+            ],
+            "chn": "如果你想独资买下一个公司,可以买下该公司的所有股票(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Lonestar's lead guitarist Michael Britt says, \"We feel that this album is a complete reflection of the group,______ 2010.",
+            "choices": [
+                "circa",
+                "comma",
+                "compensate",
+                "coefficient",
+                "composer"
+            ],
+            "chn": "(VOA : standard.2010.04.30)"
+        }
+    ],
+    "quiz_id": "35"
+}

@@ -1,0 +1,270 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "identification",
+            "choices": [
+                "n. 遗传学",
+                "n. 鉴定，识别",
+                "vt. 推广",
+                "n. 网格",
+                "n. 水平位置",
+                "vt. 推动",
+                "n. 身份证明",
+                "n. 认同"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "horizontal",
+            "choices": [
+                "vt. 创立，建立",
+                "n. 水平线，水平面",
+                "n. 水平位置",
+                "v. 避免作正面答复",
+                "vt. 兜售，沿街叫卖",
+                "adj. 地平线的",
+                "adj. 水平的",
+                "adj. 同一阶层的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "horizon",
+            "choices": [
+                "n. 熔化",
+                "n. 视野",
+                "n. 一般化",
+                "adj. 同一阶层的",
+                "n. 眼界",
+                "n. 范围",
+                "n. [天] 地平线",
+                "n. 螺旋，螺旋状物"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "footnote",
+            "choices": [
+                "vt. 给…作脚注",
+                "vi. 清嗓",
+                "n. 精华，养分",
+                "n. 幻觉，错觉",
+                "n. 层级",
+                "n. 脚注",
+                "n. 补充说明",
+                "vt. 在脚注里评议"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "immune",
+            "choices": [
+                "v. 用树篱笆围住",
+                "adj. 免疫的",
+                "n. 免疫者",
+                "n. 免除者",
+                "adj. 免于……的，免除的",
+                "n. 冲动",
+                "adj. 同一阶层的",
+                "n. 善良，优秀 "
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 部分; n. 分数; n. 小部分",
+            "choices": [
+                "hedge",
+                "habitat",
+                "hepatitis",
+                "hydrogen",
+                "fraction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 替人代笔; n. 鬼，幽灵; vt. 替…捉刀",
+            "choices": [
+                "ghost",
+                "generalize",
+                "importantly",
+                "fossil",
+                "impulse"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 输电网; n. 格子，栅格; n. 网格",
+            "choices": [
+                "fossil",
+                "freely",
+                "grid",
+                "hydrogen",
+                "impulse"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 层级; n. 等级制度",
+            "choices": [
+                "impulse",
+                "genetics",
+                "identification",
+                "found",
+                "hierarchy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 撞击; vi. 影响; n. 碰撞",
+            "choices": [
+                "freely",
+                "impact",
+                "headquarter",
+                "identical",
+                "gram"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 创办; vt. 创立，建立; v. 找到（find的过去分词）",
+            "choices": [
+                "d",
+                "f",
+                "n",
+                "o",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 历史上地; adv. 从历史观点上说",
+            "choices": [
+                "a",
+                "c",
+                "h",
+                "i",
+                "i",
+                "l",
+                "l",
+                "o",
+                "r",
+                "s",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 观念学; n. 意识形态; n. 思想意识",
+            "choices": [
+                "d",
+                "e",
+                "g",
+                "i",
+                "l",
+                "o",
+                "o",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 地平线的; adj. 水平的; adj. 同一阶层的",
+            "choices": [
+                "a",
+                "h",
+                "i",
+                "l",
+                "n",
+                "o",
+                "o",
+                "r",
+                "t",
+                "z"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [化学] 氢",
+            "choices": [
+                "d",
+                "e",
+                "g",
+                "h",
+                "n",
+                "o",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "That's the fall holiday, when we sit outside and celebrate the fall ______.",
+            "choices": [
+                "formulation",
+                "fraction",
+                "footnote",
+                "fossil",
+                "harvest"
+            ],
+            "chn": "那时正是这个节日，我们坐在外面,庆祝丰收。(人性课程节选 : 普林斯顿公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "They've never faltered, only a little bit. They believed in themselves, but more ______, they believed in U2.",
+            "choices": [
+                "fraction",
+                "grasp",
+                "fossil",
+                "gut",
+                "importantly"
+            ],
+            "chn": "(VOA : special.2009.10.19)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It also explains the phenomenal 6 degrees of separation: how we are all connected and interconnected in a web potentially of ______.",
+            "choices": [
+                "goodness",
+                "friction",
+                "hormone",
+                "herbicide",
+                "generalize"
+            ],
+            "chn": "它也解释了六度分隔理论：,我们都是关联和相互关联的,在一个潜在善的网络里。(幸福课课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "They called this row of hawthorns a ______.",
+            "choices": [
+                "fungus",
+                "generalize",
+                "hedge",
+                "fusion",
+                "harvest"
+            ],
+            "chn": "(VOA : special.2010.01.31)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Now there is worry about a new threat headed in their direction in the wind a ______ that destroys wheat crops.",
+            "choices": [
+                "homework",
+                "hydrogen",
+                "fossil",
+                "fungus",
+                "gross"
+            ],
+            "chn": "(VOA : special.2009.08.18)"
+        }
+    ],
+    "quiz_id": "63"
+}

@@ -1,0 +1,235 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "discriminatory",
+            "choices": [
+                "n. 一致",
+                "adj. 有理解力的",
+                "adj. 有辨识力的",
+                "adj. 任意的",
+                "vi. 倾倒",
+                "n. 倾斜度",
+                "adj. 综合的",
+                "adj. 差别对待的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "odds",
+            "choices": [
+                "n. 不平等",
+                "n. 几率",
+                "adj. 胆小的",
+                "n. 胜算",
+                "adj. 吵闹的",
+                "n. 自愿",
+                "n. 解决，处理",
+                "n. 差别"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "unattainable",
+            "choices": [
+                "adj. 偏斜的",
+                "adj. 公式化的",
+                "v. 使大吃一惊（stun的ing形式）",
+                "adj. 刻板的",
+                "adj. 难到达的",
+                "vt. 把…免职",
+                "vt. 遗传给",
+                "adj. 做不到的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "irrational",
+            "choices": [
+                "n. 解决，处理",
+                "vi. 一致",
+                "n. [数] 无理数",
+                "adj. 不合理的",
+                "adj. 无理性的",
+                "adj. 荒谬的",
+                "n. 反光灯",
+                "v. 识别（discriminate的ing形式）"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "lopsided",
+            "choices": [
+                "n. 先驱，前导",
+                "adj. 固定的",
+                "vt. 惩罚",
+                "v. 识别（discriminate的ing形式）",
+                "adj. 违反直觉的",
+                "adj. 不平衡的，倾向一方的",
+                "n. 死水",
+                "n. 专业综合测验"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 大脑的，脑的",
+            "choices": [
+                "cerebral",
+                "de-emphasize",
+                "topple",
+                "trigger",
+                "comprehensible"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 专业综合测验; adj. 有理解力的; adj. 综合的",
+            "choices": [
+                "accessible",
+                "ornamental",
+                "preventive",
+                "comprehensive",
+                "indiscriminate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 装饰的，装饰性的; n. 观赏植物; n. 装饰品",
+            "choices": [
+                "misguided",
+                "counterintuitive",
+                "ornamental",
+                "discriminatory",
+                "uncanny"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 引发，引起; vi. 松开扳柄; vt. 触发",
+            "choices": [
+                "trigger",
+                "unattainable",
+                "de-emphasize",
+                "formulaic",
+                "gradient"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 华丽的; adj. （文体）绚丽的; adj. 装饰的",
+            "choices": [
+                "precursor",
+                "bias",
+                "clamorous",
+                "ornate",
+                "abbreviate"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 使用缩写词; vt. 缩写，使省略; vt. 使简短",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "b",
+                "e",
+                "e",
+                "i",
+                "r",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 倾倒; vt. 使倒塌; vi. 摇摇欲坠",
+            "choices": [
+                "e",
+                "l",
+                "o",
+                "p",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 吵闹的; adj. 大声要求的",
+            "choices": [
+                "a",
+                "c",
+                "l",
+                "m",
+                "o",
+                "o",
+                "r",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 胆小的; adj. 羞怯的",
+            "choices": [
+                "d",
+                "i",
+                "i",
+                "m",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 不分皂白的; adj. 无差别的; adj. 任意的",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "i",
+                "i",
+                "i",
+                "i",
+                "m",
+                "n",
+                "n",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Critics say that as a result these schools are ______ against women and admitting less qualified men.",
+            "choices": [
+                "settlement",
+                "discriminating",
+                "precursor",
+                "trigger",
+                "unattainable"
+            ],
+            "chn": "(VOA : special.2009.11.19)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It's one that is maybe initially ______ but actually, I think, is rather important once you begin to think about it.",
+            "choices": [
+                "comprehensible",
+                "spotlight",
+                "precursor",
+                "omnipresent",
+                "counterintuitive"
+            ],
+            "chn": "乍一听你会觉得不可思议，但是仔细一想就会悟出其中道理。(文学理论导论课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "87"
+}

@@ -1,0 +1,80 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "n. [解剖] 皮质; n. 果皮; n. 树皮",
+            "choices": [
+                "c",
+                "e",
+                "o",
+                "r",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 显示; vi. 展出; n. 展览品",
+            "choices": [
+                "b",
+                "e",
+                "h",
+                "i",
+                "i",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 人生观; n. 哲学; n. 哲理",
+            "choices": [
+                "h",
+                "h",
+                "i",
+                "l",
+                "o",
+                "o",
+                "p",
+                "p",
+                "s",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 本质的，固有的",
+            "choices": [
+                "c",
+                "i",
+                "i",
+                "i",
+                "n",
+                "n",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 玄学，形而上学",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "h",
+                "i",
+                "m",
+                "p",
+                "s",
+                "s",
+                "t",
+                "y"
+            ]
+        }
+    ],
+    "quiz_id": "152"
+}

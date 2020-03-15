@@ -1,0 +1,755 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 记住，背熟; vt. 记忆",
+            "choices": [
+                "meaningful",
+                "loop",
+                "memorize",
+                "magnetic",
+                "mechanical"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 合并; vi. 融合; vt. 吞没",
+            "choices": [
+                "limb",
+                "lung",
+                "mall",
+                "merge",
+                "unfold"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [数] 轨迹; n. 地点，所在地",
+            "choices": [
+                "manual",
+                "limb",
+                "kilometer",
+                "manipulate",
+                "locus"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有意义的; adj. 意味深长的",
+            "choices": [
+                "meaningful",
+                "mercury",
+                "kidney",
+                "lifetime",
+                "metabolism"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 指导者，良师益友; vt. 指导",
+            "choices": [
+                "linguistic",
+                "meaningful",
+                "mentor",
+                "limb",
+                "matrix"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 实验室，研究室",
+            "choices": [
+                "marker",
+                "messenger",
+                "lab",
+                "leisure",
+                "mathematical"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 同样地; adv. 也",
+            "choices": [
+                "linguistics",
+                "toxic",
+                "likewise",
+                "legend",
+                "mediate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 逻辑学的; adj. 合逻辑的，合理的",
+            "choices": [
+                "linguistics",
+                "logical",
+                "mechanic",
+                "media",
+                "magnetic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 重要; n. 光度; n. 大小",
+            "choices": [
+                "magnitude",
+                "logical",
+                "metaphor",
+                "lifetime",
+                "leisure"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 循环电影胶片; n. 节育环; n. 翻筋斗",
+            "choices": [
+                "marginal",
+                "lung",
+                "meaningful",
+                "mechanic",
+                "loop"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 处理; n. 操纵; n. 操作",
+            "choices": [
+                "metabolism",
+                "manipulation",
+                "leisure",
+                "liver",
+                "lung"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 说明; n. 图例; n. 传奇",
+            "choices": [
+                "lateral",
+                "legend",
+                "manipulate",
+                "methodology",
+                "manuscript"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 髓，骨髓; n. 精华; n. 活力",
+            "choices": [
+                "legitimacy",
+                "marrow",
+                "lifestyle",
+                "linear",
+                "limb"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 母系的; adj. 母亲的; adj. 母体遗传的",
+            "choices": [
+                "legitimacy",
+                "lifestyle",
+                "maternal",
+                "lab",
+                "liver"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [图情] 手稿; n. 原稿; adj. 手写的",
+            "choices": [
+                "malignant",
+                "manipulate",
+                "manuscript",
+                "machinery",
+                "merge"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": ". ??健的; n. 生活方式",
+            "choices": [
+                "maximize",
+                "mechanical",
+                "marginal",
+                "lifestyle",
+                "linguistic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 保王党员; adj. 有恶意的; adj. 有害的",
+            "choices": [
+                "longitudinal",
+                "malignant",
+                "benign",
+                "toxic",
+                "liter"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 母体; n. [数] 矩阵; n. [地质] 脉石",
+            "choices": [
+                "liver",
+                "leaf",
+                "matrix",
+                "marble",
+                "magnetic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 机器; n. 机械装置; n. 机构",
+            "choices": [
+                "marble",
+                "cadmium",
+                "membrane",
+                "manipulation",
+                "machinery"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 一生; adj. 终身的; adj. 一生的",
+            "choices": [
+                "lifetime",
+                "messenger",
+                "logical",
+                "legitimacy",
+                "methodology"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 可能性，可能",
+            "choices": [
+                "cadmium",
+                "likelihood",
+                "mall",
+                "machinery",
+                "lung"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 巧妙地处理; vt. 篡改; vt. 操作",
+            "choices": [
+                "lung",
+                "magnitude",
+                "layout",
+                "manipulate",
+                "logical"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [生理] 新陈代谢",
+            "choices": [
+                "manual",
+                "benign",
+                "metaphor",
+                "logical",
+                "metabolism"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 语言学",
+            "choices": [
+                "marrow",
+                "linguistics",
+                "lifestyle",
+                "marble",
+                "legitimacy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 弹珠; n. 大理石制品; adj. 大理石的",
+            "choices": [
+                "marble",
+                "linguistic",
+                "locally",
+                "lung",
+                "longitudinal"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 肺; n. 呼吸器",
+            "choices": [
+                "lung",
+                "magnetic",
+                "legitimate",
+                "liter",
+                "instinct"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 铁圈球球场; n. 步行道; n. 商场，购物广场",
+            "choices": [
+                "loop",
+                "legend",
+                "mall",
+                "media",
+                "toxic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 羊皮纸; n. 薄膜; n. 膜",
+            "choices": [
+                "legend",
+                "marginal",
+                "locus",
+                "lecturer",
+                "membrane"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 把…作为杠杆; vt. 用杠杆撬动; n. 杠杆",
+            "choices": [
+                "lever",
+                "liable",
+                "mentor",
+                "lump",
+                "lung"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 正统; n. 合理; n. 合法",
+            "choices": [
+                "maximize",
+                "lab",
+                "legitimacy",
+                "media",
+                "cadmium"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 斡旋; adj. 间接的; vi. 居中",
+            "choices": [
+                "marrow",
+                "malignant",
+                "machinery",
+                "mediate",
+                "legend"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 平民; n. 人口; n. 大众",
+            "choices": [
+                "populace",
+                "manipulation",
+                "memorize",
+                "legitimacy",
+                "likelihood"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 扇页; n. （书籍等的）一张; vi. 翻书页",
+            "choices": [
+                "leaf",
+                "magnitude",
+                "longitudinal",
+                "lecturer",
+                "liable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 本能，直觉; n. 天性; adj. 充满着的",
+            "choices": [
+                "malignant",
+                "mathematical",
+                "populace",
+                "machinery",
+                "instinct"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 报信者，送信者; n. 先驱",
+            "choices": [
+                "benign",
+                "lecturer",
+                "lateral",
+                "linguistics",
+                "messenger"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 在本地; adv. 局部地",
+            "choices": [
+                "locally",
+                "manual",
+                "maximize",
+                "legitimate",
+                "mall"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 浊塞音; n. 媒质（medium的复数）; n. 血管中层",
+            "choices": [
+                "mentor",
+                "instinct",
+                "toxic",
+                "legitimate",
+                "media"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 易…的; adj. 应受罚的; adj. 有责任的，有义务的",
+            "choices": [
+                "lifestyle",
+                "benign",
+                "likelihood",
+                "liable",
+                "mentor"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 暗喻，隐喻; n. 比喻说法",
+            "choices": [
+                "metaphor",
+                "legitimacy",
+                "meaningful",
+                "lifestyle",
+                "likelihood"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": ". ??度表; . 天]水星; n. [化]汞，水银",
+            "choices": [
+                "maximize",
+                "logical",
+                "meaningful",
+                "mercury",
+                "likelihood"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 直线的，线状的; adj. 线的，线型的; adj. 长度的",
+            "choices": [
+                "linear",
+                "leaf",
+                "unfold",
+                "mentor",
+                "marginal"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 呈现; vi. 显露; vt. 打开",
+            "choices": [
+                "lifetime",
+                "leisure",
+                "likelihood",
+                "lab",
+                "unfold"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 侧面的，横向的; vt. 横向传球; n. [语] 边音",
+            "choices": [
+                "lateral",
+                "magnitude",
+                "manipulation",
+                "mall",
+                "legitimacy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 中毒的; adj. 有毒的",
+            "choices": [
+                "lung",
+                "media",
+                "instinct",
+                "mall",
+                "toxic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [化学] 镉（元素符号cd）",
+            "choices": [
+                "cadmium",
+                "magnitude",
+                "meaningful",
+                "memorize",
+                "mechanic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [计量] 公升（容量单位）",
+            "choices": [
+                "liter",
+                "mechanical",
+                "unfold",
+                "magnitude",
+                "marker"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. （使计算机视窗）最大化; v. 充分利用; v. （使）增加到最大限度",
+            "choices": [
+                "malignant",
+                "leaf",
+                "linguistic",
+                "marginal",
+                "maximize"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 经线的; adj. 长度的，纵向的",
+            "choices": [
+                "longitudinal",
+                "populace",
+                "lateral",
+                "magnetic",
+                "lung"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 呆板的; adj. 无意识的; adj. 力学的",
+            "choices": [
+                "lever",
+                "leisure",
+                "memorize",
+                "populace",
+                "mechanical"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 说明书; adj. 用手的; n. 小册子",
+            "choices": [
+                "manual",
+                "marginal",
+                "layout",
+                "meaningful",
+                "mentor"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 语言学的; adj. 语言的",
+            "choices": [
+                "messenger",
+                "linguistic",
+                "lab",
+                "likelihood",
+                "toxic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 混在一起; n. 块，块状; n. 很多",
+            "choices": [
+                "lung",
+                "lump",
+                "mentor",
+                "mechanic",
+                "liter"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 良性的; adj. 吉利的; adj. 和蔼的，亲切的",
+            "choices": [
+                "manipulate",
+                "toxic",
+                "cadmium",
+                "benign",
+                "lump"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有闲的; adj. 业余的; adj. 空闲的",
+            "choices": [
+                "leisure",
+                "logical",
+                "cadmium",
+                "lever",
+                "legend"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 方法学，方法论",
+            "choices": [
+                "methodology",
+                "membrane",
+                "linear",
+                "memorize",
+                "kidney"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 个性; n. 腰子; n. [解剖] 肾脏",
+            "choices": [
+                "leaf",
+                "marrow",
+                "legend",
+                "metaphor",
+                "kidney"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 生活者，居民; n. 肝脏",
+            "choices": [
+                "lung",
+                "lump",
+                "mall",
+                "liver",
+                "kidney"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 词汇的; adj. [语] 词典的; adj. 词典编纂的",
+            "choices": [
+                "lexical",
+                "mechanic",
+                "mathematical",
+                "layout",
+                "manipulate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 临界的; adj. 末端的; adj. 边缘的",
+            "choices": [
+                "marginal",
+                "lecturer",
+                "merge",
+                "marrow",
+                "media"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [计量] 千米（等于kilometre）; n. [计量] 公里",
+            "choices": [
+                "maternal",
+                "kilometer",
+                "locally",
+                "metabolism",
+                "legend"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 讲师，演讲者",
+            "choices": [
+                "methodology",
+                "mediate",
+                "maximize",
+                "metabolism",
+                "lecturer"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 技工，机修工; adj. 手工的",
+            "choices": [
+                "lab",
+                "marble",
+                "leisure",
+                "mechanic",
+                "kilometer"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 精确的; adj. 数学的，数学上的",
+            "choices": [
+                "marrow",
+                "likewise",
+                "leaf",
+                "marker",
+                "mathematical"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 正统的; vt. 使合法; vt. 认为正当（等于legitimize）",
+            "choices": [
+                "lateral",
+                "legitimate",
+                "legend",
+                "marginal",
+                "mall"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 分支; vt. 切断…的手足; n. 枝干",
+            "choices": [
+                "mathematical",
+                "locally",
+                "marginal",
+                "cadmium",
+                "limb"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有磁性的; adj. 地磁的; adj. 有吸引力的",
+            "choices": [
+                "mechanic",
+                "magnetic",
+                "lifetime",
+                "manipulation",
+                "legitimacy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 设计; n. 陈列; n. 布局",
+            "choices": [
+                "magnetic",
+                "layout",
+                "maximize",
+                "manuscript",
+                "manipulation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 紧逼防守的队员; n. （表示方位的）标记; n. 本票，借据",
+            "choices": [
+                "benign",
+                "matrix",
+                "marker",
+                "mediate",
+                "limb"
+            ]
+        }
+    ],
+    "quiz_id": "255"
+}

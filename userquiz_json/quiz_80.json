@@ -1,0 +1,264 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "goat",
+            "choices": [
+                "adv. 历史上地",
+                "n. 色鬼（美俚）",
+                "vt. 估计",
+                "int. 天哪",
+                "n. 总额，总数",
+                "n. 山羊",
+                "vt. 给…作脚注",
+                "n. 替罪羊（美俚）"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "gauge",
+            "choices": [
+                "n. 计量器",
+                "vt. 用曲线图表示",
+                "n. 观念学",
+                "vt. 测量",
+                "n. 标准尺寸",
+                "vt. 给…定规格",
+                "vt. 估计",
+                "n. 容量规格"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "goodness",
+            "choices": [
+                "int. 天哪",
+                "n. [生态] 栖息地，产地",
+                "n. 网格",
+                "n. 精华，养分",
+                "n. 善良，优秀 ",
+                "vt. 使...一般化",
+                "n. 结果",
+                "n. 错误的观念或信仰"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "forum",
+            "choices": [
+                "adv. 根本地，从根本上",
+                "n. 等级制度",
+                "n. 公开讨论的广场",
+                "n. 一般化",
+                "n. 融合物",
+                "n. 法庭",
+                "n. 产量",
+                "n. 论坛，讨论会"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "habitat",
+            "choices": [
+                "n. [生态] 栖息地，产地",
+                "n. [天] 地平线",
+                "n. 螺旋，螺旋状物",
+                "adv. 大量地",
+                "n. 视野",
+                "adv. 重要地",
+                "n. 熔化",
+                "n. [化学] 氢"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 图表; vt. 用曲线图表示; n. 曲线图",
+            "choices": [
+                "historically",
+                "hepatitis",
+                "graph",
+                "gradient",
+                "goat"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 鹰嘴豆（用作饲料）; n. 克",
+            "choices": [
+                "formulation",
+                "fusion",
+                "hormone",
+                "gram",
+                "impact"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 符合语法规则的; adj. 文法的",
+            "choices": [
+                "fusion",
+                "identification",
+                "grammatical",
+                "ghost",
+                "immune"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [化学] 氢",
+            "choices": [
+                "generalize",
+                "forum",
+                "hydrogen",
+                "friction",
+                "harvest"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 神经冲动; vt. 推动; n. 刺激",
+            "choices": [
+                "gross",
+                "friction",
+                "fringe",
+                "impulse",
+                "gut"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 用树篱笆围住; v. 避免作正面答复; n. 树篱",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "g",
+                "h"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 恶劣的; n. 总额，总数; adj. 显而易见的",
+            "choices": [
+                "g",
+                "o",
+                "r",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 部分; n. 小部分; n. 分数",
+            "choices": [
+                "a",
+                "c",
+                "f",
+                "i",
+                "n",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 设立总部; vt. 在…设总部",
+            "choices": [
+                "a",
+                "a",
+                "d",
+                "e",
+                "e",
+                "h",
+                "q",
+                "r",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 折断; n. [外科] 骨折; vi. 破裂",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "f",
+                "r",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Perhaps we should airlift copies of Leviathan to them, because that is the issue that Hobbes is ______ concerned with.",
+            "choices": [
+                "formally",
+                "harvest",
+                "fundamentally",
+                "hormone",
+                "ideology"
+            ],
+            "chn": "也许我们可以给他们空投好多份《利维坦》,因为正是这个问题,正是霍布斯关心的基本问题。(政治哲学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "______, the party in the White House -- currently the Democratic Party -- suffers losses in midterm elections.",
+            "choices": [
+                "historically",
+                "harvest",
+                "hip",
+                "halfway",
+                "hierarchy"
+            ],
+            "chn": "(VOA : special.2010.06.12)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The study ______ a sixty-three percent increase in the number of people treated for rock climbing injuries in American hospitals.",
+            "choices": [
+                "hydrogen",
+                "hepatitis",
+                "found",
+                "hedge",
+                "formally"
+            ],
+            "chn": "(VOA : special.2009.12.09)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Notice the importance -and we'll come back to it-- of the word \"dominant\": \"the dominant\" in the thinking of the Russian formalists and the struggle for dominance among species in a ______.",
+            "choices": [
+                "habitat",
+                "generalization",
+                "fringe",
+                "gut",
+                "impulse"
+            ],
+            "chn": "注意这个词的重要性,我们还会讲到，支配，这个词：,俄国形式主义者所说的支配,和物种间争夺栖息地的支配。(文学理论导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "They move from regions of high concentration to regions of low concentration by this natural flow down a concentration ______.",
+            "choices": [
+                "goodness",
+                "forum",
+                "gradient",
+                "importantly",
+                "hormone"
+            ],
+            "chn": "从高浓度区域,向低浓度区域流动,顺浓度梯度流动(生物医学工程探索课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "80"
+}

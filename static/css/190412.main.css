@@ -1,0 +1,31 @@
+body {
+    font-size: 14px;
+    background: url('/static/img/main.bg.png') fixed center center;
+	background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-position: center 0;
+}
+
+.mainform {
+    overflow-y: scroll;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    -webkit-overflow-scrolling: touch;
+    background-color: rgba(255, 255, 255, 0.001007);
+    box-shadow:0px 0px 6px rgba(0, 0, 0, 0.149019607843137);
+    position: absolute; border-radius: 20px;
+    left: 2%; right: 2%; top: 55px; bottom: 2%;
+    text-shadow: 0px 0px 2px #666;
+    padding: 2% 2.4% 2% 2.4%;
+    /* z-index:9000; */
+    font-weight:500;
+}
+
+.mainform::-webkit-scrollbar {
+    display: none;
+}
+
+.ur {
+    background-color: rgba(255, 255, 255, 0.55);
+}

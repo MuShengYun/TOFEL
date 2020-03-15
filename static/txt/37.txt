@@ -1,0 +1,21 @@
+Systems used in the hacking of the Democratic Party were paid for using Bitcoin, as were online hosting services that supported websites which published hacked materials and were used in the targeting of disinformation at American voters. The hacking and disinformation campaigns accounted for the vast majority of Russia's online efforts to influence the 2016 election. 
+
+All Bitcoin transactions are posted to an immutable public ledger, known as a blockchain. While the blockchain doesn't contain obvious identifying information about the person behind a transaction, once someone figures out a user is responsible for one transaction it can be possible to track their entire Bitcoin history. 
+
+Russian agents, including those from the GRU, Russia's military intelligence agency, had sought to, as the Mueller indictment of GRU agents last July outlined, "capitalize on the perceived anonymity of cryptocurrencies." But while Bitcoin allowed Russians to "avoid direct relationships with traditional financial institutions, allowing them to evade greater scrutiny of their identities and sources of funds," according to the same indictment, it wasn't enough to evade Mueller's investigation. 
+
+Tim Cotten, a blockchain developer and security researcher who has done extensive work in tracking Russian Bitcoin accounts unearthed by Mueller's team, noted in an interview with CNN Business that trading Bitcoins on exchanges usually requires users to set up Bitcoin wallets that are tied to an email address. Federal investigators were able to access at least some of the email accounts used in the operation, which, Cotten says, would have made tracing Bitcoin transactions a lot easier. 
+
+Investigators' access to the "the other side of the blockchain equation," as he described it, was important because, "Rather than having to search the blockchain for clues, they already had all of the receipts demonstrating which accounts were under the GRU's control."
+
+The Russians used stolen and false identities in setting up some of these accounts, according to Mueller's team, but had used some of the same accounts to purchase servers and website domains involved in the hacking of the Democratic Party and the publishing of the hacked materials, Mueller's indictment outlines. That, Cotten said, would have made it easier for investigators to tie the case together. 
+
+A virtual private network, a way to obscure the location from which a user is accessing the internet, was also purchased using Bitcoin, Mueller found; that network was used to login at @Guccifer_2, the infamous Twitter account that communicated with Wikileaks and others, Mueller's investigation found. 
+
+Investigators' access to the "the other side of the blockchain equation," as he described it, was important because, "Rather than having to search the blockchain for clues, they already had all of the receipts demonstrating which accounts were under the GRU's control."
+
+The Russians used stolen and false identities in setting up some of these accounts, according to Mueller's team, but had used some of the same accounts to purchase servers and website domains involved in the hacking of the Democratic Party and the publishing of the hacked materials, Mueller's indictment outlines. That, Cotten said, would have made it easier for investigators to tie the case together. 
+
+A virtual private network, a way to obscure the location from which a user is accessing the internet, was also purchased using Bitcoin, Mueller found; that network was used to login at @Guccifer_2, the infamous Twitter account that communicated with Wikileaks and others, Mueller's investigation found. 
+
+

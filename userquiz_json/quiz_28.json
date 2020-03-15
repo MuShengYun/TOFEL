@@ -1,0 +1,232 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "accent",
+            "choices": [
+                "n. 口音",
+                "vt. 重读",
+                "n. 重音",
+                "vt. 强调",
+                "n. 代数学",
+                "n. 强调",
+                "n. 重音符号",
+                "vt. 带…口音讲话"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "amplitude",
+            "choices": [
+                "n. 振幅",
+                "n. 飞机",
+                "vt. 承受",
+                "n. (法)阿利安",
+                "n. 类推",
+                "n. 丰富，充足",
+                "n. 广阔",
+                "n. 古物"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "amino",
+            "choices": [
+                "adj. 风雅的",
+                "adj. 氨基的",
+                "vt. 吸收",
+                "n. [计][数] 算法，运算法则",
+                "n. (英、意、印尼)阿米诺",
+                "n. [免疫] 抗体",
+                "n. [数] 精确度，准确性",
+                "n. [化学] 氨基"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "analogy",
+            "choices": [
+                "n. 类推",
+                "n. 代数学",
+                "n. [免疫] 抗体",
+                "n. 类似",
+                "n. (英、意、印尼)阿米诺",
+                "n. [免疫] 抗体",
+                "n. 类比",
+                "vt. 箭一般地飞向"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 鼓掌欢迎; n. 欢呼，喝采",
+            "choices": [
+                "applause",
+                "anthropology",
+                "agriculture",
+                "antibody",
+                "anti"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 不利的; adj. 相反的; adj. 敌对的（名词ness，副词ly）",
+            "choices": [
+                "archaeology",
+                "articulate",
+                "abdominal",
+                "adverse",
+                "adaptation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. (法)阿利安; adj. 相异的，性质不同的; adj. 不相容的",
+            "choices": [
+                "alien",
+                "aerosol",
+                "absorb",
+                "alliance",
+                "articulate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 酸的; adj. 讽刺的; n. 酸",
+            "choices": [
+                "accuracy",
+                "antibody",
+                "arrow",
+                "amino",
+                "acid"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有腹鳍的; adj. 腹部的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "d",
+                "i",
+                "l",
+                "m",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 喷雾器的; n. 喷雾器; n. 气雾剂",
+            "choices": [
+                "a",
+                "e",
+                "l",
+                "o",
+                "o",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 农业; n. 农业生产; n. 农耕",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "g",
+                "i",
+                "l",
+                "r",
+                "r",
+                "t",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 以后，后来",
+            "choices": [
+                "a",
+                "a",
+                "d",
+                "e",
+                "f",
+                "r",
+                "r",
+                "t",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 不利的; adj. 相反的; adj. 敌对的（名词adverseness，副词adversely）",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "r",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "\"The neighborhood were recruited from is ______ to an interstate.",
+            "choices": [
+                "antiquity",
+                "ancestor",
+                "archaeology",
+                "accent",
+                "adjacent"
+            ],
+            "chn": "(VOA : standard.2009.12.19)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So I'm going to solve this by enumerate and check, which is an example of what's called a brute-force ______.",
+            "choices": [
+                "altitude",
+                "algorithm",
+                "amino",
+                "articulate",
+                "artistic"
+            ],
+            "chn": "你懂的,所以我得靠列举和检验来解决这个问题,这就是我们说的穷举算法。(计算机科学及编程导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "You might ask, well is this an ______ formula?",
+            "choices": [
+                "approximate",
+                "antibiotic",
+                "amplitude",
+                "absorb",
+                "aerosol"
+            ],
+            "chn": "你们可能会问,这是一个约等式吗(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Then, once you've done that, once you have secured the integrity and ______ of the meaning, Hirsch says, \"Okay, fine.",
+            "choices": [
+                "accuracy",
+                "antibiotic",
+                "algebra",
+                "ancestor",
+                "antibody"
+            ],
+            "chn": "在你完成那个之后，一旦你确定了意思的真实性和准确性，赫施说，好的，不错。(文学理论导论课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "28"
+}

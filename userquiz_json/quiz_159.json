@@ -1,0 +1,546 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_e",
+            "problem": ": a bluish silver-white light malleable ductile trivalent metallic element that has good electrical and thermal conductivity, high reflectivity, and resistance to oxidation and is the most abundant metal in the earth's crust where it always occurs in combination — see Chemical Elements Table",
+            "choices": [
+                "approximate",
+                "aluminum",
+                "accent",
+                "abdominal",
+                "antiquity"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": freedom from mistake or error : the quality or state of being accurate",
+            "choices": [
+                "accelerate",
+                "amplitude",
+                "aesthetic",
+                "antiquity",
+                "accuracy"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a substance (such as an insecticide or medicine) dispensed from a pressurized container as an aerosol",
+            "choices": [
+                "aluminum",
+                "acute",
+                "admission",
+                "aerosol",
+                "absorb"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": seeming to have been made or chosen by chance",
+            "choices": [
+                "arbitrary",
+                "activate",
+                "amplitude",
+                "amino",
+                "affirm"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": appendage",
+            "choices": [
+                "antibiotic",
+                "accuracy",
+                "appendix",
+                "adaptation",
+                "absorb"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to cause to move faster",
+            "choices": [
+                "antiquity",
+                "allocate",
+                "artifact",
+                "archaeology",
+                "accelerate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": through the reciprocal acts of",
+            "choices": [
+                "accumulate",
+                "amplitude",
+                "antibiotic",
+                "accuracy",
+                "amongst"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": forerunner, prototype",
+            "choices": [
+                "ancestor",
+                "appendix",
+                "afterward",
+                "adolescent",
+                "array"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": any of a large number of proteins of high molecular weight that are produced normally by specialized B cells after stimulation by an antigen and act specifically against the antigen in an immune response, that are produced abnormally by some cancer cells, and that typically consist of four subunits including two heavy chains and two light chains",
+            "choices": [
+                "architect",
+                "admission",
+                "affirm",
+                "acute",
+                "antibody"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the granting of an argument or position not fully proved : the act of acknowledging something asserted",
+            "choices": [
+                "arbitrary",
+                "admission",
+                "affirm",
+                "artistic",
+                "adaptation"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the science, art, or practice of cultivating the soil, producing crops, and raising livestock and in varying degrees the preparation and marketing of the resulting products",
+            "choices": [
+                "accent",
+                "adaptation",
+                "agriculture",
+                "amongst",
+                "architect"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": correspondence in function between anatomical parts of different structure and origin — compare homology",
+            "choices": [
+                "analogy",
+                "antibody",
+                "aesthetic",
+                "articulate",
+                "ancestor"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": validate, confirm",
+            "choices": [
+                "amplitude",
+                "adaptation",
+                "affirm",
+                "antibiotic",
+                "architect"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a generalization of arithmetic in which letters representing numbers are combined according to the rules of arithmetic",
+            "choices": [
+                "algebra",
+                "alliance",
+                "abdominal",
+                "afterward",
+                "applause"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": having existence in legal, economic, or political theory",
+            "choices": [
+                "adverse",
+                "alliance",
+                "accuracy",
+                "artificial",
+                "acute"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": having the form ´",
+            "choices": [
+                "array",
+                "acute",
+                "alliance",
+                "accumulate",
+                "approximate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the state of being allied : the action of allying",
+            "choices": [
+                "algebra",
+                "ancestor",
+                "amplitude",
+                "architect",
+                "alliance"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a procedure for solving a mathematical problem (as of finding the greatest common divisor) in a finite number of steps that frequently involves repetition of an operation",
+            "choices": [
+                "amongst",
+                "artificial",
+                "allocate",
+                "altitude",
+                "algorithm"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a substance produced by or a semisynthetic (see semisynthetic sense 1) substance derived from a microorganism and able in dilute solution to inhibit or kill another microorganism",
+            "choices": [
+                "artistic",
+                "antibiotic",
+                "aerosol",
+                "allocate",
+                "accent"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to make active or more active: such as",
+            "choices": [
+                "articulate",
+                "activate",
+                "afterward",
+                "artistic",
+                "admission"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": relating to, being, or containing an amine group",
+            "choices": [
+                "acute",
+                "algorithm",
+                "amino",
+                "anthropology",
+                "arrow"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a group of elements forming a complete unit",
+            "choices": [
+                "admission",
+                "array",
+                "acid",
+                "aerosol",
+                "aesthetic"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to take up especially by capillary, osmotic, solvent, or chemical action",
+            "choices": [
+                "accumulate",
+                "aggregate",
+                "accent",
+                "absorb",
+                "acid"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a person who designs buildings",
+            "choices": [
+                "adolescent",
+                "architect",
+                "aesthetic",
+                "aluminum",
+                "agriculture"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act or process of adapting",
+            "choices": [
+                "adolescent",
+                "adverse",
+                "acute",
+                "adaptation",
+                "algorithm"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the part of the body between the thorax and the pelvis",
+            "choices": [
+                "absorb",
+                "abdominal",
+                "accumulate",
+                "aggregate",
+                "alliance"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": opposed",
+            "choices": [
+                "activate",
+                "archaeology",
+                "adaptation",
+                "airplane",
+                "anti"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to apportion for a specific purpose or to particular persons or things : distribute",
+            "choices": [
+                "acid",
+                "adverse",
+                "altitude",
+                "amino",
+                "allocate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the scientific study of material remains (such as tools, pottery, jewelry, stone walls, and monuments) of past human life and activities",
+            "choices": [
+                "acid",
+                "amongst",
+                "algebra",
+                "archaeology",
+                "affirm"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the angle assigned to a complex number when it is plotted in a complex plane using polar coordinates",
+            "choices": [
+                "arrow",
+                "algorithm",
+                "amplitude",
+                "alien",
+                "artistic"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a missile shot from a bow and usually having a slender shaft, a pointed head, and feathers at the butt",
+            "choices": [
+                "airplane",
+                "arrow",
+                "affirm",
+                "accelerate",
+                "appendix"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": of, relating to, or being an acid",
+            "choices": [
+                "acid",
+                "altitude",
+                "array",
+                "alien",
+                "absorb"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a foreign-born resident who has not been naturalized and is still a subject or citizen of a foreign country",
+            "choices": [
+                "antibiotic",
+                "adjacent",
+                "applause",
+                "alliance",
+                "alien"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to give clear and effective utterance to : to put into words",
+            "choices": [
+                "articulate",
+                "algorithm",
+                "aggregate",
+                "accumulate",
+                "antiquity"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to bring near or close",
+            "choices": [
+                "amino",
+                "approximate",
+                "antibiotic",
+                "acid",
+                "adaptation"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a mark placed to the right of a letter or number and usually slightly above it: such as",
+            "choices": [
+                "amongst",
+                "adverse",
+                "accent",
+                "artificial",
+                "aluminum"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": approval publicly expressed (as by clapping the hands)",
+            "choices": [
+                "array",
+                "aggregate",
+                "agriculture",
+                "adjacent",
+                "applause"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to amount to (a whole sum or total) : total",
+            "choices": [
+                "arrow",
+                "aggregate",
+                "abdominal",
+                "aluminum",
+                "algebra"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the science of human beings",
+            "choices": [
+                "alien",
+                "accelerate",
+                "applause",
+                "anthropology",
+                "architect"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": vertical distance or extent",
+            "choices": [
+                "alliance",
+                "altitude",
+                "accuracy",
+                "aluminum",
+                "affirm"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a branch of philosophy dealing with the nature of beauty, art, and taste and with the creation and appreciation of beauty",
+            "choices": [
+                "acid",
+                "amino",
+                "appendix",
+                "admission",
+                "aesthetic"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a usually simple object (such as a tool or ornament) showing human workmanship or modification as distinguished from a natural object",
+            "choices": [
+                "altitude",
+                "alien",
+                "artifact",
+                "archaeology",
+                "aesthetic"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": of, relating to, or characteristic of art or artists",
+            "choices": [
+                "anti",
+                "altitude",
+                "aluminum",
+                "artistic",
+                "aesthetic"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": ancient times",
+            "choices": [
+                "algorithm",
+                "amongst",
+                "antiquity",
+                "approximate",
+                "applause"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": not distant : nearby",
+            "choices": [
+                "acute",
+                "adjacent",
+                "allocate",
+                "analogy",
+                "agriculture"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": collect sense 3, gather",
+            "choices": [
+                "agriculture",
+                "arrow",
+                "accent",
+                "accumulate",
+                "altitude"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": of, relating to, or being in adolescence",
+            "choices": [
+                "activate",
+                "abdominal",
+                "accumulate",
+                "adolescent",
+                "architect"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": opposed to one's interests",
+            "choices": [
+                "analogy",
+                "alien",
+                "adverse",
+                "ancestor",
+                "acid"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": at a later time",
+            "choices": [
+                "adverse",
+                "antibody",
+                "aggregate",
+                "algorithm",
+                "afterward"
+            ]
+        }
+    ],
+    "quiz_id": "159"
+}

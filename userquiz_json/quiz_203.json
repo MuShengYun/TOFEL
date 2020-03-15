@@ -1,0 +1,892 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "instability",
+            "choices": [
+                "n. 不稳定（性）",
+                "n. 间距",
+                "n. 镶块",
+                "adj. 传染的",
+                "n. 不安定",
+                "n. 基础薄弱",
+                "n. 年少者，晚辈",
+                "adv. 有趣地"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "incline",
+            "choices": [
+                "vi. 倾向",
+                "n. 斜坡",
+                "vi. 倾斜",
+                "vt. 使倾斜",
+                "n. 推论",
+                "n. 倾斜",
+                "vt. 使倾向于",
+                "vi. 易于"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "injection",
+            "choices": [
+                "n. 充血",
+                "n. 注射",
+                "n. 侵犯",
+                "n. 射入轨道",
+                "n. 无限",
+                "vi. 侵犯",
+                "n. 注射剂",
+                "n. 次品"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "infect",
+            "choices": [
+                "vi. 打扰",
+                "n. 新加入者，接受初步知识者",
+                "adj. 有影响的",
+                "vt. 注射",
+                "n. 卑鄙的人",
+                "n. 昆虫",
+                "vt. 感染，传染",
+                "n. 工业化"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "inequality",
+            "choices": [
+                "vt. 打断",
+                "n. 集成",
+                "n. 辩护",
+                "vt. 注射",
+                "n. 不同",
+                "n. 中立",
+                "n. 不平等",
+                "n. 不平均"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "incredible",
+            "choices": [
+                "n. 冲洗法",
+                "adj. 间接的",
+                "n. 昆虫",
+                "n. 注射",
+                "adj. 极好的",
+                "adj. 难以置信的，惊人的",
+                "n. 幕间休息",
+                "n. 幕间休息"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "indicator",
+            "choices": [
+                "n.  指示器",
+                "n. [计] 指示符",
+                "vt. 引诱",
+                "adj. 非正式的",
+                "vt. 感染，传染",
+                "n. 指标，标志，迹象",
+                "n. [试剂] 指示剂",
+                "n. 压力计"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "inhibit",
+            "choices": [
+                "n. 倒置",
+                "vt. 禁止",
+                "n. [化学] 离子",
+                "adv. 不可避免地",
+                "n. 界面",
+                "vt. 中断",
+                "vt. 抑制",
+                "vi. 打扰"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "intensive",
+            "choices": [
+                "n. 面谈者",
+                "adj. 透彻的",
+                "adj. 集中的",
+                "n. 幕间休息",
+                "n. 加强器",
+                "vi. 调停",
+                "adj. 加强语气的",
+                "adj. 加强的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "irrelevant",
+            "choices": [
+                "adj. 不切题的",
+                "vi. 干涉",
+                "n. 幕间剧",
+                "n. 内含物",
+                "vi. 实现工业化",
+                "adj. 难以置信的，惊人的",
+                "n. 入门培训，入职仪式，就职",
+                "adj. 不相干的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "interrupt",
+            "choices": [
+                "vi. 打断",
+                "vt. 插嘴",
+                "vi. 打扰",
+                "vt. 打断",
+                "vt. 妨碍",
+                "n. 卑鄙的人",
+                "n. 中断",
+                "vt. 中断"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "integral",
+            "choices": [
+                "n. 积分",
+                "vi. 妨碍",
+                "n. 部分",
+                "vi. 互相影响",
+                "adj. 完整的，整体的",
+                "adj. 积分的",
+                "n. 完整",
+                "adj. 构成整体所必须的"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "incidence",
+            "choices": [
+                "n. 充血",
+                "n. 影响范围",
+                "n. 影响",
+                "n. 幕间休息",
+                "adj. 中间的，中级的",
+                "n. [光] 入射",
+                "n. 发生率",
+                "n. 归纳法"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "intervene",
+            "choices": [
+                "vi. 插入",
+                "vi. 侵入",
+                "vi. 调停",
+                "adj. 传染的",
+                "vi. 游荡",
+                "n. 注射剂",
+                "vt. 禁止",
+                "vi. 干涉"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "integration",
+            "choices": [
+                "n. 集成",
+                "vt. 注射",
+                "vt. 禁止",
+                "adv. 独立地",
+                "n. 综合",
+                "vt. 引起",
+                "n. [化学] 离子",
+                "vi. 插入"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "initiate",
+            "choices": [
+                "vt. 使初步了解",
+                "n. 开始",
+                "n. 新加入者，接受初步知识者",
+                "vt. 开始，创始",
+                "n. 在职者",
+                "vt. 发起",
+                "adj. 接受初步知识的",
+                "adj. 新加入的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "infinity",
+            "choices": [
+                "adj. 国产的",
+                "n. 无穷",
+                "n. 昆虫",
+                "adj. 间接的",
+                "n. 无限距",
+                "adv. 必然地",
+                "vt. 开始，创始",
+                "n. 无限大"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "induce",
+            "choices": [
+                "n. [化学] 离子",
+                "vt. 引诱",
+                "vt. 感应",
+                "vt. 诱导",
+                "vt. 引起",
+                "vt. 抑制",
+                "adj. 加强语气的",
+                "vi. 倾斜"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "induction",
+            "choices": [
+                "n. 诱导",
+                "n. 综合",
+                "vi. 侵袭",
+                "adj. 充满着的",
+                "n. [电磁] 感应",
+                "n. 入门培训，入职仪式，就职",
+                "n. 归纳法",
+                "n. 感应现象"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "interface",
+            "choices": [
+                "n. 压力计",
+                "v. （使通过界面或接口）接合，连接",
+                "v. [计算机]使联系",
+                "n. 交界面",
+                "vi. 交流，交谈",
+                "n. <计>接口",
+                "n. 界面",
+                "vi. 相互作用（或影响）"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "justification",
+            "choices": [
+                "n. 现任者",
+                "adj. 加强语气的",
+                "n. 辩护",
+                "n. 理由",
+                "n. 释罪",
+                "n. 认为有理，认为正当",
+                "n. 基础薄弱",
+                "n. 会见者"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "inference",
+            "choices": [
+                "n. 推理",
+                "n. 推论",
+                "n. 内含物",
+                "n. 无限大",
+                "n. 推断",
+                "adj. 集中的",
+                "n. 不安定",
+                "n. [化学] 中间物"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "inversion",
+            "choices": [
+                "n. 倒置",
+                "n. [临床] 冲洗",
+                "n. 倒转",
+                "n. 反向",
+                "n. 交界面",
+                "n. 无穷",
+                "n. 倾斜",
+                "adj. 加强的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "inject",
+            "choices": [
+                "adv. 有趣地",
+                "adj. 难以置信的，惊人的",
+                "vt. 引诱",
+                "vt. 注射",
+                "n. 指标，标志，迹象",
+                "n. 入侵，侵略",
+                "vt. 注入",
+                "adv. 独立地"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "instinct",
+            "choices": [
+                "vi. 侵入",
+                "n. 天性",
+                "n. 本能，直觉",
+                "adj. 充满着的",
+                "adv. 非常地",
+                "n. 会见者",
+                "adj. 无限的，无穷的",
+                "n. 启蒙，传授"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "irrigation",
+            "choices": [
+                "vt. 使倾向于",
+                "n. [机械]刀片",
+                "n. 强烈",
+                "n. 入会",
+                "n. [临床] 冲洗",
+                "n. 不稳定（性）",
+                "n. 冲洗法",
+                "n. 灌溉"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "independently",
+            "choices": [
+                "n. 不同",
+                "n. 影响范围",
+                "v. （使通过界面或接口）接合，连接",
+                "n. 不安定",
+                "adj. 爵士乐的",
+                "adv. 自立地",
+                "adj. 传染的",
+                "adv. 独立地"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "infinite",
+            "choices": [
+                "adj. 充满着的",
+                "n. [数] 无穷大",
+                "adj. 极大的",
+                "adj. 无限的，无穷的",
+                "n. 无限的东西（如空间，时间）",
+                "n. 无限",
+                "adj. 无数的",
+                "n. 倒置物"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "invade",
+            "choices": [
+                "vt. 侵略",
+                "vt. 侵袭",
+                "vt. 侵扰",
+                "vi. 侵袭",
+                "adv. 不可避免地",
+                "vi. 侵入",
+                "vi. 侵犯",
+                "vt. 涌入"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "incredibly",
+            "choices": [
+                "adj. 后进的",
+                "adj. 不相干的",
+                "adv. 非常地",
+                "n. 强度",
+                "adv. 难以置信地",
+                "n. 推论",
+                "n. 卑鄙的人",
+                "vt. 使…转化"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "initiation",
+            "choices": [
+                "n. [机械]刀片",
+                "n. 开始",
+                "n. 工业化",
+                "adj. 新加入的",
+                "vt. 中断",
+                "adj. 不相干的",
+                "n. 启蒙，传授",
+                "n. 入会"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "indifference",
+            "choices": [
+                "vt. 感染，传染",
+                "adv. 必然地",
+                "n. 冷淡",
+                "n. 不重视",
+                "n. 中立",
+                "n. 不稳定（性）",
+                "adv. 难以置信地",
+                "n. 漠不关心"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "influential",
+            "choices": [
+                "n. 有影响力的人物",
+                "adj. 迂回的",
+                "adj. 有影响的",
+                "vi. 交流，交谈",
+                "adj. 传染性的",
+                "n. 包含",
+                "adj. 有势力的",
+                "vt. 感应"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "inferior",
+            "choices": [
+                "adj. 差的",
+                "adj. 自卑的",
+                "n. 次品",
+                "n. 进行面试者",
+                "n. [试剂] 指示剂",
+                "adj. 下级的，下等的",
+                "vi. 妨碍",
+                "n. 下级"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "innate",
+            "choices": [
+                "adj. 难以置信的，惊人的",
+                "adj. 与生俱来的",
+                "n. 不平等",
+                "adj. 接受初步知识的",
+                "adj. 固有的",
+                "n. 不同",
+                "adv. 非常地",
+                "adj. 先天的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "inclusion",
+            "choices": [
+                "n. 基础薄弱",
+                "n. 包含",
+                "n. 反向",
+                "n. 内含物",
+                "adv. 有趣地",
+                "n. 次品",
+                "adj. 不相干的",
+                "n. 强烈"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "invert",
+            "choices": [
+                "adj. 转化的",
+                "vt. 使…颠倒",
+                "n. 基础薄弱",
+                "vt. 使…转化",
+                "n. 倒置物",
+                "n. 颠倒的事物",
+                "vt. 使…反转",
+                "vt. 使…前后倒置"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "informal",
+            "choices": [
+                "n. 综合",
+                "adj. 非正式的",
+                "adj. 不拘礼节的",
+                "adj. 通俗的",
+                "n. 天性",
+                "n. 加强器",
+                "adj. 日常使用的",
+                "adj. 随便的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "industrialization",
+            "choices": [
+                "n. 感应现象",
+                "vi. 实现工业化",
+                "n. [光] 入射",
+                "adv. 个别地，单独地",
+                "adv. 个别地，单独地",
+                "n. [光] 入射",
+                "n. 界面",
+                "n. 工业化"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "intermediate",
+            "choices": [
+                "vi. 倾向",
+                "vt. 诱导",
+                "adj. 固有的",
+                "vi. 起媒介作用",
+                "adj. 中间的，中级的",
+                "n. 媒介",
+                "adj. 与生俱来的",
+                "n. [化学] 中间物"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "individually",
+            "choices": [
+                "n. 冲洗法",
+                "n. 推理",
+                "adv. 不可避免地",
+                "n. 不重视",
+                "adv. 个别地，单独地",
+                "adv. 非常地",
+                "n. 集成",
+                "vi. 调停"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "insect",
+            "choices": [
+                "n. 昆虫",
+                "n. 本能，直觉",
+                "n. 无限大",
+                "vt. 涌入",
+                "adj. 充满着的",
+                "n. 工业化",
+                "n. 卑鄙的人",
+                "vt. 感染，传染"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "interact",
+            "choices": [
+                "vi. 互相作用",
+                "n. 幕间休息",
+                "vt. 互相作用",
+                "vt. 互相影响",
+                "n. 不平等",
+                "n. 幕间剧",
+                "vi. 互相影响",
+                "vt. 禁止"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "interviewer",
+            "choices": [
+                "n. 采访者",
+                "adj. 集中的",
+                "n. 面谈者",
+                "n. 会见者",
+                "n. 进行面试者",
+                "vt. 注入",
+                "adj. 无数的",
+                "adv. 不可避免地"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "infectious",
+            "choices": [
+                "adj. 易传染的",
+                "v. （使通过界面或接口）接合，连接",
+                "adj. 传染的",
+                "n. 强烈",
+                "adj. 不相干的",
+                "vt. 引诱",
+                "adj. 传染性的",
+                "vi. 打断"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "interval",
+            "choices": [
+                "n. 幕间休息",
+                "n. 入侵，侵略",
+                "n. 幕间剧",
+                "adj. 不相干的",
+                "adv. 不可避免地",
+                "adj. 易传染的",
+                "n. 间距",
+                "n. 间隔"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "jazz",
+            "choices": [
+                "adj. 喧吵的",
+                "vi. 游荡",
+                "vt. 奏爵士乐",
+                "n. 喧闹",
+                "n. 爵士乐，爵士舞",
+                "vt. 中断",
+                "vt. 使活泼",
+                "vi. 奏爵士乐，跳爵士舞"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "insert",
+            "choices": [
+                "n. [机械]刀片",
+                "adj. 固有的",
+                "vt. 插入",
+                "n. 镶块",
+                "adj. 喧吵的",
+                "vt. 嵌入",
+                "n. 插入物",
+                "n. 管芯"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "indigenous",
+            "choices": [
+                "adj. 国产的",
+                "vt. 引诱",
+                "adj. 本土的",
+                "n. 无穷",
+                "n. 入会",
+                "n. 发生率",
+                "adj. 土著的",
+                "adj. 固有的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "intensity",
+            "choices": [
+                "n. [电子] 亮度",
+                "n. 侵袭",
+                "n. 紧张",
+                "n. 不同",
+                "vi. 奏爵士乐，跳爵士舞",
+                "n. 强烈",
+                "vi. 调停",
+                "n. 强度"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "interestingly",
+            "choices": [
+                "vt. 禁止",
+                "vt. 使…反转",
+                "n. 现任者",
+                "adv. 有趣地",
+                "n. 漠不关心",
+                "vt. 引起",
+                "vt. 注射",
+                "n. 注射"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "inevitably",
+            "choices": [
+                "n. 射入轨道",
+                "n. 入会",
+                "n. [计] 指示符",
+                "adv. 必然地",
+                "vi. 打断",
+                "n. 包含",
+                "adv. 不可避免地",
+                "n. 本能，直觉"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "interfere",
+            "choices": [
+                "vt. 冲突",
+                "n. 入门培训，入职仪式，就职",
+                "n. 归纳法",
+                "vt. 互相作用",
+                "vi. 干涉",
+                "vi. 妨碍",
+                "vi. 打扰",
+                "vt. 介入"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "indirect",
+            "choices": [
+                "adj. 非直截了当的",
+                "n. [化学] 离子",
+                "n. [数] 无穷大",
+                "vi. 互相影响",
+                "adj. 间接的",
+                "n. 卑鄙的人",
+                "adj. 迂回的",
+                "n. 侵犯"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "invasion",
+            "choices": [
+                "n. 包含",
+                "n. 倒转",
+                "n. 入侵，侵略",
+                "n. 采访者",
+                "vt. 侵略",
+                "n. 侵犯",
+                "n. 侵袭",
+                "vt. 感应"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "industrialize",
+            "choices": [
+                "vi. 实现工业化",
+                "n. 本能，直觉",
+                "n. 侵袭",
+                "vt. 使工业化",
+                "n. 冷淡",
+                "n. 不同",
+                "vi. 易于",
+                "n. 侵犯"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "junior",
+            "choices": [
+                "adj. 后进的",
+                "n. 综合",
+                "adj. 下级的",
+                "n. 推断",
+                "n. 大学三年级学生",
+                "n. 地位较低者",
+                "adj. 年少的",
+                "n. 年少者，晚辈"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "incumbent",
+            "choices": [
+                "n. 幕间休息",
+                "adj. 迂回的",
+                "adj. 负有职责的",
+                "n. 在职者",
+                "n. 现任者",
+                "adj. 现任的",
+                "adj. 依靠的",
+                "n. 领圣俸者"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ion",
+            "choices": [
+                "n. [化学] 离子",
+                "n. 卑鄙的人",
+                "adj. 易传染的",
+                "n. [数] 无穷大",
+                "n. 倒悬者",
+                "vt. 感染，传染",
+                "vt. 抑制",
+                "n. 理由"
+            ],
+            "true_ans_cnt": 1
+        }
+    ],
+    "quiz_id": "203"
+}

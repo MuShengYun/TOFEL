@@ -1,0 +1,103 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "conducive",
+            "choices": [
+                "vt. 占先，抢先",
+                "vt. 使…文雅",
+                "adj. 有益的",
+                "vi. 详细描述",
+                "adv. 引人注目地",
+                "adj. 有助于…的",
+                "vt. 限制",
+                "vt. 支撑，承担"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 阻止; vt. 妨碍; vt. 阻碍",
+            "choices": [
+                "enormous",
+                "impede",
+                "sustain",
+                "excessive",
+                "conspicuous"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 戴面具; vt. 使模糊; vi. 化装",
+            "choices": [
+                "a",
+                "k",
+                "m",
+                "s"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "John Freeman can ______ to that. He says he received professional surgery and excellent care from attentive doctors and nurses.",
+            "choices": [
+                "enable",
+                "attest",
+                "indispensable",
+                "mimic",
+                "tend"
+            ],
+            "chn": "(VOA : standard.2010.04.08)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"In general,we find that genetically engineered crops have had fewer ______ effects on the environment than non-GE crops produced conventionally.\"",
+            "choices": [
+                "adverse",
+                "lone",
+                "intermittently",
+                "elaborate",
+                "aim to do"
+            ],
+            "chn": "(VOA : special.2010.04.27)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Wants, or desires, are things we would like to have but they do not ______ us.",
+            "choices": [
+                "configuration",
+                "undoubtedly",
+                "mimic",
+                "sustain",
+                "prevailing"
+            ],
+            "chn": "想法或愿望，是我们想要拥有的东西但是他们不能维持我们的生活。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "WHO says if her attempts to ______ pregnancy fail, she turns to someone without adequate medical qualifications.",
+            "choices": [
+                "equivalent",
+                "terminate",
+                "undoubtedly",
+                "erase",
+                "pioneering"
+            ],
+            "chn": "(VOA : standard.2010.06.24)"
+        },
+        {
+            "cate": "choice",
+            "problem": "We all know its there even though we may not ______ see it.",
+            "choices": [
+                "readily",
+                "fragments",
+                "suitable",
+                "functions",
+                "conducive"
+            ],
+            "chn": "我们都知道它的存在，虽然我们可能不容易看到它。()"
+        }
+    ],
+    "quiz_id": "135"
+}

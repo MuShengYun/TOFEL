@@ -1,0 +1,261 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "infelicity",
+            "choices": [
+                "adj. 显而易见的",
+                "v. 常去",
+                "n. 不适当",
+                "n. 不幸",
+                "adj. 缥缈的",
+                "adv. 尽管如此，但是",
+                "n. 不吉利（复数infelicities）",
+                "vt. 抵消"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "scrutinize",
+            "choices": [
+                "vt. 详细检查",
+                "n. 仔细或彻底检查",
+                "vt. 细看",
+                "adj. 混杂的",
+                ". 难断气",
+                "vt. 传播",
+                "vi. 作详细检查",
+                "vi. 细阅"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "autonomy",
+            "choices": [
+                "vt. 公布",
+                "adj. 不重要的，琐碎的",
+                "vt. 征用或扣押",
+                "n. 自治，自治权",
+                "n. 面无表情的人",
+                "n. 付款期限",
+                "adj. 立刻的",
+                "n. 封港令"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "machination",
+            "choices": [
+                "n. 不吉利（复数infelicities）",
+                "n. 前进",
+                "vt. 使…吃饱",
+                "n. 阴谋",
+                "vt. 阻止",
+                "adj. 美的",
+                "adv. 尽管如此，但是",
+                "n. 诡计"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "nonetheless",
+            "choices": [
+                "n. 封港令",
+                "vt. 促进",
+                "adv. 尽管如此，但是",
+                "adj. 热切期望的",
+                "n. 嗜眠（症）",
+                "vt. 详细检查",
+                "vt. 中和",
+                "n. 不幸"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 不适当; n. 不幸; n. 不吉利（复数infelicities）",
+            "choices": [
+                "seclusion",
+                "infelicity",
+                "haunted",
+                "jubilant",
+                "machination"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 细看; n. 仔细或彻底检查; vt. 详细检查",
+            "choices": [
+                "scrutinize",
+                "die hard",
+                "fury",
+                "undue",
+                "trivial"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 截断; n. [数] 截距; vt. 窃听",
+            "choices": [
+                "scrutinize",
+                "intercept",
+                "rapacious",
+                "pellucid",
+                "promulgate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 锚; adj. 末棒的; n. 新闻节目主播",
+            "choices": [
+                "seclusion",
+                "anchor",
+                "ploy",
+                "rehash",
+                "motley"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 阴谋; n. 诡计",
+            "choices": [
+                "intercept",
+                "chaos",
+                "prompt",
+                "machination",
+                "now that"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 审美的，具有审美趣味的; adj. 美的; adj. 美学的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "e",
+                "h",
+                "i",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 易怒的; adj. 令人激恼的; adj. 烦人的",
+            "choices": [
+                "e",
+                "e",
+                "e",
+                "l",
+                "m",
+                "n",
+                "o",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 让渡; vt. 放弃; vt. 放手",
+            "choices": [
+                "e",
+                "h",
+                "i",
+                "i",
+                "l",
+                "n",
+                "q",
+                "r",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 略加修改的老作品; vt. 重讲; vt. 重新处理",
+            "choices": [
+                "a",
+                "e",
+                "h",
+                "h",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 灵验的; adj. 有效的",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "f",
+                "f",
+                "i",
+                "i",
+                "o",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Saif al-Islam Gadhafi, the son of the Libyan leader, was among a ______ crowd that welcomed Megrahi at the Tripoli airport on Thursday.",
+            "choices": [
+                "cajole",
+                "jubilant",
+                "headway",
+                "now that",
+                "prune"
+            ],
+            "chn": "(VOA : standard.2009.08.24)"
+        },
+        {
+            "cate": "choice",
+            "problem": "You could go to Yeats's poem \"Adam's Curse\" to see the poet talking about this ______ ideal.",
+            "choices": [
+                "machination",
+                "solicitous",
+                "trait",
+                "undue",
+                "aesthetic"
+            ],
+            "chn": "叶芝在他的诗歌亚当的诅咒里,谈论了他这一美学理想。(现代诗歌课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "______,Dubovik told VOA that Monday's burning of Ukrainian history books was justified.",
+            "choices": [
+                "nonetheless",
+                "personage",
+                "motley",
+                "trait",
+                "glut"
+            ],
+            "chn": "(VOA : standard.2010.03.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It is not ______ or death -- it is form,union,plan -- it is eternal life -- it is Happiness.",
+            "choices": [
+                "efficacious",
+                "chaos",
+                "nonetheless",
+                "immutable",
+                "trait"
+            ],
+            "chn": "(VOA : special.2009.04.12)"
+        }
+    ],
+    "quiz_id": "99"
+}

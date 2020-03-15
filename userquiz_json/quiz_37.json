@@ -1,0 +1,265 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "antiquity",
+            "choices": [
+                "n. 高龄",
+                "n. 始祖，祖先",
+                "n. 古代的遗物",
+                "n. 古物",
+                "n. 农业",
+                "n. 青少年",
+                "adj. 风雅的",
+                "n. 振幅"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "antibody",
+            "choices": [
+                "adv. 以后，后来",
+                "adj. 有腹鳍的",
+                "adj. 相反的",
+                "prep. 在…之中",
+                "adj. 腹部的",
+                "n. [免疫] 抗体",
+                "vt. 承受",
+                "vi. 确认"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "amplitude",
+            "choices": [
+                "vt. 带…口音讲话",
+                "n. 振幅",
+                "vi. 积聚",
+                "n. 广阔",
+                "n. 丰富，充足",
+                "adj. 口才好的",
+                "n. 合计",
+                "n. 铝"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "activate",
+            "choices": [
+                "vt. 使活泼",
+                "adj. 邻近的，毗连的",
+                "vi. 有活力",
+                "vi. 激活",
+                "vt. 使产生放射性",
+                "vt. 使活动",
+                "adj. 未成熟的",
+                "vt. 刺激"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "admission",
+            "choices": [
+                "n. 承认",
+                "vi. 分配",
+                "n. 入场费",
+                "n. 录用",
+                "n. 坦白",
+                "vi. 加速",
+                "n. 进入许可",
+                "n. 联姻"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 被继承人; n. 始祖，祖先",
+            "choices": [
+                "ancestor",
+                "arbitrary",
+                "activate",
+                "antibiotic",
+                "admission"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 氨基的; n. [化学] 氨基; n. (英、意、印尼)阿米诺",
+            "choices": [
+                "approximate",
+                "amino",
+                "activate",
+                "applause",
+                "airplane"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 外国人，外侨; n. (法)阿利安; adj. 不相容的",
+            "choices": [
+                "accumulate",
+                "architect",
+                "aluminum",
+                "alien",
+                "artificial"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 丰富，充足; n. 广阔; n. 振幅",
+            "choices": [
+                "alien",
+                "activate",
+                "amplitude",
+                "anthropology",
+                "acid"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使…全神贯注; vt. 理解; vt. 吸引",
+            "choices": [
+                "algebra",
+                "absorb",
+                "airplane",
+                "arbitrary",
+                "accuracy"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 让渡，转让; n. 外星人; adj. 外国的",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "l",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 刺激; vt. 使活泼; vt. 使产生放射性",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "e",
+                "i",
+                "t",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 邻近的，毗连的",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "d",
+                "e",
+                "j",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [免疫] 抗体",
+            "choices": [
+                "a",
+                "b",
+                "d",
+                "i",
+                "n",
+                "o",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 武断的; adj. [数] 任意的; adj. 专制的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "i",
+                "r",
+                "r",
+                "r",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "\"Consumer confidence is yes, somewhat shaken I would say ______ some of the Singapore populace, but that can't be helped,I think.\"",
+            "choices": [
+                "adolescent",
+                "artificial",
+                "affirm",
+                "amongst",
+                "accuracy"
+            ],
+            "chn": "(VOA : special.2011.03.29)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The question is if women have less ______ obesity, why would you find this elevated risk in women?",
+            "choices": [
+                "antiquity",
+                "alliance",
+                "ancestor",
+                "abdominal",
+                "alien"
+            ],
+            "chn": "他提的问题是如果女性比较少患腹部肥胖,为什么在这里女性的患病风险比较高(关于食物的心理学、生物学和政治学课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "President Felipe Calderon has deployed thousands of troops for ______-drug efforts since he took office in two thousand six.",
+            "choices": [
+                "amplitude",
+                "absorb",
+                "anti",
+                "algebra",
+                "articulate"
+            ],
+            "chn": "(VOA : special.2009.03.14)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Very similar, parallel stories, and yet there are significant contrasts between the Mesopotamian story and its Israelite ______.",
+            "choices": [
+                "articulate",
+                "arrow",
+                "algebra",
+                "accent",
+                "adaptation"
+            ],
+            "chn": "比较苏美尔版与犹太人版的故事,非常相似，但是同时有很大的对比。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "In the ruling, Chief Justice John Marshall described a corporation as an \"______ being\" that is a \"creature of the law.\"",
+            "choices": [
+                "architect",
+                "abdominal",
+                "airplane",
+                "algebra",
+                "artificial"
+            ],
+            "chn": "(VOA : special.2010.03.05)"
+        }
+    ],
+    "quiz_id": "37"
+}

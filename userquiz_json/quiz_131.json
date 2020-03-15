@@ -1,0 +1,141 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "adj. 外国的; vt. 让渡，转让; adj. 相异的，性质不同的",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "l",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 录用; n. 入场费; n. 承认",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "i",
+                "m",
+                "n",
+                "o",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 集合; n. 集合体; vi. 集合",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "e",
+                "g",
+                "g",
+                "g",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 改编本，改写本; n. 改编; n. 适应",
+            "choices": [
+                "a",
+                "a",
+                "a",
+                "d",
+                "i",
+                "n",
+                "o",
+                "p",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 农业生产; n. 农业; n. 农耕",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "g",
+                "i",
+                "l",
+                "r",
+                "r",
+                "t",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "On March 11th, Dr. Urbani developed signs of severe ______ respiratory syndrome.",
+            "choices": [
+                "artificial",
+                "artistic",
+                "archaeology",
+                "acute",
+                "architect"
+            ],
+            "chn": "(VOA : special.2009.01.27)"
+        },
+        {
+            "cate": "choice",
+            "problem": "In response,European Union and other Kyoto Protocol member countries agreed to ______ more time to discussing emissions cuts.",
+            "choices": [
+                "aggregate",
+                "accelerate",
+                "accuracy",
+                "allocate",
+                "adjacent"
+            ],
+            "chn": "(VOA : standard.2009.11.04)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"To me it's too ______ and it's also the same story that you've seen before with indigenous groups and the white colonial forces coming to destroy them or something like that.\"",
+            "choices": [
+                "artificial",
+                "abdominal",
+                "admission",
+                "algebra",
+                "anthropology"
+            ],
+            "chn": "(VOA : special.2010.03.01)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And so the fact that in this whole slide here, this ______ for sorting, I'm using the verb sort.",
+            "choices": [
+                "adolescent",
+                "alien",
+                "algorithm",
+                "adaptation",
+                "artifact"
+            ],
+            "chn": "在这个排序算法中,我用到了一个动词排序。(计算机科学课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It is a line drawing made out of ______ wire that looks like a wavy net floating in mid-air.",
+            "choices": [
+                "acute",
+                "artistic",
+                "aluminum",
+                "amongst",
+                "articulate"
+            ],
+            "chn": "(VOA : special.2009.05.06)"
+        }
+    ],
+    "quiz_id": "131"
+}

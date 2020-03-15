@@ -1,0 +1,183 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "c_to_e",
+            "problem": "n. 描述符号",
+            "choices": [
+                "derivative",
+                "differentiation",
+                "differentiate",
+                "descriptor",
+                "dominant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 区分，区别; vt. 区分，区别",
+            "choices": [
+                "derivative",
+                "elaborate",
+                "descriptor",
+                "differentiate",
+                "dominant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 精心制作的; vt. 从简单成分合成（复杂有机物）; vt. 详细阐述",
+            "choices": [
+                "dominant",
+                "dissolve",
+                "differentiation",
+                "elaborate",
+                "denominator"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 共同特征或共同性质; n. 命名者; n. 平均水平或标准",
+            "choices": [
+                "derivative",
+                "differentiate",
+                "denominator",
+                "elaborate",
+                "differentiation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 溶解; vt. 使溶解; n. 叠化画面",
+            "choices": [
+                "dominant",
+                "descriptor",
+                "elaborate",
+                "dissolve",
+                "derivative"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 占优势的; adj. 支配的，统治的; n. 显性",
+            "choices": [
+                "descriptor",
+                "elaborate",
+                "dominant",
+                "denominator",
+                "differentiate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 派生的; adj. 引出的; n. [化学] 衍生物，派生物",
+            "choices": [
+                "dissolve",
+                "dominant",
+                "derivative",
+                "denominator",
+                "descriptor"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 变异，[生物] 分化; n. 区别",
+            "choices": [
+                "dissolve",
+                "differentiation",
+                "dominant",
+                "elaborate",
+                "differentiate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to become elaborate (see elaborate entry 1)",
+            "choices": [
+                "differentiate",
+                "differentiation",
+                "dominant",
+                "dissolve",
+                "elaborate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act or process of differentiating",
+            "choices": [
+                "differentiate",
+                "differentiation",
+                "elaborate",
+                "descriptor",
+                "dominant"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the limit of the ratio of the change in a function to the corresponding change in its independent variable as the latter change approaches zero",
+            "choices": [
+                "denominator",
+                "dominant",
+                "dissolve",
+                "differentiate",
+                "derivative"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": more important, powerful, or successful than most or all others",
+            "choices": [
+                "differentiate",
+                "descriptor",
+                "dominant",
+                "elaborate",
+                "denominator"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the part of a fraction that is below the line and that functions as the divisor of the numerator",
+            "choices": [
+                "dissolve",
+                "descriptor",
+                "derivative",
+                "denominator",
+                "dominant"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to cause to pass into solution (see solution sense 2b)",
+            "choices": [
+                "dominant",
+                "dissolve",
+                "elaborate",
+                "derivative",
+                "differentiate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": something (such as a word or characteristic feature) that serves to describe or identify",
+            "choices": [
+                "dissolve",
+                "differentiate",
+                "descriptor",
+                "denominator",
+                "differentiation"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to express the specific distinguishing quality of : discriminate",
+            "choices": [
+                "differentiation",
+                "differentiate",
+                "elaborate",
+                "derivative",
+                "dissolve"
+            ]
+        }
+    ],
+    "quiz_id": "215"
+}

@@ -1,0 +1,2174 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "delineate",
+            "choices": [
+                "adj. 有效的",
+                "vt. 画…的轮廓",
+                "adj. 美学的",
+                "vt. 剪去",
+                "vt. 描写",
+                "vi. 反对",
+                "vt. 描绘",
+                "n. 角色"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "rehash",
+            "choices": [
+                "n. 略加修改的老作品",
+                "vt. 抵消",
+                "n. 阴谋",
+                "vt. 重新处理",
+                "n. 改变",
+                "vt. 剪去",
+                "vt. 重讲",
+                ". 难断气"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "autonomy",
+            "choices": [
+                "n. 自治，自治权",
+                "adj. 显而易见的",
+                "n. DOS命令：改变DOS系统提示符的风格",
+                "adj. 不重要的，琐碎的",
+                "adj. 显而易见的",
+                "adj. 不重要的，琐碎的",
+                "n. 诡计",
+                "vt. 以甜言蜜语哄骗"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "die hard",
+            "choices": [
+                ". 难断气",
+                "n. 阴谋",
+                "adv. 尽管如此，但是",
+                "adj. 热心的",
+                "n. 阴谋",
+                "adj. 贪婪的",
+                "adj. 缥缈的",
+                ". ??改掉"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ploy",
+            "choices": [
+                "adj. 不变的",
+                "n. 混沌，混乱",
+                "vi. 由横队变为纵队",
+                "n. 策略",
+                "n. 工作",
+                "vt. 使部队由横队变为纵队",
+                "n. 隐蔽的地方",
+                "n. 活动"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "jubilant",
+            "choices": [
+                "adj. 敏捷的，迅速的",
+                "adj. 欢呼的",
+                "adj. 杂色的",
+                "adj. 美的",
+                "vt. 让渡",
+                "adj. 清晰的",
+                "n. 隐蔽的地方",
+                "adj. 喜洋洋的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "prune",
+            "choices": [
+                "vt. 删除",
+                "n. 李子干",
+                "vt. 修剪",
+                "vi. 减少",
+                "adj. 显著的",
+                "n. 傻瓜",
+                "vt. 剪去",
+                "n. 深紫红色"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "now that",
+            "choices": [
+                "n. 略加修改的老作品",
+                "adj. 易怒的",
+                "adj. 贪婪的",
+                ". ??然",
+                ". 由于",
+                "vt. 抵消",
+                ". ??改掉",
+                "adj. 不动声色的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "undue",
+            "choices": [
+                "n. 进步",
+                "adj. 过度的，过分的",
+                "adj. 不适当的",
+                "adj. 灵验的",
+                "v. 常去",
+                "adv. 尽管如此，但是",
+                "vi. 举枪瞄准",
+                "adj. 未到期的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "personage",
+            "choices": [
+                "n. 角色",
+                "n. 间隔时间",
+                "n. 要人",
+                "vt. 以大钉钉牢",
+                "adj. 欢呼的",
+                "adj. 不能变的",
+                "vt. 勾引",
+                "n. 名士"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "machination",
+            "choices": [
+                "n. 阴谋",
+                "vi. 作详细检查",
+                "n. 不幸",
+                "vt. 公布",
+                "n. 自治，自治权",
+                "n. 少许",
+                "n. 诡计",
+                "vt. 传播"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "headway",
+            "choices": [
+                "adj. 挂念的",
+                "vt. 以甜言蜜语哄骗",
+                "n. 前进",
+                "n. 间隔时间",
+                "n. （商品）供过于求",
+                "n. 航行速度",
+                "adj. 琐细的",
+                "n. 进步"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "effusive",
+            "choices": [
+                "n. 要人",
+                "adj. 流出的",
+                "adj. 审美的，具有审美趣味的",
+                "adj. 闹鬼的",
+                "n. 嗜眠（症）",
+                "adj. 感情横溢的",
+                "adj. 显而易见的",
+                "n. 死气沉沉"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "anchor",
+            "choices": [
+                "vi. 举枪瞄准",
+                "vi. 抛锚",
+                "adj. 末棒的",
+                "vt. 抛锚",
+                "n. 锚",
+                "n. 靠山",
+                "adj. 最后一棒的",
+                "n. 抛锚停泊"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "haunted",
+            "choices": [
+                "v. 常去",
+                "adj. 闹鬼的",
+                "n. 禁止",
+                "v. 使担忧（haunt的过去式和过去分词）",
+                "adj. 受到困扰的",
+                "adj. 反复出现的",
+                "v. 缠住",
+                "n. 活动"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "lethargy",
+            "choices": [
+                "n. 昏睡",
+                "n. 嗜眠（症）",
+                "adj. 掠夺的",
+                "n. 死气沉沉",
+                "adj. 显而易见的",
+                ". 由于",
+                "n. 异议",
+                "n. 间隔时间"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "glut",
+            "choices": [
+                "n. （商品）供过于求",
+                "vt. 使…吃饱",
+                "vt. 拦截",
+                "vt. 过多供应",
+                "n. 大量",
+                "vt. 使…充满",
+                "n. 暴怒",
+                "vi. 吃得过多"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "promulgate",
+            "choices": [
+                "vt. 公布",
+                "vt. 描绘",
+                "adj. 显而易见的",
+                "adj. 喜洋洋的",
+                "n. 激怒者",
+                "vt. 传播",
+                "adj. 混杂的",
+                "vt. 发表"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "prompt",
+            "choices": [
+                "vt. 促进",
+                "n. 自治，自治权",
+                "n. DOS命令：改变DOS系统提示符的风格",
+                "adj. 敏捷的，迅速的",
+                "vt. 提示",
+                "vt. 激起",
+                "adj. 立刻的",
+                "adv. 准时地"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "rapacious",
+            "choices": [
+                "vt. 传播",
+                "adj. 超凡的",
+                "adj. 贪婪的",
+                "n. 自治，自治权",
+                "adj. 掠夺的",
+                "adj. 过度的，过分的",
+                "adj. 闹鬼的",
+                "n. （商品）供过于求"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "solicitous",
+            "choices": [
+                "adj. 热切期望的",
+                "vt. 重讲",
+                "adj. 本质的，固有的",
+                "n. 狂怒",
+                "vt. 画…的轮廓",
+                "adj. 挂念的",
+                "adj. 热心的",
+                "n. 阴谋"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "motley",
+            "choices": [
+                "n. 角色",
+                "n. 混杂",
+                "vi. 像瀑布般悬挂着",
+                "n. 杂色衣服",
+                "adj. 五颜六色的",
+                "n. 小丑",
+                "adj. 混杂的",
+                "adj. 杂色的"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "immutable",
+            "choices": [
+                "adj. 掠夺的",
+                "adj. 不能变的",
+                "adj. 不可变的",
+                "v. 使担忧（haunt的过去式和过去分词）",
+                "v. 缠住",
+                "adj. 不变的",
+                "n. 少许",
+                "vi. 抗辩"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "trivial",
+            "choices": [
+                "n. 隔离",
+                "adj. 本质的，固有的",
+                "adj. 不重要的，琐碎的",
+                "n. 异议",
+                "vt. 抵消",
+                "adj. 本质的，固有的",
+                "adj. 琐细的",
+                "n. 死气沉沉"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "chaos",
+            "choices": [
+                "adj. 不重要的，琐碎的",
+                "n. 混沌，混乱",
+                "n. 钉鞋",
+                "adj. 透明的",
+                "adj. 美学的",
+                "n. 截获的情报",
+                "n. 品质",
+                "n. 自治，自治权"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "intercept",
+            "choices": [
+                "n. 拦截",
+                "vt. 拦截",
+                ". 由于",
+                "vt. 截断",
+                "n. 截获的情报",
+                "n. [数] 截距",
+                "adj. 不能变的",
+                "vt. 窃听"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "gall",
+            "choices": [
+                "n. 胆汁",
+                "n. 无表情的脸",
+                "vi. 被磨伤",
+                "n. 五倍子",
+                "vt. 烦恼",
+                "n. 苦味",
+                "n. 怨恨",
+                "vt. 磨伤"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conspicuous",
+            "choices": [
+                "adj. 灵验的",
+                "adj. 显著的",
+                "adj. 显而易见的",
+                "vt. 放弃",
+                "vt. 中和",
+                "n. 诡计",
+                "n. 水库",
+                "n. 深紫红色"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fury",
+            "choices": [
+                "vt. 抵消",
+                "n. 激怒者",
+                "vt. 使…充满",
+                "n. 暴怒",
+                ". ??改掉",
+                "n. 狂怒",
+                "adj. 反复出现的",
+                "adv. 尽管如此，但是"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "deadpan",
+            "choices": [
+                "vt. 面无表情地表达（或表演、行动）",
+                "adj. 审美的，具有审美趣味的",
+                "n. 蓄水池",
+                "n. 无表情的脸",
+                "adj. 毫无表情的",
+                "n. 面无表情的人",
+                "adj. 不动声色的",
+                "adv. 尽管如此，但是"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "pellucid",
+            "choices": [
+                "vt. 窃听",
+                "vt. 细看",
+                "adj. 清晰的",
+                "n. 截获的情报",
+                "adj. 明了的",
+                "n. 自治，自治权",
+                "adj. 透明的",
+                "n. 品质"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "nonetheless",
+            "choices": [
+                "n. 前进",
+                "adj. 未到期的",
+                "n. 间隔时间",
+                "adv. 尽管如此，但是",
+                "vt. 激起",
+                "adj. 有效的",
+                "adj. 易怒的",
+                "v. 常去"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "spike",
+            "choices": [
+                "vt. 阻止",
+                "n. 长钉，道钉",
+                "n. 细高跟",
+                "n. 锚",
+                "vt. 勾引",
+                "vt. 以大钉钉牢",
+                "n. 钉鞋",
+                "vt. 用尖物刺穿"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "infelicity",
+            "choices": [
+                "n. 诡计",
+                "n. 不吉利（复数infelicities）",
+                "n. 不适当",
+                "n. 不幸",
+                "n. 昏睡",
+                "n. 航行速度",
+                "vt. 禁止出入港口",
+                "adj. 混杂的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "paragon",
+            "choices": [
+                "adj. 灵验的",
+                "n. 特性，特点",
+                "n. 不吉利（复数infelicities）",
+                "adj. 完美的",
+                "n. 完美之物",
+                "n. 模范",
+                "n. 优秀之人",
+                "n. 大量"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "efficacious",
+            "choices": [
+                "adj. 显著的",
+                "adj. 有效的",
+                "n. 航行速度",
+                "n. 隐蔽的地方",
+                "adj. 灵验的",
+                "vt. 重讲",
+                "n. 蓄水池",
+                "n. 完美之物"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "embargo",
+            "choices": [
+                "n. 禁令",
+                "adj. 完美的",
+                "n. 封港令",
+                "vt. 禁止或限制贸易",
+                "vt. 禁止出入港口",
+                "vt. 征用或扣押",
+                "adj. 受到困扰的",
+                "n. 禁止"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "trait",
+            "choices": [
+                "n. 少许",
+                "vt. 窃听",
+                "n. 特性，特点",
+                "n. 隐退",
+                "n. 截获的情报",
+                "vt. 传播",
+                "adj. 出席的",
+                "n. 品质"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "reservoir",
+            "choices": [
+                "vi. 反对",
+                "n. 活动",
+                "n. 提示",
+                "n. 蓄水池",
+                "adj. 贪婪的",
+                "v. 常去",
+                "n. 水库",
+                "adj. 优雅的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "relinquish",
+            "choices": [
+                "n. 封港令",
+                "vt. 放弃",
+                "n. 角色",
+                "vt. 画…的轮廓",
+                "vt. 放手",
+                "vt. 让渡",
+                ". ??然",
+                "adj. 有效的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ethereal",
+            "choices": [
+                "adj. 轻飘的",
+                "adj. 琐细的",
+                "adj. 优雅的",
+                "vt. 修剪",
+                "adj. 缥缈的",
+                "n. [数] 截距",
+                "adj. 令人激恼的",
+                "adj. 超凡的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "nettlesome",
+            "choices": [
+                "n. 串联",
+                "adj. 烦人的",
+                "adj. 令人激恼的",
+                "adj. 不适当的",
+                "adj. 易怒的",
+                "adj. 出席的",
+                "adj. 掠夺的",
+                "n. 阴谋"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "demur",
+            "choices": [
+                "vi. 提出异议",
+                "vt. 勾引",
+                "adj. 不动声色的",
+                "n. 名士",
+                "vi. 抗辩",
+                "n. 反对",
+                "n. 异议",
+                "vi. 反对"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "counteract",
+            "choices": [
+                "vi. 像瀑布般大量倾泻下来",
+                "vt. 中和",
+                "vt. 阻碍",
+                "adj. 欢呼的",
+                "vt. 发表",
+                "vt. 抵消",
+                "adj. 烦人的",
+                "n. 激怒者"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "scrutinize",
+            "choices": [
+                "vt. 详细检查",
+                "n. 仔细或彻底检查",
+                "vt. 细看",
+                "vi. 作详细检查",
+                "adj. 挂念的",
+                "vt. 放弃",
+                ". ??改掉",
+                "vi. 细阅"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "aesthetic",
+            "choices": [
+                "vt. 传播",
+                "adj. 美的",
+                "vt. 删除",
+                "adj. 审美的，具有审美趣味的",
+                "vt. 放手",
+                "vt. 以甜言蜜语哄骗",
+                "adj. 美学的",
+                "vt. 主持节目"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "present",
+            "choices": [
+                "n. 礼物",
+                "n. 间隔时间",
+                "adj. 现在的",
+                "vt. 介绍",
+                "n. 瞄准",
+                "adj. 出席的",
+                "vt. 提出",
+                "vi. 举枪瞄准"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "seclusion",
+            "choices": [
+                "n. 隐蔽的地方",
+                "n. 前进",
+                "adj. 显著的",
+                "v. 使担忧（haunt的过去式和过去分词）",
+                "n. 隔离",
+                "n. 模范",
+                "adj. 琐细的",
+                "n. 隐退"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cajole",
+            "choices": [
+                "n. 无表情的脸",
+                ". ??改掉",
+                "adj. 不可变的",
+                "adj. 热切期望的",
+                "vt. 让渡",
+                "n. 阴谋",
+                "vt. 以甜言蜜语哄骗",
+                "vt. 勾引"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "intrinsic",
+            "choices": [
+                "adj. 五颜六色的",
+                "vt. 让渡",
+                "adj. 审美的，具有审美趣味的",
+                "n. 暴怒",
+                "adj. 本质的，固有的",
+                "vi. 像瀑布般大量倾泻下来",
+                "n. 品质",
+                "vt. 勾引"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cascade",
+            "choices": [
+                "n. 串联",
+                "adj. 闹鬼的",
+                "n. 拦截",
+                "vi. 像瀑布般悬挂着",
+                "vt. 使…吃饱",
+                "n. 小瀑布，瀑布状物",
+                "vi. 像瀑布般大量倾泻下来",
+                "vt. （给演员）提白"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 不可变的; adj. 不能变的; adj. 不变的",
+            "choices": [
+                "relinquish",
+                "conspicuous",
+                "infelicity",
+                "immutable",
+                "prune"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 描绘; vt. 画…的轮廓; vt. 描写",
+            "choices": [
+                "nonetheless",
+                "cajole",
+                "haunted",
+                "delineate",
+                "personage"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 怨恨; n. 胆汁; vt. 磨伤",
+            "choices": [
+                "intrinsic",
+                "conspicuous",
+                "haunted",
+                "gall",
+                "die hard"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 本质的，固有的",
+            "choices": [
+                "prune",
+                "intrinsic",
+                "die hard",
+                "immutable",
+                "nettlesome"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 面无表情的人; adj. 不动声色的; adj. 毫无表情的",
+            "choices": [
+                "immutable",
+                "seclusion",
+                "pellucid",
+                "nettlesome",
+                "deadpan"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 发表; vt. 公布; vt. 传播",
+            "choices": [
+                "glut",
+                "prompt",
+                "promulgate",
+                "intercept",
+                "machination"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 轻飘的; adj. 超凡的; adj. 缥缈的",
+            "choices": [
+                "trait",
+                "now that",
+                "intrinsic",
+                "aesthetic",
+                "ethereal"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 过度的，过分的; adj. 未到期的; adj. 不适当的",
+            "choices": [
+                "counteract",
+                "ploy",
+                "present",
+                "undue",
+                "trait"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 阻碍; vt. 中和; vt. 抵消",
+            "choices": [
+                "chaos",
+                "counteract",
+                "pellucid",
+                "solicitous",
+                "efficacious"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 重讲; n. 改变; vt. 重新处理",
+            "choices": [
+                "lethargy",
+                "intrinsic",
+                "rehash",
+                "headway",
+                "die hard"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 死气沉沉; n. 嗜眠（症）; n. 昏睡",
+            "choices": [
+                "haunted",
+                "conspicuous",
+                "ethereal",
+                "gall",
+                "lethargy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 挂念的; adj. 热切期望的; adj. 热心的",
+            "choices": [
+                "conspicuous",
+                "jubilant",
+                "solicitous",
+                "spike",
+                "nettlesome"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 显而易见的; adj. 显著的",
+            "choices": [
+                "anchor",
+                "undue",
+                "ethereal",
+                "autonomy",
+                "conspicuous"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 特性，特点; n. 少许; n. 品质",
+            "choices": [
+                "pellucid",
+                "seclusion",
+                "nonetheless",
+                "immutable",
+                "trait"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 靠山; vt. 主持节目; n. 锚",
+            "choices": [
+                "immutable",
+                "embargo",
+                "infelicity",
+                "anchor",
+                "motley"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 要人; n. 角色; n. 名士",
+            "choices": [
+                "chaos",
+                "counteract",
+                "personage",
+                "efficacious",
+                "gall"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 清晰的; adj. 透明的; adj. 明了的",
+            "choices": [
+                "motley",
+                "aesthetic",
+                "fury",
+                "gall",
+                "pellucid"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 深紫红色; vt. 删除; vt. 修剪",
+            "choices": [
+                "gall",
+                "prune",
+                "glut",
+                "seclusion",
+                "relinquish"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 尽管如此，但是",
+            "choices": [
+                "nonetheless",
+                "solicitous",
+                "intrinsic",
+                "demur",
+                "rapacious"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 勾引; vt. 以甜言蜜语哄骗",
+            "choices": [
+                "autonomy",
+                "trivial",
+                "ploy",
+                "nonetheless",
+                "cajole"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 不适当; n. 不幸; n. 不吉利（复数infelicities）",
+            "choices": [
+                "infelicity",
+                "haunted",
+                "nettlesome",
+                "embargo",
+                "spike"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 抗辩; vi. 反对; vi. 提出异议",
+            "choices": [
+                "autonomy",
+                "jubilant",
+                "cascade",
+                "demur",
+                "undue"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 美学的; adj. 审美的，具有审美趣味的; adj. 美的",
+            "choices": [
+                "anchor",
+                "aesthetic",
+                "intrinsic",
+                "delineate",
+                "pellucid"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 水库; n. 蓄水池",
+            "choices": [
+                "now that",
+                "effusive",
+                "efficacious",
+                "aesthetic",
+                "reservoir"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 长钉，道钉; n. 钉鞋; vt. 以大钉钉牢",
+            "choices": [
+                "infelicity",
+                "pellucid",
+                "rehash",
+                "conspicuous",
+                "spike"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": ". ??改掉; . 难断气",
+            "choices": [
+                "prompt",
+                "pellucid",
+                "immutable",
+                "die hard",
+                "scrutinize"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 五颜六色的; adj. 混杂的; adj. 杂色的",
+            "choices": [
+                "aesthetic",
+                "motley",
+                "trait",
+                "paragon",
+                "lethargy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 像瀑布般大量倾泻下来; n. 串联; n. 小瀑布，瀑布状物",
+            "choices": [
+                "nonetheless",
+                "cascade",
+                "demur",
+                "paragon",
+                "ploy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 琐细的; adj. 不重要的，琐碎的",
+            "choices": [
+                "intercept",
+                "nonetheless",
+                "anchor",
+                "immutable",
+                "trivial"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 放手; vt. 让渡; vt. 放弃",
+            "choices": [
+                "relinquish",
+                "conspicuous",
+                "anchor",
+                "efficacious",
+                "cascade"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 准时地; n. dos命令：改变dos系统提示符的风格; vt. （给演员）提白",
+            "choices": [
+                "prompt",
+                "prune",
+                "rehash",
+                "spike",
+                "rapacious"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 工作; vi. 由横队变为纵队; n. 活动",
+            "choices": [
+                "promulgate",
+                "present",
+                "relinquish",
+                "rapacious",
+                "ploy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 狂怒; n. 激怒者; n. 暴怒",
+            "choices": [
+                "gall",
+                "fury",
+                "scrutinize",
+                "nettlesome",
+                "nonetheless"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 灵验的; adj. 有效的",
+            "choices": [
+                "gall",
+                "trait",
+                "efficacious",
+                "paragon",
+                "demur"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 烦人的; adj. 令人激恼的; adj. 易怒的",
+            "choices": [
+                "ethereal",
+                "rapacious",
+                "ploy",
+                "nettlesome",
+                "trait"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 自治，自治权",
+            "choices": [
+                "reservoir",
+                "headway",
+                "demur",
+                "delineate",
+                "autonomy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": ". ??然; . 由于",
+            "choices": [
+                "demur",
+                "present",
+                "jubilant",
+                "intrinsic",
+                "now that"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 细看; vt. 详细检查; vi. 作详细检查",
+            "choices": [
+                "scrutinize",
+                "relinquish",
+                "pellucid",
+                "prune",
+                "prompt"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 常去; v. 缠住; v. 使担忧（haunt的过去式和过去分词）",
+            "choices": [
+                "intrinsic",
+                "effusive",
+                "haunted",
+                "infelicity",
+                "now that"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 征用或扣押; vt. 禁止或限制贸易; n. 封港令",
+            "choices": [
+                "die hard",
+                "effusive",
+                "embargo",
+                "headway",
+                "chaos"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 感情横溢的; adj. 流出的",
+            "choices": [
+                "jubilant",
+                "aesthetic",
+                "effusive",
+                "infelicity",
+                "anchor"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 掠夺的; adj. 贪婪的",
+            "choices": [
+                "deadpan",
+                "pellucid",
+                "prune",
+                "lethargy",
+                "rapacious"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 介绍; vi. 举枪瞄准; vt. 呈现",
+            "choices": [
+                "rapacious",
+                "ploy",
+                "anchor",
+                "deadpan",
+                "present"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 阴谋; n. 诡计",
+            "choices": [
+                "ethereal",
+                "reservoir",
+                "rapacious",
+                "spike",
+                "machination"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 喜洋洋的; adj. 欢呼的",
+            "choices": [
+                "trivial",
+                "seclusion",
+                "personage",
+                "cascade",
+                "jubilant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 混沌，混乱",
+            "choices": [
+                "lethargy",
+                "ploy",
+                "die hard",
+                "relinquish",
+                "chaos"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使…吃饱; n. （商品）供过于求; vi. 吃得过多",
+            "choices": [
+                "paragon",
+                "glut",
+                "aesthetic",
+                "now that",
+                "solicitous"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 模范; adj. 完美的; n. 完美之物",
+            "choices": [
+                "demur",
+                "conspicuous",
+                "prompt",
+                "ploy",
+                "paragon"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 航行速度; n. 间隔时间; n. 进步",
+            "choices": [
+                "spike",
+                "headway",
+                "motley",
+                "pellucid",
+                "lethargy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [数] 截距; vt. 窃听; vt. 截断",
+            "choices": [
+                "cajole",
+                "intercept",
+                "trait",
+                "motley",
+                "autonomy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 隐蔽的地方; n. 隐退; n. 隔离",
+            "choices": [
+                "fury",
+                "reservoir",
+                "seclusion",
+                "scrutinize",
+                "nonetheless"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 不可变的; adj. 不能变的; adj. 不变的",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "i",
+                "l",
+                "m",
+                "m",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 贪婪的; adj. 掠夺的",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "i",
+                "o",
+                "p",
+                "r",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 流出的; adj. 感情横溢的",
+            "choices": [
+                "e",
+                "e",
+                "f",
+                "f",
+                "i",
+                "s",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 尽管如此，但是",
+            "choices": [
+                "e",
+                "e",
+                "e",
+                "h",
+                "l",
+                "n",
+                "n",
+                "o",
+                "s",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 品质; n. 少许; n. 特性，特点",
+            "choices": [
+                "a",
+                "i",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 喜洋洋的; adj. 欢呼的",
+            "choices": [
+                "a",
+                "b",
+                "i",
+                "j",
+                "l",
+                "n",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 热心的; adj. 热切期望的; adj. 挂念的",
+            "choices": [
+                "c",
+                "i",
+                "i",
+                "l",
+                "o",
+                "o",
+                "s",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 未到期的; adj. 过度的，过分的; adj. 不适当的",
+            "choices": [
+                "d",
+                "e",
+                "n",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 描绘; vt. 画…的轮廓; vt. 描写",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "e",
+                "i",
+                "l",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 五倍子; n. 怨恨; vi. 被磨伤",
+            "choices": [
+                "a",
+                "g",
+                "l",
+                "l"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 提出异议; n. 反对; n. 异议",
+            "choices": [
+                "d",
+                "e",
+                "m",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 主持节目; vi. 抛锚; n. 锚",
+            "choices": [
+                "a",
+                "c",
+                "h",
+                "n",
+                "o",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 自治，自治权",
+            "choices": [
+                "a",
+                "m",
+                "n",
+                "o",
+                "o",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 敏捷的，迅速的; vt. 促进; vt. 提示",
+            "choices": [
+                "m",
+                "o",
+                "p",
+                "p",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 蓄水池; n. 水库",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "o",
+                "r",
+                "r",
+                "r",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 进步; n. 航行速度; n. 前进",
+            "choices": [
+                "a",
+                "a",
+                "d",
+                "e",
+                "h",
+                "w",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 狂怒; n. 激怒者; n. 暴怒",
+            "choices": [
+                "f",
+                "r",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 过多供应; n. （商品）供过于求; vi. 吃得过多",
+            "choices": [
+                "g",
+                "l",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 嗜眠（症）; n. 死气沉沉; n. 昏睡",
+            "choices": [
+                "a",
+                "e",
+                "g",
+                "h",
+                "l",
+                "r",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有效的; adj. 灵验的",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "f",
+                "f",
+                "i",
+                "i",
+                "o",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 发表; vt. 传播; vt. 公布",
+            "choices": [
+                "a",
+                "e",
+                "g",
+                "l",
+                "m",
+                "o",
+                "p",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 反复出现的; v. 常去; v. 使担忧（haunt的过去式和过去分词）",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "h",
+                "n",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 不吉利（复数infelicities）; n. 不适当; n. 不幸",
+            "choices": [
+                "c",
+                "e",
+                "f",
+                "i",
+                "i",
+                "i",
+                "l",
+                "n",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 易怒的; adj. 烦人的; adj. 令人激恼的",
+            "choices": [
+                "e",
+                "e",
+                "e",
+                "l",
+                "m",
+                "n",
+                "o",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 显著的; adj. 显而易见的",
+            "choices": [
+                "c",
+                "c",
+                "i",
+                "n",
+                "o",
+                "o",
+                "p",
+                "s",
+                "s",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": ". ??改掉; . 难断气",
+            "choices": [
+                " ",
+                "a",
+                "d",
+                "d",
+                "e",
+                "h",
+                "i",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 策略; vt. 使部队由横队变为纵队; vi. 由横队变为纵队",
+            "choices": [
+                "l",
+                "o",
+                "p",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 细高跟; vt. 以大钉钉牢; vt. 阻止",
+            "choices": [
+                "e",
+                "i",
+                "k",
+                "p",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 禁令; n. 封港令; vt. 禁止出入港口",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "g",
+                "m",
+                "o",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 不重要的，琐碎的; adj. 琐细的",
+            "choices": [
+                "a",
+                "i",
+                "i",
+                "l",
+                "r",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 现在; vt. 介绍; vt. 呈现",
+            "choices": [
+                "e",
+                "e",
+                "n",
+                "p",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 细阅; vt. 细看; n. 仔细或彻底检查",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "i",
+                "n",
+                "r",
+                "s",
+                "t",
+                "u",
+                "z"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 重新处理; vt. 重讲; n. 略加修改的老作品",
+            "choices": [
+                "a",
+                "e",
+                "h",
+                "h",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 不动声色的; n. 无表情的脸; n. 面无表情的人",
+            "choices": [
+                "a",
+                "a",
+                "d",
+                "d",
+                "e",
+                "n",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 像瀑布般大量倾泻下来; n. 小瀑布，瀑布状物; n. 串联",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "c",
+                "d",
+                "e",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 诡计; n. 阴谋",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "h",
+                "i",
+                "i",
+                "m",
+                "n",
+                "n",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 美的; adj. 审美的，具有审美趣味的; adj. 美学的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "e",
+                "h",
+                "i",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 隐退; n. 隔离; n. 隐蔽的地方",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "l",
+                "n",
+                "o",
+                "s",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [数] 截距; vt. 截断; n. 截获的情报",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "i",
+                "n",
+                "p",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 放手; vt. 让渡; vt. 放弃",
+            "choices": [
+                "e",
+                "h",
+                "i",
+                "i",
+                "l",
+                "n",
+                "q",
+                "r",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": ". 由于; . ??然",
+            "choices": [
+                " ",
+                "a",
+                "h",
+                "n",
+                "o",
+                "t",
+                "t",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 本质的，固有的",
+            "choices": [
+                "c",
+                "i",
+                "i",
+                "i",
+                "n",
+                "n",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 混沌，混乱",
+            "choices": [
+                "a",
+                "c",
+                "h",
+                "o",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 删除; n. 傻瓜; vt. 删除",
+            "choices": [
+                "e",
+                "n",
+                "p",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 轻飘的; adj. 超凡的; adj. 优雅的",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "e",
+                "h",
+                "l",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 五颜六色的; n. 混杂; n. 杂色衣服",
+            "choices": [
+                "e",
+                "l",
+                "m",
+                "o",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 勾引; vt. 以甜言蜜语哄骗",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "j",
+                "l",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 角色; n. 要人; n. 名士",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "g",
+                "n",
+                "o",
+                "p",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 优秀之人; n. 完美之物; adj. 完美的",
+            "choices": [
+                "a",
+                "a",
+                "g",
+                "n",
+                "o",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 抵消; vt. 阻碍; vt. 中和",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "n",
+                "o",
+                "r",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 明了的; adj. 清晰的; adj. 透明的",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "i",
+                "l",
+                "l",
+                "p",
+                "u"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Some consider it an election ______. But other surveys show the majority of French believe it is a useful conversation.",
+            "choices": [
+                "die hard",
+                "trivial",
+                "embargo",
+                "prompt",
+                "ploy"
+            ],
+            "chn": "(VOA : standard.2009.12.30)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And people who have the constrained vision think that our instincts, our inclinations, our basic nature is ______, accepted.",
+            "choices": [
+                "delineate",
+                "gall",
+                "counteract",
+                "immutable",
+                "glut"
+            ],
+            "chn": "执有人性受约束的观点的人认为,我们的本能，欲望，我们的本性是永恒的，唯有接受。(幸福课课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Don't be too ______ because when they do a split they do it to every single shareholder.",
+            "choices": [
+                "reservoir",
+                "jubilant",
+                "anchor",
+                "trait",
+                "solicitous"
+            ],
+            "chn": "股票分割后也不要过分高兴,对每个股东都是如此(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "I felt we had nothing in common but \"______,\" our Irishness.",
+            "choices": [
+                "efficacious",
+                "motley",
+                "haunted",
+                "spike",
+                "machination"
+            ],
+            "chn": "我和他们除了都是小丑“,都是爱尔兰人之外没什么区别。(现代诗歌课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So initially the ponderous shield is of an \"______ temper,\" we are told.",
+            "choices": [
+                "ethereal",
+                "jubilant",
+                "aesthetic",
+                "trait",
+                "promulgate"
+            ],
+            "chn": "最初我们被告知“,那个沉重的盾牌是坚厚而庞大的。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "New public opinion polls suggest Republicans are making some ______ in raising doubts and questions about the president's reform effort.",
+            "choices": [
+                "haunted",
+                "headway",
+                "scrutinize",
+                "solicitous",
+                "rehash"
+            ],
+            "chn": "(VOA : standard.2009.07.31)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Don Jr. and Ivanka are ______ by the possibility that some of their projects might go wrong.",
+            "choices": [
+                "haunted",
+                "efficacious",
+                "intrinsic",
+                "trivial",
+                "deadpan"
+            ],
+            "chn": "\">\n                    Don Jr. and Ivanka are haunted by the possibility that some of their projects might go wrong.()"
+        },
+        {
+            "cate": "choice",
+            "problem": "Critics also say the European Union did not properly ______ the figures sent in by Athens.",
+            "choices": [
+                "scrutinize",
+                "embargo",
+                "lethargy",
+                "trivial",
+                "cajole"
+            ],
+            "chn": "(VOA : standard.2010.02.26)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Incidentally, the New York Times had another article about Redleaf, saying that he was really one of the first persons to clearly ______ the subprime crisis that we're now in.",
+            "choices": [
+                "seclusion",
+                "delineate",
+                "cajole",
+                "trait",
+                "rapacious"
+            ],
+            "chn": "顺便提一下,《纽约时报》中,另一篇关于雷德利夫的报道,说他是第一位,真正清晰描述了目前的次贷危机(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Egypt also enforces the ______ on Gaza.",
+            "choices": [
+                "delineate",
+                "gall",
+                "fury",
+                "embargo",
+                "trait"
+            ],
+            "chn": "(VOA : special.2010.06.05)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But what's the right time to ______? Well it depends.",
+            "choices": [
+                "spike",
+                "counteract",
+                "prune",
+                "now that",
+                "pellucid"
+            ],
+            "chn": "何时才是修剪的好时候？这得看情况而定。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "Galileo is the only contemporary ______, the only seventeenth-century figure, even so much as mentioned in Paradise Lost.",
+            "choices": [
+                "nettlesome",
+                "personage",
+                "rapacious",
+                "jubilant",
+                "prune"
+            ],
+            "chn": "伽利略是唯一的一个当代人物，唯一的一个17世纪的人物，甚至在里也提到了这点。(弥尔顿课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "136"
+}

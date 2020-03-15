@@ -1,0 +1,266 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "dominance",
+            "choices": [
+                "n. 二氧化物",
+                "vt. 免除",
+                "n. 支配",
+                "n. 统治",
+                "n. 解剖体",
+                "adj. 愚钝的",
+                "n. 赠送人",
+                "n. 优势"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "denominator",
+            "choices": [
+                "n. [数] 分母",
+                "n. 共同特征或共同性质",
+                "vi. 区分，区别",
+                "n. 生态学",
+                "n. 命名者",
+                "n. 统治",
+                "n. 词典",
+                "n. 平均水平或标准"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "drain",
+            "choices": [
+                "vt. 排掉水",
+                "vt. 喝光，耗尽",
+                "vi. 流干",
+                "n. 下水道，排水管",
+                "n. 排水",
+                "vt. 使流出",
+                "n. 消耗",
+                "n. 动力"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dense",
+            "choices": [
+                "vt. 口述",
+                "adj. 愚钝的",
+                "vi. 流干",
+                "adj. 稠密的",
+                "n. 区别，辨别",
+                "adj. 启发的",
+                "n. 独立部件",
+                "adj. 浓厚的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "discrimination",
+            "choices": [
+                "n. 漂流物",
+                "n. 识别力",
+                "n. 经济学者",
+                "n. 命名者",
+                "adj. 诊断的",
+                "n. 区别，辨别",
+                "vt. 精心制作",
+                "n. 歧视"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 趋势; n. 漂流物; vi. 漂流，漂移",
+            "choices": [
+                "depict",
+                "disturbance",
+                "drift",
+                "dominant",
+                "diary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 诊断; vi. 诊断; vt. 断定",
+            "choices": [
+                "diagnose",
+                "distribution",
+                "dialect",
+                "dye",
+                "dissolve"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 稠密的; adj. 浓厚的; adj. 愚钝的",
+            "choices": [
+                "descendant",
+                "drift",
+                "dictate",
+                "donor",
+                "dense"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 发觉，发现; n. 侦查，探测; n. 察觉",
+            "choices": [
+                "distribution",
+                "drain",
+                "detection",
+                "effectiveness",
+                "displacement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 显性; adj. 显性的; adj. 支配的，统治的",
+            "choices": [
+                "descendant",
+                "denote",
+                "dilemma",
+                "dissolve",
+                "dominant"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 图表; n. 图解; vt. 用图解法表示",
+            "choices": [
+                "a",
+                "a",
+                "d",
+                "g",
+                "i",
+                "m",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 持续，持续的时间，期间; . 语音学]音长，音延",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "n",
+                "o",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 损失; n. 缺点; n. 不利条件",
+            "choices": [
+                "a",
+                "a",
+                "a",
+                "d",
+                "d",
+                "e",
+                "g",
+                "i",
+                "n",
+                "s",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 区分，区别; vt. 区分，区别",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "e",
+                "f",
+                "f",
+                "i",
+                "i",
+                "n",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 空间的; adj. 尺寸的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "i",
+                "l",
+                "m",
+                "n",
+                "n",
+                "o",
+                "s"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "The World Health Organization says alcohol abuse is the third leading cause of death and ______ in the world.",
+            "choices": [
+                "disability",
+                "disturbance",
+                "dose",
+                "diagnosis",
+                "ecology"
+            ],
+            "chn": "(VOA : special.2011.03.08)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So, even if the cost is small, $10 a ______, it quickly amounts to a large amount of money.",
+            "choices": [
+                "disability",
+                "dissolve",
+                "dose",
+                "dialect",
+                "economically"
+            ],
+            "chn": "因此,即使单只成本很小,可能只有十美元,但是这很快就会累积成为很大的金额(生物医学工程探索课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The new ______ name will be \"dot.msr\" Arabic for Egypt, and promises to open up the Web to millions of Arabic-only readers.",
+            "choices": [
+                "dioxide",
+                "domain",
+                "descriptor",
+                "donor",
+                "economically"
+            ],
+            "chn": "(VOA : standard.2009.11.16)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"Our hope is that this will become the way school is in the United States, it will become the ______ way of going to high school.\"",
+            "choices": [
+                "developmental",
+                "diverse",
+                "dominant",
+                "directive",
+                "drift"
+            ],
+            "chn": "(VOA : special.2010.02.25)"
+        }
+    ],
+    "quiz_id": "51"
+}

@@ -1,0 +1,61 @@
+Artificial intelligence systems have taken on a growing role in business as their abilities to process and learn from large quantities of data have improved. But they have struggled to understand the kinds of nuances that appear in everyday communication among people.
+
+IBM (IBM) is adding new tools to its AI system, Watson, which can address that problem and better understand human language. The "natural language processing" technology was developed for IBM Research's Project Debater, the AI machine that became the first to compete against a world class human debater last year. 
+
+To hold its own in a debate, Project Debater needed to have the ability to listen to its opponent, understand his or her argument and formulate a response rapidly, all without internet access. That meant the computer needed to be able to identify and make sense of colloquialisms and idioms — as well as certain dialects or industry-specific terms — such as "open a can of worms" or "hardly helpful" (previously, an AI system might think someone was actually opening a can of worms). 
+
+Companies will now be able to use IBM's natural language processing tools to more efficiently and effectively comb through documents and conduct research, field incoming communications and improve customer service. 
+
+"Everything that happens in a business is based on communication between employees, business partners, customers, and communication takes the form of emails, chats, text, documents," Rob Thomas, general manager of IBM Data and AI, told CNN Business. "Some of the best data a company has is codified in all that language, all those communications."
+
+Around 48% of global chief investment officers will be looking to deploy AI systems in their companies this year, according to a 2019 survey by research firm Gartner. A January IBM survey of 4,500 "technology decision makers" within companies around the world similarly found that 45% of companies with more than 1,000 employees have adopted AI. 
+
+One major improvement over existing AI systems is the system's ability to do "sentiment analysis" — to look at what someone is saying or has written and understand what they are really trying to communicate and what the context is. For example, it could now comprehend that someone saying they have "cold feet" means that they're apprehensive, not that their limbs are chilly. 
+
+"A lot of how we talk and interact, certainly in customer support, is using a lot of idioms or terms that are specific to an industry," Thomas said. 
+
+When that capability is plugged into an existing IBM AI tool called Watson Discovery, it can also make it easier for companies to dig through and glean insights from troves of documents and other written communications. 
+
+The system is better able to understand the central themes or important points in documents and classify them into more specific categories, so they're more useful. It can also generate succinct summaries from mass amounts of data. The tool can also tell when two documents are making essentially the same point with different words.
+
+"If Watson is going through a million documents, it can identify: What's the information that's most relevant given the problem that's trying to be solved?" Thomas said. 
+
+This could come in handy, for instance, when a company is fielding customer service requests and needs to direct them to different places so they can be properly handled. It could also be used by a law firm to sort through documents and come to conclusions about them for discovery in a legal case — what would normally take a lawyer days or weeks, would take the machine a matter of minutes. 
+
+One of the major concerns about the field of artificial intelligence is that in some cases, such systems have been found to exhibit bias against certain groups of people, including people of color. 
+
+Thomas stressed that trust is essential for businesses that use AI, as well as their customers. He said IBM has a tool called Watson OpenScale that, among other capabilities, can do bias detection and mitigation of companies' AI tools. 
+
+"Trust is essential — being able to use AI that you can explain, that's free from bias, that's trusted," Thomas said. 
+
+And while artificial intelligence systems may change the way people work, they're unlikely to negate the need for human workers. Instead, Thomas said, the tools could make people more effective at their jobs. 
+
+"Maybe the problem is too hard for the AI to solve, but if you pair this tech with (a human worker), their ability and speed to find the solution goes up rapidly," he said. 
+
+"Everything that happens in a business is based on communication between employees, business partners, customers, and communication takes the form of emails, chats, text, documents," Rob Thomas, general manager of IBM Data and AI, told CNN Business. "Some of the best data a company has is codified in all that language, all those communications."
+
+Around 48% of global chief investment officers will be looking to deploy AI systems in their companies this year, according to a 2019 survey by research firm Gartner. A January IBM survey of 4,500 "technology decision makers" within companies around the world similarly found that 45% of companies with more than 1,000 employees have adopted AI. 
+
+One major improvement over existing AI systems is the system's ability to do "sentiment analysis" — to look at what someone is saying or has written and understand what they are really trying to communicate and what the context is. For example, it could now comprehend that someone saying they have "cold feet" means that they're apprehensive, not that their limbs are chilly. 
+
+"A lot of how we talk and interact, certainly in customer support, is using a lot of idioms or terms that are specific to an industry," Thomas said. 
+
+When that capability is plugged into an existing IBM AI tool called Watson Discovery, it can also make it easier for companies to dig through and glean insights from troves of documents and other written communications. 
+
+The system is better able to understand the central themes or important points in documents and classify them into more specific categories, so they're more useful. It can also generate succinct summaries from mass amounts of data. The tool can also tell when two documents are making essentially the same point with different words.
+
+"If Watson is going through a million documents, it can identify: What's the information that's most relevant given the problem that's trying to be solved?" Thomas said. 
+
+This could come in handy, for instance, when a company is fielding customer service requests and needs to direct them to different places so they can be properly handled. It could also be used by a law firm to sort through documents and come to conclusions about them for discovery in a legal case — what would normally take a lawyer days or weeks, would take the machine a matter of minutes. 
+
+One of the major concerns about the field of artificial intelligence is that in some cases, such systems have been found to exhibit bias against certain groups of people, including people of color. 
+
+Thomas stressed that trust is essential for businesses that use AI, as well as their customers. He said IBM has a tool called Watson OpenScale that, among other capabilities, can do bias detection and mitigation of companies' AI tools. 
+
+"Trust is essential — being able to use AI that you can explain, that's free from bias, that's trusted," Thomas said. 
+
+And while artificial intelligence systems may change the way people work, they're unlikely to negate the need for human workers. Instead, Thomas said, the tools could make people more effective at their jobs. 
+
+"Maybe the problem is too hard for the AI to solve, but if you pair this tech with (a human worker), their ability and speed to find the solution goes up rapidly," he said. 
+
+

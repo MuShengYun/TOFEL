@@ -1,0 +1,56 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "autonomy",
+            "choices": [
+                "n. 长钉，道钉",
+                "vi. 细阅",
+                "vt. 画…的轮廓",
+                "n. 优秀之人",
+                "n. （商品）供过于求",
+                ". ??改掉",
+                "n. 要人",
+                "n. 自治，自治权"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 激起; adj. 敏捷的，迅速的; n. dos命令：改变dos系统提示符的风格",
+            "choices": [
+                "intercept",
+                "delineate",
+                "cajole",
+                "fury",
+                "prompt"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 过度的，过分的; adj. 不适当的; adj. 未到期的",
+            "choices": [
+                "d",
+                "e",
+                "n",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "______, The Faerie Queenecan be said, however strangely, to be the first great poetic celebration in English of the institution of marriage.",
+            "choices": [
+                "rapacious",
+                "present",
+                "nonetheless",
+                "immutable",
+                "promulgate"
+            ],
+            "chn": "然而无论《仙后》多么与众不同，它仍可被称为，第一部伟大的有关婚姻的,英文诗歌体盛典。(弥尔顿课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "101"
+}

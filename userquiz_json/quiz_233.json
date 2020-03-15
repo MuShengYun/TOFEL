@@ -1,0 +1,337 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "c_to_e",
+            "problem": "prep. 大约于; adv. 大约",
+            "choices": [
+                "chess",
+                "circa",
+                "comply",
+                "coefficient",
+                "composite"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 爱说话的，健谈的; adj. 交际的; adj. 无隐讳交谈的",
+            "choices": [
+                "communicative",
+                "closure",
+                "chess",
+                "compact",
+                "chronic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 包含; n. 理解",
+            "choices": [
+                "compact",
+                "circa",
+                "civilization",
+                "commodity",
+                "comprehension"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 比较的; n. 比较级; n. 对手",
+            "choices": [
+                "chronic",
+                "circulate",
+                "clone",
+                "comparative",
+                "collective"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 氯化物",
+            "choices": [
+                "closure",
+                "chloride",
+                "conceptual",
+                "conference",
+                "comma"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使成锥形; n. 圆锥体，圆锥形; n. [植] 球果",
+            "choices": [
+                "classroom",
+                "chunk",
+                "cone",
+                "competent",
+                "composer"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 商品，货物; n. 日用品",
+            "choices": [
+                "chronic",
+                "commodity",
+                "chloride",
+                "click",
+                "chromosome"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 权限; n. 能力，胜任; n. 足以过舒适生活的收入",
+            "choices": [
+                "competence",
+                "classroom",
+                "cinema",
+                "coherent",
+                "conduction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [土壤] 粘土; n. 泥土; n. 似黏土的东西",
+            "choices": [
+                "clarify",
+                "circa",
+                "classification",
+                "clay",
+                "configuration"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 文化; n. 文明",
+            "choices": [
+                "commentary",
+                "civilization",
+                "comparative",
+                "chunk",
+                "colony"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 互相耦合的; adj. 凝聚性的; adj. 粘在一起的",
+            "choices": [
+                "chess",
+                "coherent",
+                "civilization",
+                "cognitive",
+                "coefficient"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [生理] 传导",
+            "choices": [
+                "conduction",
+                "conditional",
+                "conference",
+                "composite",
+                "conception"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 类别，等级; n. 分类",
+            "choices": [
+                "clever",
+                "civilization",
+                "classification",
+                "composite",
+                "clay"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 界限，边界; n. 约束; vt. 禁闭",
+            "choices": [
+                "clip",
+                "confine",
+                "clinic",
+                "complement",
+                "competent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有能力的; adj. 胜任的; adj. 能干的",
+            "choices": [
+                "competent",
+                "composer",
+                "clever",
+                "cognitive",
+                "complement"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a punctuation mark, used especially as a mark of separation within the sentence",
+            "choices": [
+                "clay",
+                "comma",
+                "colony",
+                "comply",
+                "coefficient"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": intelligent and able to learn things quickly",
+            "choices": [
+                "chemistry",
+                "competent",
+                "composer",
+                "clever",
+                "conditional"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": at approximately, in approximately, or of approximately",
+            "choices": [
+                "confound",
+                "commentary",
+                "circa",
+                "clay",
+                "composer"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to supply an equivalent",
+            "choices": [
+                "clarify",
+                "colony",
+                "conditional",
+                "compensate",
+                "cinema"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": having the quality of holding together or cohering",
+            "choices": [
+                "classroom",
+                "chromosome",
+                "coherent",
+                "collective",
+                "colony"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": similar, like",
+            "choices": [
+                "classify",
+                "configuration",
+                "circulate",
+                "comparable",
+                "closure"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a group of individuals or things with common characteristics or interests situated in close association",
+            "choices": [
+                "conception",
+                "chloride",
+                "competence",
+                "colony",
+                "confine"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": of, relating to, or consisting of concepts",
+            "choices": [
+                "conceptual",
+                "clever",
+                "conceive",
+                "click",
+                "comply"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to become pregnant",
+            "choices": [
+                "computation",
+                "cinema",
+                "conceive",
+                "cognitive",
+                "civilization"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a weedy annual European bromegrass (Bromus secalinus) widely naturalized in North America as a weed especially in grain",
+            "choices": [
+                "civilization",
+                "chess",
+                "comprehension",
+                "conduction",
+                "cognitive"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the movement of blood through the body that is caused by the pumping action of the heart",
+            "choices": [
+                "clone",
+                "clever",
+                "colonial",
+                "circulation",
+                "composite"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a system of reckoning",
+            "choices": [
+                "computation",
+                "conception",
+                "commodity",
+                "competent",
+                "comma"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act of arranging into groups of similar things",
+            "choices": [
+                "classroom",
+                "confine",
+                "classification",
+                "circulation",
+                "compact"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": expressing, containing, or implying a supposition",
+            "choices": [
+                "colony",
+                "conditional",
+                "clone",
+                "commodity",
+                "composite"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": an adherent or advocate of communism",
+            "choices": [
+                "chunk",
+                "communist",
+                "colony",
+                "confine",
+                "closure"
+            ]
+        }
+    ],
+    "quiz_id": "233"
+}

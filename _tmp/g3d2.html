@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+    <title>Test</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <script type="text/javascript" src="/static/jquery-1.7.2.min.js"></script>
+</head>
+<script id="vertex-shader" type="x-shader/x-vertex">
+attribute  vec4 vPosition;
+     attribute  vec4 vColor;
+     varying vec4 fColor;
+     uniform mat4 r;
+     uniform vec3 theta;
+     uniform float a;
+     uniform float b;
+     uniform float d;
+
+     void main()
+     {
+     // Compute the sines and cosines of theta for each of
+     //   the three axes in one computation.
+     vec3 angles = radians( theta );
+     vec3 c = cos( angles );
+     vec3 s = sin( angles );
+
+
+
+
+
+
+     mat4 tl=mat4(1.0, 0.0, 0.0, a,
+     0.0, 1.0, 0.0, b,
+     0.0, 0.0, 1.0, d,
+     0.0, 0.0, 0.0, 1);
+     fColor = vColor;
+     gl_Position = vPosition *r*tl;
+
+
+
+     }
+</script>
+
+<script id="fragment-shader" type="x-shader/x-fragment">
+
+precision mediump float;
+
+     varying vec4 fColor;
+
+     void
+     main()
+     {
+     gl_FragColor = fColor;
+     }
+ </script>
+cuon-matrix
+<script type="text/javascript" src="static/common/webgl-utils.js"></script>
+<script type="text/javascript" src="static/common/initShaders.js"></script>
+<script type="text/javascript" src="static/common/MV.js"></script>
+<script type="text/javascript" src="g3d2.js"></script>
+
+<body style="background-image: url('static/timg2.jpg');">
+<canvas id="gl-canvas" width="650" height="650">
+Oops ... your browser doesn't support the HTML5 canvas element
+</canvas>
+
+<br/>
+
+<button id="xButton">Rotate X</button>
+<button id="yButton">Rotate Y</button>
+<button id="zButton">Rotate Z</button>
+<button id="lrButton">侧滚翻</button>
+<button id="udButton">俯仰</button>
+<button id="turnButton">转向</button>
+<button id="stopButton">Stop</button>
+<button id="resetButton" onclick="init()">Reset</button>
+
+</body>
+</html>

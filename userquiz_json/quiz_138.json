@@ -1,0 +1,3711 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "startled",
+            "choices": [
+                "adv. 不变地",
+                "adj. 受惊吓的",
+                "adj. 分离的，分开的",
+                "adj. 过分的",
+                "v. 震惊（startle的过去分词）",
+                "adj. 模仿的，模拟的",
+                ". 吸引到…方面来",
+                "vi. 分散，散开"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "segregated",
+            "choices": [
+                "adj. 过分的",
+                "adj. 逐渐的",
+                ". 吸引到…方面来",
+                "n. 相差",
+                "v. 分离",
+                "adj. 先驱的",
+                "adj. 被隔离的",
+                "v. 隔离（segregate的过去式）"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "obscure",
+            "choices": [
+                "adj. 昏暗的，朦胧的",
+                "n. 某种模糊的或不清楚的东西",
+                "v. 不同元素间的整合（synthesize的ing形式）",
+                "vt. 隐藏",
+                "adj. 不著名的，无名的",
+                "vt. 使…模糊不清，掩盖",
+                "adj. 隐蔽的",
+                "vt. 使难理解"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "integral",
+            "choices": [
+                "adj. 构成整体所必须的",
+                "n. 完整",
+                "n. 部分",
+                "vi. 寻找",
+                "adj. 完整的，整体的",
+                "n. 积分",
+                "adj. 积分的",
+                "vi. 作证"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fragments",
+            "choices": [
+                ". ??在做某事",
+                "v. 破碎（fragment的三单形式）",
+                "adv. 无疑地",
+                "n. 碎片（fragment的复数）",
+                "n. [计] 分段",
+                "vt. 擦除",
+                "v. 打碎",
+                "n. 片断"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "configuration",
+            "choices": [
+                "n. 配置",
+                "adj. 复制的",
+                "adj. 精确的",
+                "n. 外形",
+                "vt. 授予权利或方法",
+                "vt. 求婚",
+                "n. 结构",
+                "adv. 普遍地，一般地"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "diminish",
+            "choices": [
+                "vt. 证实",
+                "vt. 使散播，使撒播",
+                ". ??质上",
+                "vi. 减少，缩小",
+                "vt. 使减少",
+                "vi. 变小",
+                "adv. 间歇",
+                "vt. 使变小"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "tend",
+            "choices": [
+                "adv. 戏剧地",
+                "adj. 分布广的",
+                "adj. 先驱的",
+                "n. 任务（游戏术语）",
+                "vt. 拖延",
+                "vi. 照料，照顾",
+                "vi. 趋向，倾向",
+                "vt. 照料，照管"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "elaborate",
+            "choices": [
+                "vi. 变复杂",
+                "vt. 详细阐述",
+                "adj. 精心制作的",
+                "vt. 从简单成分合成（复杂有机物）",
+                "adj. 有争论的",
+                "vi. 详细描述",
+                "adj. 煞费苦心的",
+                "vt. 精心制作"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "undoubtedly",
+            "choices": [
+                "vt. 传播",
+                "adj. 使愤怒的",
+                "adj. 优美的，高雅的",
+                "vt. 证实",
+                "adj. 有益的",
+                "adv. 确实地，毋庸置疑的",
+                "n. 部分",
+                "vi. 适应"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "virtually",
+            "choices": [
+                "vt. 产生物理反应",
+                "vt. 漫射",
+                "adv. 事实上，几乎",
+                "adj. 寂寞的",
+                "vt. 使…受挫折",
+                "adv. 实质上",
+                "n. 特权",
+                "n. 特有财产"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "notably",
+            "choices": [
+                "vt. 证实",
+                "adv. 显著地",
+                "vi. 详细描述",
+                "vt. 传播",
+                "adv. 尤其",
+                "v. 使…诧异（astonish的ing形式）",
+                "vt. 改善",
+                "vt. 阻止"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "detached",
+            "choices": [
+                "vi. 到绝顶",
+                "adj. 分离的，分开的",
+                "adj. 超然的",
+                "v. 打碎",
+                "n. 怀疑的态度",
+                "vt. 使达到高潮",
+                "adj. 累积的",
+                "v. 分离"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "enable",
+            "choices": [
+                "vt. 使能够，使成为可能",
+                "vi. 达到顶点",
+                "adj. 引人注目的",
+                "vt. 使结束",
+                "adj. 有助于…的",
+                "adj. 责无旁贷的",
+                "adj. 过多的，极度的",
+                "vt. 授予权利或方法"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "in essence",
+            "choices": [
+                ". 大体上",
+                ". 其实",
+                "adv. 事实上，几乎",
+                ". ??质上",
+                "n. [数] 函数（function的复数形式）",
+                "vt. 给…添加燃料",
+                "vt. 维持",
+                "n. 相差"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "vast",
+            "choices": [
+                "n. 浩瀚",
+                "adj. 显著的",
+                "adj. 巨额的",
+                "adj. 大量的",
+                "adj. 巨大的",
+                "n. 广阔无垠的空间",
+                "adj. 广阔的",
+                "adj. 过分的"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "associated with",
+            "choices": [
+                ". 与…相联系",
+                "vi. 求婚",
+                "adj. 使愤怒的",
+                ". ??…有关系",
+                "adv. 无疑地",
+                "adj. 过多的，极度的",
+                "adj. 卓越的",
+                "n. 矛盾"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "exceptional",
+            "choices": [
+                "adj. 稀疏的",
+                "vt. 照料，照管",
+                "adj. 异常的，例外的",
+                "vt. 提高",
+                "adv. 乐意地",
+                "vi. 戴面具",
+                "adj. 平缓的",
+                "n. 超常的学生"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "widespread",
+            "choices": [
+                "adj. 敌对的（名词adverseness，副词adversely）",
+                "vt. 消灭",
+                "vt. 使结束",
+                "adj. 普遍的，广泛的",
+                "adj. 煞费苦心的",
+                "adj. 分布广的",
+                "vi. 变复杂",
+                "vt. 使能够，使成为可能"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "discrepancy",
+            "choices": [
+                "n. 矛盾",
+                "adj. 同意义的",
+                "adj. 昏暗的，朦胧的",
+                "v. 震惊（startle的过去分词）",
+                "n. 相差",
+                "vt. 消灭",
+                "adj. 精致的",
+                "n. 不符"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "precise",
+            "choices": [
+                "vt. 使复杂化",
+                "adj. 卓越的",
+                "n. [计] 分段",
+                "n. 必不可少的人",
+                "adj. 精确的",
+                "adj. 易受攻击的，易受…的攻击",
+                "adj. 明确的",
+                "adj. 严格的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "vulnerable",
+            "choices": [
+                "adj. 有弱点的",
+                "adj. 艰苦的",
+                "vt. 使形成",
+                "n. 小丑",
+                "vt. 使复杂化",
+                "adj. 分布广的",
+                "adj. 易受攻击的，易受…的攻击",
+                "adj. 易受伤害的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "lone",
+            "choices": [
+                "adj. 寂寞的",
+                "adj. 独自的",
+                "adv. 偶尔",
+                "vt. 使能够，使成为可能",
+                "adj. 剧烈的",
+                "adj. 单身的",
+                "adj. 人迹稀少的",
+                "n. 完整"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "irritating",
+            "choices": [
+                "adj. 相反的",
+                "v. 刺激（irritate的ing形式）",
+                "adj. 使愤怒的",
+                "vi. 化装",
+                "adj. 有益的",
+                "adj. 气人的",
+                "v. 激怒",
+                "adj. 刺激的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "suitable",
+            "choices": [
+                "vt. 建议",
+                "adj. 适当的",
+                "vt. 延长",
+                "adv. 一定地",
+                "vt. 使变小",
+                "adj. 相配的",
+                "n. [计] 功能",
+                "vt. 剥削"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "impede",
+            "choices": [
+                "vt. 妨碍",
+                "adj. 精致的",
+                "vt. 阻碍",
+                "vt. 阻止",
+                "adj. 有争论的",
+                "vt. 扩散",
+                "vt. 忍受",
+                ". ??质上"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "draw to",
+            "choices": [
+                "adj. 精确的",
+                "vt. 证实",
+                ". 开具给",
+                ". ??近",
+                ". 吸引到…方面来",
+                "adv. 尤其",
+                "adv. 通常",
+                "vt. 使…文雅"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "skepticism",
+            "choices": [
+                "adj. 分布广的",
+                "adv. 间歇地",
+                "n. 外形",
+                "adj. 流行的",
+                "n. 怀疑论",
+                "vt. 妨碍",
+                "vt. 探索",
+                "n. 怀疑的态度"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "propose",
+            "choices": [
+                "vt. 建议",
+                "vt. 打算，计划",
+                "adv. 确实地，毋庸置疑的",
+                "vt. 求婚",
+                "vi. 建议",
+                "vi. 打算",
+                "vi. 求婚",
+                "n. 服饰过于讲究的男子"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "quest",
+            "choices": [
+                "n. 外形",
+                "n. 任务（游戏术语）",
+                "n. 追求",
+                "n. 寻找",
+                "vi. 追求",
+                "vt. 探索",
+                "vt. 改编",
+                "vi. 寻找"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "scatter",
+            "choices": [
+                "vi. 分散，散开",
+                ". ??质上",
+                "vt. 使散射",
+                "vt. 使散开，使分散",
+                "n. 散播，撒播",
+                "n. 分散",
+                "vi. 散射",
+                "vt. 使散播，使撒播"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "invariably",
+            "choices": [
+                "vt. 使形成",
+                "v. 使…诧异（astonish的ing形式）",
+                "adv. 一定地",
+                "adj. 支配的",
+                "adv. 总是",
+                "adj. 令人惊讶的",
+                "adv. 不变地",
+                "adj. 超然的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "aim to do",
+            "choices": [
+                ". ??在做某事",
+                "adj. 盛行很广的",
+                "vt. 使瓦解",
+                "vt. 根除，根绝",
+                "adj. 昏暗的，朦胧的",
+                "adj. 剧烈的",
+                ". ??近",
+                "vt. 延长"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "generate",
+            "choices": [
+                "adj. 散开的",
+                "vt. 使形成",
+                "vt. 发生",
+                "vt. 使分裂",
+                ". 大体上",
+                "vt. 产生物理反应",
+                "vt. 生殖",
+                ". ??在做某事"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "unfavorable",
+            "choices": [
+                "n. 完整",
+                "vt. 妨碍",
+                "vt. 转移",
+                "adj. 不顺利的",
+                "adj. 令人不快的",
+                "adj. 不宜的",
+                "vt. 使终止",
+                "vt. 使模糊"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "divert",
+            "choices": [
+                "vt. 转移",
+                "vt. 模仿，摹拟",
+                "vi. 转移",
+                "adj. 被隔离的",
+                "vt. 使…转向",
+                "vt. 产生物理反应",
+                "vt. 使…欢娱",
+                "vt. 用挡板控制"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "readily",
+            "choices": [
+                "adj. 激发兴趣的",
+                "adv. 乐意地",
+                "vt. 转移",
+                "n. 某种模糊的或不清楚的东西",
+                "adv. 无困难地",
+                "adj. 被隔离的",
+                "adv. 容易地",
+                "adj. 分裂的，中断的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "intermittently",
+            "choices": [
+                "adv. 间歇地",
+                "n. 效颦者，模仿者",
+                "adj. 分离的，分开的",
+                "v. 破碎（fragment的三单形式）",
+                "adv. 不变地",
+                "vt. 拖延",
+                "vt. 使困惑，使为难",
+                "vt. 改善"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ardent",
+            "choices": [
+                "vt. 使…欢娱",
+                "adj. 适当的",
+                "adj. 热情的",
+                "adj. 激烈的",
+                "n. 配置",
+                "vt. 戴面具",
+                "adj. 燃烧般的",
+                "adj. 热心的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "controversial",
+            "choices": [
+                "adj. 有争议的",
+                "adj. 有争论的",
+                "vi. 转移",
+                "vt. 供养",
+                "n. 超常的学生",
+                "adj. 确定的",
+                "vi. 结果",
+                "n. 特有财产"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conducive",
+            "choices": [
+                "vt. 产生物理反应",
+                "adj. 有益的",
+                "vt. 预期，期望",
+                "vt. 打算，计划",
+                "n. 结构",
+                "adj. 有助于…的",
+                "adj. 累积的",
+                "n. 超常的学生"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "perplex",
+            "choices": [
+                "vt. 禁闭",
+                "vt. 使困惑，使为难",
+                "adj. 流行的",
+                "vt. 使复杂化",
+                "adj. 有争论的",
+                "adj. 流行的",
+                "adj. 普遍的，广泛的",
+                "n. 复制品"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "adapt",
+            "choices": [
+                ". 大体上",
+                "n. 约束",
+                "adj. 详尽的",
+                "vt. 改编",
+                "adj. 有争论的",
+                ". ??…有关系",
+                "vi. 适应",
+                "vt. 使适应"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "scanty",
+            "choices": [
+                "v. 破碎（fragment的三单形式）",
+                "adj. 稀疏的",
+                "vt. 消灭",
+                "adj. 吝啬的",
+                "adj. 艰苦的",
+                "adj. 被隔离的",
+                "adj. 仅有的",
+                "adj. 缺乏的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "adverse",
+            "choices": [
+                "v. 打碎",
+                "adj. 敌对的（名词adverseness，副词adversely）",
+                "adj. 不利的",
+                "adv. 确实地，毋庸置疑的",
+                "vt. 分散",
+                ". 开具给",
+                "adj. 易受攻击的，易受…的攻击",
+                "adj. 相反的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "conspicuous",
+            "choices": [
+                "vi. 适应",
+                "vi. 转移",
+                "adj. 显而易见的",
+                "vt. 使…转向",
+                "adj. 明确的",
+                "adj. 显著的",
+                "adj. 燃烧般的",
+                "adj. 过多的，极度的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "excessive",
+            "choices": [
+                "adj. 过分的",
+                "adj. 不可缺少的",
+                "adj. 异常的，例外的",
+                "adj. 过多的，极度的",
+                "vt. 发生",
+                "adv. 通常",
+                "adj. 一般的，最普通的",
+                "adj. 不可缺少的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "sustain",
+            "choices": [
+                "adj. 有影响的",
+                "vt. 维持",
+                "adv. 尤其",
+                "vt. 支撑，承担",
+                "adv. 确实地，毋庸置疑的",
+                "vt. 供养",
+                "vt. 证实",
+                "vt. 忍受"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "exploit",
+            "choices": [
+                "vi. 化装",
+                "vt. 开采",
+                "vt. 剥削",
+                "adj. 显著的",
+                "n. 勋绩",
+                "n. 功绩",
+                "vt. 开发，开拓",
+                "vt. 生殖"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "eradicate",
+            "choices": [
+                "vi. 分散，散开",
+                "n. 不可缺少之物",
+                "vt. 消灭",
+                "adj. 剧烈的",
+                "vi. 适应",
+                "vt. 照料，照管",
+                "vt. 根除，根绝",
+                "vt. 增加"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "attest",
+            "choices": [
+                "vi. 证明",
+                "vt. 证实",
+                "vt. 证明",
+                "adj. 异常的，例外的",
+                "adj. 精致的",
+                "vi. 作证",
+                "v. 强迫",
+                "vt. 为…作证"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "peculiar",
+            "choices": [
+                "n. 特有财产",
+                "adj. 奇怪的",
+                "adj. 罕见的",
+                "n. 特权",
+                "adj. 独特的",
+                "adj. 特殊的",
+                "vt. 使形成",
+                ". ??…有关系"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "mask",
+            "choices": [
+                "vi. 化装",
+                "vi. 掩饰",
+                "vt. 使模糊",
+                "n. 口罩",
+                "n. 掩饰",
+                "vt. 发生",
+                "vt. 戴面具",
+                "vi. 戴面具"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "gradual",
+            "choices": [
+                "vt. 擦除",
+                "vt. 加强",
+                "adj. 平缓的",
+                "n. 弥撒升阶圣歌集",
+                "vi. 趋向，倾向",
+                "vt. 为…作证",
+                "adj. 逐渐的",
+                "adj. 艰苦的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "painstaking",
+            "choices": [
+                "n. 超常的学生",
+                "adj. 分布广的",
+                "vt. 转移",
+                "adj. 小心的",
+                "n. 勤勉",
+                "adj. 勤勉的",
+                "adj. 艰苦的",
+                "n. 辛苦"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "refine",
+            "choices": [
+                "adj. 分裂的，中断的",
+                "n. 碎片（fragment的复数）",
+                "vt. 复制",
+                "vt. 精炼，提纯",
+                "n. 勋绩",
+                "adv. 间歇地",
+                "vt. 使…文雅",
+                "vt. 改善"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "replicate",
+            "choices": [
+                "n. 复制品",
+                "adj. 复制的",
+                "n. 八音阶间隔的反覆音",
+                "adj. 折叠的",
+                "vi. 打算",
+                "vt. 折叠",
+                "vi. 折转",
+                "vi. 重复"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "periodically",
+            "choices": [
+                "v. 使…诧异（astonish的ing形式）",
+                "adv. 间歇",
+                "adv. 周期性地",
+                "adv. 偶尔",
+                "adj. 相反的",
+                "n. 相差",
+                "adv. 定期地",
+                "adv. 戏剧地"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "pioneering",
+            "choices": [
+                "vt. 使散开，使分散",
+                "adj. 首创的",
+                "vt. 精炼，提纯",
+                "vt. 拖延",
+                "adj. 先驱的",
+                "vt. 提高",
+                "adj. 过分的",
+                "n. 外形"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "baffle",
+            "choices": [
+                "n. 挡板",
+                "vt. 使…受挫折",
+                "n. 困惑",
+                "vi. 做徒劳挣扎",
+                "vt. 用挡板控制",
+                "vt. 转移",
+                "vt. 使…困惑",
+                "adv. 实质上"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dramatically",
+            "choices": [
+                ". ??在做某事",
+                "n. 不符",
+                "adv. 戏剧地",
+                "vt. 使…转向",
+                "adv. 引人注目地",
+                "adv. 显著地，剧烈地",
+                "vt. 证实",
+                "adv. 间歇"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "compelling",
+            "choices": [
+                "v. 以强力获得（compel的ing形式）",
+                "vt. 详细阐述",
+                "adj. 强制的",
+                "adj. 激发兴趣的",
+                "adv. 偶尔",
+                "v. 强迫",
+                "adj. 引人注目的",
+                "n. 特有财产"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "replenish",
+            "choices": [
+                "adj. 普遍的，广泛的",
+                "vt. 给…添加燃料",
+                "adv. 周期性地",
+                "vt. 增加",
+                "vt. 补充，再装满",
+                "vt. 折叠",
+                "vt. 把…装满",
+                "n. 仿制品"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "doubtless",
+            "choices": [
+                "adv. 确定地",
+                "adj. 确定的",
+                "adj. 无疑的",
+                "adv. 间歇地",
+                "adv. 无疑地",
+                "adj. 令人不快的",
+                "adv. 一定地",
+                "adv. 大概，多半"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "predominant",
+            "choices": [
+                "adj. 支配的",
+                "adv. 显著地",
+                "adj. 卓越的",
+                "adj. 有力的",
+                "n. 不符",
+                "adj. 主要的",
+                "adj. 有影响的",
+                "n. 辛苦"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "prolong",
+            "choices": [
+                "vi. 结束，终止",
+                "adj. 有益的",
+                "vt. 拖延",
+                "vt. 延长",
+                "adj. 异常的，例外的",
+                "n. 广阔无垠的空间",
+                "vt. 照料，照管",
+                "adj. 累积的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "anticipate",
+            "choices": [
+                "adj. 分散的",
+                "vt. 提前使用",
+                "vt. 产生物理反应",
+                "adj. 有争议的",
+                "vt. 预期，期望",
+                "vt. 占先，抢先",
+                "vt. 使减少",
+                "adv. 间歇"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "indispensable",
+            "choices": [
+                "adj. 责无旁贷的",
+                "adj. 不可缺少的",
+                "n. 必不可少的人",
+                "adj. 绝对必要的",
+                "adj. 易受攻击的，易受…的攻击",
+                "n. [计] 功能",
+                "n. 不可缺少之物",
+                "vt. 把…装满"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "astonishing",
+            "choices": [
+                "adj. 令人惊讶的",
+                "vi. 被擦去，被抹掉",
+                "vt. 使结束",
+                "adv. 通常",
+                "vt. 使…困惑",
+                "adj. 惊人的",
+                "v. 使…惊讶",
+                "v. 使…诧异（astonish的ing形式）"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "equivalent",
+            "choices": [
+                "n. 等价物，相等物",
+                "adj. 同意义的",
+                "adj. 累积的",
+                "adj. 等价的，相等的",
+                "n. 密电译文",
+                "vi. 分散",
+                "adv. 容易地",
+                "adj. 有弱点的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "exquisite",
+            "choices": [
+                "adj. 异常的",
+                "adj. 剧烈的",
+                "vi. 照料，照顾",
+                "adj. 优美的，高雅的",
+                "adj. 精致的",
+                "vt. 照料，照管",
+                "adj. 细腻的",
+                "n. 服饰过于讲究的男子"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "decipher",
+            "choices": [
+                "vt. 解释（过去式deciphered，过去分词deciphered，现在分词deciphering，第三人称单数deciphers，名词decipherer，形容词decipherable）",
+                "adj. 弥漫的",
+                "vt. 使复杂化",
+                "vt. 译解",
+                "n. 外形",
+                ". ??在做某事",
+                "n. 密电译文",
+                "adj. 有弱点的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "generally",
+            "choices": [
+                "adj. 过多的，极度的",
+                "vi. 分散",
+                "v. 合成",
+                "adj. 不宜的",
+                "adv. 普遍地，一般地",
+                "vi. 分散",
+                "adv. 通常",
+                "adv. 实质上"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "diffuse",
+            "choices": [
+                "adj. 散开的",
+                "vt. 扩散",
+                "vi. 四散",
+                "adj. 弥漫的",
+                "vi. 传播",
+                "vt. 传播",
+                ". ??在做某事",
+                "vt. 漫射"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "synthesizing",
+            "choices": [
+                "vt. 使…转向",
+                "vt. 预期，期望",
+                "vi. 到绝顶",
+                "v. 合成",
+                "v. 使…惊讶",
+                "adj. 相反的",
+                "n. 限制",
+                "v. 不同元素间的整合（synthesize的ing形式）"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "culminate",
+            "choices": [
+                "vt. 使结束",
+                "vi. 达到顶点",
+                "adv. 容易地",
+                "vi. 达到高潮",
+                "adj. 首创的",
+                "vt. 使达到高潮",
+                "vt. 掩饰",
+                "vi. 到绝顶"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "disrupt",
+            "choices": [
+                "vt. 破坏",
+                "vt. 使分裂",
+                "vt. 使瓦解",
+                "v. 使…惊讶",
+                "adj. 分裂的，中断的",
+                "adj. 分散的",
+                "vt. 使中断",
+                "vt. 使陷于混乱"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cumulative",
+            "choices": [
+                "adj. 累积的",
+                "vt. 传播",
+                "vt. 照料，照管",
+                "vt. 解雇",
+                "vt. 使减少",
+                ". 开具给",
+                "vt. 提高",
+                "v. 分离"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "terminate",
+            "choices": [
+                "vt. 解雇",
+                "vi. 结束，终止",
+                "adj. 有影响的",
+                "vt. 使终止",
+                "adj. 结束的",
+                "vt. 使结束",
+                "vi. 结果",
+                "vt. 照料，照管"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "enhance",
+            "choices": [
+                "adj. 假装的",
+                "vt. 提高",
+                "adj. 累积的",
+                "adv. 周期性地",
+                "n. 不符",
+                ". 开具给",
+                "vt. 增加",
+                "vt. 加强"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "confine",
+            "choices": [
+                "vt. 限制",
+                ". ??在做某事",
+                "vt. 禁闭",
+                "adj. 惊人的",
+                "n. 约束",
+                "n. 限制",
+                "n. 界限，边界",
+                "adj. 有弱点的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "disperse",
+            "choices": [
+                "vt. 使散开",
+                "n. 追求",
+                "vi. 分散",
+                "vt. 掩饰",
+                "adj. 结束的",
+                "vt. 分散",
+                "adj. 分散的",
+                "vt. 传播"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "erase",
+            "choices": [
+                "vi. 被擦去，被抹掉",
+                "vi. 分散，散开",
+                "adj. 精致的",
+                "adj. 易受攻击的，易受…的攻击",
+                "vt. 擦除",
+                "vt. 抹去",
+                "adj. 巨额的",
+                "n. 特权"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "functions",
+            "choices": [
+                "adv. 事实上，几乎",
+                "adj. 首创的",
+                "n. [计] 功能",
+                "vt. 使能够，使成为可能",
+                "vt. 使散开，使分散",
+                "vt. 使散开，使分散",
+                "n. [数] 函数（function的复数形式）",
+                "vt. 提前使用"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "mimic",
+            "choices": [
+                "adj. 假装的",
+                "n. 小丑",
+                "adj. 模仿的，模拟的",
+                "vt. 使复杂化",
+                "adv. 无疑地",
+                "n. 效颦者，模仿者",
+                "vt. 模仿，摹拟",
+                "n. 仿制品"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "prevailing",
+            "choices": [
+                "vt. 产生物理反应",
+                "adj. 一般的，最普通的",
+                "v. 获胜",
+                "adj. 流行的",
+                "v. 盛行，流行（prevail的现在分词形式）",
+                "adj. 盛行很广的",
+                "adj. 占优势的",
+                "n. 浩瀚"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "enormous",
+            "choices": [
+                "adj. 等价的，相等的",
+                "adj. 散开的",
+                "adj. 累积的",
+                "adj. 凶暴的，极恶的",
+                "adj. 庞大的，巨大的",
+                "adj. 有助于…的",
+                "vt. 阻碍",
+                "adj. 有争论的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 用挡板控制; n. 挡板; vt. 使…困惑",
+            "choices": [
+                "virtually",
+                "baffle",
+                "integral",
+                "intermittently",
+                "invariably"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 剧烈的; adj. 细腻的; adj. 优美的，高雅的",
+            "choices": [
+                "anticipate",
+                "equivalent",
+                "sustain",
+                "exquisite",
+                "irritating"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 超常的学生; adj. 异常的，例外的",
+            "choices": [
+                "peculiar",
+                "exceptional",
+                "culminate",
+                "fragments",
+                "sustain"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 令人惊讶的; v. 使…惊讶; v. 使…诧异（astonish的ing形式）",
+            "choices": [
+                "gradual",
+                "erase",
+                "eradicate",
+                "unfavorable",
+                "astonishing"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 分离; adj. 超然的; adj. 分离的，分开的",
+            "choices": [
+                "anticipate",
+                "excessive",
+                "terminate",
+                "detached",
+                "segregated"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 首创的; adj. 先驱的",
+            "choices": [
+                "pioneering",
+                "predominant",
+                "lone",
+                "draw to",
+                "replenish"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 引人注目的; adj. 激发兴趣的; v. 强迫",
+            "choices": [
+                "integral",
+                "compelling",
+                "lone",
+                "attest",
+                "periodically"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 构成整体所必须的; n. 完整; adj. 积分的",
+            "choices": [
+                "fragments",
+                "startled",
+                "astonishing",
+                "segregated",
+                "integral"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 八音阶间隔的反覆音; adj. 折叠的; vt. 复制",
+            "choices": [
+                "segregated",
+                "virtually",
+                "replicate",
+                "replenish",
+                "mimic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 隔离（segregate的过去式）; v. 分离; adj. 被隔离的",
+            "choices": [
+                "fragments",
+                "cumulative",
+                "integral",
+                "adverse",
+                "segregated"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 一定地; adv. 总是; adv. 不变地",
+            "choices": [
+                "in essence",
+                "invariably",
+                "precise",
+                "virtually",
+                "elaborate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 消灭; vt. 根除，根绝",
+            "choices": [
+                "scatter",
+                "eradicate",
+                "intermittently",
+                "scanty",
+                "predominant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 改编; vi. 适应; vt. 使适应",
+            "choices": [
+                "adapt",
+                "generally",
+                "disperse",
+                "obscure",
+                "lone"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 抹去; vt. 擦除; vi. 被擦去，被抹掉",
+            "choices": [
+                "integral",
+                "erase",
+                "perplex",
+                "replicate",
+                "widespread"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 某种模糊的或不清楚的东西; vt. 使…模糊不清，掩盖; adj. 隐蔽的",
+            "choices": [
+                "exploit",
+                "elaborate",
+                "obscure",
+                "attest",
+                "lone"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 确实地，毋庸置疑的",
+            "choices": [
+                "attest",
+                "undoubtedly",
+                "terminate",
+                "adapt",
+                "excessive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 凶暴的，极恶的; adj. 庞大的，巨大的",
+            "choices": [
+                "disrupt",
+                "enormous",
+                "astonishing",
+                "generally",
+                "painstaking"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 普遍地，一般地; adv. 通常",
+            "choices": [
+                "elaborate",
+                "prolong",
+                "generally",
+                "disrupt",
+                "doubtless"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有争论的; adj. 有争议的",
+            "choices": [
+                "painstaking",
+                "controversial",
+                "disperse",
+                "confine",
+                "ardent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 授予权利或方法; vt. 使能够，使成为可能",
+            "choices": [
+                "enable",
+                "intermittently",
+                "pioneering",
+                "irritating",
+                "functions"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 减少，缩小; vi. 变小; vt. 使变小",
+            "choices": [
+                "gradual",
+                "doubtless",
+                "diminish",
+                "generate",
+                "readily"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 口罩; vt. 掩饰; n. 掩饰",
+            "choices": [
+                "vast",
+                "sustain",
+                "aim to do",
+                "disperse",
+                "mask"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": ". 开具给; . 吸引到…方面来; . ??近",
+            "choices": [
+                "skepticism",
+                "draw to",
+                "vast",
+                "decipher",
+                "conspicuous"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 效颦者，模仿者; n. 小丑; vt. 模仿，摹拟",
+            "choices": [
+                "startled",
+                "vast",
+                "conducive",
+                "mimic",
+                "segregated"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 受惊吓的; v. 震惊（startle的过去分词）",
+            "choices": [
+                "startled",
+                "in essence",
+                "mask",
+                "diffuse",
+                "conducive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 普遍的，广泛的; adj. 分布广的",
+            "choices": [
+                "widespread",
+                "pioneering",
+                "terminate",
+                "periodically",
+                "enhance"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 显著的; adj. 显而易见的",
+            "choices": [
+                "dramatically",
+                "conspicuous",
+                "vulnerable",
+                "lone",
+                "exploit"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 适当的; adj. 相配的",
+            "choices": [
+                "astonishing",
+                "divert",
+                "suitable",
+                "periodically",
+                "configuration"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 发生; vt. 使形成; vt. 生殖",
+            "choices": [
+                "culminate",
+                "vulnerable",
+                "terminate",
+                "generate",
+                "adapt"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 敌对的（名词ness，副词ly）; adj. 不利的; adj. 相反的",
+            "choices": [
+                "periodically",
+                "impede",
+                "quest",
+                "adverse",
+                "attest"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 散开的; vt. 传播; adj. 弥漫的",
+            "choices": [
+                "diffuse",
+                "diminish",
+                "virtually",
+                "detached",
+                "disrupt"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 绝对必要的; n. 不可缺少之物; n. 必不可少的人",
+            "choices": [
+                "perplex",
+                "enhance",
+                "integral",
+                "configuration",
+                "indispensable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 勤勉; adj. 小心的; adj. 艰苦的",
+            "choices": [
+                "dramatically",
+                "predominant",
+                "scanty",
+                "painstaking",
+                "propose"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": ". 大体上; . ??质上; . 其实",
+            "choices": [
+                "in essence",
+                "compelling",
+                "prolong",
+                "exceptional",
+                "peculiar"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 过分的; adj. 过多的，极度的",
+            "choices": [
+                "erase",
+                "generally",
+                "excessive",
+                "intermittently",
+                "integral"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使瓦解; vt. 使中断; vt. 破坏",
+            "choices": [
+                "cumulative",
+                "compelling",
+                "disrupt",
+                "widespread",
+                "suitable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 支撑，承担; vt. 维持; vt. 证实",
+            "choices": [
+                "tend",
+                "generally",
+                "ardent",
+                "obscure",
+                "sustain"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [数] 函数（function的复数形式）; n. [计] 功能",
+            "choices": [
+                "exquisite",
+                "adverse",
+                "prolong",
+                "functions",
+                "exceptional"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使终止; adj. 结束的; vi. 结束，终止",
+            "choices": [
+                "terminate",
+                "periodically",
+                "perplex",
+                "aim to do",
+                "exquisite"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 转移; vt. 使…转向; vt. 使…欢娱",
+            "choices": [
+                "prolong",
+                "divert",
+                "diffuse",
+                "skepticism",
+                "generate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 增加; vt. 加强; vt. 提高",
+            "choices": [
+                "terminate",
+                "enhance",
+                "conspicuous",
+                "mimic",
+                "obscure"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 求婚; vt. 建议; vt. 求婚",
+            "choices": [
+                "gradual",
+                "generate",
+                "disperse",
+                "quest",
+                "propose"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 确定地; adj. 无疑的; adv. 大概，多半",
+            "choices": [
+                "doubtless",
+                "unfavorable",
+                "notably",
+                "conspicuous",
+                "indispensable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 打碎; n. [计] 分段; v. 破碎（fragment的三单形式）",
+            "choices": [
+                "impede",
+                "enormous",
+                "precise",
+                "irritating",
+                "fragments"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 提前使用; vt. 预期，期望; vt. 占先，抢先",
+            "choices": [
+                "disperse",
+                "segregated",
+                "anticipate",
+                "scanty",
+                "astonishing"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 显著地; adv. 尤其",
+            "choices": [
+                "disrupt",
+                "compelling",
+                "notably",
+                "terminate",
+                "doubtless"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 间歇地",
+            "choices": [
+                "widespread",
+                "confine",
+                "intermittently",
+                "erase",
+                "prevailing"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 限制; vt. 禁闭; n. 约束",
+            "choices": [
+                "painstaking",
+                "decipher",
+                "generally",
+                "propose",
+                "confine"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使散开; vi. 分散; vt. 分散",
+            "choices": [
+                "aim to do",
+                "suitable",
+                "diffuse",
+                "disperse",
+                "undoubtedly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 照料，照管; vi. 趋向，倾向; vi. 照料，照顾",
+            "choices": [
+                "quest",
+                "tend",
+                "discrepancy",
+                "fragments",
+                "generally"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使…文雅; vt. 改善; vt. 精炼，提纯",
+            "choices": [
+                "diffuse",
+                "perplex",
+                "refine",
+                "detached",
+                "anticipate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 解释（过去式ed，过去分词ed，现在分词ing，第三人称单数s，名词er，形容词able）; vt. 译解; n. 密电译文",
+            "choices": [
+                "diminish",
+                "decipher",
+                "attest",
+                "impede",
+                "enormous"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 不宜的; adj. 不顺利的; adj. 令人不快的",
+            "choices": [
+                "fragments",
+                "scatter",
+                "detached",
+                "tend",
+                "unfavorable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 仅有的; adj. 缺乏的; adj. 吝啬的",
+            "choices": [
+                "predominant",
+                "erase",
+                "precise",
+                "scanty",
+                "peculiar"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 引人注目地; adv. 显著地，剧烈地; adv. 戏剧地",
+            "choices": [
+                "indispensable",
+                "ardent",
+                "replenish",
+                "dramatically",
+                "readily"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 定期地; adv. 间歇; adv. 偶尔",
+            "choices": [
+                "confine",
+                "periodically",
+                "skepticism",
+                "diminish",
+                "exceptional"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 事实上，几乎; adv. 实质上",
+            "choices": [
+                "adverse",
+                "diffuse",
+                "replicate",
+                "obscure",
+                "virtually"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 从简单成分合成（复杂有机物）; vi. 详细描述; adj. 详尽的",
+            "choices": [
+                "equivalent",
+                "excessive",
+                "generate",
+                "elaborate",
+                "pioneering"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 精确的; adj. 明确的; adj. 严格的",
+            "choices": [
+                "confine",
+                "conspicuous",
+                "quest",
+                "precise",
+                "mimic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 寂寞的; adj. 独自的; adj. 单身的",
+            "choices": [
+                "equivalent",
+                "doubtless",
+                "functions",
+                "lone",
+                "segregated"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 怀疑的态度; n. 怀疑论",
+            "choices": [
+                "painstaking",
+                "skepticism",
+                "conducive",
+                "fragments",
+                "associated with"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 拖延; vt. 延长",
+            "choices": [
+                "doubtless",
+                "enable",
+                "scanty",
+                "fragments",
+                "prolong"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 矛盾; n. 不符; n. 相差",
+            "choices": [
+                "anticipate",
+                "diffuse",
+                "undoubtedly",
+                "startled",
+                "discrepancy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有影响的; adj. 卓越的; adj. 主要的",
+            "choices": [
+                "dramatically",
+                "predominant",
+                "unfavorable",
+                "generally",
+                "precise"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 补充，再装满; vt. 给…添加燃料; vt. 把…装满",
+            "choices": [
+                "replenish",
+                "cumulative",
+                "gradual",
+                "suitable",
+                "notably"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 配置; n. 结构; n. 外形",
+            "choices": [
+                "scanty",
+                "replenish",
+                "refine",
+                "functions",
+                "configuration"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 累积的",
+            "choices": [
+                "cumulative",
+                "painstaking",
+                "decipher",
+                "associated with",
+                "replenish"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 燃烧般的; adj. 热情的; adj. 激烈的",
+            "choices": [
+                "obscure",
+                "doubtless",
+                "controversial",
+                "unfavorable",
+                "ardent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 合成; v. 不同元素间的整合（synthesize的ing形式）",
+            "choices": [
+                "discrepancy",
+                "disrupt",
+                "synthesizing",
+                "detached",
+                "scanty"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 追求; n. 追求; n. 寻找",
+            "choices": [
+                "readily",
+                "exceptional",
+                "intermittently",
+                "quest",
+                "enable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": ". ??在做某事",
+            "choices": [
+                "aim to do",
+                "compelling",
+                "disperse",
+                "periodically",
+                "notably"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 易受伤害的; adj. 易受攻击的，易受…的攻击; adj. 有弱点的",
+            "choices": [
+                "decipher",
+                "widespread",
+                "vulnerable",
+                "tend",
+                "intermittently"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 乐意地; adv. 无困难地; adv. 容易地",
+            "choices": [
+                "enable",
+                "perplex",
+                "astonishing",
+                "configuration",
+                "readily"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 大量的; adj. 广阔的; n. 广阔无垠的空间",
+            "choices": [
+                "quest",
+                "tend",
+                "vast",
+                "baffle",
+                "aim to do"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 刺激的; v. 刺激（irritate的ing形式）; adj. 气人的",
+            "choices": [
+                "associated with",
+                "tend",
+                "irritating",
+                "predominant",
+                "controversial"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 妨碍; vt. 阻碍; vt. 阻止",
+            "choices": [
+                "cumulative",
+                "impede",
+                "replicate",
+                "predominant",
+                "precise"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 开发，开拓; n. 勋绩; n. 功绩",
+            "choices": [
+                "refine",
+                "culminate",
+                "compelling",
+                "undoubtedly",
+                "exploit"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 证实; vi. 作证; vt. 为…作证",
+            "choices": [
+                "attest",
+                "disperse",
+                "intermittently",
+                "perplex",
+                "disrupt"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 弥撒升阶圣歌集; adj. 逐渐的; adj. 平缓的",
+            "choices": [
+                "gradual",
+                "equivalent",
+                "replenish",
+                "terminate",
+                "conspicuous"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": ". 与…相联系; . ??…有关系",
+            "choices": [
+                "cumulative",
+                "compelling",
+                "associated with",
+                "prolong",
+                "obscure"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有助于…的; adj. 有益的",
+            "choices": [
+                "tend",
+                "segregated",
+                "replenish",
+                "impede",
+                "conducive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 一般的，最普通的; adj. 占优势的; adj. 流行的",
+            "choices": [
+                "propose",
+                "vast",
+                "anticipate",
+                "prevailing",
+                "irritating"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 到绝顶; vi. 达到高潮; vt. 使结束",
+            "choices": [
+                "enable",
+                "conspicuous",
+                "intermittently",
+                "culminate",
+                "anticipate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使困惑，使为难; vt. 使复杂化",
+            "choices": [
+                "doubtless",
+                "peculiar",
+                "elaborate",
+                "perplex",
+                "startled"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 特殊的; n. 特权; adj. 罕见的",
+            "choices": [
+                "gradual",
+                "enhance",
+                "aim to do",
+                "peculiar",
+                "draw to"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 散播，撒播; vt. 使散射; n. 分散",
+            "choices": [
+                "scatter",
+                "divert",
+                "propose",
+                "discrepancy",
+                "precise"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 同意义的; n. 等价物，相等物; adj. 等价的，相等的",
+            "choices": [
+                "vulnerable",
+                "vast",
+                "equivalent",
+                "perplex",
+                "excessive"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 不可缺少之物; adj. 绝对必要的; n. 必不可少的人",
+            "choices": [
+                "a",
+                "b",
+                "d",
+                "e",
+                "e",
+                "i",
+                "i",
+                "l",
+                "n",
+                "n",
+                "p",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 令人不快的; adj. 不顺利的; adj. 不宜的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "e",
+                "f",
+                "l",
+                "n",
+                "o",
+                "r",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [数] 函数（function的复数形式）; n. [计] 功能",
+            "choices": [
+                "c",
+                "f",
+                "i",
+                "n",
+                "n",
+                "o",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 异常的; adj. 精致的; n. 服饰过于讲究的男子",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "i",
+                "q",
+                "s",
+                "t",
+                "u",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 挡板; n. 困惑; vi. 做徒劳挣扎",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "f",
+                "f",
+                "l"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": ". ??…有关系; . 与…相联系",
+            "choices": [
+                " ",
+                "a",
+                "a",
+                "c",
+                "d",
+                "e",
+                "h",
+                "i",
+                "i",
+                "o",
+                "s",
+                "s",
+                "t",
+                "t",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使结束; vi. 达到顶点; vt. 使达到高潮",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "l",
+                "m",
+                "n",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 过分的; adj. 过多的，极度的",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "e",
+                "i",
+                "s",
+                "s",
+                "v",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 单身的; adj. 寂寞的; adj. 独自的",
+            "choices": [
+                "e",
+                "l",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 分散，散开; vi. 散射; n. 散播，撒播",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "r",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 事实上，几乎; adv. 实质上",
+            "choices": [
+                "a",
+                "i",
+                "l",
+                "l",
+                "r",
+                "t",
+                "u",
+                "v",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使…欢娱; vt. 转移; vi. 转移",
+            "choices": [
+                "d",
+                "e",
+                "i",
+                "r",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 受惊吓的; v. 震惊（startle的过去分词）",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "l",
+                "r",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使变小; vi. 变小; vi. 减少，缩小",
+            "choices": [
+                "d",
+                "h",
+                "i",
+                "i",
+                "i",
+                "m",
+                "n",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 重复; vt. 复制; vi. 折转",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "e",
+                "i",
+                "l",
+                "p",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 显著的; adj. 显而易见的",
+            "choices": [
+                "c",
+                "c",
+                "i",
+                "n",
+                "o",
+                "o",
+                "p",
+                "s",
+                "s",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 增加; vt. 提高; vt. 加强",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "e",
+                "h",
+                "n",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 相反的; adj. 不利的; adj. 敌对的（名词adverseness，副词adversely）",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "r",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 惊人的; v. 使…诧异（astonish的ing形式）; v. 使…惊讶",
+            "choices": [
+                "a",
+                "g",
+                "h",
+                "i",
+                "i",
+                "n",
+                "n",
+                "o",
+                "s",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 不同元素间的整合（synthesize的ing形式）; v. 合成",
+            "choices": [
+                "e",
+                "g",
+                "h",
+                "i",
+                "i",
+                "n",
+                "n",
+                "s",
+                "s",
+                "t",
+                "y",
+                "z"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 模仿，摹拟; adj. 假装的; adj. 模仿的，模拟的",
+            "choices": [
+                "c",
+                "i",
+                "i",
+                "m",
+                "m"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使中断; vt. 使陷于混乱; vt. 使分裂",
+            "choices": [
+                "d",
+                "i",
+                "p",
+                "r",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 首创的; adj. 先驱的",
+            "choices": [
+                "e",
+                "e",
+                "g",
+                "i",
+                "i",
+                "n",
+                "n",
+                "o",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 拖延; vt. 延长",
+            "choices": [
+                "g",
+                "l",
+                "n",
+                "o",
+                "o",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 盛行，流行（prevail的现在分词形式）; adj. 流行的; v. 获胜",
+            "choices": [
+                "a",
+                "e",
+                "g",
+                "i",
+                "i",
+                "l",
+                "n",
+                "p",
+                "r",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 供养; vt. 支撑，承担; vt. 证实",
+            "choices": [
+                "a",
+                "i",
+                "n",
+                "s",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 累积的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "l",
+                "m",
+                "t",
+                "u",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 强制的; v. 强迫; adj. 引人注目的",
+            "choices": [
+                "c",
+                "e",
+                "g",
+                "i",
+                "l",
+                "l",
+                "m",
+                "n",
+                "o",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 证实; vt. 证明; vi. 证明",
+            "choices": [
+                "a",
+                "e",
+                "s",
+                "t",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 确实地，毋庸置疑的",
+            "choices": [
+                "b",
+                "d",
+                "d",
+                "e",
+                "l",
+                "n",
+                "o",
+                "t",
+                "u",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 口罩; vt. 掩饰; n. 面具",
+            "choices": [
+                "a",
+                "k",
+                "m",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 授予权利或方法; vt. 使能够，使成为可能",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "e",
+                "l",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 通常; adv. 普遍地，一般地",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "g",
+                "l",
+                "l",
+                "n",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 禁闭; vt. 限制; n. 限制",
+            "choices": [
+                "c",
+                "e",
+                "f",
+                "i",
+                "n",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 等价的，相等的; adj. 同意义的; n. 等价物，相等物",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "i",
+                "l",
+                "n",
+                "q",
+                "t",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使复杂化; vt. 使困惑，使为难",
+            "choices": [
+                "e",
+                "e",
+                "l",
+                "p",
+                "p",
+                "r",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 确定地; adv. 无疑地; adj. 确定的",
+            "choices": [
+                "b",
+                "d",
+                "e",
+                "l",
+                "o",
+                "s",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 异常的，例外的; n. 超常的学生",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "e",
+                "i",
+                "l",
+                "n",
+                "o",
+                "p",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 一定地; adv. 不变地; adv. 总是",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "i",
+                "i",
+                "l",
+                "n",
+                "r",
+                "v",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": ". ??在做某事",
+            "choices": [
+                " ",
+                " ",
+                "a",
+                "d",
+                "i",
+                "m",
+                "o",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 矛盾; n. 不符; n. 相差",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "d",
+                "e",
+                "i",
+                "n",
+                "p",
+                "r",
+                "s",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 给…添加燃料; vt. 把…装满; vt. 补充，再装满",
+            "choices": [
+                "e",
+                "e",
+                "h",
+                "i",
+                "l",
+                "n",
+                "p",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 被擦去，被抹掉; vt. 擦除; vt. 抹去",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 相配的; adj. 适当的",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "i",
+                "l",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 广阔的; adj. 大量的; n. 广阔无垠的空间",
+            "choices": [
+                "a",
+                "s",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有弱点的; adj. 易受伤害的; adj. 易受攻击的，易受…的攻击",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "e",
+                "l",
+                "l",
+                "n",
+                "r",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 引人注目地; adv. 显著地，剧烈地; adv. 戏剧地",
+            "choices": [
+                "a",
+                "a",
+                "a",
+                "c",
+                "d",
+                "i",
+                "l",
+                "l",
+                "m",
+                "r",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 间歇地",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "i",
+                "l",
+                "m",
+                "n",
+                "n",
+                "r",
+                "t",
+                "t",
+                "t",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 改编; vt. 使适应; vi. 适应",
+            "choices": [
+                "a",
+                "a",
+                "d",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使散开; vt. 分散; vt. 传播",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "i",
+                "p",
+                "r",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 改善; vt. 使…文雅; vt. 精炼，提纯",
+            "choices": [
+                "e",
+                "e",
+                "f",
+                "i",
+                "n",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 乐意地; adv. 容易地; adv. 无困难地",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "l",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 凶暴的，极恶的; adj. 庞大的，巨大的",
+            "choices": [
+                "e",
+                "m",
+                "n",
+                "o",
+                "o",
+                "r",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 间歇; adv. 周期性地; adv. 定期地",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "i",
+                "i",
+                "l",
+                "l",
+                "o",
+                "p",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 四散; vt. 漫射; vt. 扩散",
+            "choices": [
+                "d",
+                "e",
+                "f",
+                "f",
+                "i",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 结果; adj. 结束的; vi. 结束，终止",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "i",
+                "m",
+                "n",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 完整的，整体的; n. 部分; n. 积分",
+            "choices": [
+                "a",
+                "e",
+                "g",
+                "i",
+                "l",
+                "n",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 支配的; adj. 有力的; adj. 有影响的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "i",
+                "m",
+                "n",
+                "n",
+                "o",
+                "p",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 艰苦的; n. 辛苦; n. 勤勉",
+            "choices": [
+                "a",
+                "a",
+                "g",
+                "i",
+                "i",
+                "k",
+                "n",
+                "n",
+                "p",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 热情的; adj. 激烈的; adj. 燃烧般的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "n",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 怀疑的态度; n. 怀疑论",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "i",
+                "k",
+                "m",
+                "p",
+                "s",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 特权; adj. 奇怪的; n. 特有财产",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "l",
+                "p",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 配置; n. 外形; n. 结构",
+            "choices": [
+                "a",
+                "c",
+                "f",
+                "g",
+                "i",
+                "i",
+                "n",
+                "n",
+                "o",
+                "o",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 分布广的; adj. 普遍的，广泛的",
+            "choices": [
+                "a",
+                "d",
+                "d",
+                "e",
+                "e",
+                "i",
+                "p",
+                "r",
+                "s",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 任务（游戏术语）; vi. 寻找; vt. 探索",
+            "choices": [
+                "e",
+                "q",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有争论的; adj. 有争议的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "l",
+                "n",
+                "o",
+                "o",
+                "r",
+                "r",
+                "s",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 精心制作; vi. 变复杂; adj. 精心制作的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "e",
+                "e",
+                "l",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 占先，抢先; vt. 提前使用; vt. 预期，期望",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "e",
+                "i",
+                "i",
+                "n",
+                "p",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 求婚; vi. 打算; vi. 建议",
+            "choices": [
+                "e",
+                "o",
+                "o",
+                "p",
+                "p",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 平缓的; n. 弥撒升阶圣歌集; adj. 逐渐的",
+            "choices": [
+                "a",
+                "a",
+                "d",
+                "g",
+                "l",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 生殖; vt. 产生物理反应; vt. 使形成",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "e",
+                "g",
+                "n",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 阻止; vt. 妨碍; vt. 阻碍",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "i",
+                "m",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 超然的; v. 分离; adj. 分离的，分开的",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "d",
+                "e",
+                "e",
+                "h",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 显著地; adv. 尤其",
+            "choices": [
+                "a",
+                "b",
+                "l",
+                "n",
+                "o",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 使愤怒的; v. 激怒; v. 刺激（irritate的ing形式）",
+            "choices": [
+                "a",
+                "g",
+                "i",
+                "i",
+                "i",
+                "n",
+                "r",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 严格的; adj. 明确的; adj. 精确的",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "i",
+                "p",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": ". 其实; . 大体上; . ??质上",
+            "choices": [
+                " ",
+                "c",
+                "e",
+                "e",
+                "e",
+                "i",
+                "n",
+                "n",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有助于…的; adj. 有益的",
+            "choices": [
+                "c",
+                "c",
+                "d",
+                "e",
+                "i",
+                "n",
+                "o",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 开发，开拓; n. 勋绩; vt. 剥削",
+            "choices": [
+                "e",
+                "i",
+                "l",
+                "o",
+                "p",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使难理解; adj. 昏暗的，朦胧的; n. 某种模糊的或不清楚的东西",
+            "choices": [
+                "b",
+                "c",
+                "e",
+                "o",
+                "r",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 缺乏的; adj. 仅有的; adj. 稀疏的",
+            "choices": [
+                "a",
+                "c",
+                "n",
+                "s",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": ". ??近; . 吸引到…方面来; . 开具给",
+            "choices": [
+                " ",
+                "a",
+                "d",
+                "o",
+                "r",
+                "t",
+                "w"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [计] 分段; v. 打碎; n. 碎片（fragment的复数）",
+            "choices": [
+                "a",
+                "e",
+                "f",
+                "g",
+                "m",
+                "n",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 译解; n. 密电译文; vt. 解释（过去式deciphered，过去分词deciphered，现在分词deciphering，第三人称单数deciphers，名词decipherer，形容词decipherable）",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "e",
+                "h",
+                "i",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 趋向，倾向; vt. 照料，照管; vi. 照料，照顾",
+            "choices": [
+                "d",
+                "e",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 隔离（segregate的过去式）; adj. 被隔离的; v. 分离",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "e",
+                "g",
+                "g",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 消灭; vt. 根除，根绝",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "d",
+                "e",
+                "e",
+                "i",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "The electronic ______, all it is is the shorthand notation for that one electron approximation for the Schrodinger equation for lithium.",
+            "choices": [
+                "predominant",
+                "invariably",
+                "enormous",
+                "configuration",
+                "refine"
+            ],
+            "chn": "电子构型就是，对于锂的薛定谔方程,的单电子近似的,简化形式。(化学原理课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It is one of the more ______ available vitamins for most people around the world.",
+            "choices": [
+                "discrepancy",
+                "readily",
+                "scatter",
+                "synthesizing",
+                "enormous"
+            ],
+            "chn": "这是一个更容易获得维生素对于大多数人来说，在世界各地。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "All right. So you can already begin to see a development in intellectual history that perhaps opens the way to a certain ______.",
+            "choices": [
+                "synthesizing",
+                "generally",
+                "widespread",
+                "skepticism",
+                "scatter"
+            ],
+            "chn": "好，所以大家已经开始看到,人类思想史的一个发展,它很可能为某种怀疑主义开辟了道路。(文学理论导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "These measures can ______ the quality of our life.",
+            "choices": [
+                "generate",
+                "enhance",
+                "tend",
+                "compelling",
+                "replenish"
+            ],
+            "chn": "这些措施可以提高我们的生活质量。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "She may not use God's name in a false oath, to ______ to or swear by a false oath. She is to honor God's Sabbath day, and honor parental authority, which is arguably an extension of God's authority.",
+            "choices": [
+                "attest",
+                "excessive",
+                "doubtless",
+                "disperse",
+                "conducive"
+            ],
+            "chn": "她不可以以上帝的名义宣假誓,她应该敬重上帝的安息日，敬重父母亲的,权威，尽管人们对它是否是上帝权威的延伸是有争议的。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Amy Smith says vampires also ______ to the many local differences across the United States.",
+            "choices": [
+                "vast",
+                "predominant",
+                "adapt",
+                "gradual",
+                "in essence"
+            ],
+            "chn": "(VOA : special.2010.01.20)"
+        },
+        {
+            "cate": "choice",
+            "problem": "(Speaking) Waxler says the agency should have provided better oversight and employed tougher standards for dealing with ______ effects of LASIK.",
+            "choices": [
+                "configuration",
+                "prevailing",
+                "adverse",
+                "precise",
+                "enhance"
+            ],
+            "chn": "(VOA : standard.2010.03.03)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Seeking after happiness has been a most ______ experience , but one that I would not trade for anything .",
+            "choices": [
+                "diffuse",
+                "cumulative",
+                "mask",
+                "peculiar",
+                "painstaking"
+            ],
+            "chn": "追求幸福对我来说是十分艰苦的经历，但却是一种用什么我都不换的经历。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"What we are seeing in Iceland is that as the magma particles get towards the surface, they interact with the very cold water and they chill to form glassy ______ and these glassy ______ are small, they have sharp edges and when those get up in the air that is what is causing the risk to aviation.\"",
+            "choices": [
+                "replicate",
+                "lone",
+                "cumulative",
+                "fragments",
+                "synthesizing"
+            ],
+            "chn": "(VOA : standard.2010.04.15)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Batstone-Carr says he thinks BP is strong enough to ______ this double-blow to its bank balance and its reputation.",
+            "choices": [
+                "sustain",
+                "prolong",
+                "virtually",
+                "invariably",
+                "cumulative"
+            ],
+            "chn": "(VOA : standard.2010.06.18)"
+        },
+        {
+            "cate": "choice",
+            "problem": "I am making light of it and I think it's somewhat justified, because the evidence is just so ______.",
+            "choices": [
+                "generally",
+                "scanty",
+                "precise",
+                "undoubtedly",
+                "gradual"
+            ],
+            "chn": "我很鄙视这个观点,我认为我是有道理的,因为证据实在太有限(古希腊历史简介课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "He began ______ draw a car______on about sea creatures as a way ______ teach students about underwater life.",
+            "choices": [
+                "draw to",
+                "culminate",
+                "painstaking",
+                "fragments",
+                "doubtless"
+            ],
+            "chn": "(VOA : special.2009.08.21)"
+        },
+        {
+            "cate": "choice",
+            "problem": "To the terror of the ______ lake.",
+            "choices": [
+                "aim to do",
+                "lone",
+                "irritating",
+                "suitable",
+                "replenish"
+            ],
+            "chn": "因为这孤独的湖的惊吓。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "Intermediate Sprocket: An ______ rotated sprocket, which positions the film in the aperture of a projector and moves it after the exposure cycle.",
+            "choices": [
+                "replicate",
+                "precise",
+                "conspicuous",
+                "intermittently",
+                "widespread"
+            ],
+            "chn": "中间输片齿轮： 一种间歇旋转的扣片齿轮，它将胶片定位在放映机的片门中，并且在曝光周期后移动胶片。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "The following three national campaigns ______ to do just that.",
+            "choices": [
+                "aim to do",
+                "unfavorable",
+                "mask",
+                "widespread",
+                "conducive"
+            ],
+            "chn": "下面三个国家宣传片正是如此。()"
+        }
+    ],
+    "quiz_id": "138"
+}

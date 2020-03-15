@@ -1,0 +1,128 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "c_to_e",
+            "problem": "n. 生活者，居民; n. 肝脏",
+            "choices": [
+                "malignant",
+                "manipulation",
+                "mechanical",
+                "liver",
+                "lever"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 呆板的; adj. 力学的; adj. 手工操作的",
+            "choices": [
+                "messenger",
+                "mechanical",
+                "manipulate",
+                "malignant",
+                "liver"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 和蔼的，亲切的; adj. 良性的; adj. 吉利的",
+            "choices": [
+                "malignant",
+                "liver",
+                "liter",
+                "benign",
+                "lever"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 控制杆; vt. 用杠杆撬动; vi. 用杠杆撬",
+            "choices": [
+                "benign",
+                "malignant",
+                "lever",
+                "liter",
+                "messenger"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 篡改; vt. 操作; vt. 巧妙地处理",
+            "choices": [
+                "mechanical",
+                "manipulate",
+                "lever",
+                "manipulation",
+                "cadmium"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 篡改; n. 操纵; n. 操作",
+            "choices": [
+                "manipulation",
+                "liter",
+                "malignant",
+                "manipulate",
+                "mechanical"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 报信者，送信者; n. 先驱",
+            "choices": [
+                "liver",
+                "manipulation",
+                "malignant",
+                "messenger",
+                "lever"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [计量] 公升（容量单位）",
+            "choices": [
+                "malignant",
+                "cadmium",
+                "mechanical",
+                "liter",
+                "lever"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 大小; n. [地震] 震级; n. 量级",
+            "choices": [
+                "manipulation",
+                "malignant",
+                "liver",
+                "cadmium",
+                "magnitude"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 保王党员; adj. 有恶意的; n. 怀恶意的人",
+            "choices": [
+                "manipulation",
+                "benign",
+                "malignant",
+                "lever",
+                "cadmium"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [化学] 镉（元素符号cd）",
+            "choices": [
+                "benign",
+                "mechanical",
+                "liver",
+                "manipulate",
+                "cadmium"
+            ]
+        }
+    ],
+    "quiz_id": "256"
+}

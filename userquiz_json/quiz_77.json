@@ -1,0 +1,273 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "chastise",
+            "choices": [
+                "adj. 可解释的，可说明的",
+                "vt. 责骂",
+                "adj. 被误导的",
+                "adj. 可怕的",
+                "vt. 严惩",
+                "vt. 惩罚",
+                "adj. 盲目爱国的",
+                "adj. 直觉的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "accord",
+            "choices": [
+                "vt. 使一致",
+                "n. 一致",
+                "n. 符合",
+                "n. 协议",
+                "vi. 一致",
+                "n. 自愿",
+                "vi. 符合",
+                "adj. 不平衡的，倾向一方的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "odds",
+            "choices": [
+                "adj. 推托的",
+                "n. 几率",
+                "adj. 被误导的",
+                "adj. 预防的，防止的",
+                "n. 不平等",
+                "n. 胜算",
+                "adj. 装饰的，装饰性的",
+                "n. 差别"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "formulaic",
+            "choices": [
+                "adj. 套话堆砌的",
+                "adj. 差别对待的",
+                "adj. 公式化的",
+                "n. 制滑机",
+                "vt. 置换",
+                "adj. 无理性的",
+                "adj. 刻板的",
+                "adj. 无所不在的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "uncanny",
+            "choices": [
+                "adj. 可怕的",
+                "v. 把…打昏",
+                "adj. 吵闹的",
+                "vi. 摇摇欲坠",
+                "adj. 固定的",
+                "adj. 神秘的",
+                "adj. （文体）绚丽的",
+                "adj. 离奇的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 坡度; n. 倾斜度; n. [数][物] 梯度",
+            "choices": [
+                "homogeneous",
+                "discriminating",
+                "bias",
+                "gradient",
+                "de-emphasize"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 置换; vt. 把…免职; vt. 排水",
+            "choices": [
+                "evasive",
+                "displace",
+                "bias",
+                "trigger",
+                "chauvinistic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 使用缩写词; vt. 缩写，使省略; vt. 使简短",
+            "choices": [
+                "accessible",
+                "discriminatory",
+                "abbreviate",
+                "backwater",
+                "formulaic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 无理性的; n. [数] 无理数; adj. 不合理的",
+            "choices": [
+                "abbreviate",
+                "intuitive",
+                "cerebral",
+                "irrational",
+                "gradient"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 被误导的; v. 使入歧途（misguide的过去分词）",
+            "choices": [
+                "evasive",
+                "cerebral",
+                "de-emphasize",
+                "explicable",
+                "misguided"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 凭直觉获知的; adj. 直觉的",
+            "choices": [
+                "e",
+                "i",
+                "i",
+                "i",
+                "n",
+                "t",
+                "t",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有帮助的; n. 工具字，工具格; n. 器乐曲",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "l",
+                "m",
+                "n",
+                "n",
+                "r",
+                "s",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 惩罚; vt. 严惩; vt. 责骂",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "h",
+                "i",
+                "s",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [数][物] 梯度; n. 坡度; n. 倾斜度",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "g",
+                "i",
+                "n",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 使入歧途（misguide的过去分词）; adj. 被误导的",
+            "choices": [
+                "d",
+                "d",
+                "e",
+                "g",
+                "i",
+                "i",
+                "m",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Similarly, though, anybody who says, you should never think about the facts of mortality and the nature of death-- I think that's ______ as well.",
+            "choices": [
+                "lopsided",
+                "misguided",
+                "explicable",
+                "uncanny",
+                "cerebral"
+            ],
+            "chn": "但是同样地，任何人说，你应该永远不要想那些人必有一死,和死亡的事实-,我认为那也是有误导的。(死亡课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So the work was probably concluded shortly after that date: so in ______ or towards the end of the exilic period.",
+            "choices": [
+                "exile",
+                "accessible",
+                "instrumental",
+                "indiscriminate",
+                "settlement"
+            ],
+            "chn": "因此这部作品很可能就是在那个日期不久后结束的：,也就是在流放期间或流放即将结束时。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "We must accept that our development model cannot be ______, that which works in Pakistan may not work in Peru.",
+            "choices": [
+                "formulaic",
+                "irrational",
+                "discriminatory",
+                "intuitive",
+                "spotlight"
+            ],
+            "chn": "(VOA : standard.2010.01.06)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"To see a neighbor that really was a ______, an underdeveloped authoritarian country now emerge as a model,as a leader, must be very frustrating.\"",
+            "choices": [
+                "clamorous",
+                "backwater",
+                "settled",
+                "accessible",
+                "instrumental"
+            ],
+            "chn": "(VOA : standard.2010.07.26)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Experts debate about the differences between terms such as Naive Art, Visionary Art,Folk Art, ______ Art and Outsider Art.",
+            "choices": [
+                "intuitive",
+                "counterintuitive",
+                "exile",
+                "gradient",
+                "settlement"
+            ],
+            "chn": "(VOA : special.2010.04.14)"
+        }
+    ],
+    "quiz_id": "77"
+}

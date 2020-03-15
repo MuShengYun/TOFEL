@@ -1,0 +1,321 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "elevation",
+            "choices": [
+                "vt. 使深留脑中",
+                "n. 前妻或前夫",
+                "n. 正面图",
+                "n. 崇高",
+                "n. 提高",
+                "n. 海拔",
+                "n. 实体",
+                "n. 高地"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "facilitate",
+            "choices": [
+                "vt. 促进",
+                "vt. 使容易",
+                "n. 发行",
+                "n. 适应性",
+                "adj. 明白的",
+                "vt. 帮助",
+                "n. 反馈",
+                "n. 本质"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "execution",
+            "choices": [
+                "vt. 实行",
+                "n. 执行，实行",
+                "n. 死刑",
+                "n. 狂热",
+                "n. 纤维",
+                "adj. 因子的，阶乘的",
+                "n. 完成",
+                "n. 等值"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "emperor",
+            "choices": [
+                "n. 皇帝，君主",
+                "n. 前妻或前夫",
+                "n. 流行病",
+                "adj. 经验主义的，完全根据经验的",
+                "n. 回复",
+                "vi. 长胖",
+                "n. 喷射",
+                "n. 专家的意见"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "exploit",
+            "choices": [
+                "n. 功绩",
+                "adj. 经验主义的，完全根据经验的",
+                "vt. 开采",
+                "vt. 举起",
+                "vt. 开发，开拓",
+                "n. 纤维",
+                "n. 勋绩",
+                "vt. 剥削"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 因子的，阶乘的; n. [数] 阶乘",
+            "choices": [
+                "emit",
+                "fluid",
+                "equality",
+                "factorial",
+                "equilibrium"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 灵活性; n. 弹力; n. 弹性",
+            "choices": [
+                "enzyme",
+                "encode",
+                "fiber",
+                "elasticity",
+                "emission"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 经验主义的，完全根据经验的; adj. 实证的",
+            "choices": [
+                "enormously",
+                "empirical",
+                "equality",
+                "factorial",
+                "elevation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [生化] 酶",
+            "choices": [
+                "ethical",
+                "equilibrium",
+                "elasticity",
+                "enzyme",
+                "fabric"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 喷射; n. （光、热等的）发射，散发; n. 发行",
+            "choices": [
+                "fetal",
+                "exit",
+                "emission",
+                "elementary",
+                "epidemiology"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": structural plan or style of construction",
+            "choices": [
+                "fabric",
+                "facet",
+                "entrant",
+                "empirical",
+                "entity"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": fully revealed or expressed without vagueness, implication, or ambiguity : leaving no question as to meaning or intent",
+            "choices": [
+                "explicit",
+                "finite",
+                "elite",
+                "fluid",
+                "flux"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": in essence : fundamentally",
+            "choices": [
+                "elasticity",
+                "epidemiology",
+                "embed",
+                "evolutionary",
+                "essentially"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": power, authority, or prerogative given or conferred",
+            "choices": [
+                "evident",
+                "exit",
+                "erase",
+                "fin",
+                "faculty"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": capable of being flexed : pliant",
+            "choices": [
+                "flexibility",
+                "fabric",
+                "ethics",
+                "essence",
+                "essentially"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 肉; vi. 长胖; vt. 喂肉给…",
+            "choices": [
+                "e",
+                "f",
+                "h",
+                "l",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 执行，实施; n. 强制",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "e",
+                "f",
+                "m",
+                "n",
+                "n",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 织物; n. 布; n. 构造",
+            "choices": [
+                "a",
+                "b",
+                "c",
+                "f",
+                "i",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 流行的; adj. 传染性的; n. 流行病",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "e",
+                "i",
+                "i",
+                "m",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 露头; n. 发生; n. 出现，浮现",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "e",
+                "e",
+                "g",
+                "m",
+                "n",
+                "r"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "This differentiation of the products results into the vertical and horizontal entry barrier of potential ______ .",
+            "choices": [
+                "facet",
+                "factorial",
+                "entrant",
+                "estimation",
+                "facilitate"
+            ],
+            "chn": "由于产品的差别化而导致潜在市场进入者横向和纵向的进入壁垒。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "So without having to repeat all those parameters just assume that when I write down ______ it represents these variables.",
+            "choices": [
+                "fiber",
+                "evolutionary",
+                "erase",
+                "flux",
+                "fluid"
+            ],
+            "chn": "所以，不需要重复，所有那些几何,假设当我们写下流量时,它表现了这些变量。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "Well, so far we've had two models that have been thrown out to you: From polytheism's worship of many gods there's a natural evolution to henotheism's ______ of one god to a supreme position.",
+            "choices": [
+                "epidemiology",
+                "fertility",
+                "finite",
+                "elevation",
+                "emission"
+            ],
+            "chn": "目前，我已经给你们提出了两种模型：,从崇拜众多神灵的多神论,自然进化到一神论,唯一的至高无上的神。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The group invites men as well as women to discussions on the Koran's teachings about the ______ of the sexes.",
+            "choices": [
+                "elastic",
+                "elevate",
+                "equality",
+                "facet",
+                "feedback"
+            ],
+            "chn": "(VOA : special.2009.06.15)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Write down goals for every ______ of your life.",
+            "choices": [
+                "encode",
+                "facet",
+                "exploit",
+                "flip",
+                "epidemiology"
+            ],
+            "chn": "写下你生命中各个方面的目标。()"
+        }
+    ],
+    "quiz_id": "191"
+}

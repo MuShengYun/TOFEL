@@ -1,0 +1,3141 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "flesh",
+            "choices": [
+                "n. 伦理学",
+                "vt. 使发胖",
+                "vi. 长胖",
+                "n. 道德标准",
+                "n. 肉体",
+                "adj. 进化的",
+                "vt. 喂肉给…",
+                "n. 肉"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "elevation",
+            "choices": [
+                "n. 海拔",
+                "n. 正面图",
+                "vt. 使心智衰弱",
+                "n. 崇高",
+                "n. 精英",
+                "n. 不稳定",
+                "n. 高地",
+                "n. 提高"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fertility",
+            "choices": [
+                "n. 面",
+                "adv. 本来",
+                "n. 肥沃",
+                "n. 皇帝，君主",
+                "n. 伦理观",
+                "n. [农经] 生产力",
+                "n. 多产",
+                "n. 丰饶"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "execute",
+            "choices": [
+                "n. 相等",
+                "n. 发烧，发热",
+                "vt. 实行",
+                "n. [农经] 生产力",
+                "vt. 提升",
+                "vt. 处死",
+                "vt. 执行",
+                "vi. 潜泳"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "exit",
+            "choices": [
+                "vi. 熔化",
+                "n. 出口，通道",
+                "vi. 退出",
+                "n. 相等",
+                "n. 正面图",
+                "n. 退场",
+                "vi. 离去",
+                "prep. 不包括，除外"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "evident",
+            "choices": [
+                "n. 弹性",
+                "n. 尊重",
+                "n. 提高",
+                "vi. 用指轻弹",
+                "n. 电子",
+                "n. [数] 等式",
+                "adj. 明显的",
+                "adj. 明白的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "explicitly",
+            "choices": [
+                "adv. 明白地",
+                "vi. 疲劳",
+                "adj. 凭处方出售的",
+                "n. 适应性",
+                "n. 反馈",
+                "n. [生化] 酶",
+                "adv. 明确地",
+                "n. 前妻或前夫"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "elevate",
+            "choices": [
+                "n. [生化] 酶",
+                "vi. 猛挥鳍",
+                "n. 存在",
+                "vt. 举起",
+                "vt. 提升…的职位",
+                "n. 本质",
+                "vt. 振奋情绪等",
+                "vt. 提升"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "flux",
+            "choices": [
+                "n. 不稳定",
+                "n. [流][机] 流量",
+                "vt. 使熔融",
+                "vi. 流出",
+                "n. 流出",
+                "vt. 用焊剂处理",
+                "vi. 熔化",
+                "prep. 不包括，除外"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "estimation",
+            "choices": [
+                "n. 尊重",
+                "n. 执行，实施",
+                "n. 强制",
+                "vt. 促进",
+                "adv. 本来",
+                "n. 科，系",
+                "n. 估计",
+                "n. 高地"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fiber",
+            "choices": [
+                "n. 相等",
+                "n. 发行",
+                "prep. 不包括，除外",
+                "n. 纤维",
+                "vt. 使患热病",
+                "n. 执行，实施",
+                "n. 出现，浮现",
+                "n. 光纤（等于fibre）"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "emergence",
+            "choices": [
+                "n. 肉",
+                "n. 出现，浮现",
+                "adj. 经验主义的，完全根据经验的",
+                "n. 露头",
+                "n. 传染病学",
+                "n. 进入者",
+                "n. 精英",
+                "n. 发生"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "faculty",
+            "choices": [
+                "adj. 清楚的",
+                "n. 全体教员",
+                "vt. 栽种",
+                "n. 平静",
+                "n. 能力",
+                "n. 发烧，发热",
+                "n. 保持平衡的能力",
+                "n. 科，系"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fluid",
+            "choices": [
+                "adj. 流畅的",
+                "adj. 详述的",
+                "adj. 流动的",
+                "adj. 不固定的",
+                "adj. 进化的",
+                "n. 流体",
+                "n. 液体",
+                "adj. 胎的，胎儿的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "execution",
+            "choices": [
+                "adv. 明确地",
+                "n. 反馈",
+                "n. 完成",
+                "n. 面",
+                "n. 死刑",
+                "n. 执行，实行",
+                "adj. 清楚的",
+                "adj. 道德的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "enzyme",
+            "choices": [
+                "vi. 熔化",
+                "adv. 巨大地，庞大地",
+                "n. 精华",
+                "n. 新工作者",
+                "n. 除去",
+                "n. 电子",
+                "n. [生化] 酶",
+                "n. 喷射"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "elimination",
+            "choices": [
+                "n. 淘汰",
+                "adj. 经验主义的，完全根据经验的",
+                "prep. 不包括，除外",
+                "vi. 长胖",
+                "adj. 明白的",
+                "n. 消除",
+                "n. 除去",
+                "n. 精华"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "exploit",
+            "choices": [
+                "n. 勋绩",
+                "n. 功绩",
+                "n. 等值",
+                "n. 估计",
+                "vt. 剥削",
+                "vt. 开发，开拓",
+                "vt. 开采",
+                "adj. 渐进的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "empirical",
+            "choices": [
+                "adj. 基本的",
+                "vt. 发出，放射",
+                "adj. 凭处方出售的",
+                "adv. 明确地",
+                "adj. 经验主义的，完全根据经验的",
+                "n. 相等",
+                "n. 肉体",
+                "adj. 实证的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "finite",
+            "choices": [
+                "adj. 进化的",
+                "n. [流][机] 流量",
+                "n. 相等",
+                "adj. 限定的",
+                "adj. 有限的",
+                "vt. 使容易",
+                "vt. 振奋情绪等",
+                "n. 有限之物"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fabric",
+            "choices": [
+                "n. 勋绩",
+                "n. 等值",
+                "n. 布",
+                "adj. 明显的",
+                "n. 建筑物",
+                "n. 组织",
+                "n. 构造",
+                "n. 织物"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fetal",
+            "choices": [
+                "adj. 胎的，胎儿的",
+                "adv. 巨大地，庞大地",
+                "vi. 长胖",
+                "vt. （将文字材料）译成密码",
+                "vt. 掷",
+                "n. 高地",
+                "adv. 本质上",
+                "vt. 掷"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "elite",
+            "choices": [
+                "n. [数] 阶乘",
+                "n. 中坚分子",
+                "n. 精英",
+                "n. 精华",
+                "n. 纤维",
+                "n. 能力",
+                "vi. 猛挥鳍",
+                "n. 完成"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "electron",
+            "choices": [
+                "n. 消除",
+                "n. 专门知识",
+                "n. 电子",
+                "vi. 长胖",
+                "n. 伦理观",
+                "n. [生化] 酶",
+                "n. [数] 阶乘",
+                "adv. 巨大地，庞大地"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fatigue",
+            "choices": [
+                "adj. 疲劳的",
+                "adj. 限定的",
+                "adv. 巨大地，庞大地",
+                "n. 疲劳，疲乏",
+                "vt. 使疲劳",
+                "n. 杂役",
+                "vt. 使心智衰弱",
+                "vi. 疲劳"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "equilibrium",
+            "choices": [
+                "n. 弹力",
+                "n. 保持平衡的能力",
+                "n. 多产",
+                "n. 均衡",
+                "n. 平静",
+                "adj. 详述的",
+                "adv. 本来",
+                "n. 平等"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "erase",
+            "choices": [
+                "vt. 抹去",
+                "adj. 实证的",
+                "vi. 被擦去，被抹掉",
+                "vt. 擦除",
+                "adj. 轻率的",
+                "n. 皇帝，君主",
+                "n. 风尚等的流行",
+                "n. 估计"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "essence",
+            "choices": [
+                "n. 面",
+                "adj. [化学] 元素的",
+                "vt. 擦除",
+                "n. 科，系",
+                "n. 香精",
+                "n. 精华",
+                "n. 本质，实质",
+                "adj. 明显的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "enormously",
+            "choices": [
+                "n. 指数",
+                "adv. 巨大地，庞大地",
+                "adv. 非常地，在极大程度上",
+                "n. 传染病",
+                "n. 指数",
+                "n. 专门技术",
+                "n. 淘汰",
+                "vt. 编码，编制成计算机语言"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "flexibility",
+            "choices": [
+                "adj. 道德的",
+                "adj. 经验主义的，完全根据经验的",
+                "n. 适应性",
+                "adj. 有限的",
+                "n. 弹性",
+                "n. 灵活性",
+                "n. 实体",
+                "n. [生化] 酶"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "factorial",
+            "choices": [
+                "n. 发烧，发热",
+                "adj. 因子的，阶乘的",
+                "n. [数] 阶乘",
+                "n. 露头",
+                "vi. 流出",
+                "n. 出口，通道",
+                "adj. 明显的",
+                "n. 参加竞赛者"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "elastic",
+            "choices": [
+                "adj. 有弹性的",
+                "adj. 灵活的",
+                "adj. 易伸缩的",
+                "vt. 栽种",
+                "adj. 因子的，阶乘的",
+                "n. 橡皮圈",
+                "n. 皇帝，君主",
+                "n. 松紧带"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "emit",
+            "choices": [
+                "vt. 发行",
+                "vt. 发表",
+                "vt. 提升",
+                "vt. 发出，放射",
+                "n. 存在",
+                "adj. 流行的",
+                "n. 估计",
+                "adj. 初级的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "evolutionary",
+            "choices": [
+                "adj. 发展的",
+                "n. 处方药",
+                "adj. 渐进的",
+                "n. 构造",
+                "adj. 进化的",
+                "n. 香精",
+                "adj. 流行的",
+                "n. [流][机] 流量"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "flip",
+            "choices": [
+                "vt. 掷",
+                "adj. 无礼的",
+                "adj. 轻率的",
+                "n. 弹",
+                "n. 弹性",
+                "vi. 蹦跳",
+                "vt. 轻击",
+                "n. 筋斗"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "elasticity",
+            "choices": [
+                "adj. 因子的，阶乘的",
+                "adj. 渐进的",
+                "n. 弹力",
+                "n. 估计",
+                "n. 海拔",
+                "vi. 蹦跳",
+                "n. 弹性",
+                "n. 灵活性"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "encode",
+            "choices": [
+                "n. （光、热等的）发射，散发",
+                "n. 布",
+                "vt. （将文字材料）译成密码",
+                "adv. 巨大地，庞大地",
+                "vt. 使发烧",
+                "n. 织物",
+                "n. 专门知识",
+                "vt. 编码，编制成计算机语言"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "enforcement",
+            "choices": [
+                "vt. 发行",
+                "n. 进入者",
+                "adv. 巨大地，庞大地",
+                "n. 发生",
+                "n. [数] 阶乘",
+                "n. 露头",
+                "n. 执行，实施",
+                "n. 强制"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "emperor",
+            "choices": [
+                "vt. 用焊剂处理",
+                "n. 纤维",
+                "n. 皇帝，君主",
+                "n. 崇高",
+                "n. 淘汰",
+                "n. 精华",
+                "vt. 促进",
+                "adj. 渐进的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "equality",
+            "choices": [
+                "adj. 指数的",
+                "n. [数] 等式",
+                "n. 小平面",
+                "n. 平等",
+                "vt. 执行",
+                "n. 死刑",
+                "n. 相等",
+                "n. 适应性"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "exponential",
+            "choices": [
+                "n. 指数",
+                "n. 均衡",
+                "adj. 指数的",
+                "vt. 提升",
+                "adj. 详述的",
+                "vt. 执行",
+                "n. 平等",
+                "vt. 发出，放射"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "emission",
+            "choices": [
+                "n. 弹性",
+                "n. 能力",
+                "adj. 基本的",
+                "n. 发行",
+                "vi. 被擦去，被抹掉",
+                "n. 传染病学",
+                "n. 喷射",
+                "n. （光、热等的）发射，散发"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "expertise",
+            "choices": [
+                "n. 专家的意见",
+                "n. 相等",
+                "vt. （将文字材料）译成密码",
+                "n. 专门技术",
+                "adv. 明确地",
+                "n. 专门知识",
+                "n. 道德标准",
+                "n. 新会员"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fin",
+            "choices": [
+                "n. 鳍",
+                "vt. 装上翅",
+                "n. 鳍状物",
+                "vt. 编码，编制成计算机语言",
+                "vi. 潜泳",
+                "vt. 切除鳍",
+                "n. 鱼翅",
+                "vi. 猛挥鳍"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "feedback",
+            "choices": [
+                "n. 反馈",
+                "vt. （将文字材料）译成密码",
+                "adj. 限定的",
+                "n. 专门技术",
+                "vt. 用焊剂处理",
+                "n. 成果，资料",
+                "adj. 基本的",
+                "n. 回复"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "entrant",
+            "choices": [
+                "n. 相等",
+                "n. 新工作者",
+                "n. 新会员",
+                "n. 提高",
+                "n. 进入者",
+                "n. 参加竞赛者",
+                "vt. 发出，放射",
+                "adv. 本质上"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "explicit",
+            "choices": [
+                "n. 正面图",
+                "n. 平等",
+                "vt. 使患热病",
+                "adj. 明确的",
+                "adj. 详述的",
+                "adj. 清楚的",
+                "adj. 直率的",
+                "vt. 开发，开拓"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fever",
+            "choices": [
+                "vi. 患热病",
+                "n. 发烧，发热",
+                "adv. 非常地，在极大程度上",
+                "vt. 使患热病",
+                "vi. 狂热",
+                "n. 狂热",
+                "vi. 发烧",
+                "vt. 使狂热"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ethics",
+            "choices": [
+                "n. 海拔",
+                "n. 完成",
+                "n. 伦理学",
+                "n. 完成",
+                "n. 正面图",
+                "n. 灵活性",
+                "n. 道德标准",
+                "n. 伦理观"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "essentially",
+            "choices": [
+                "adv. 明白地",
+                "adv. 本质上",
+                "n. 前妻或前夫",
+                "adv. 本来",
+                "vt. 提升…的职位",
+                "n. 皇帝，君主",
+                "adj. 指数的",
+                "n. 科，系"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "elementary",
+            "choices": [
+                "adj. 基本的",
+                "n. 平等",
+                "n. 纤维",
+                "adj. [化学] 元素的",
+                "adj. 初级的",
+                "vt. 栽种",
+                "n. 成果，资料",
+                "n. 新工作者"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "facilitate",
+            "choices": [
+                "n. 流出",
+                "vt. 帮助",
+                "vt. 促进",
+                "adj. [化学] 元素的",
+                "adj. 实证的",
+                "n. 中坚分子",
+                "n. 电子",
+                "vt. 使容易"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "epidemiology",
+            "choices": [
+                "vi. 猛挥鳍",
+                "n. 建筑物",
+                "n. 传染病学",
+                "adj. 清楚的",
+                "vt. 装上翅",
+                "adj. 明显的",
+                "n. 方面",
+                "n. 流行病学"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "equivalence",
+            "choices": [
+                "n. [生化] 酶",
+                "vt. 实行",
+                "adj. 有限的",
+                "n. 勋绩",
+                "n. 相等",
+                "n. 平等",
+                "n. 等值",
+                "adv. 本来"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "embed",
+            "choices": [
+                "vi. 长胖",
+                "adv. 明白地",
+                "vt. 使嵌入，使插入",
+                "vt. 栽种",
+                "adj. 传染性的",
+                "n. 小平面",
+                "n. 尊重",
+                "vt. 使深留脑中"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "facet",
+            "choices": [
+                "n. 构造",
+                "n. 松紧带",
+                "n. [数] 阶乘",
+                "vt. 在…上琢面",
+                "n. 方面",
+                "n. 面",
+                "n. 专家的意见",
+                "n. 小平面"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "entity",
+            "choices": [
+                "vt. 栽种",
+                "n. 建筑物",
+                "n. 本质",
+                "n. 提高",
+                "n. 实体",
+                "n. 存在",
+                "n. 专家的意见",
+                "adv. 巨大地，庞大地"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "epidemic",
+            "choices": [
+                "adj. 传染性的",
+                "n. 流行病",
+                "vt. 提升…的职位",
+                "adj. 流行的",
+                "adj. 明确的",
+                "n. 风尚等的流行",
+                "adj. 因子的，阶乘的",
+                "n. 传染病"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ethical",
+            "choices": [
+                "adj. 道德的",
+                "n. 出现，浮现",
+                "n. 高地",
+                "adj. 凭处方出售的",
+                "adj. 伦理的",
+                "n. 处方药",
+                "vt. 振奋情绪等",
+                "adj. 限定的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ex",
+            "choices": [
+                "n. 前妻或前夫",
+                "prep. 不包括，除外",
+                "adv. 非常地，在极大程度上",
+                "n. 肉体",
+                "n. 皇帝，君主",
+                "n. 专门知识",
+                "n. 专门知识",
+                "vt. 使疲劳"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 光纤（等于fibre）; n. 纤维",
+            "choices": [
+                "ethics",
+                "epidemic",
+                "fiber",
+                "expertise",
+                "factorial"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 崇高; n. 正面图; n. 海拔",
+            "choices": [
+                "enforcement",
+                "fetal",
+                "elevation",
+                "fatigue",
+                "ethics"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 本质上; adv. 本来",
+            "choices": [
+                "ethical",
+                "embed",
+                "enormously",
+                "emission",
+                "essentially"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 肥沃; n. 丰饶; n. [农经] 生产力",
+            "choices": [
+                "entity",
+                "elimination",
+                "fever",
+                "erase",
+                "fertility"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 精华; n. 香精; n. 本质，实质",
+            "choices": [
+                "exit",
+                "fertility",
+                "essence",
+                "empirical",
+                "enormously"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 功绩; vt. 开采; n. 勋绩",
+            "choices": [
+                "epidemic",
+                "emperor",
+                "exploit",
+                "essence",
+                "essentially"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 长胖; n. 肉体; vt. 使发胖",
+            "choices": [
+                "ethical",
+                "flesh",
+                "epidemiology",
+                "empirical",
+                "flip"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 存在; n. 本质; n. 实体",
+            "choices": [
+                "entity",
+                "emperor",
+                "emergence",
+                "elastic",
+                "epidemic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 参加竞赛者; n. 新工作者; n. 新会员",
+            "choices": [
+                "execute",
+                "evolutionary",
+                "entrant",
+                "feedback",
+                "emission"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. [化学] 元素的; adj. 基本的; adj. 初级的",
+            "choices": [
+                "elementary",
+                "fertility",
+                "ethical",
+                "facilitate",
+                "finite"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. （将文字材料）译成密码; vt. 编码，编制成计算机语言",
+            "choices": [
+                "exponential",
+                "emergence",
+                "execution",
+                "encode",
+                "enzyme"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 织物; n. 构造; n. 组织",
+            "choices": [
+                "fin",
+                "ethics",
+                "exploit",
+                "electron",
+                "fabric"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 流行病学; n. 传染病学",
+            "choices": [
+                "epidemiology",
+                "empirical",
+                "estimation",
+                "exit",
+                "explicitly"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 前妻或前夫; prep. 不包括，除外",
+            "choices": [
+                "ex",
+                "execute",
+                "elevate",
+                "equality",
+                "elevation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 皇帝，君主",
+            "choices": [
+                "evolutionary",
+                "elasticity",
+                "emperor",
+                "ex",
+                "epidemic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 伦理观; n. 道德标准; n. 伦理学",
+            "choices": [
+                "enormously",
+                "ethics",
+                "equilibrium",
+                "finite",
+                "explicit"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 指数; adj. 指数的",
+            "choices": [
+                "exponential",
+                "facet",
+                "elementary",
+                "elevation",
+                "fatigue"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [生化] 酶",
+            "choices": [
+                "feedback",
+                "explicitly",
+                "enzyme",
+                "flesh",
+                "flexibility"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 因子的，阶乘的; n. [数] 阶乘",
+            "choices": [
+                "essentially",
+                "factorial",
+                "entrant",
+                "flip",
+                "equality"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 中坚分子; n. 精华; n. 精英",
+            "choices": [
+                "elite",
+                "fetal",
+                "fiber",
+                "epidemic",
+                "facet"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 猛挥鳍; vt. 切除鳍; n. 鳍",
+            "choices": [
+                "emission",
+                "elevate",
+                "erase",
+                "fin",
+                "elimination"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 强制; n. 执行，实施",
+            "choices": [
+                "epidemic",
+                "epidemiology",
+                "enforcement",
+                "factorial",
+                "electron"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 提升; vt. 振奋情绪等; vt. 举起",
+            "choices": [
+                "elevate",
+                "equivalence",
+                "enzyme",
+                "enforcement",
+                "ex"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 尊重; n. 估计",
+            "choices": [
+                "estimation",
+                "facet",
+                "expertise",
+                "equality",
+                "elevate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 科，系; n. 全体教员; n. 能力",
+            "choices": [
+                "exploit",
+                "embed",
+                "flesh",
+                "faculty",
+                "fin"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 流体; adj. 流动的; adj. 流畅的",
+            "choices": [
+                "essence",
+                "epidemiology",
+                "fabric",
+                "fluid",
+                "emperor"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 熔化; n. 变迁; n. [流][机] 流量",
+            "choices": [
+                "elasticity",
+                "facilitate",
+                "flux",
+                "explicitly",
+                "elastic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 蹦跳; adj. 无礼的; adj. 轻率的",
+            "choices": [
+                "factorial",
+                "flip",
+                "emperor",
+                "enzyme",
+                "elimination"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 发行; n. （光、热等的）发射，散发; n. 喷射",
+            "choices": [
+                "flip",
+                "epidemiology",
+                "facet",
+                "emission",
+                "fabric"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 狂热; vt. 使患热病; n. 发烧，发热",
+            "choices": [
+                "emit",
+                "exploit",
+                "fever",
+                "enzyme",
+                "flip"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 退场; vi. 离去; n. 出口，通道",
+            "choices": [
+                "fever",
+                "enormously",
+                "exit",
+                "enforcement",
+                "entrant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 消除; n. 淘汰; n. 除去",
+            "choices": [
+                "fluid",
+                "emergence",
+                "fetal",
+                "elevate",
+                "elimination"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 被擦去，被抹掉; vt. 擦除; vt. 抹去",
+            "choices": [
+                "elevate",
+                "elite",
+                "erase",
+                "fatigue",
+                "facilitate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 明白地; adv. 明确地",
+            "choices": [
+                "explicitly",
+                "elasticity",
+                "elite",
+                "elementary",
+                "epidemic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 面; vt. 在…上琢面; n. 方面",
+            "choices": [
+                "ethics",
+                "flux",
+                "execution",
+                "finite",
+                "facet"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 等值; n. 相等",
+            "choices": [
+                "equivalence",
+                "emergence",
+                "fiber",
+                "emperor",
+                "fin"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 发生; n. 露头; n. 出现，浮现",
+            "choices": [
+                "emergence",
+                "empirical",
+                "equivalence",
+                "factorial",
+                "elasticity"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 巨大地，庞大地; adv. 非常地，在极大程度上",
+            "choices": [
+                "ethical",
+                "fin",
+                "electron",
+                "flux",
+                "enormously"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 发展的; adj. 进化的; adj. 渐进的",
+            "choices": [
+                "evolutionary",
+                "embed",
+                "enzyme",
+                "ex",
+                "estimation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 橡皮圈; adj. 易伸缩的; adj. 灵活的",
+            "choices": [
+                "empirical",
+                "elastic",
+                "epidemic",
+                "fertility",
+                "execute"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 弹力; n. 弹性; n. 灵活性",
+            "choices": [
+                "ethics",
+                "fatigue",
+                "elasticity",
+                "emergence",
+                "enforcement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 杂役; adj. 疲劳的; vt. 使心智衰弱",
+            "choices": [
+                "enormously",
+                "exploit",
+                "facet",
+                "emission",
+                "fatigue"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 死刑; n. 执行，实行; n. 完成",
+            "choices": [
+                "emergence",
+                "execution",
+                "fetal",
+                "flesh",
+                "epidemic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 适应性; n. 弹性; n. 灵活性",
+            "choices": [
+                "elevation",
+                "elevate",
+                "feedback",
+                "finite",
+                "flexibility"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 限定的; n. 有限之物; adj. 有限的",
+            "choices": [
+                "elastic",
+                "finite",
+                "fertility",
+                "factorial",
+                "emit"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 直率的; adj. 清楚的; adj. 详述的",
+            "choices": [
+                "encode",
+                "fatigue",
+                "facet",
+                "explicit",
+                "evident"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 保持平衡的能力; n. 均衡; n. 平静",
+            "choices": [
+                "equilibrium",
+                "equality",
+                "elastic",
+                "fluid",
+                "fin"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 电子",
+            "choices": [
+                "electron",
+                "estimation",
+                "entrant",
+                "facet",
+                "essence"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 胎的，胎儿的",
+            "choices": [
+                "exit",
+                "facet",
+                "flip",
+                "fetal",
+                "elite"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 流行的; n. 流行病; n. 传染病",
+            "choices": [
+                "epidemic",
+                "fever",
+                "exit",
+                "epidemiology",
+                "equality"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 帮助; vt. 促进; vt. 使容易",
+            "choices": [
+                "evident",
+                "elite",
+                "facilitate",
+                "electron",
+                "encode"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 栽种; vt. 使深留脑中; vt. 使嵌入，使插入",
+            "choices": [
+                "fiber",
+                "embed",
+                "elementary",
+                "equality",
+                "fluid"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 明显的; adj. 明白的",
+            "choices": [
+                "estimation",
+                "evident",
+                "feedback",
+                "electron",
+                "execution"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 专门知识; n. 专家的意见; n. 专门技术",
+            "choices": [
+                "elastic",
+                "expertise",
+                "flesh",
+                "fever",
+                "execution"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 实行; vt. 执行; vt. 处死",
+            "choices": [
+                "fertility",
+                "electron",
+                "faculty",
+                "execute",
+                "emergence"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 反馈; n. 回复; n. 成果，资料",
+            "choices": [
+                "feedback",
+                "elementary",
+                "elastic",
+                "evident",
+                "exponential"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 相等; n. [数] 等式; n. 平等",
+            "choices": [
+                "facet",
+                "equality",
+                "fetal",
+                "fever",
+                "estimation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 伦理的; adj. 凭处方出售的; n. 处方药",
+            "choices": [
+                "facilitate",
+                "ethical",
+                "essence",
+                "elastic",
+                "elementary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 发行; vt. 发表; vt. 发出，放射",
+            "choices": [
+                "erase",
+                "emit",
+                "embed",
+                "epidemic",
+                "execute"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 经验主义的，完全根据经验的; adj. 实证的",
+            "choices": [
+                "empirical",
+                "equality",
+                "emission",
+                "flip",
+                "fertility"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act or an instance of emerging",
+            "choices": [
+                "emergence",
+                "facet",
+                "evident",
+                "elevate",
+                "flesh"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the quality or state of being equal",
+            "choices": [
+                "equality",
+                "electron",
+                "entity",
+                "fetal",
+                "elimination"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to convert (something, such as a body of information) from one system of communication into another",
+            "choices": [
+                "exponential",
+                "encode",
+                "emergence",
+                "evident",
+                "elementary"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act or process of executing : performance",
+            "choices": [
+                "flux",
+                "elementary",
+                "estimation",
+                "exponential",
+                "execution"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to do what is provided or required by",
+            "choices": [
+                "fiber",
+                "epidemiology",
+                "fin",
+                "execute",
+                "emission"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to make (something) easier : to help cause (something)",
+            "choices": [
+                "epidemiology",
+                "explicitly",
+                "execution",
+                "facilitate",
+                "expertise"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": available for various uses",
+            "choices": [
+                "emergence",
+                "flip",
+                "elevation",
+                "estimation",
+                "fluid"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a set of moral issues or aspects (such as rightness)",
+            "choices": [
+                "ethics",
+                "essentially",
+                "faculty",
+                "embed",
+                "fertility"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": something resembling a fin: such as",
+            "choices": [
+                "erase",
+                "evolutionary",
+                "fin",
+                "embed",
+                "emperor"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to send (light, energy, etc.) out from a source",
+            "choices": [
+                "emit",
+                "execute",
+                "elementary",
+                "essentially",
+                "flesh"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": one that possesses or exhibits a quality in abundance as if in concentrated form",
+            "choices": [
+                "fertility",
+                "elasticity",
+                "emission",
+                "essence",
+                "fatigue"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": originating in or based on observation or experience",
+            "choices": [
+                "estimation",
+                "equilibrium",
+                "fever",
+                "empirical",
+                "emergence"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": less than an arbitrary positive integer and greater than the negative of that integer",
+            "choices": [
+                "elementary",
+                "flux",
+                "finite",
+                "essentially",
+                "estimation"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": of or relating to an exponent",
+            "choices": [
+                "fin",
+                "essence",
+                "elementary",
+                "fertility",
+                "exponential"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": structural plan or style of construction",
+            "choices": [
+                "faculty",
+                "fabric",
+                "explicit",
+                "ex",
+                "explicitly"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to surround closely",
+            "choices": [
+                "fin",
+                "embed",
+                "facilitate",
+                "factorial",
+                "empirical"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the letter x",
+            "choices": [
+                "fetal",
+                "ex",
+                "elite",
+                "evident",
+                "feedback"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to cause to become fluid",
+            "choices": [
+                "execute",
+                "execution",
+                "flux",
+                "elite",
+                "expertise"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a part or element of something",
+            "choices": [
+                "facet",
+                "embed",
+                "fetal",
+                "finite",
+                "entity"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to suffer fatigue",
+            "choices": [
+                "execution",
+                "fatigue",
+                "epidemiology",
+                "equivalence",
+                "elevate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": elemental sense 2",
+            "choices": [
+                "elimination",
+                "elementary",
+                "equivalence",
+                "flesh",
+                "enormously"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": capable of bending or being bent",
+            "choices": [
+                "fin",
+                "factorial",
+                "flexibility",
+                "entity",
+                "emperor"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": judgment, opinion",
+            "choices": [
+                "enzyme",
+                "faculty",
+                "evident",
+                "emission",
+                "estimation"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the skill of an expert",
+            "choices": [
+                "emit",
+                "flip",
+                "emergence",
+                "estimation",
+                "expertise"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act of giving off",
+            "choices": [
+                "fever",
+                "erase",
+                "emission",
+                "essentially",
+                "elimination"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to a very great or enormous degree or extent : exceedingly, vastly",
+            "choices": [
+                "equivalence",
+                "enforcement",
+                "facet",
+                "enormously",
+                "equilibrium"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to throw into a fever : agitate",
+            "choices": [
+                "elimination",
+                "elementary",
+                "explicitly",
+                "ethics",
+                "fever"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": affecting or tending to affect a disproportionately large number of individuals within a population, community, or region at the same time",
+            "choices": [
+                "emit",
+                "epidemic",
+                "execute",
+                "flexibility",
+                "enormously"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the quality or state of being elevated",
+            "choices": [
+                "evolutionary",
+                "fluid",
+                "evident",
+                "elevation",
+                "flux"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": unambiguous in expression",
+            "choices": [
+                "fertility",
+                "ethical",
+                "elastic",
+                "explicitly",
+                "explicit"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to become elevated : rise",
+            "choices": [
+                "fatigue",
+                "elevate",
+                "elasticity",
+                "facilitate",
+                "elimination"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": easily stretched rubber usually prepared in cords, strings, or bands",
+            "choices": [
+                "ethical",
+                "electron",
+                "empirical",
+                "elementary",
+                "elastic"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a branch of medical science that deals with the incidence, distribution, and control of disease in a population",
+            "choices": [
+                "epidemiology",
+                "elastic",
+                "flip",
+                "elevation",
+                "fiber"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a branch of teaching or learning (such as law, medicine, or liberal arts) in an educational institution",
+            "choices": [
+                "fatigue",
+                "explicit",
+                "flesh",
+                "facilitate",
+                "faculty"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": helpful information or criticism that is given to someone to say what can be done to improve a performance, product, etc.",
+            "choices": [
+                "flexibility",
+                "epidemiology",
+                "fetal",
+                "emperor",
+                "feedback"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a state of intellectual or emotional balance : poise",
+            "choices": [
+                "evident",
+                "elite",
+                "elementary",
+                "equivalence",
+                "equilibrium"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": in essence : fundamentally",
+            "choices": [
+                "fever",
+                "elasticity",
+                "feedback",
+                "essentially",
+                "elevate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the state or property of being equivalent",
+            "choices": [
+                "equivalence",
+                "entrant",
+                "elementary",
+                "finite",
+                "epidemiology"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the choice part : cream",
+            "choices": [
+                "estimation",
+                "feedback",
+                "empirical",
+                "flip",
+                "elite"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to effect or gain by force",
+            "choices": [
+                "explicitly",
+                "enzyme",
+                "feedback",
+                "enforcement",
+                "finite"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": involving or expressing moral approval or disapproval",
+            "choices": [
+                "elite",
+                "elastic",
+                "ethical",
+                "faculty",
+                "explicitly"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to free from flesh",
+            "choices": [
+                "flesh",
+                "emission",
+                "fabric",
+                "feedback",
+                "elite"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act, process, or an instance of eliminating or discharging: such as",
+            "choices": [
+                "encode",
+                "execution",
+                "embed",
+                "elimination",
+                "equivalence"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the product of all the positive integers from 1 to n",
+            "choices": [
+                "fetal",
+                "factorial",
+                "elasticity",
+                "equivalence",
+                "flexibility"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": in an explicit manner : clearly and without any vagueness or ambiguity",
+            "choices": [
+                "essence",
+                "facet",
+                "explicitly",
+                "estimation",
+                "embed"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": something that has separate and distinct existence and objective or conceptual reality",
+            "choices": [
+                "entity",
+                "essence",
+                "flexibility",
+                "fluid",
+                "elevation"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the responsiveness of a dependent economic variable to changes in influencing factors",
+            "choices": [
+                "facet",
+                "expertise",
+                "fluid",
+                "exponential",
+                "elasticity"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to make a twitching or flicking movement",
+            "choices": [
+                "entity",
+                "exponential",
+                "explicit",
+                "faculty",
+                "flip"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to make productive use of : utilize",
+            "choices": [
+                "empirical",
+                "ex",
+                "exploit",
+                "fatigue",
+                "electron"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": one that enters",
+            "choices": [
+                "flip",
+                "emit",
+                "fabric",
+                "entrant",
+                "enforcement"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": material made of fibers",
+            "choices": [
+                "enzyme",
+                "exponential",
+                "fluid",
+                "factorial",
+                "fiber"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to rub or scrape out (something, such as written, painted, or engraved letters)",
+            "choices": [
+                "emergence",
+                "essence",
+                "fiber",
+                "flexibility",
+                "erase"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the quality or state of being fertile",
+            "choices": [
+                "electron",
+                "fertility",
+                "epidemic",
+                "explicitly",
+                "essence"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 提升…的职位; vt. 举起; vt. 振奋情绪等",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "e",
+                "l",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 勋绩; n. 功绩; vt. 剥削",
+            "choices": [
+                "e",
+                "i",
+                "l",
+                "o",
+                "p",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 弹力; n. 弹性; n. 灵活性",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "i",
+                "l",
+                "s",
+                "t",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 尊重; n. 估计",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "i",
+                "m",
+                "n",
+                "o",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 纤维; n. 光纤（等于fibre）",
+            "choices": [
+                "b",
+                "e",
+                "f",
+                "i",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 均衡; n. 保持平衡的能力; n. 平静",
+            "choices": [
+                "b",
+                "e",
+                "i",
+                "i",
+                "i",
+                "l",
+                "m",
+                "q",
+                "r",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 患热病; vt. 使患热病; vi. 狂热",
+            "choices": [
+                "e",
+                "e",
+                "f",
+                "r",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 因子的，阶乘的; n. [数] 阶乘",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "f",
+                "i",
+                "l",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 发展的; adj. 渐进的; adj. 进化的",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "l",
+                "n",
+                "o",
+                "o",
+                "r",
+                "t",
+                "u",
+                "v",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 胎的，胎儿的",
+            "choices": [
+                "a",
+                "e",
+                "f",
+                "l",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 熔化; n. [流][机] 流量; n. 变迁",
+            "choices": [
+                "f",
+                "l",
+                "u",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 发出，放射; vt. 发行; vt. 发表",
+            "choices": [
+                "e",
+                "i",
+                "m",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 用指轻弹; n. 筋斗; vi. 蹦跳",
+            "choices": [
+                "f",
+                "i",
+                "l",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 本来; adv. 本质上",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "i",
+                "l",
+                "l",
+                "n",
+                "s",
+                "s",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 道德的; adj. 伦理的; adj. 凭处方出售的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "h",
+                "i",
+                "l",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 消除; n. 除去; n. 淘汰",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "i",
+                "i",
+                "l",
+                "m",
+                "n",
+                "n",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 传染病学; n. 流行病学",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "g",
+                "i",
+                "i",
+                "l",
+                "m",
+                "o",
+                "o",
+                "p",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 实行; vt. 处死; vt. 执行",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "e",
+                "t",
+                "u",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 皇帝，君主",
+            "choices": [
+                "e",
+                "e",
+                "m",
+                "o",
+                "p",
+                "r",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 明确地; adv. 明白地",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "i",
+                "l",
+                "l",
+                "p",
+                "t",
+                "x",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 露头; n. 出现，浮现; n. 发生",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "e",
+                "e",
+                "g",
+                "m",
+                "n",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 反馈; n. 回复; n. 成果，资料",
+            "choices": [
+                "a",
+                "b",
+                "c",
+                "d",
+                "e",
+                "e",
+                "f",
+                "k"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 实体; n. 存在; n. 本质",
+            "choices": [
+                "e",
+                "i",
+                "n",
+                "t",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 高地; n. 海拔; n. 提高",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "i",
+                "l",
+                "n",
+                "o",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 流行病; n. 传染病; adj. 流行的",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "e",
+                "i",
+                "i",
+                "m",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 执行，实施; n. 强制",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "e",
+                "f",
+                "m",
+                "n",
+                "n",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 帮助; vt. 使容易; vt. 促进",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "e",
+                "f",
+                "i",
+                "i",
+                "l",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 全体教员; n. 能力; n. 科，系",
+            "choices": [
+                "a",
+                "c",
+                "f",
+                "l",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "prep. 不包括，除外; n. 前妻或前夫",
+            "choices": [
+                "e",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 鳍; n. 鳍状物; vt. 切除鳍",
+            "choices": [
+                "f",
+                "i",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 新工作者; n. 新会员; n. 参加竞赛者",
+            "choices": [
+                "a",
+                "e",
+                "n",
+                "n",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 伦理学; n. 道德标准; n. 伦理观",
+            "choices": [
+                "c",
+                "e",
+                "h",
+                "i",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 出口，通道; n. 退场; vi. 离去",
+            "choices": [
+                "e",
+                "i",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 抹去; vi. 被擦去，被抹掉; vt. 擦除",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 专家的意见; n. 专门知识; n. 专门技术",
+            "choices": [
+                "e",
+                "e",
+                "e",
+                "i",
+                "p",
+                "r",
+                "s",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 不固定的; adj. 流动的; n. 液体",
+            "choices": [
+                "d",
+                "f",
+                "i",
+                "l",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 松紧带; adj. 易伸缩的; adj. 灵活的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "l",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [生化] 酶",
+            "choices": [
+                "e",
+                "e",
+                "m",
+                "n",
+                "y",
+                "z"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 编码，编制成计算机语言; vt. （将文字材料）译成密码",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "e",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 肉; n. 肉体; vt. 使发胖",
+            "choices": [
+                "e",
+                "f",
+                "h",
+                "l",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 丰饶; n. 多产; n. 肥沃",
+            "choices": [
+                "e",
+                "f",
+                "i",
+                "i",
+                "l",
+                "r",
+                "t",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 指数; adj. 指数的",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "i",
+                "l",
+                "n",
+                "n",
+                "o",
+                "p",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 疲劳，疲乏; n. 杂役; adj. 疲劳的",
+            "choices": [
+                "a",
+                "e",
+                "f",
+                "g",
+                "i",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 发行; n. （光、热等的）发射，散发; n. 喷射",
+            "choices": [
+                "e",
+                "i",
+                "i",
+                "m",
+                "n",
+                "o",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 电子",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "l",
+                "n",
+                "o",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 完成; n. 执行，实行; n. 死刑",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "i",
+                "n",
+                "o",
+                "t",
+                "u",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 面; n. 方面; vt. 在…上琢面",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "f",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 等值; n. 相等",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "e",
+                "e",
+                "i",
+                "l",
+                "n",
+                "q",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有限的; adj. 限定的; n. 有限之物",
+            "choices": [
+                "e",
+                "f",
+                "i",
+                "i",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使深留脑中; vt. 栽种; vt. 使嵌入，使插入",
+            "choices": [
+                "b",
+                "d",
+                "e",
+                "e",
+                "m"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 平等; n. [数] 等式; n. 相等",
+            "choices": [
+                "a",
+                "e",
+                "i",
+                "l",
+                "q",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 非常地，在极大程度上; adv. 巨大地，庞大地",
+            "choices": [
+                "e",
+                "l",
+                "m",
+                "n",
+                "o",
+                "o",
+                "r",
+                "s",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 本质，实质; n. 香精; n. 精华",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "e",
+                "n",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 中坚分子; n. 精华; n. 精英",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "l",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 建筑物; n. 织物; n. 布",
+            "choices": [
+                "a",
+                "b",
+                "c",
+                "f",
+                "i",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 弹性; n. 灵活性; n. 适应性",
+            "choices": [
+                "b",
+                "e",
+                "f",
+                "i",
+                "i",
+                "i",
+                "l",
+                "l",
+                "t",
+                "x",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 实证的; adj. 经验主义的，完全根据经验的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "i",
+                "l",
+                "m",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 明显的; adj. 明白的",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "i",
+                "n",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 直率的; adj. 清楚的; adj. 明确的",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "i",
+                "l",
+                "p",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. [化学] 元素的; adj. 初级的; adj. 基本的",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "e",
+                "l",
+                "m",
+                "n",
+                "r",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Lieberman says Iran must understand that it is on an ______ timeline in which the international community expects to see results.",
+            "choices": [
+                "evolutionary",
+                "fetal",
+                "fatigue",
+                "equality",
+                "explicit"
+            ],
+            "chn": "(VOA : standard.2009.04.28)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The writing on the stone says in large letters: Norton the First, ______ of the United States and Protector of Mexico.",
+            "choices": [
+                "elevation",
+                "elite",
+                "emperor",
+                "fertility",
+                "emit"
+            ],
+            "chn": "(VOA : special.2009.12.14)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And so when we say something is ______, we're talking about in terms of the number of bits required to represent it.",
+            "choices": [
+                "epidemic",
+                "exponential",
+                "evident",
+                "elevate",
+                "execute"
+            ],
+            "chn": "所以当我们说某些东西，是指数增长的我们指的,就是代表它的比特数。(计算机科学及编程导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Now, it's ______ from the schematic representation or the way I've described the sanctuary that holiness increases as you move deeper into the sanctuary.",
+            "choices": [
+                "emperor",
+                "feedback",
+                "fetal",
+                "evident",
+                "elevation"
+            ],
+            "chn": "从图上所再现的或者,从我对圣所的描述，很明显随着我们进一步走近圣所,它的神圣性就会进一步增加。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "By your ______, how many more years before we will see Afghan National Army and the police force in enough numbers to stablize the country?",
+            "choices": [
+                "finite",
+                "exploit",
+                "elite",
+                "epidemic",
+                "estimation"
+            ],
+            "chn": "根据您的估计，还要多少年,才能有足够的阿富汗国民士兵和警察,来维持这个国家的安定？(国际座谈会课程节选 : 普林斯顿公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "A textile is a piece of cloth that has been formed by weaving, knitting,pressing or knotting together individual pieces of ______.",
+            "choices": [
+                "facet",
+                "elementary",
+                "fiber",
+                "emit",
+                "fatigue"
+            ],
+            "chn": "(VOA : special.2009.11.04)"
+        },
+        {
+            "cate": "choice",
+            "problem": "If you need to remove an agent you will have to do it by a process of ______.",
+            "choices": [
+                "essentially",
+                "fin",
+                "empirical",
+                "elimination",
+                "epidemiology"
+            ],
+            "chn": "如果您需要删除代理，将必须通过消除进程的方式进行此工作。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "The black soot over the body might be remnants of materials mixed for mummification, while the black paint on the face was associated with ______ and birth.",
+            "choices": [
+                "emit",
+                "factorial",
+                "enforcement",
+                "finite",
+                "fertility"
+            ],
+            "chn": "身体上面的黑色碳化部分可能是制作木乃伊时的材料的遗留，然而在其脸部黑色的绘画与多产和出生有关联。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "Or to learn the equipment so they can distribute it throughout the United States and they can feel the satisfaction of being part of an ______ that feeds America.\"",
+            "choices": [
+                "explicit",
+                "exploit",
+                "entity",
+                "ethics",
+                "fabric"
+            ],
+            "chn": "(VOA : special.2010.12.28)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Nickel steel is also ______, that is, it can stand vibration, shocks and wear.",
+            "choices": [
+                "essence",
+                "elastic",
+                "facet",
+                "factorial",
+                "emit"
+            ],
+            "chn": "镍钢也是有弹性的，就是说它能经受震动、冲击和磨损。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "If you buy stock in a high tech company, that sells things on the internet, you might expect it to fluctuate ______.",
+            "choices": [
+                "enormously",
+                "execute",
+                "elite",
+                "enforcement",
+                "expertise"
+            ],
+            "chn": "如果你选择买在网上进行销售的，高新技术公司的股票，它可能会变化非常大。(计算机科学及编程导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Shark ______ soup is usually served at weddings and at banquets, and it's very expensive.\"",
+            "choices": [
+                "explicit",
+                "emergence",
+                "fin",
+                "exit",
+                "elementary"
+            ],
+            "chn": "(VOA : special.2011.03.15)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Dorothy Height received the Presidential Medal of Freedom and the Congressional Gold Medal for her work for racial and gender ______.",
+            "choices": [
+                "elimination",
+                "entity",
+                "equality",
+                "elasticity",
+                "equilibrium"
+            ],
+            "chn": "(VOA : special.2010.04.24)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Finally you could ______ one type of document inside of another.",
+            "choices": [
+                "faculty",
+                "elastic",
+                "exit",
+                "embed",
+                "explicitly"
+            ],
+            "chn": "最终你可以在一个类型的文件中嵌入另一个。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "In the context of a comparison, what is object identity versus object ______?",
+            "choices": [
+                "equivalence",
+                "explicitly",
+                "explicit",
+                "execute",
+                "ex"
+            ],
+            "chn": "在对象比较中，对象一致和对象相等分别是指什么？()"
+        }
+    ],
+    "quiz_id": "171"
+}

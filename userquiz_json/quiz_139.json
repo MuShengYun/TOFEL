@@ -1,0 +1,107 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "n. 试验; vt. 测试; n. 检验",
+            "choices": [
+                "e",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 炉火; vi. 射击; vt. 开除",
+            "choices": [
+                "e",
+                "f",
+                "i",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "int. 哈罗; int. 喂; n. 表示问候， 惊奇或唤起注意时的用语",
+            "choices": [
+                "e",
+                "h",
+                "l",
+                "l",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 网络的，计算机的",
+            "choices": [
+                "b",
+                "c",
+                "e",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 名人; n. 勇猛的人; n. 社交场合的名流",
+            "choices": [
+                "i",
+                "l",
+                "n",
+                "o"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "They have these things called ______ tails which you like, tie onto your pants and it's like \"I'm a little ______.\"",
+            "choices": [
+                "lion",
+                "fibre",
+                "cyber",
+                "tiger",
+                "world"
+            ],
+            "chn": "他们有这些被称作“老虎尾巴”的东西，当你把它系到你的裤子上，你自己就仿佛是只“小老虎”。(SpeakingMax英语口语达人 : 我们是普林斯顿家族)"
+        },
+        {
+            "cate": "choice",
+            "problem": "On ______ day,all the blind drivers were able to guide the car through the ______ area without any problems.",
+            "choices": [
+                "test",
+                "world",
+                "lion",
+                "cyber",
+                "tiger"
+            ],
+            "chn": "(VOA : special.2009.11.03)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Now his work has earned him this year's ______ Food Prize from the ______ Food Prize Foundation in Des Moines,Iowa.",
+            "choices": [
+                "fire",
+                "test",
+                "cyber",
+                "hello",
+                "world"
+            ],
+            "chn": "(VOA : special.2009.06.16)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Then the seesaw will balance, even if you put a potato on one side and an ______ on the other side.",
+            "choices": [
+                "tiger",
+                "hello",
+                "world",
+                "elephant",
+                "lion"
+            ],
+            "chn": "那即使你一边放个土豆,一边放头大象,那跷跷板也会平衡(基础物理课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "139"
+}

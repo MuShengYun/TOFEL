@@ -1,0 +1,135 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "adj. 无价的; adj. 非常贵重的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "e",
+                "i",
+                "l",
+                "l",
+                "n",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 蒜头; n. 大蒜",
+            "choices": [
+                "a",
+                "c",
+                "g",
+                "i",
+                "l",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 饲养; n. 家政; n. 务农，耕种",
+            "choices": [
+                "a",
+                "b",
+                "d",
+                "h",
+                "n",
+                "r",
+                "s",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 密码; vt. 做算术; vt. 将…译成密码",
+            "choices": [
+                "c",
+                "e",
+                "h",
+                "i",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 宣告…无罪; vt. 免除; vt. 赦免",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "l",
+                "o",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "But the object that struck Jupiter in July is estimated to have been much smaller and harder to see than comet Shoemaker-______.",
+            "choices": [
+                "confidential",
+                "absolve",
+                "levy",
+                "husbandry",
+                "garlic"
+            ],
+            "chn": "(VOA : special.2009.08.25)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Since then,admissions of infidelity and revelations about extramarital relationships have become ______ for the tabloids.",
+            "choices": [
+                "horticulture",
+                "acquit",
+                "impunity",
+                "fodder",
+                "manure"
+            ],
+            "chn": "(VOA : standard.2010.02.19)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Iowa State University ______ specialist Cindy Haynes suggests planting the seeds one and one-quarter centimeters deep.",
+            "choices": [
+                "levy",
+                "eggplant",
+                "cipher",
+                "disburse",
+                "horticulture"
+            ],
+            "chn": "(VOA : special.2009.02.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "They deny completely having given any kind of ______ keys or whatever encryption keys you would need to \"crack\" their encryption.",
+            "choices": [
+                "horticulture",
+                "invaluable",
+                "cipher",
+                "poultry",
+                "stagflation"
+            ],
+            "chn": "(VOA : standard.2010.08.11)"
+        },
+        {
+            "cate": "choice",
+            "problem": "That was an effort to ______ power away from the center.",
+            "choices": [
+                "garlic",
+                "manure",
+                "fodder",
+                "disburse",
+                "husbandry"
+            ],
+            "chn": "这是一个从中心,分散权力的努力。(金融市场课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "170"
+}

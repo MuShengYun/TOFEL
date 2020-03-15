@@ -1,0 +1,1438 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "perception",
+            "choices": [
+                "adj. 广告的",
+                "n. 印象派，印象主义",
+                "n. 洞察力",
+                "n. 知觉",
+                "n. 看法",
+                "n. 美术家（尤指画家）",
+                "n. [生理] 感觉",
+                "n. 获取"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "amnesia",
+            "choices": [
+                "n. 心理学",
+                "n. 行为主义",
+                "n. 电影院，戏院，剧场",
+                "n. 后设认知",
+                "n. 行为主义",
+                "n. 健忘症，[内科] 记忆缺失",
+                "n. 行为主义",
+                "n. 心理学"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "pragmatics",
+            "choices": [
+                "n. 印象派，印象主义",
+                "n. 精神病学家，精神病医生",
+                "n. 工具",
+                "n. 印象派，印象主义",
+                "n. 语用论",
+                "n. 语用学",
+                "n. 健忘症，[内科] 记忆缺失",
+                "n. 绘画技巧"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "behaviorism",
+            "choices": [
+                "n. 心理学",
+                "n. 语用论",
+                "adj. 疯的",
+                "n. 沙龙",
+                "vt. 在…修建走廊",
+                "n. 画廊",
+                "n. 玄学，形而上学",
+                "n. 行为主义"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "psychiatrist",
+            "choices": [
+                "n. 手术室",
+                "adj. 非固有的",
+                "n. 元认知",
+                "n. 被继承人",
+                "v. 为…做广告（advertise的ing形式）",
+                "n. 精神病学家，精神病医生",
+                "n. （故事等的）情节",
+                "n. 行为主义"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "portrait",
+            "choices": [
+                "n. 肖像",
+                "n. 处方药",
+                "n. 处方药",
+                "n. 半身雕塑像",
+                "n. 玄学，形而上学",
+                "adj. 认知的，认识的",
+                "n. 描写",
+                "n. 杰作"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "salon",
+            "choices": [
+                "n. 玄学，形而上学",
+                "n. 美术展览馆",
+                "n. 健忘症，[内科] 记忆缺失",
+                "n. 精神病患者",
+                "n. 美术家（尤指画家）",
+                "n. 客厅",
+                "n. 画廊",
+                "n. 沙龙"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "psychology",
+            "choices": [
+                "n. 被继承人",
+                "n. 被继承人",
+                "n. 印象派，印象主义",
+                "vt. 用砖砌",
+                "n. 心理学",
+                "vt. 涂以灰泥",
+                "n. 心理状态",
+                "n. 始祖，祖先"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "instrument",
+            "choices": [
+                "n. 乐器",
+                "vi. 开展览会",
+                "n. 工具",
+                "n. 健忘症，[内科] 记忆缺失",
+                "n. 玄学，形而上学",
+                "n. 仪器",
+                "n. 器械",
+                "n. 手段"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "brushstroke",
+            "choices": [
+                "n. 绘画技巧",
+                "n. 一笔",
+                "n. 手段",
+                "adj. 本质的，固有的",
+                "n. （故事等的）情节",
+                "n. 笔的一划",
+                "n. 位置",
+                "n. 语用论"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ethical",
+            "choices": [
+                "adj. 凭处方出售的",
+                "n. 注意力分散",
+                "n. 处方药",
+                "n. 健忘症，[内科] 记忆缺失",
+                "n. 玄学，形而上学",
+                "adj. 伦理的",
+                "n. 证据",
+                "adj. 道德的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "gallery",
+            "choices": [
+                "n. 玄学，形而上学",
+                "n. 地道",
+                "n. 旁听席",
+                "n. 画廊",
+                "vi. 挖地道",
+                "vt. 在…挖地道",
+                "vt. 在…修建走廊",
+                "n. 走廊"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cognitive",
+            "choices": [
+                "n. 乐器",
+                "n. 美术家（尤指画家）",
+                "n. 精神病学家，精神病医生",
+                "adj. 认知的，认识的",
+                "n. 画廊",
+                "n. 语用学",
+                "n. 心理状态",
+                "adj. 非固有的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "impressionism",
+            "choices": [
+                "adj. 外在的",
+                "n. 心理状态",
+                "n. 看法",
+                "n. 健忘症，[内科] 记忆缺失",
+                "n. 精神病患者",
+                "adj. 似砖的",
+                "n. 印象派，印象主义",
+                "adj. 认知的，认识的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "theater",
+            "choices": [
+                "n. 绝无仅有的人",
+                "n. 戏剧",
+                "n. 电影院，戏院，剧场",
+                "n. 手术室",
+                "adj. 认知的，认识的",
+                "n. 杰作",
+                "vt. 提出（证据等）",
+                "n. 印象派，印象主义"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "philosophy",
+            "choices": [
+                "n. 始祖，祖先",
+                "n. 人生观",
+                "adj. 凭处方出售的",
+                "n. 客厅",
+                "n. 玄学，形而上学",
+                "adj. 认知的，认识的",
+                "n. 哲理",
+                "n. 哲学"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "masterpiece",
+            "choices": [
+                "n. 半身雕塑像",
+                "n. [生理] 感觉",
+                "n. 始祖，祖先",
+                "n. 绝无仅有的人",
+                "n. 精神病学家，精神病医生",
+                "n. 杰作",
+                "vt. 为…选址",
+                "n. 心肠好的人"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "extrinsic",
+            "choices": [
+                "adj. 外来的",
+                "adj. 非固有的",
+                "n. 杰作",
+                "n. 地点",
+                "adj. 外在的",
+                "n. 人生观",
+                "adj. 广告的",
+                "vt. 为…提供情况"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ancestor",
+            "choices": [
+                "n. 被继承人",
+                "n. 心烦意乱",
+                "n. 精神病患者",
+                "vt. 展览",
+                "n. 语用学",
+                "n. 大师",
+                "adj. 广告的",
+                "n. 始祖，祖先"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "advertising",
+            "choices": [
+                "n. 广告业",
+                "v. 公告",
+                "adj. 广告业的",
+                "adj. 广告的",
+                "v. 为…做广告（advertise的ing形式）",
+                "n. 登广告",
+                "n. 哲学",
+                "n. 广告"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "intrinsic",
+            "choices": [
+                "n. 知觉",
+                "n. 美术家（尤指画家）",
+                "n. 砖形物",
+                "n. 被继承人",
+                "adj. 本质的，固有的",
+                "n. 登广告",
+                "n. 健忘症，[内科] 记忆缺失",
+                "n. 精神病学家，精神病医生"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "metaphysics",
+            "choices": [
+                "n. 美术家（尤指画家）",
+                "n. 心理状态",
+                "n. 精神病学家，精神病医生",
+                "n. 心理学",
+                "n. 半身雕塑像",
+                "adj. 脑力的",
+                "n. 玄学，形而上学",
+                "n. 精神病学家，精神病医生"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "site",
+            "choices": [
+                "adj. 广告业的",
+                "vt. 设置",
+                "n. 位置",
+                "n. 地点",
+                "n. 行为主义",
+                "n. 场所",
+                "n. 看法",
+                "vt. 为…选址"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "mental",
+            "choices": [
+                "n. 石膏",
+                "adj. 精神的",
+                "n. 行为主义",
+                "adj. 脑力的",
+                "n. 展览品",
+                "n. 精神病患者",
+                "adj. 疯的",
+                "adj. 本质的，固有的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "distraction",
+            "choices": [
+                "n. 印象派，印象主义",
+                "n. 美术展览馆",
+                "adj. 脑力的",
+                "n. [解剖] 皮质",
+                "n. （故事等的）情节",
+                "n. 消遣",
+                "n. 心烦意乱",
+                "n. 注意力分散"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "artist",
+            "choices": [
+                "n. 行为主义",
+                "n. 艺术家",
+                "n. 画廊",
+                "n. 知觉",
+                "n. 大师",
+                "adj. 精神的",
+                "n. 美术家（尤指画家）",
+                "n. 线索"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "metacognition",
+            "choices": [
+                "vi. 挖地道",
+                "adj. 外来的",
+                "adj. 认知的，认识的",
+                "n. 元认知",
+                "n. 后设认知",
+                "n. 行为主义",
+                "n. 印象派，印象主义",
+                "n. 广告业"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cortex",
+            "choices": [
+                "n. 半身雕塑像",
+                "n. 心烦意乱",
+                "n. 大师",
+                "n. [解剖] 皮质",
+                "n. 精神病学家，精神病医生",
+                "n. 果皮",
+                "n. 获取",
+                "n. 树皮"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "exhibit",
+            "choices": [
+                "vt. 提出（证据等）",
+                "vt. 显示",
+                "n. 大师",
+                "vi. 展出",
+                "vt. 展览",
+                "vi. 开展览会",
+                "n. 展示会",
+                "n. 展览品"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "brick",
+            "choices": [
+                "adj. 似砖的",
+                "n. 心肠好的人",
+                "vt. 用砖砌",
+                "adj. 用砖做的",
+                "vt. 为…提供情况",
+                "n. 行为主义",
+                "n. 砖形物",
+                "n. 砖，砖块"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "clue",
+            "choices": [
+                "adj. 精神的",
+                "vt. 为…提供线索",
+                "n. （故事等的）情节",
+                "n. 沙龙",
+                "vt. 为…提供情况",
+                "n. 心理学",
+                "n. 线索",
+                "n. 笔的一划"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "plaster",
+            "choices": [
+                "vt. 减轻",
+                "n. 膏药",
+                "vt. 粘贴",
+                "n. 灰泥",
+                "n. 元认知",
+                "vt. 使平服",
+                "n. 石膏",
+                "vt. 涂以灰泥"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 后设认知; n. 元认知",
+            "choices": [
+                "artist",
+                "metacognition",
+                "clue",
+                "advertising",
+                "theater"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 提出（证据等）; vt. 显示; n. 展示会",
+            "choices": [
+                "exhibit",
+                "behaviorism",
+                "cortex",
+                "theater",
+                "gallery"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 处方药; adj. 凭处方出售的; adj. 道德的",
+            "choices": [
+                "portrait",
+                "advertising",
+                "ancestor",
+                "ethical",
+                "extrinsic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 一笔; n. 绘画技巧; n. 笔的一划",
+            "choices": [
+                "brushstroke",
+                "amnesia",
+                "portrait",
+                "clue",
+                "distraction"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 非固有的; adj. 外来的; adj. 外在的",
+            "choices": [
+                "psychiatrist",
+                "extrinsic",
+                "distraction",
+                "pragmatics",
+                "cortex"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 哲学; n. 人生观; n. 哲理",
+            "choices": [
+                "distraction",
+                "exhibit",
+                "metacognition",
+                "philosophy",
+                "perception"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 登广告; adj. 广告业的; adj. 广告的",
+            "choices": [
+                "cognitive",
+                "mental",
+                "gallery",
+                "advertising",
+                "philosophy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 行为主义",
+            "choices": [
+                "pragmatics",
+                "gallery",
+                "metaphysics",
+                "salon",
+                "behaviorism"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 器械; n. 仪器; n. 乐器",
+            "choices": [
+                "instrument",
+                "gallery",
+                "plaster",
+                "psychology",
+                "mental"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 手术室; n. 戏剧; n. 电影院，戏院，剧场",
+            "choices": [
+                "amnesia",
+                "site",
+                "ancestor",
+                "ethical",
+                "theater"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 认知的，认识的",
+            "choices": [
+                "masterpiece",
+                "ancestor",
+                "amnesia",
+                "behaviorism",
+                "cognitive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 始祖，祖先; n. 被继承人",
+            "choices": [
+                "ancestor",
+                "metaphysics",
+                "behaviorism",
+                "brushstroke",
+                "mental"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 玄学，形而上学",
+            "choices": [
+                "cortex",
+                "psychiatrist",
+                "advertising",
+                "masterpiece",
+                "metaphysics"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 画廊; n. 沙龙; n. 客厅",
+            "choices": [
+                "amnesia",
+                "ethical",
+                "gallery",
+                "salon",
+                "site"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 语用学; n. 语用论",
+            "choices": [
+                "distraction",
+                "site",
+                "brick",
+                "perception",
+                "pragmatics"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 为…提供线索; vt. 为…提供情况; n. 线索",
+            "choices": [
+                "pragmatics",
+                "salon",
+                "perception",
+                "extrinsic",
+                "clue"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 注意力分散; n. 消遣; n. 心烦意乱",
+            "choices": [
+                "distraction",
+                "extrinsic",
+                "amnesia",
+                "plaster",
+                "instrument"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 健忘症，[内科] 记忆缺失",
+            "choices": [
+                "amnesia",
+                "masterpiece",
+                "cognitive",
+                "plaster",
+                "ethical"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 树皮; n. 果皮; n. [解剖] 皮质",
+            "choices": [
+                "foundationalism",
+                "cortex",
+                "brushstroke",
+                "metaphysics",
+                "pragmatics"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 场所; n. 位置; n. 地点",
+            "choices": [
+                "portrait",
+                "mental",
+                "philosophy",
+                "site",
+                "extrinsic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 精神的; n. 精神病患者; adj. 疯的",
+            "choices": [
+                "perception",
+                "mental",
+                "artist",
+                "psychology",
+                "cognitive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 精神病学家，精神病医生",
+            "choices": [
+                "masterpiece",
+                "instrument",
+                "ethical",
+                "psychiatrist",
+                "behaviorism"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 半身雕塑像; n. 描写; n. 肖像",
+            "choices": [
+                "instrument",
+                "exhibit",
+                "portrait",
+                "brushstroke",
+                "extrinsic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 涂以灰泥; vt. 使平服; n. 灰泥",
+            "choices": [
+                "behaviorism",
+                "plaster",
+                "amnesia",
+                "perception",
+                "extrinsic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 印象派，印象主义",
+            "choices": [
+                "exhibit",
+                "impressionism",
+                "clue",
+                "plaster",
+                "ethical"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 大师; n. 美术家（尤指画家）; n. 艺术家",
+            "choices": [
+                "impressionism",
+                "extrinsic",
+                "artist",
+                "brushstroke",
+                "site"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 砖形物; adj. 似砖的; n. 砖，砖块",
+            "choices": [
+                "advertising",
+                "artist",
+                "behaviorism",
+                "theater",
+                "brick"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 本质的，固有的",
+            "choices": [
+                "intrinsic",
+                "exhibit",
+                "site",
+                "instrument",
+                "ancestor"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 绝无仅有的人; n. 杰作",
+            "choices": [
+                "ancestor",
+                "masterpiece",
+                "artist",
+                "gallery",
+                "intrinsic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [生理] 感觉; n. 洞察力; n. 知觉",
+            "choices": [
+                "gallery",
+                "portrait",
+                "perception",
+                "salon",
+                "site"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 在…修建走廊; vi. 挖地道; n. 画廊",
+            "choices": [
+                "philosophy",
+                "gallery",
+                "site",
+                "metacognition",
+                "brushstroke"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 心理状态; n. 心理学",
+            "choices": [
+                "psychology",
+                "brushstroke",
+                "clue",
+                "psychiatrist",
+                "philosophy"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 认知的，认识的",
+            "choices": [
+                "c",
+                "e",
+                "g",
+                "i",
+                "i",
+                "n",
+                "o",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 外在的; adj. 外来的; adj. 非固有的",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "i",
+                "n",
+                "r",
+                "s",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 行为主义",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "h",
+                "i",
+                "i",
+                "m",
+                "o",
+                "r",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 健忘症，[内科] 记忆缺失",
+            "choices": [
+                "a",
+                "a",
+                "e",
+                "i",
+                "m",
+                "n",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 广告的; v. 为…做广告（advertise的ing形式）; n. 广告业",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "g",
+                "i",
+                "i",
+                "n",
+                "r",
+                "s",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 印象派，印象主义",
+            "choices": [
+                "e",
+                "i",
+                "i",
+                "i",
+                "m",
+                "m",
+                "n",
+                "o",
+                "p",
+                "r",
+                "s",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 为…提供线索; n. （故事等的）情节; n. 线索",
+            "choices": [
+                "c",
+                "e",
+                "l",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 描写; n. 半身雕塑像; n. 肖像",
+            "choices": [
+                "a",
+                "i",
+                "o",
+                "p",
+                "r",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 走廊; n. 旁听席; n. 地道",
+            "choices": [
+                "a",
+                "e",
+                "g",
+                "l",
+                "l",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 本质的，固有的",
+            "choices": [
+                "c",
+                "i",
+                "i",
+                "i",
+                "n",
+                "n",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 大师; n. 艺术家; n. 美术家（尤指画家）",
+            "choices": [
+                "a",
+                "i",
+                "r",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 道德的; adj. 凭处方出售的; adj. 伦理的",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "h",
+                "i",
+                "l",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 被继承人; n. 始祖，祖先",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "n",
+                "o",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 后设认知; n. 元认知",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "g",
+                "i",
+                "i",
+                "m",
+                "n",
+                "n",
+                "o",
+                "o",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 提出（证据等）; vi. 开展览会; vt. 展览",
+            "choices": [
+                "b",
+                "e",
+                "h",
+                "i",
+                "i",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 玄学，形而上学",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "h",
+                "i",
+                "m",
+                "p",
+                "s",
+                "s",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 手段; n. 工具; n. 仪器",
+            "choices": [
+                "e",
+                "i",
+                "m",
+                "n",
+                "n",
+                "r",
+                "s",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 疯的; adj. 精神的; adj. 脑力的",
+            "choices": [
+                "a",
+                "e",
+                "l",
+                "m",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 心烦意乱; n. 消遣; n. 注意力分散",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "i",
+                "i",
+                "n",
+                "o",
+                "r",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [生理] 感觉; n. 洞察力; n. 获取",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "i",
+                "n",
+                "o",
+                "p",
+                "p",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 绘画技巧; n. 笔的一划; n. 一笔",
+            "choices": [
+                "b",
+                "e",
+                "h",
+                "k",
+                "o",
+                "r",
+                "r",
+                "s",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 果皮; n. [解剖] 皮质; n. 树皮",
+            "choices": [
+                "c",
+                "e",
+                "o",
+                "r",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 地点; vt. 设置; vt. 为…选址",
+            "choices": [
+                "e",
+                "i",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 减轻; n. 膏药; vt. 敷以膏药",
+            "choices": [
+                "a",
+                "e",
+                "l",
+                "p",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 绝无仅有的人; n. 杰作",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "e",
+                "e",
+                "i",
+                "m",
+                "p",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 电影院，戏院，剧场; n. 手术室; n. 戏剧",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "h",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 精神病学家，精神病医生",
+            "choices": [
+                "a",
+                "c",
+                "h",
+                "i",
+                "i",
+                "p",
+                "r",
+                "s",
+                "s",
+                "t",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 美术展览馆; n. 画廊; n. 沙龙",
+            "choices": [
+                "a",
+                "l",
+                "n",
+                "o",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 砖形物; vt. 用砖砌; n. 砖，砖块",
+            "choices": [
+                "b",
+                "c",
+                "i",
+                "k",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 人生观; n. 哲学; n. 哲理",
+            "choices": [
+                "h",
+                "h",
+                "i",
+                "l",
+                "o",
+                "o",
+                "p",
+                "p",
+                "s",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 语用论; n. 语用学",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "g",
+                "i",
+                "m",
+                "p",
+                "r",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 心理状态; n. 心理学",
+            "choices": [
+                "c",
+                "g",
+                "h",
+                "l",
+                "o",
+                "o",
+                "p",
+                "s",
+                "y",
+                "y"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "The room has white ______ walls with large ancient pieces of dark wood.",
+            "choices": [
+                "plaster",
+                "philosophy",
+                "behaviorism",
+                "brick",
+                "instrument"
+            ],
+            "chn": "(VOA : special.2010.08.04)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The poem's great final question concerns that ______: \"Did she put on his knowledge with his power\"?",
+            "choices": [
+                "philosophy",
+                "perception",
+                "salon",
+                "brick",
+                "impressionism"
+            ],
+            "chn": "诗的最后一个很好的问题,就响应了前面那种看法：,她是否借他之力获得了知识？(现代诗歌课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And we develop methods to measure the visually responsive parts of ______ and how the world is mapped onto the brain.",
+            "choices": [
+                "brick",
+                "intrinsic",
+                "philosophy",
+                "cortex",
+                "psychology"
+            ],
+            "chn": "我们开发出一些方法，来测量大脑皮层的视觉反应部分,以及外界的事物如何绘制与大脑当中。(7个颠覆你思想的演讲课程节选 : 斯坦福公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "At a recent driving event near Washington,D.C., teenage drivers tested their skills on a closely-monitored obstacle course to compare how they drove with - and without - ______.",
+            "choices": [
+                "site",
+                "ethical",
+                "foundationalism",
+                "distraction",
+                "extrinsic"
+            ],
+            "chn": "(VOA : standard.2010.06.24)"
+        },
+        {
+            "cate": "choice",
+            "problem": "He showed that simple American English could be as fine an ______ for great writing as more complex language.",
+            "choices": [
+                "metacognition",
+                "salon",
+                "site",
+                "impressionism",
+                "instrument"
+            ],
+            "chn": "(VOA : special.2010.03.21)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It has every relevance to ______: Do we perceive reality, human nature as constrained or unconstrained will ultimately affect our ______.",
+            "choices": [
+                "portrait",
+                "impressionism",
+                "psychology",
+                "ancestor",
+                "foundationalism"
+            ],
+            "chn": "它与心理学息息相关：,我们认识了现实吗，对人类本性执不同观点,最终将影响我们心理。(幸福课课程节选 : 哈佛公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And sociologically in the 1960s and 1970s, in the United States, ______ was incredibly well known and so was Skinner.",
+            "choices": [
+                "behaviorism",
+                "pragmatics",
+                "clue",
+                "gallery",
+                "intrinsic"
+            ],
+            "chn": "在上世纪60到70年代之间的美国社会，行为主义极为盛行,斯金纳也得以名声大噪。(心理学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "because she is really sort of at the front of  ______ Linguistics,",
+            "choices": [
+                "brushstroke",
+                "distraction",
+                "cognitive",
+                "salon",
+                "impressionism"
+            ],
+            "chn": "因为她的确在神经系统学领域太出名了，(SpeakingMax英语口语达人 : 我喜欢的教授)"
+        },
+        {
+            "cate": "choice",
+            "problem": "That view's also worth taking seriously in a ______ class, but for our purposes, I mention it and put it aside.",
+            "choices": [
+                "cognitive",
+                "masterpiece",
+                "metaphysics",
+                "foundationalism",
+                "clue"
+            ],
+            "chn": "此观点也值得在哲学课程中认真讨论,但就我们的目标而言,我仅仅只是提及它,并将其搁置一边(死亡课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Brown moved his men and the most important of his hostages into a small ______ building at the armory.",
+            "choices": [
+                "amnesia",
+                "brick",
+                "gallery",
+                "salon",
+                "ancestor"
+            ],
+            "chn": "(VOA : special.2009.06.25)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Like any literary ______, the Bible is characterized by a sophistication of structure and style and an artistry of theme and metaphor, and believe me, that's lost on adult readers quite often.",
+            "choices": [
+                "exhibit",
+                "impressionism",
+                "philosophy",
+                "masterpiece",
+                "brushstroke"
+            ],
+            "chn": "与很多文学杰作一样，圣经也是以它结构，风格的复杂,以及主旨和隐喻的艺术性而著称的，相信我，很多成人读者都不一定能搞清楚。(旧约导论课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "68"
+}

@@ -1,0 +1,271 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "dissection",
+            "choices": [
+                "adj. 特异的",
+                "adj. 离散的，不连续的",
+                "n. 解剖体",
+                "n. 地产",
+                "adj. 空间的",
+                "n. 详细查究",
+                "n. 社会生态学",
+                "n. 解剖，切开"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "effectiveness",
+            "choices": [
+                "n. 效力",
+                "vi. 变复杂",
+                "n. 误差",
+                "adj. 动力的",
+                "n. 识别力",
+                "vi. 被染色",
+                "n. 节俭的人",
+                "vi. 流干"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "economically",
+            "choices": [
+                "vt. 区分，区别",
+                "adv. 经济地",
+                "n. 支配",
+                "adv. 节俭地",
+                "adv. 在经济上",
+                "n. 骚乱",
+                "n. 导数",
+                "vi. 口述"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dominant",
+            "choices": [
+                "adj. 显性的",
+                "n. 描述符号",
+                "n. 显性",
+                "n. 损失",
+                "adj. 占优势的",
+                "adj. 支配的，统治的",
+                "n. 漂流，漂移",
+                "adj. 动态的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ecological",
+            "choices": [
+                "n. 图表",
+                "n. 后裔",
+                "n. 目的地，终点",
+                "vi. 流干",
+                "n. 支配",
+                "adj. 生态的，生态学的",
+                "n. 侦查，探测",
+                "n. 日记簿"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 动态; n. 动力; adj. 有活力的",
+            "choices": [
+                "derivative",
+                "diagnosis",
+                "diagram",
+                "dissection",
+                "dynamic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 指导的; adj. 管理的; n. 指令",
+            "choices": [
+                "directive",
+                "dilute",
+                "duration",
+                "destination",
+                "dominant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 显性; adj. 显性的; adj. 占优势的",
+            "choices": [
+                "discharge",
+                "differentiation",
+                "dynamic",
+                "dominant",
+                "diffusion"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 浓厚的; adj. 愚钝的; adj. 稠密的",
+            "choices": [
+                "dependence",
+                "domain",
+                "duration",
+                "dense",
+                "effectiveness"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 描述; vt. 描画",
+            "choices": [
+                "depict",
+                "disadvantage",
+                "diverse",
+                "diffusion",
+                "dense"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 指示; vt. 口述; vt. 使听写",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "i",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 信赖; n. 信任; n. 依靠",
+            "choices": [
+                "c",
+                "d",
+                "d",
+                "e",
+                "e",
+                "e",
+                "e",
+                "n",
+                "n",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 经济地; adv. 在经济上; adv. 节俭地",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "e",
+                "i",
+                "l",
+                "l",
+                "m",
+                "n",
+                "o",
+                "o",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 微分的; adj. 差别的; n. 差别",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "f",
+                "f",
+                "i",
+                "i",
+                "l",
+                "n",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 染料; vi. 被染色; n. 染色",
+            "choices": [
+                "d",
+                "e",
+                "y"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "That is because 'terrorism' is but a tactic -- a means to an end, which in al-Qaida's case is global ______ by an Islamic caliphate.",
+            "choices": [
+                "drift",
+                "dialect",
+                "dictate",
+                "domination",
+                "dynamic"
+            ],
+            "chn": "(VOA : standard.2009.08.06)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Even larger efforts to ______ the wetlands continued between nineteen oh five and nineteen ten.",
+            "choices": [
+                "dilute",
+                "ecological",
+                "diameter",
+                "drain",
+                "dimensional"
+            ],
+            "chn": "(VOA : special.2009.06.30)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So, all you will have the opportunity to solve ______ equations in your math courses here. We won't do it in this chemistry course. In later chemistry courses, you'll also get to solve ______ equations.",
+            "choices": [
+                "detection",
+                "differential",
+                "denote",
+                "differentiate",
+                "destination"
+            ],
+            "chn": "你们在数学课中有机会,遇到解微分方程,我们在这化学课里就不解了,在今后的化学课程里，你们也会遇到解微分方程的时候。(化学原理课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "She baptizes the entire ______ of non-auditory sensual experience that the Lady so forcefully avoids.",
+            "choices": [
+                "deviation",
+                "discrimination",
+                "donor",
+                "dependence",
+                "domain"
+            ],
+            "chn": "她给这位女士所有非听觉的地方都进行了洗礼,而那都是女士强制自己去避免的。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "As a consequence, the ______ measures have their own sets of flaws that we'll talk about in a minute.",
+            "choices": [
+                "domination",
+                "displacement",
+                "detection",
+                "diary",
+                "elaborate"
+            ],
+            "chn": "这样的结果是,日记方式有自己的缺陷,我们马上就会谈到(关于食物的心理学、生物学和政治学课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "61"
+}

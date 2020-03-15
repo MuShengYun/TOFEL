@@ -1,0 +1,60 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "entail",
+            "choices": [
+                "n. 引起",
+                "vt. 使需要，必需",
+                "n. 公众注意的中心",
+                "vt. 遗传给",
+                "vt. 蕴含",
+                "n. 需要",
+                "vt. 承担",
+                "n. 继承"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 先驱，前导",
+            "choices": [
+                "comprehensive",
+                "comprehensible",
+                "gradient",
+                "accord",
+                "precursor"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 停滞不进的状态或地方; n. 死水; n. 回水",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "c",
+                "e",
+                "k",
+                "r",
+                "t",
+                "w"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Critics say that as a result these schools are ______ against women and admitting less qualified men.",
+            "choices": [
+                "entail",
+                "omnipresent",
+                "chauvinistic",
+                "de-emphasize",
+                "discriminating"
+            ],
+            "chn": "(VOA : special.2009.11.19)"
+        }
+    ],
+    "quiz_id": "100"
+}

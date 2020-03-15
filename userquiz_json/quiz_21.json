@@ -1,0 +1,214 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "array",
+            "choices": [
+                "n. 衣服",
+                "n. 适应",
+                "vt. 打扮",
+                "vt. 排列，部署",
+                "n. 排列，列阵",
+                "n. 大批，一系列",
+                "n. 抗生素，抗菌素",
+                "n. 数组，阵列"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "aesthetic",
+            "choices": [
+                "adj. 不相容的",
+                "n. 录用",
+                "adj. 美学的",
+                "adj. 美的",
+                "vt. 使……增速",
+                "n. 箭状物",
+                "adj. 审美的，具有审美趣味的",
+                "adj. 有美感的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "accelerate",
+            "choices": [
+                "vt. 使……增速",
+                "n. [物化] 气溶胶",
+                "vt. 使……加快",
+                "vi. 促进",
+                "vt. 肯定",
+                "vi. 加速",
+                "vi. 增加",
+                "n. 箭，箭头"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "activate",
+            "choices": [
+                "vt. 使活动",
+                "vt. 使产生放射性",
+                "vt. 肯定",
+                "vi. 激活",
+                "vt. 刺激",
+                "n. [数] 精确度，准确性",
+                "vi. 有活力",
+                "vt. 使活泼"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 指定; vi. 分配; vt. 拨出",
+            "choices": [
+                "airplane",
+                "allocate",
+                "applause",
+                "articulate",
+                "aluminum"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 喷雾的; n. 喷雾器; adj. 喷雾器的",
+            "choices": [
+                "aerosol",
+                "architect",
+                "absorb",
+                "altitude",
+                "adjacent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 风雅的; adj. 艺术的; adj. 有美感的",
+            "choices": [
+                "artistic",
+                "admission",
+                "accuracy",
+                "amplitude",
+                "airplane"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 接近于; vt. 使…接近; adj. [数] 近似的",
+            "choices": [
+                "amplitude",
+                "alien",
+                "agriculture",
+                "approximate",
+                "afterward"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 农艺，农学; n. 农业; n. 农业生产",
+            "choices": [
+                "agriculture",
+                "analogy",
+                "amplitude",
+                "appendix",
+                "adaptation"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 高龄; n. 古代的遗物; n. 古物",
+            "choices": [
+                "a",
+                "i",
+                "i",
+                "n",
+                "q",
+                "t",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 肯定; vi. 确认; vt. 断言",
+            "choices": [
+                "a",
+                "f",
+                "f",
+                "i",
+                "m",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 艺术的; adj. 有美感的; adj. 风雅的",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "i",
+                "r",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 承认; n. 进入许可; n. 坦白",
+            "choices": [
+                "a",
+                "d",
+                "i",
+                "i",
+                "m",
+                "n",
+                "o",
+                "s",
+                "s"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "______,he returned to college and graduated from Oberlin College in Ohio.",
+            "choices": [
+                "afterward",
+                "adjacent",
+                "acute",
+                "artificial",
+                "aerosol"
+            ],
+            "chn": "(VOA : special.2009.11.01)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Don't worry, it doesn't matter that they're called methods, it's a historical ______.",
+            "choices": [
+                "acid",
+                "appendix",
+                "artistic",
+                "artifact",
+                "accelerate"
+            ],
+            "chn": "别担心，被称为方法没什么关系,这只是一个历史古董。(计算机科学及编程导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But Wally Stevens of the trade group Global Aquaculture ______ says the industry must continue developing to feed growing populations.",
+            "choices": [
+                "admission",
+                "artistic",
+                "archaeology",
+                "alliance",
+                "acute"
+            ],
+            "chn": "(VOA : special.2011.02.08)"
+        }
+    ],
+    "quiz_id": "21"
+}

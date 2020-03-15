@@ -1,0 +1,709 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "axis",
+            "choices": [
+                "adj. 武断的",
+                "n. 轴",
+                "n. 轴线",
+                "n. [数] 公理",
+                "n. 轴心国",
+                "n. 捆",
+                "n. 额外津贴",
+                "n. 自治，自治权"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "censor",
+            "choices": [
+                "n. 信件检查员",
+                "vt. 捆",
+                "n. [心理] 潜意识压抑力",
+                "n. 检查员",
+                "adj. 专制的",
+                "vt. 检查和删节",
+                "vt. 审查，检查",
+                "adj. 专制的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bundle",
+            "choices": [
+                "n. 特性描述",
+                "vi. 匆忙离开",
+                "n. 束",
+                "n. 铲斗",
+                "n. 描述",
+                "n. 汇编，编译",
+                "vt. 捆",
+                "n. 捆"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "analogy",
+            "choices": [
+                "n. 轴心国",
+                "n. 描述",
+                "n. 类推",
+                "n. 类似",
+                "n. 束",
+                "n. 类比",
+                "n. 汇编，编译",
+                "vt. 使显得重要"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bonus",
+            "choices": [
+                "n. 红利",
+                "n. 奖金",
+                "adj. 风雅的",
+                "n. 枪管，炮管",
+                "n. 额外津贴",
+                "adj. 风雅的",
+                "n. 信件检查员",
+                "n. 自治，自治权"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "axiom",
+            "choices": [
+                "n. 自明之理",
+                "n. 检查员",
+                "n. [数] 公理",
+                "n. 特性描述",
+                "n. 格言",
+                "n. 大块",
+                "n. 大块",
+                "n. 类似"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "assembly",
+            "choices": [
+                "n. 桶，水桶",
+                "n. 集会，集合",
+                "n. 格言",
+                "n. 自治，自治权",
+                "n. 捆",
+                "n. 装配",
+                "n. 自明之理",
+                "n. 汇编，编译"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "autonomy",
+            "choices": [
+                "n. 轴心国",
+                "adj. 风雅的",
+                "n. 自治，自治权",
+                "n. 自明之理",
+                "n. 额外津贴",
+                "n. 一桶的量",
+                "n. 特性描述",
+                "n. 类推"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "artistic",
+            "choices": [
+                "n. 集会，集合",
+                "n. 装配",
+                "adj. 有美感的",
+                "n. [心理] 潜意识压抑力",
+                "n. 轴心国",
+                "n. 铲斗",
+                "adj. 风雅的",
+                "adj. 艺术的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "characterization",
+            "choices": [
+                "n. 自治，自治权",
+                "n. 特性描述",
+                "n. 桶，水桶",
+                "adj. 风雅的",
+                "vt. 使扩大，使形成大量",
+                "n. 描述",
+                "vt. 使显得重要",
+                "n. 轴"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "barrel",
+            "choices": [
+                "vt. 把……装入桶内",
+                "n. 类似",
+                "n. 桶",
+                "adj. 风雅的",
+                "n. 自治，自治权",
+                "n. 枪管，炮管",
+                "vi. 快速移动",
+                "n. 类推"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "arbitrary",
+            "choices": [
+                "n. 体积，容量",
+                "adj. 专制的",
+                "adj. [数] 任意的",
+                "n. 束",
+                "n. 轴心国",
+                "vt. 使显得重要",
+                "adj. 武断的",
+                "n. 类推"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bucket",
+            "choices": [
+                "n. 一桶的量",
+                "n. 铲斗",
+                "adj. 武断的",
+                "vt. 检查和删节",
+                "v. 颠簸着行进",
+                "n. 桶，水桶",
+                "v. 倾盆而下",
+                "vi. 快速移动"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bulk",
+            "choices": [
+                "n. 大块",
+                "n. 体积，容量",
+                "adj. 有美感的",
+                "n. 描述",
+                "vt. 使扩大，使形成大量",
+                "vt. 使显得重要",
+                "n. 大多数，大部分",
+                "adj. 武断的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 描述; n. 特性描述",
+            "choices": [
+                "bulk",
+                "analogy",
+                "autonomy",
+                "axiom",
+                "characterization"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 一桶的量; v. 颠簸着行进; n. 桶，水桶",
+            "choices": [
+                "arbitrary",
+                "analogy",
+                "artistic",
+                "bucket",
+                "censor"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 自治，自治权",
+            "choices": [
+                "characterization",
+                "autonomy",
+                "axis",
+                "analogy",
+                "artistic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 体积，容量; n. 大多数，大部分; vt. 使显得重要",
+            "choices": [
+                "bulk",
+                "bonus",
+                "assembly",
+                "autonomy",
+                "bucket"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有美感的; adj. 风雅的; adj. 艺术的",
+            "choices": [
+                "arbitrary",
+                "artistic",
+                "barrel",
+                "axis",
+                "axiom"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 轴; n. 轴线; n. 轴心国",
+            "choices": [
+                "axis",
+                "axiom",
+                "assembly",
+                "artistic",
+                "bulk"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 类比; n. 类推; n. 类似",
+            "choices": [
+                "barrel",
+                "bucket",
+                "analogy",
+                "bulk",
+                "bonus"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 奖金; n. 额外津贴; n. 红利",
+            "choices": [
+                "axiom",
+                "censor",
+                "characterization",
+                "assembly",
+                "bonus"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 快速移动; n. 桶; vt. 把……装入桶内",
+            "choices": [
+                "bucket",
+                "bonus",
+                "bundle",
+                "axiom",
+                "barrel"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 自明之理; n. 格言; n. [数] 公理",
+            "choices": [
+                "axiom",
+                "axis",
+                "autonomy",
+                "assembly",
+                "arbitrary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 捆; n. 束; vi. 匆忙离开",
+            "choices": [
+                "autonomy",
+                "artistic",
+                "characterization",
+                "bundle",
+                "censor"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 集会，集合; n. 装配; n. 汇编，编译",
+            "choices": [
+                "bucket",
+                "artistic",
+                "barrel",
+                "assembly",
+                "arbitrary"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 检查和删节; n. 信件检查员; vt. 审查，检查",
+            "choices": [
+                "bulk",
+                "bonus",
+                "autonomy",
+                "analogy",
+                "censor"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. [数] 任意的; adj. 武断的; adj. 专制的",
+            "choices": [
+                "arbitrary",
+                "axis",
+                "autonomy",
+                "bundle",
+                "analogy"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 装配; n. 汇编，编译; n. 集会，集合",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "l",
+                "m",
+                "s",
+                "s",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使扩大，使形成大量; n. 大块; n. 大多数，大部分",
+            "choices": [
+                "b",
+                "k",
+                "l",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 倾盆而下; n. 桶，水桶; v. 颠簸着行进",
+            "choices": [
+                "b",
+                "c",
+                "e",
+                "k",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 专制的; adj. 武断的; adj. [数] 任意的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "i",
+                "r",
+                "r",
+                "r",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 类推; n. 类比; n. 类似",
+            "choices": [
+                "a",
+                "a",
+                "g",
+                "l",
+                "n",
+                "o",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 审查，检查; vt. 检查和删节; n. [心理] 潜意识压抑力",
+            "choices": [
+                "c",
+                "e",
+                "n",
+                "o",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 特性描述; n. 描述",
+            "choices": [
+                "a",
+                "a",
+                "a",
+                "c",
+                "c",
+                "e",
+                "h",
+                "i",
+                "i",
+                "n",
+                "o",
+                "r",
+                "r",
+                "t",
+                "t",
+                "z"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 格言; n. [数] 公理; n. 自明之理",
+            "choices": [
+                "a",
+                "i",
+                "m",
+                "o",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有美感的; adj. 风雅的; adj. 艺术的",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "i",
+                "r",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 束; vi. 匆忙离开; n. 捆",
+            "choices": [
+                "b",
+                "d",
+                "e",
+                "l",
+                "n",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 自治，自治权",
+            "choices": [
+                "a",
+                "m",
+                "n",
+                "o",
+                "o",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 轴线; n. 轴心国; n. 轴",
+            "choices": [
+                "a",
+                "i",
+                "s",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 红利; n. 额外津贴; n. 奖金",
+            "choices": [
+                "b",
+                "n",
+                "o",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 桶; n. 枪管，炮管; vi. 快速移动",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "l",
+                "r",
+                "r"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "I have to believe that the ______ of the killing took place on the flight and so that's why that works out.",
+            "choices": [
+                "axis",
+                "bulk",
+                "arbitrary",
+                "assembly",
+                "artistic"
+            ],
+            "chn": "但我相信,惨重的伤亡会在逃跑时出现,这就是为什么会算出那么惨重的伤亡数字(古希腊历史简介课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "you put your name into a, you know, like a ______ or a spin  wheel",
+            "choices": [
+                "arbitrary",
+                "bucket",
+                "barrel",
+                "autonomy",
+                "bonus"
+            ],
+            "chn": "你把你的名字放进一个像桶一样的东西或者滚筒里，(SpeakingMax英语口语达人 : 实惠的歌舞剧)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"One of the programming problems was try to figure out how to break an ______ chocolate bar into a certain number of pieces of a certain number of sizes and to do it as quickly as possible.",
+            "choices": [
+                "bonus",
+                "arbitrary",
+                "autonomy",
+                "characterization",
+                "censor"
+            ],
+            "chn": "(VOA : special.2010.03.11)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And in fact, Skinner explicitly made the ______ from the natural selection of species to the natural selection of behavior.",
+            "choices": [
+                "analogy",
+                "assembly",
+                "characterization",
+                "axiom",
+                "arbitrary"
+            ],
+            "chn": "实际上，斯金纳也确实明确地,对物种的自然选择,同行为的自然选择进行过类比。(心理学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Also,the company said it is no longer willing to ______ search results as required by Chinese law.",
+            "choices": [
+                "barrel",
+                "autonomy",
+                "bulk",
+                "assembly",
+                "censor"
+            ],
+            "chn": "(VOA : special.2010.01.15)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The bill seemed to curl up as if it had been rolled and stuck into the end of a gun ______.",
+            "choices": [
+                "bucket",
+                "axiom",
+                "barrel",
+                "assembly",
+                "artistic"
+            ],
+            "chn": "(VOA : special.2009.11.14)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The Apology is a speech given before a large and largely anonymous audience of over 500 persons, the ______, the Court.",
+            "choices": [
+                "bucket",
+                "autonomy",
+                "bundle",
+                "assembly",
+                "censor"
+            ],
+            "chn": "苏格拉底自辩篇》的听众,是大量匿名,超过，500，人的场合，议会法庭。(政治哲学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "A coalition called the Aceh Humanitarian ______ is raising money, collecting donations and sending volunteers.",
+            "choices": [
+                "analogy",
+                "axis",
+                "arbitrary",
+                "characterization",
+                "bundle"
+            ],
+            "chn": "(VOA : standard.2009.10.12)"
+        },
+        {
+            "cate": "choice",
+            "problem": "French and German officials say the ______ system encouraged reckless risks that threatened the financial system.",
+            "choices": [
+                "characterization",
+                "bucket",
+                "censor",
+                "bonus",
+                "analogy"
+            ],
+            "chn": "(VOA : standard.2009.09.25)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Then they look at the visualization and they see a global ______ of the field.",
+            "choices": [
+                "artistic",
+                "characterization",
+                "bulk",
+                "assembly",
+                "bucket"
+            ],
+            "chn": "然后他们观看直观化过程,他们会看到一个,全球化领域。(媒体、教育、市场课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Poets called it the Golden Age. A golden age now describes a historical period of great ______,scientific or economic progress.",
+            "choices": [
+                "arbitrary",
+                "assembly",
+                "axiom",
+                "autonomy",
+                "artistic"
+            ],
+            "chn": "(VOA : special.2010.06.06)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Their ______ was assisted by the continuing struggle between popes and Emperors, between church and state, again, a thoroughly unique Western experience.",
+            "choices": [
+                "characterization",
+                "arbitrary",
+                "axiom",
+                "analogy",
+                "autonomy"
+            ],
+            "chn": "他们的自治权是在君主和教皇的争斗中,国家与教堂的战争中促成的,这又是一次西方文明独特的经历(古希腊历史简介课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It's a definition. It's an ______.",
+            "choices": [
+                "axiom",
+                "barrel",
+                "bulk",
+                "assembly",
+                "artistic"
+            ],
+            "chn": "是一个定义，是一个原理。(计算机科学及编程导论课程节选 : 麻省理工公开课)"
+        }
+    ],
+    "quiz_id": "151"
+}

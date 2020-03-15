@@ -1,0 +1,697 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "de-emphasize",
+            "choices": [
+                "n. 不平等",
+                "adj. 有帮助的",
+                "adj. 凭直觉获知的",
+                "adj. 有理解力的",
+                "vt. 不再重视，不再强调",
+                "vt. 排水",
+                "adj. 可理解的",
+                "adj. 大声要求的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "instrumental",
+            "choices": [
+                "adj. 违反直觉的",
+                "n. 器乐曲",
+                "vi. 列于表上",
+                "n. 工具字，工具格",
+                "adj. 仪器的，器械的",
+                "adj. 有帮助的",
+                "n. 停滞不进的状态或地方",
+                "adj. 乐器的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bias",
+            "choices": [
+                "adj. 偏斜的",
+                "n. 乖离率",
+                "vt. 使存偏见",
+                "adj. 无差别的",
+                "n. 偏见",
+                "adv. 偏斜地",
+                "n. 斜纹",
+                "n. 偏爱"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "homogeneous",
+            "choices": [
+                "adj. 均匀的",
+                "adj. 逃避的",
+                "adj. 同种的",
+                "adj. 预防的，防止的",
+                "adj. [数] 齐次的",
+                "adj. 同类的，同质的",
+                "vt. 使倒塌",
+                "n. 预防药"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "odds",
+            "choices": [
+                "adj. 综合的",
+                "n. 偏见",
+                "n. 不平等",
+                "n. 差别",
+                "n. 胜算",
+                "adj. 难到达的",
+                "adj. 盲目爱国的",
+                "n. 几率"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "clamorous",
+            "choices": [
+                "adj. 可理解的",
+                "adj. 凭直觉获知的",
+                "adj. 吵闹的",
+                "adj. 难到达的",
+                "adj. 大声要求的",
+                "n. 沉降",
+                "adj. 大脑的，脑的",
+                "adj. 华丽的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "comprehensible",
+            "choices": [
+                "n. 回水",
+                "vt. 列出",
+                "adj. 刻板的",
+                "adj. 难到达的",
+                "adj. 可理解的",
+                "adj. 荒谬的",
+                "adj. 庄严的，严肃的",
+                "adj. 不平衡的，倾向一方的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "list",
+            "choices": [
+                "vt. 转移",
+                "vi. 列于表上",
+                "n. 目录",
+                "n. 清单",
+                "vt. 记入名单内",
+                "n. [计] 列表",
+                "vt. 遗传给",
+                "vt. 列出"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "indiscriminate",
+            "choices": [
+                "n. 殖民",
+                "adj. 不分皂白的",
+                "adj. 装饰的，装饰性的",
+                "n. 殖民",
+                "adj. 逃避的",
+                "adj. 任意的",
+                "vt. 引发，引起",
+                "adj. 无差别的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ornate",
+            "choices": [
+                "adj. 装饰的",
+                "vt. 责骂",
+                "adj. 华丽的",
+                "n. 预防药",
+                "adj. 套话堆砌的",
+                "vt. 缩写，使省略",
+                "adj. （文体）绚丽的",
+                "vi. 列于表上"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "spotlight",
+            "choices": [
+                "n. （Spotlight）聚焦",
+                "vt. 聚光照明",
+                "adj. 均匀的",
+                "n. 公众注意的中心",
+                "n. 聚光灯",
+                "vt. 使存偏见",
+                "vt. 使公众注意",
+                "n. 反光灯"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "uncanny",
+            "choices": [
+                "adj. 大脑的，脑的",
+                "adj. 离奇的",
+                "adj. 违反直觉的",
+                "vt. 排水",
+                "adj. 可怕的",
+                "adj. 大脑的，脑的",
+                "adj. 神秘的",
+                "adj. 固定的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "entail",
+            "choices": [
+                "vt. 承担",
+                "n. 引起",
+                "vt. 遗传给",
+                "n. 继承",
+                "n. 需要",
+                "vt. 使背井离乡",
+                "vt. 蕴含",
+                "vt. 使需要，必需"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "gradient",
+            "choices": [
+                "n. 倾斜度",
+                "adj. 逃避的",
+                "adj. 沙文主义的",
+                "n. [数][物] 梯度",
+                "v. 使入歧途（misguide的过去分词）",
+                "adj. 违反直觉的",
+                "adj. 预防的，防止的",
+                "n. 坡度"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "stunning",
+            "choices": [
+                "adj. 荒谬的",
+                "adj. 使人晕倒的",
+                "v. 使震耳欲聋",
+                "v. 把…打昏",
+                "vt. 聚光照明",
+                "adj. 极好的",
+                "adj. 震耳欲聋的",
+                "v. 使大吃一惊（stun的ing形式）"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "chauvinistic",
+            "choices": [
+                "adj. 可解释的，可说明的",
+                "vt. 记入名单内",
+                "adj. 盲目爱国的",
+                "adj. 无所不在的",
+                "n. 器乐曲",
+                "adj. 沙文主义的",
+                "adj. 逃避的",
+                "adj. 可理解的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "counterintuitive",
+            "choices": [
+                "adj. 庄严的，严肃的",
+                "vt. 使公众注意",
+                "adj. 无差别的",
+                "adj. 违反直觉的",
+                "adj. 离奇的",
+                "n. 先驱，前导",
+                "vt. 引发，引起",
+                "adj. 盲目爱国的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "abbreviate",
+            "choices": [
+                "vt. 使简短",
+                "n. 预防法",
+                "n. 目录",
+                "adj. 有辨识力的",
+                "vi. 使用缩写词",
+                "n. 不平等",
+                "adj. 可怕的",
+                "vt. 缩写，使省略"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cerebral",
+            "choices": [
+                "adj. 大脑的，脑的",
+                "adj. 神秘的",
+                "adj. 吵闹的",
+                "adj. 可理解的",
+                "vt. 责骂",
+                "n. 放逐，被放逐者",
+                "vt. 放逐，流放",
+                "adj. 吵闹的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "settlement",
+            "choices": [
+                "n. [会计] 结算",
+                "n. 殖民",
+                "vt. 惩罚",
+                "n. 解决，处理",
+                "n. 沉降",
+                "adj. 直觉的",
+                "adj. 有理解力的",
+                "adj. 无所不在的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "topple",
+            "choices": [
+                "vt. 颠覆",
+                "vi. 倒塌",
+                "vt. 使倒塌",
+                "vi. 摇摇欲坠",
+                "vi. 倾倒",
+                "vt. 推翻",
+                "n. 综合学校",
+                "n. 沉降"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "precursor",
+            "choices": [
+                "n. 放逐，被放逐者",
+                "n. 工具字，工具格",
+                "vt. 惩罚",
+                "n. 先驱，前导",
+                "n. 清单",
+                "adj. 均匀的",
+                "vt. 不再重视，不再强调",
+                "n. 符合"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "irrational",
+            "choices": [
+                "n. [数] 无理数",
+                "adj. 差别对待的",
+                "adj. 不合理的",
+                "vt. 放逐，流放",
+                "adj. 荒谬的",
+                "vt. 聚光照明",
+                "adj. 盲目爱国的",
+                "adj. 无理性的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "intuitive",
+            "choices": [
+                "vt. 使简短",
+                "vt. 放逐，流放",
+                "n. 停滞不进的状态或地方",
+                "adj. 违反直觉的",
+                "adj. 直觉的",
+                "adj. 凭直觉获知的",
+                "n. 倾斜度",
+                "adj. 做不到的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "settled",
+            "choices": [
+                "n. 差别",
+                "adj. 不分皂白的",
+                "adj. 均匀的",
+                "adj. 固定的",
+                "n. 坡度",
+                "adj. 稳定的",
+                "v. 定居（settle的过去分词）",
+                "v. 解决"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ornamental",
+            "choices": [
+                "adj. 预防的，防止的",
+                "adj. 无差别的",
+                "n. 观赏植物",
+                "n. 符合",
+                "vt. 使简短",
+                "adj. 装饰的，装饰性的",
+                "vt. 惩罚",
+                "n. 装饰品"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "omnipresent",
+            "choices": [
+                "v. 解决",
+                "adj. 无所不在的",
+                "adj. 离奇的",
+                "adj. 差别对待的",
+                "adj. 可理解的",
+                "adj. 不平衡的，倾向一方的",
+                "n. 解决，处理",
+                "adj. 偏斜的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "discriminatory",
+            "choices": [
+                "vt. 蕴含",
+                "adj. 套话堆砌的",
+                "adj. 差别对待的",
+                "adj. 有辨识力的",
+                "n. 先驱，前导",
+                "adj. 做不到的",
+                "adj. 胆小的",
+                "n. 胜算"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "trigger",
+            "choices": [
+                "vt. 触发",
+                "n. 扳机",
+                "adj. 不平衡的，倾向一方的",
+                "n. [电子] 触发器",
+                "n. 制滑机",
+                "vt. 引发，引起",
+                "vi. 松开扳柄",
+                "adj. 直觉的"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "misguided",
+            "choices": [
+                "vt. 责骂",
+                "adj. 沙文主义的",
+                "adj. 违反直觉的",
+                "adj. 被误导的",
+                "n. 倾斜度",
+                "adj. 隆重的，郑重的",
+                "vt. 遗传给",
+                "v. 使入歧途（misguide的过去分词）"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "chastise",
+            "choices": [
+                "vt. 惩罚",
+                "n. 先驱，前导",
+                "n. 协议",
+                "adj. 沙文主义的",
+                "adj. 可解释的，可说明的",
+                "vt. 严惩",
+                "vt. 责骂",
+                "adj. 胆小的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "evasive",
+            "choices": [
+                "adj. 不分皂白的",
+                "adj. 可理解的",
+                "adj. 推托的",
+                "vt. 不再重视，不再强调",
+                "adj. 逃避的",
+                "adj. 难到达的",
+                "n. 停滞不进的状态或地方",
+                "adj. 托辞的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "accord",
+            "choices": [
+                "vi. 符合",
+                "vt. 使一致",
+                "n. 自愿",
+                "adj. 大声要求的",
+                "n. 协议",
+                "n. 符合",
+                "n. 一致",
+                "vt. 给予"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "formulaic",
+            "choices": [
+                "adj. 套话堆砌的",
+                "adj. 羞怯的",
+                "adj. 刻板的",
+                "adj. 不平衡的，倾向一方的",
+                "n. 目录",
+                "vi. 倒塌",
+                "adj. 公式化的",
+                "adj. 预防的，防止的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "discriminating",
+            "choices": [
+                "v. 识别（discriminate的ing形式）",
+                "adj. 有差别的",
+                "adj. （文体）绚丽的",
+                "adj. 识别的",
+                "adj. 无差别的",
+                "vi. 符合",
+                "v. 区别对待",
+                "adj. 有识别力的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "unattainable",
+            "choices": [
+                "n. 停滞不进的状态或地方",
+                "n. 停滞不进的状态或地方",
+                "adj. 隆重的，郑重的",
+                "n. 器乐曲",
+                "vt. 使背井离乡",
+                "adj. 差别对待的",
+                "adj. 难到达的",
+                "adj. 做不到的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "solemn",
+            "choices": [
+                "n. 沉降",
+                "adj. 做不到的",
+                "vt. 放逐，流放",
+                "adj. 隆重的，郑重的",
+                "adj. 违反直觉的",
+                "adj. 综合的",
+                "adj. 庄严的，严肃的",
+                "vi. 倒塌"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "explicable",
+            "choices": [
+                "adj. 庄严的，严肃的",
+                "n. 流放，充军",
+                "adj. [数] 齐次的",
+                "n. 公众注意的中心",
+                "adj. 不分皂白的",
+                "vt. 责骂",
+                "adj. 可解释的，可说明的",
+                "n. 先驱，前导"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "backwater",
+            "choices": [
+                "adj. 被误导的",
+                "vi. 摇摇欲坠",
+                "n. 回水",
+                "adj. 不分皂白的",
+                "n. 停滞不进的状态或地方",
+                "adj. [数] 齐次的",
+                "adj. 乐器的",
+                "n. 死水"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "preventive",
+            "choices": [
+                "adj. 违反直觉的",
+                "adj. 预防的，防止的",
+                "vt. 严惩",
+                "n. 预防药",
+                "v. 区别对待",
+                "n. 流犯",
+                "n. 预防法",
+                "adj. 可理解的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "lopsided",
+            "choices": [
+                "v. 使入歧途（misguide的过去分词）",
+                "n. 沉降",
+                "adj. 做不到的",
+                "adj. 不平衡的，倾向一方的",
+                "adj. 有差别的",
+                "n. [数] 无理数",
+                "adj. 庄严的，严肃的",
+                "n. 坡度"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "exile",
+            "choices": [
+                "n. [数][物] 梯度",
+                "n. 流放，充军",
+                "v. 识别（discriminate的ing形式）",
+                "vt. 放逐，流放",
+                "n. 流犯",
+                "vt. 使背井离乡",
+                "n. 放逐，被放逐者",
+                "vt. 引发，引起"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "timid",
+            "choices": [
+                "adj. 可理解的",
+                "adj. 易接近的",
+                "adj. 做不到的",
+                "adj. 羞怯的",
+                "adj. 胆小的",
+                "adj. [数] 齐次的",
+                "adj. 可怕的",
+                "adj. 装饰的，装饰性的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "comprehensive",
+            "choices": [
+                "n. 综合学校",
+                "adj. 违反直觉的",
+                "adj. 无理性的",
+                "adj. 有理解力的",
+                "adj. 综合的",
+                "adj. 不平衡的，倾向一方的",
+                "adj. 广泛的",
+                "n. 专业综合测验"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "displace",
+            "choices": [
+                "vt. 取代",
+                "adj. 可解释的，可说明的",
+                "vt. 惩罚",
+                "vt. 置换",
+                "adj. 装饰的",
+                "vt. 把…免职",
+                "vt. 排水",
+                "vt. 转移"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "accessible",
+            "choices": [
+                "vt. 置换",
+                "adj. 公式化的",
+                "vt. 不再重视，不再强调",
+                "adj. 可理解的",
+                "adj. 被误导的",
+                "adj. 易接近的",
+                "adj. 可怕的",
+                "adj. 可进入的"
+            ],
+            "true_ans_cnt": 3
+        }
+    ],
+    "quiz_id": "142"
+}

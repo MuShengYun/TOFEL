@@ -1,0 +1,897 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "complement",
+            "choices": [
+                "n. 余角",
+                "n. 补语",
+                "n. 补足物",
+                "adj. 同类的",
+                "n. 护航舰",
+                "n. 少许",
+                "n. 弹力",
+                "vt. 补足，补助"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "compliment",
+            "choices": [
+                "n. 分歧",
+                "vt. 称赞",
+                "n. 恭维",
+                "n. 灵活性",
+                "adj. 同族的",
+                "n. 不安",
+                "vt. 恭维",
+                "adj. 类似的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "hassle",
+            "choices": [
+                "n. 起哄",
+                "v. 与……争辩",
+                "n. 君主，帝王",
+                "n. 困难",
+                "v. 烦扰",
+                "n. 分歧",
+                "n. 最高统治者",
+                "n. 贵族"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "forestall",
+            "choices": [
+                "n. 补语",
+                "n. 护航舰",
+                "adj. 同族的",
+                "n. 起哄",
+                "vt. 领先",
+                "vt. 先发制人，预先阻止",
+                "n. 补语",
+                "adj. 贬低的，不敬的，持批评态度的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "superstitious",
+            "choices": [
+                "adj. 类似的",
+                "n. 余角",
+                "v. （非正式）稍微调整机器或系统",
+                "adj. 由迷信引起的",
+                "adj. 迷信的",
+                "n. 污蔑",
+                "n. 生蚤的动物",
+                "vt. 使…增添趣味"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "flea",
+            "choices": [
+                "n. 公告，公报",
+                "n. 生蚤的动物",
+                "n. 高潮",
+                "n. 低廉的旅馆",
+                "vt. 垄断，屯积",
+                "n. 跳蚤",
+                "vt. 补足，补助",
+                "n. 君主，帝王"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "vilification",
+            "choices": [
+                "vt. 分泌",
+                "vt. 排泄",
+                "n. 诽谤",
+                "n. 弹性",
+                "n. 妨碍",
+                "adj. 迷信的",
+                "n. 污蔑",
+                "n. 中伤"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "bulletin",
+            "choices": [
+                "adj. 贬低的，不敬的，持批评态度的",
+                "n. 调停",
+                "vt. 交换",
+                "adj. （要价等）过高的",
+                "n. 公告，公报",
+                "n. 低廉的旅馆",
+                "vt. 公布，公告",
+                "n. 君主，帝王"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "might as well",
+            "choices": [
+                "n. 最高统治者",
+                "vi. 代偿",
+                ". ??妨，何妨",
+                "vt. 分泌",
+                "adj. 类似的",
+                "adj. （要价等）过高的",
+                "n. 高潮",
+                ". 还是……的好"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "monarch",
+            "choices": [
+                "adj. 由迷信引起的",
+                "n. 贵族政治",
+                "n. 中伤",
+                "vt. 排泄",
+                "n. 弹力",
+                "n. 君主，帝王",
+                "n. 最高统治者",
+                ". 还是……的好"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "pivot",
+            "choices": [
+                "v. 随……转移",
+                "v. 以……为中心旋转",
+                "n. 枢轴",
+                "v. 在枢轴上转动",
+                "n. 君主，帝王",
+                "n. 中心",
+                "n. 基准兵",
+                "n. （篮球）持球转身策应"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "commute",
+            "choices": [
+                "vi. （搭乘车、船等）通勤",
+                "n. 跳蚤",
+                "vi. 代偿",
+                "vt. 减刑",
+                "vt. 交换",
+                "vt. 使……变成",
+                "n. 通勤（口语）",
+                "vt. 用……交换"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "altruistic",
+            "choices": [
+                "adj. 由迷信引起的",
+                "adj. 无私心的",
+                "n. 妨碍",
+                "adj. 类似的",
+                "n. 枢轴",
+                "adj. 利他的",
+                "vt. 公布，公告",
+                "n. 少许"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "once in a blue moon",
+            "choices": [
+                "n. 起哄",
+                "n. 顶点",
+                "adj. 好奇的",
+                "n. 陪同",
+                "vt. 使迎合",
+                ". 极为罕见",
+                "n. 分歧",
+                ". ??载难逢"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "qualm",
+            "choices": [
+                "n. 跳蚤",
+                "n. 不安",
+                "vt. 使讨好",
+                "n. 贵族统治",
+                "n. 疑虑",
+                "n. [解剖] 神经元，神经单位",
+                "n. 贵族政治",
+                "n. 高潮"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "escort",
+            "choices": [
+                "n. 护卫队",
+                "vt. 为…护航",
+                "n. 陪同",
+                "adj. 不在法律范围之内的",
+                "n. 护送者",
+                "n. 护航舰",
+                "vt. 陪同",
+                "vt. 护送"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "tweak",
+            "choices": [
+                "adj. 好奇的",
+                "vt. 补足，补助",
+                "adj. （性格等）过分的",
+                "n. 致意",
+                ". ??妨，何妨",
+                "v. 焦急",
+                "v. 用力拉",
+                "v. （非正式）稍微调整机器或系统"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "intimidate",
+            "choices": [
+                "vt. 胁迫",
+                "n. 贵族",
+                "n. 诽谤",
+                "n. 中心",
+                "vt. 恐吓，威胁",
+                "vt. 使迎合",
+                "vt. 加香料于…",
+                "adj. 贬低的，不敬的，持批评态度的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "akin",
+            "choices": [
+                "vt. 领先",
+                "vt. 恐吓，威胁",
+                "vt. 分泌",
+                "adj. 同族的",
+                "adj. 同类的",
+                "adj. 类似的",
+                "n. 最高统治者",
+                "v. 随……转移"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "intervention",
+            "choices": [
+                "n. 困难",
+                "n. 基准兵",
+                "vt. 使迎合",
+                "n. 妨碍",
+                ". 还是……的好",
+                "n. [解剖] 神经元，神经单位",
+                "n. 调停",
+                "n. 介入"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "derogatory",
+            "choices": [
+                "n. 不安",
+                "n. 调停",
+                "adj. 贬低的，不敬的，持批评态度的",
+                "n. 轻微调整",
+                "n. 生蚤的动物",
+                "n. 调停",
+                ". 极为罕见",
+                "vt. 胁迫"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "inquisitive",
+            "choices": [
+                "vt. 称赞",
+                "n. 护送者",
+                "n. 最高统治者",
+                "n. 高潮",
+                "adj. 不在法律范围之内的",
+                "adj. （要价等）过高的",
+                "adj. 好问的，爱打听的",
+                "adj. 好奇的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "exorbitant",
+            "choices": [
+                "n. 起哄",
+                ". 极为罕见",
+                "n. 不安",
+                "n. 公告，公报",
+                "adj. （性格等）过分的",
+                "adj. （要价等）过高的",
+                "adj. 不在法律范围之内的",
+                "vt. 垄断，屯积"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "elasticity",
+            "choices": [
+                "n. 弹性",
+                "n. 高潮",
+                "n. 弹力",
+                "adj. 类似的",
+                "n. 调味品",
+                "n. 灵活性",
+                "adj. 贬低的，不敬的，持批评态度的",
+                "vt. 使逢迎"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "excrete",
+            "choices": [
+                "vt. 分泌",
+                "vt. 使讨好",
+                "vt. 排泄",
+                "adj. 好问的，爱打听的",
+                "n. 弹力",
+                "v. 与……争辩",
+                "n. 上层社会",
+                "v. （非正式）稍微调整机器或系统"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "culmination",
+            "choices": [
+                "n. 介入",
+                ". 还是……的好",
+                "n. 顶点",
+                "n. 最高统治者",
+                "vt. 使迎合",
+                ". 还是……的好",
+                "n. 高潮",
+                "n. 君主，帝王"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ingratiate",
+            "choices": [
+                "vt. 使讨好",
+                "n. 中心",
+                "adj. 贬低的，不敬的，持批评态度的",
+                "vt. 使逢迎",
+                "vt. 使迎合",
+                "vt. 排泄",
+                "vt. 胁迫",
+                "n. 弹性"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "aristocracy",
+            "choices": [
+                "n. 弹性",
+                "n. 上层社会",
+                "n. 贵族统治",
+                "n. 贵族",
+                "n. 高潮",
+                "n. 贵族政治",
+                "n. [解剖] 神经元，神经单位",
+                "n. 通勤（口语）"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "neuron",
+            "choices": [
+                "n. [解剖] 神经元，神经单位",
+                "n. 起哄",
+                "v. 把……置于枢轴上",
+                ". 还是……的好",
+                "n. 中心点",
+                "adj. 无私心的",
+                "n. 介入",
+                "vt. 使迎合"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "spice",
+            "choices": [
+                "vt. 加香料于…",
+                "n. 香料",
+                "n. 情趣",
+                "vi. （搭乘车、船等）通勤",
+                "vi. 代偿",
+                "vt. 陪同",
+                "vt. 使…增添趣味",
+                "n. 少许"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 先发制人，预先阻止; vt. 垄断，屯积; vt. 领先",
+            "choices": [
+                "altruistic",
+                "forestall",
+                "complement",
+                "neuron",
+                "superstitious"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 高潮; n. 顶点",
+            "choices": [
+                "commute",
+                "culmination",
+                "complement",
+                "intervention",
+                "aristocracy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. （非正式）稍微调整机器或系统; n. 轻微调整; n. 扭",
+            "choices": [
+                "commute",
+                "hassle",
+                "tweak",
+                "aristocracy",
+                "excrete"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 致意; n. 问候; n. 恭维",
+            "choices": [
+                "monarch",
+                "akin",
+                "compliment",
+                "exorbitant",
+                "ingratiate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 中伤; n. 污蔑; n. 诽谤",
+            "choices": [
+                "spice",
+                "altruistic",
+                "vilification",
+                "monarch",
+                "tweak"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 困难; n. 分歧; v. 与……争辩",
+            "choices": [
+                "hassle",
+                "culmination",
+                "monarch",
+                "tweak",
+                "akin"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [解剖] 神经元，神经单位",
+            "choices": [
+                "exorbitant",
+                "neuron",
+                "hassle",
+                "tweak",
+                "elasticity"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 类似的; adj. 同类的; adj. 同族的",
+            "choices": [
+                "inquisitive",
+                "intervention",
+                "complement",
+                "akin",
+                "aristocracy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 调停; n. 妨碍; n. 介入",
+            "choices": [
+                "vilification",
+                "intervention",
+                "forestall",
+                "commute",
+                "superstitious"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 好问的，爱打听的; adj. 好奇的",
+            "choices": [
+                "qualm",
+                "tweak",
+                "complement",
+                "inquisitive",
+                "culmination"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 弹力; n. 灵活性; n. 弹性",
+            "choices": [
+                "culmination",
+                "ingratiate",
+                "qualm",
+                "elasticity",
+                "once in a blue moon"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 排泄; vt. 分泌",
+            "choices": [
+                "excrete",
+                "monarch",
+                "exorbitant",
+                "escort",
+                "flea"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 公布，公告; n. 公告，公报",
+            "choices": [
+                "once in a blue moon",
+                "bulletin",
+                "elasticity",
+                "monarch",
+                "exorbitant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 不安; n. 疑虑",
+            "choices": [
+                "forestall",
+                "excrete",
+                "qualm",
+                "tweak",
+                "flea"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 情趣; n. 少许; vt. 使…增添趣味",
+            "choices": [
+                "might as well",
+                "spice",
+                "monarch",
+                "qualm",
+                "derogatory"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 低廉的旅馆; n. 生蚤的动物; n. 跳蚤",
+            "choices": [
+                "flea",
+                "exorbitant",
+                "vilification",
+                "ingratiate",
+                "escort"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 中心; n. 中锋; n. 基准兵",
+            "choices": [
+                "intervention",
+                "neuron",
+                "ingratiate",
+                "pivot",
+                "intimidate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 迷信的; adj. 由迷信引起的",
+            "choices": [
+                "might as well",
+                "compliment",
+                "superstitious",
+                "vilification",
+                "complement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使逢迎; vt. 使讨好; vt. 使迎合",
+            "choices": [
+                "ingratiate",
+                "intervention",
+                "monarch",
+                "inquisitive",
+                "akin"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 利他的; adj. 无私心的",
+            "choices": [
+                "might as well",
+                "altruistic",
+                "spice",
+                "excrete",
+                "escort"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 君主，帝王; n. 最高统治者",
+            "choices": [
+                "intimidate",
+                "commute",
+                "superstitious",
+                "excrete",
+                "monarch"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": ". ??载难逢; . 极为罕见",
+            "choices": [
+                "akin",
+                "might as well",
+                "intimidate",
+                "once in a blue moon",
+                "compliment"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 减刑; n. 通勤（口语）; vi. 代偿",
+            "choices": [
+                "intervention",
+                "elasticity",
+                "compliment",
+                "akin",
+                "commute"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 补足，补助; n. 补语; n. 补足物",
+            "choices": [
+                "complement",
+                "altruistic",
+                "excrete",
+                "superstitious",
+                "tweak"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 胁迫; vt. 恐吓，威胁",
+            "choices": [
+                "intimidate",
+                "exorbitant",
+                "excrete",
+                "qualm",
+                "complement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 不在法律范围之内的; adj. （性格等）过分的; adj. （要价等）过高的",
+            "choices": [
+                "forestall",
+                "monarch",
+                "tweak",
+                "aristocracy",
+                "exorbitant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 贬低的，不敬的，持批评态度的",
+            "choices": [
+                "pivot",
+                "hassle",
+                "derogatory",
+                "bulletin",
+                "intimidate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": ". 还是……的好; . ??妨，何妨",
+            "choices": [
+                "once in a blue moon",
+                "exorbitant",
+                "might as well",
+                "compliment",
+                "flea"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 护航舰; n. 护卫队; n. 护送者",
+            "choices": [
+                "akin",
+                "escort",
+                "vilification",
+                "excrete",
+                "pivot"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 贵族政治; n. 上层社会; n. 贵族统治",
+            "choices": [
+                "exorbitant",
+                "pivot",
+                "neuron",
+                "qualm",
+                "aristocracy"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": one that holds preeminent position or power",
+            "choices": [
+                "complement",
+                "commute",
+                "monarch",
+                "altruistic",
+                "tweak"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": something that annoys or bothers",
+            "choices": [
+                "escort",
+                "derogatory",
+                "hassle",
+                "flea",
+                "bulletin"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a grayish or reddish granular cell that is the fundamental functional unit of nervous tissue transmitting and receiving nerve impulses and having cytoplasmic processes which are highly differentiated frequently as multiple dendrites or usually as solitary axons which conduct impulses to and away from the cell body : nerve cell sense 1",
+            "choices": [
+                "superstitious",
+                "culmination",
+                "elasticity",
+                "neuron",
+                "forestall"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a governing body or upper class usually made up of a hereditary nobility",
+            "choices": [
+                "ingratiate",
+                "tweak",
+                "akin",
+                "aristocracy",
+                "altruistic"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to gain favor or favorable acceptance for by deliberate effort",
+            "choices": [
+                "bulletin",
+                "hassle",
+                "ingratiate",
+                "inquisitive",
+                "might as well"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": a seasoning (as pepper or nutmeg) that comes from a dried plant part and that is usually a powder or seed",
+            "choices": [
+                "spice",
+                "complement",
+                "culmination",
+                "forestall",
+                "pivot"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the action of culminating",
+            "choices": [
+                "inquisitive",
+                "neuron",
+                "culmination",
+                "tweak",
+                "ingratiate"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": obstruct, beset",
+            "choices": [
+                "once in a blue moon",
+                "forestall",
+                "excrete",
+                "aristocracy",
+                "qualm"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": very rarely",
+            "choices": [
+                "might as well",
+                "exorbitant",
+                "complement",
+                "once in a blue moon",
+                "spice"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the act or an instance of intervening",
+            "choices": [
+                "intervention",
+                "complement",
+                "aristocracy",
+                "monarch",
+                "spice"
+            ]
+        }
+    ],
+    "quiz_id": "220"
+}

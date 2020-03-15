@@ -1,0 +1,142 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "spell",
+            "problem": "n. 阴谋; n. 私通; n. 诡计",
+            "choices": [
+                "e",
+                "g",
+                "i",
+                "i",
+                "n",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使变成奇形怪状; vt. 使变形",
+            "choices": [
+                "a",
+                "f",
+                "g",
+                "i",
+                "m",
+                "n",
+                "o",
+                "r",
+                "r",
+                "s",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 要求高的; v. 查问（demand的ing形式）; adj. 苛求的",
+            "choices": [
+                "a",
+                "d",
+                "d",
+                "e",
+                "g",
+                "i",
+                "m",
+                "n",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 连贯性; n. 一致; n. 凝聚",
+            "choices": [
+                "c",
+                "c",
+                "e",
+                "e",
+                "e",
+                "h",
+                "n",
+                "o",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 归因于; vt. 归咎于",
+            "choices": [
+                "a",
+                "b",
+                "c",
+                "e",
+                "i",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "I think it's actually ______ that the, the top universities in this country are so difficult.",
+            "choices": [
+                "overblown",
+                "coherence",
+                "ascribe",
+                "disproportionate",
+                "prototype"
+            ],
+            "chn": "我觉得其实顶尖大学的课程难这一点是被夸大了。(SpeakingMax英语口语达人 : 对于赞助入学的看法)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It has, in other words, an internal ______. It has a dynamism of parts that is strictly with reference to its own existence.",
+            "choices": [
+                "empower",
+                "coherence",
+                "demanding",
+                "envisage",
+                "yardstick"
+            ],
+            "chn": "换句话说，这是一个内部的呼应，每一个动态的部分,只为自身整体的存在而存在。(文学理论导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"It is funny to watch the situation today,20 years later, when we basically have the same ______ toward our present politicians and see them as jerks,basically,\"",
+            "choices": [
+                "esoteric",
+                "wistful",
+                "blueprint",
+                "impartial",
+                "disregard"
+            ],
+            "chn": "(VOA : standard.2009.11.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "These are all international efforts to ______ a financial crisis.",
+            "choices": [
+                "anathema",
+                "demanding",
+                "esoteric",
+                "wistful",
+                "forestall"
+            ],
+            "chn": "这些是预先阻止金融危机的,国际化努力。(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The grandi are more dangerous and ______.",
+            "choices": [
+                "prototype",
+                "cinch",
+                "fractious",
+                "fickle",
+                "intrigue"
+            ],
+            "chn": "大人物更危险而且反复无常。(政治哲学导论课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "137"
+}

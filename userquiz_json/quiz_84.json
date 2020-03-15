@@ -1,0 +1,1719 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "conducive",
+            "choices": [
+                "adj. 到处渗透的",
+                "vi. 照料，照顾",
+                "adj. （心理）创伤的",
+                "vt. 使骑上马",
+                "adj. 有助于…的",
+                "vt. 阻碍",
+                "adj. 有益的",
+                "n. 后代"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "scrutiny",
+            "choices": [
+                "n. 选票复查",
+                "n. 麻烦",
+                "n. 监视",
+                "n. 详细审查",
+                "vi. 上升",
+                "n. 细看",
+                "vt. 把…装满",
+                "adv. 相当地"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fluctuate",
+            "choices": [
+                "n. 详细审查",
+                "vi. 动摇",
+                "vi. 波动",
+                "adj. 完整的",
+                "vt. 使波动",
+                "n. 初学者，新手",
+                "vi. 涨落",
+                "vt. 使动摇"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "prerequisite",
+            "choices": [
+                "adj. 粗糙的",
+                "n. 先决条件",
+                "adj. （心理）创伤的",
+                "n. 选票复查",
+                "adj. 首要必备的",
+                "vt. 口述",
+                "vi. 照料，照顾",
+                "vt. 使苦恼"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "traumatic",
+            "choices": [
+                "n. 相差",
+                "n. 运载工具",
+                "adj. （心理）创伤的",
+                "vi. 趋向，倾向",
+                "adj. 罕见的",
+                "vi. 趋向，倾向",
+                "v. 迟滞，减速（retard的ing形式）",
+                "adj. （生理）外伤的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "scanty",
+            "choices": [
+                "adj. 缺乏的",
+                "n. 初学者，新手",
+                "n. 前提",
+                "adj. 仅有的",
+                "adj. 稀疏的",
+                "adj. 刺激的",
+                "adj. 吝啬的",
+                "vt. 毁坏"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "peculiar",
+            "choices": [
+                "adj. 独特的",
+                "n. 特有财产",
+                "adj. 有益的",
+                "n. 先决条件",
+                "adj. 奇怪的",
+                "adj. 特殊的",
+                "n. 特权",
+                "adj. 罕见的"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "pervasive",
+            "choices": [
+                "vi. 有重要性",
+                "vt. 阻止",
+                "n. 刺激",
+                "adj. 普遍的",
+                "adj. 到处渗透的",
+                "adj. 严酷的",
+                "vi. 趋向，倾向",
+                "adj. 流行的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "hazardous",
+            "choices": [
+                "n. 特权",
+                "vt. 校勘",
+                "adj. 有危险的",
+                "n. 痛哭，挽歌",
+                "n. 讨厌的人",
+                "adj. 碰运气的",
+                "adj. 冒险的",
+                "n. 立定"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "recur",
+            "choices": [
+                "vi. 复发",
+                "vi. 再来",
+                "vi. 递归",
+                "vi. 重现",
+                "vi. 循环",
+                "vi. 达到顶点",
+                "adj. 冒险的",
+                "vi. 采用"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "mimic",
+            "choices": [
+                "adj. 原封不动的",
+                "n. 效颦者，模仿者",
+                "vt. 模仿，摹拟",
+                "n. 仿制品",
+                "n. 小丑",
+                "adj. 模仿的，模拟的",
+                "n. 怀疑论",
+                "adj. 假装的"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "premise",
+            "choices": [
+                "vi. 作出前提",
+                "vt. 引出，预先提出",
+                "n. 前提",
+                "adj. 笔直的",
+                "vt. 作为…的前提",
+                "n. 上述各项",
+                "adj. 刺激的",
+                "n. 房屋连地基"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "prevailing",
+            "choices": [
+                "n. 怀疑的态度",
+                "vt. 意味",
+                "adj. 一般的，最普通的",
+                "v. 盛行，流行（prevail的现在分词形式）",
+                "adj. 占优势的",
+                "adj. 盛行很广的",
+                "adj. 流行的",
+                "v. 获胜"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "incentive",
+            "choices": [
+                "n. 动机",
+                "n. 刺激",
+                "n. 休息",
+                "adj. 流行的",
+                "adv. 可察觉地",
+                "adj. 刺激的",
+                "adj. 激励的",
+                "adj. 吝啬的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "novice",
+            "choices": [
+                "n. 初学者，新手",
+                "adj. 流行的",
+                "vt. 引出，预先提出",
+                "n. 小丑",
+                "n. 动机",
+                "vt. 毁坏",
+                "v. 延迟",
+                "adj. 刺目的"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "halt",
+            "choices": [
+                "vi. 立定",
+                "n. 休息",
+                "n. 立定",
+                "vt. 使立定",
+                "vt. 使停止",
+                "vi. 踌躇，犹豫",
+                "vi. 停止",
+                "vt. 毁灭"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "eradicate",
+            "choices": [
+                "v. 延迟",
+                "vt. 消灭",
+                "n. 瘟疫",
+                "vt. 根除，根绝",
+                "vt. 安装",
+                "vi. 听写",
+                "vi. 达到顶点",
+                "vt. 毁灭"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "retarding",
+            "choices": [
+                "n. 动机",
+                "adj. 吝啬的",
+                "v. 延迟",
+                "v. 迟滞，减速（retard的ing形式）",
+                "adj. 独特的",
+                "n. 先决条件",
+                "n. 初学者，新手",
+                "vt. 建造"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "shatter",
+            "choices": [
+                "vt. 破掉",
+                "n. 碎片",
+                "vi. 损坏",
+                "vt. 粉碎",
+                "vt. 破坏",
+                "vt. 使散开",
+                "n. 详细审查",
+                "vi. 粉碎"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "irritating",
+            "choices": [
+                "vt. 预示",
+                "adj. 刺激的",
+                "adj. 气人的",
+                "v. 激怒",
+                "v. 刺激（irritate的ing形式）",
+                "vi. 采用",
+                "adj. 敏锐的，敏捷的",
+                "adj. 使愤怒的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "tend",
+            "choices": [
+                "vi. 照料，照顾",
+                "n. 痛哭，挽歌",
+                "vt. 照料，照管",
+                "adj. 严厉的",
+                "adj. 热心的",
+                "vi. 复发",
+                "adj. 锐利的",
+                "vi. 趋向，倾向"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "intact",
+            "choices": [
+                "adj. 未受损伤的",
+                "adj. 完整的",
+                "vt. 使波动",
+                "adj. 原封不动的",
+                "vi. 达到顶点",
+                "adj. （生理）外伤的",
+                "n. 矛盾",
+                "vt. 打碎"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "impede",
+            "choices": [
+                "adj. 因性刺激而勃起的",
+                "vi. 达到高潮",
+                "vt. 妨碍",
+                "vt. 阻碍",
+                "vt. 使竖立",
+                "adj. 流行的",
+                "vt. 阻止",
+                "adv. 可察觉地"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dictate",
+            "choices": [
+                "n. 命令",
+                "vi. 听写",
+                "vt. 口述",
+                "n. 指示",
+                "vi. 口述",
+                "vt. 使竖立",
+                "vt. 使听写",
+                "vt. 命令"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "keen",
+            "choices": [
+                "adj. 有助于…的",
+                "adj. 锐利的",
+                "n. 相差",
+                "adj. 敏锐的，敏捷的",
+                "n. 痛哭，挽歌",
+                "adj. 渴望的",
+                "adj. 强烈的",
+                "adj. 热心的"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "devastate",
+            "choices": [
+                "adv. 明显地",
+                "v. 延迟",
+                "vt. 使得灾祸",
+                "vi. 踌躇，犹豫",
+                "vt. 毁坏",
+                "vt. 毁灭",
+                "vi. 立定",
+                "v. 迟滞，减速（retard的ing形式）"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "harsh",
+            "choices": [
+                "vi. 有重要性",
+                "adj. 刺耳的",
+                "vt. 毁坏",
+                "adj. 稀疏的",
+                "adj. 严厉的",
+                "adj. 粗糙的",
+                "adj. 刺目的",
+                "adj. 严酷的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "culminate",
+            "choices": [
+                "adj. 流行的",
+                "vt. 使达到高潮",
+                "vt. 使结束",
+                "vi. 达到高潮",
+                "n. 讨厌的人",
+                "vi. 到绝顶",
+                "vi. 达到顶点",
+                "vt. 校勘"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "replenish",
+            "choices": [
+                "adj. 原封不动的",
+                "vt. 把…装满",
+                "vi. 采用",
+                "n. 麻烦",
+                "vt. 给…添加燃料",
+                "vt. 使动摇",
+                "vt. 补充，再装满",
+                "adj. 完整的"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "signify",
+            "choices": [
+                "vi. 冒充内行",
+                "vi. 要紧",
+                "vt. 预示",
+                "vi. 有重要性",
+                "vt. 照料，照管",
+                "vt. 意味",
+                "vt. 表示",
+                "vi. 勃起"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "erect",
+            "choices": [
+                "vt. 安装",
+                "adj. 竖立的",
+                "vi. 直立",
+                "vi. 勃起",
+                "n. 先决条件",
+                "vt. 使竖立",
+                "adj. 因性刺激而勃起的",
+                "adj. 笔直的"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "mount",
+            "choices": [
+                "vt. 安装，架置",
+                "v. 登上",
+                "vt. 镶嵌，嵌入",
+                "vt. 成立（军队等）",
+                "vt. 破坏",
+                "n. 底座",
+                "vt. 爬上",
+                "n. 乘骑用马"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "ardent",
+            "choices": [
+                "adj. 有益的",
+                "adj. 流行的",
+                "adj. 热心的",
+                "adj. 燃烧般的",
+                "n. 子孙，后裔",
+                "adj. 热情的",
+                "adj. 特殊的",
+                "adj. 激烈的"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "plague",
+            "choices": [
+                "n. 灾祸",
+                "n. 瘟疫",
+                "n. 讨厌的人",
+                "n. 麻烦",
+                "vt. 使苦恼",
+                "vt. 折磨",
+                "vt. 消灭",
+                "vt. 使得灾祸"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "posterity",
+            "choices": [
+                "adj. 严厉的",
+                "vt. 使听写",
+                "n. 后代",
+                "adj. 流行的",
+                "adj. 占优势的",
+                "adj. 热情的",
+                "n. 相差",
+                "n. 子孙，后裔"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "discrepancy",
+            "choices": [
+                "adj. 有助于…的",
+                "adj. 燃烧般的",
+                "n. 矛盾",
+                "n. 相差",
+                "n. 不符",
+                "vi. 重现",
+                "adj. 使愤怒的",
+                "vt. 命令"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "skepticism",
+            "choices": [
+                "vt. 使结束",
+                "n. 怀疑的态度",
+                "n. 怀疑论",
+                "n. 初学者，新手",
+                "vt. 给…添加燃料",
+                "vi. 涨落",
+                "n. 上述各项",
+                "vi. 动摇"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "appreciably",
+            "choices": [
+                "adv. 相当地",
+                "n. 动机",
+                "adv. 明显地",
+                "vi. 达到高潮",
+                "vt. 使苦恼",
+                "adv. 可察觉地",
+                "vt. 使达到高潮",
+                "vt. 校勘"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "collate",
+            "choices": [
+                "vt. 意味",
+                "adj. 使愤怒的",
+                "vt. 校勘",
+                "vi. 立定",
+                "vt. 核对，校对",
+                "adj. 流行的",
+                "vt. 根除，根绝",
+                "vi. 趋向，倾向"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 阻止; vt. 阻碍; vt. 妨碍",
+            "choices": [
+                "appreciably",
+                "collate",
+                "impede",
+                "novice",
+                "shatter"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 毁灭; vt. 毁坏",
+            "choices": [
+                "mimic",
+                "devastate",
+                "culminate",
+                "mount",
+                "novice"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 命令; vt. 命令; vt. 使听写",
+            "choices": [
+                "dictate",
+                "mount",
+                "scrutiny",
+                "novice",
+                "retarding"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. （生理）外伤的; adj. （心理）创伤的",
+            "choices": [
+                "pervasive",
+                "traumatic",
+                "devastate",
+                "posterity",
+                "prerequisite"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 竖立的; vi. 勃起; adj. 笔直的",
+            "choices": [
+                "appreciably",
+                "erect",
+                "scrutiny",
+                "collate",
+                "prerequisite"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 循环; vi. 采用; vi. 递归",
+            "choices": [
+                "prerequisite",
+                "collate",
+                "plague",
+                "ardent",
+                "recur"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 波动; vt. 使波动; vt. 使动摇",
+            "choices": [
+                "shatter",
+                "ardent",
+                "replenish",
+                "fluctuate",
+                "keen"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 监视; n. 选票复查; n. 详细审查",
+            "choices": [
+                "plague",
+                "skepticism",
+                "fluctuate",
+                "scrutiny",
+                "signify"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有危险的; adj. 碰运气的; adj. 冒险的",
+            "choices": [
+                "hazardous",
+                "recur",
+                "collate",
+                "mount",
+                "keen"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 气人的; v. 刺激（irritate的ing形式）; v. 激怒",
+            "choices": [
+                "halt",
+                "impede",
+                "irritating",
+                "mount",
+                "skepticism"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 动机; adj. 激励的; n. 刺激",
+            "choices": [
+                "hazardous",
+                "incentive",
+                "collate",
+                "posterity",
+                "replenish"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 完整的; adj. 未受损伤的; adj. 原封不动的",
+            "choices": [
+                "intact",
+                "devastate",
+                "incentive",
+                "signify",
+                "erect"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 立定; n. 停止; vi. 停止",
+            "choices": [
+                "mimic",
+                "halt",
+                "discrepancy",
+                "harsh",
+                "novice"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adv. 可察觉地; adv. 相当地; adv. 明显地",
+            "choices": [
+                "appreciably",
+                "posterity",
+                "erect",
+                "intact",
+                "retarding"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 获胜; v. 盛行，流行（prevail的现在分词形式）; adj. 盛行很广的",
+            "choices": [
+                "prevailing",
+                "collate",
+                "conducive",
+                "traumatic",
+                "scrutiny"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 刺耳的; adj. 刺目的; adj. 严酷的",
+            "choices": [
+                "skepticism",
+                "hazardous",
+                "scanty",
+                "harsh",
+                "posterity"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使达到高潮; vi. 到绝顶; vt. 使结束",
+            "choices": [
+                "ardent",
+                "retarding",
+                "culminate",
+                "incentive",
+                "dictate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 初学者，新手",
+            "choices": [
+                "mimic",
+                "novice",
+                "shatter",
+                "traumatic",
+                "dictate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 前提; vi. 作出前提; n. 上述各项",
+            "choices": [
+                "mount",
+                "scrutiny",
+                "premise",
+                "novice",
+                "traumatic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使散开; vt. 粉碎; vi. 损坏",
+            "choices": [
+                "collate",
+                "eradicate",
+                "skepticism",
+                "prevailing",
+                "shatter"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 迟滞，减速（retard的ing形式）; v. 延迟",
+            "choices": [
+                "retarding",
+                "pervasive",
+                "novice",
+                "irritating",
+                "skepticism"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 照料，照顾; vi. 趋向，倾向; vt. 照料，照管",
+            "choices": [
+                "dictate",
+                "tend",
+                "signify",
+                "peculiar",
+                "hazardous"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 热情的; adj. 激烈的; adj. 燃烧般的",
+            "choices": [
+                "shatter",
+                "recur",
+                "premise",
+                "peculiar",
+                "ardent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 不符; n. 矛盾; n. 相差",
+            "choices": [
+                "plague",
+                "hazardous",
+                "signify",
+                "harsh",
+                "discrepancy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 给…添加燃料; vt. 补充，再装满; vt. 把…装满",
+            "choices": [
+                "pervasive",
+                "shatter",
+                "impede",
+                "conducive",
+                "replenish"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 热心的; adj. 渴望的; n. 痛哭，挽歌",
+            "choices": [
+                "keen",
+                "plague",
+                "devastate",
+                "eradicate",
+                "discrepancy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vi. 要紧; vi. 有重要性; vt. 意味",
+            "choices": [
+                "signify",
+                "tend",
+                "posterity",
+                "mimic",
+                "discrepancy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 怀疑的态度; n. 怀疑论",
+            "choices": [
+                "tend",
+                "skepticism",
+                "plague",
+                "intact",
+                "irritating"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 准备上演; n. 攀，登; n. 山峰",
+            "choices": [
+                "collate",
+                "posterity",
+                "mount",
+                "retarding",
+                "skepticism"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 麻烦; n. 灾祸; vt. 折磨",
+            "choices": [
+                "eradicate",
+                "culminate",
+                "hazardous",
+                "harsh",
+                "plague"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 小丑; n. 仿制品; n. 效颦者，模仿者",
+            "choices": [
+                "culminate",
+                "discrepancy",
+                "mimic",
+                "novice",
+                "premise"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 首要必备的; n. 先决条件",
+            "choices": [
+                "prerequisite",
+                "prevailing",
+                "signify",
+                "hazardous",
+                "dictate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 核对，校对; vt. 校勘",
+            "choices": [
+                "collate",
+                "conducive",
+                "scrutiny",
+                "appreciably",
+                "replenish"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 后代; n. 子孙，后裔",
+            "choices": [
+                "peculiar",
+                "irritating",
+                "scrutiny",
+                "posterity",
+                "mount"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 有益的; adj. 有助于…的",
+            "choices": [
+                "recur",
+                "prerequisite",
+                "scanty",
+                "traumatic",
+                "conducive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 仅有的; adj. 缺乏的; adj. 吝啬的",
+            "choices": [
+                "recur",
+                "scanty",
+                "signify",
+                "discrepancy",
+                "posterity"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 独特的; adj. 罕见的; adj. 奇怪的",
+            "choices": [
+                "traumatic",
+                "shatter",
+                "skepticism",
+                "peculiar",
+                "hazardous"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 流行的; adj. 普遍的; adj. 到处渗透的",
+            "choices": [
+                "pervasive",
+                "irritating",
+                "mimic",
+                "scanty",
+                "devastate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 消灭; vt. 根除，根绝",
+            "choices": [
+                "eradicate",
+                "shatter",
+                "appreciably",
+                "harsh",
+                "retarding"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 稀疏的; adj. 吝啬的; adj. 缺乏的",
+            "choices": [
+                "a",
+                "c",
+                "n",
+                "s",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 循环; vi. 递归; vi. 再来",
+            "choices": [
+                "c",
+                "e",
+                "r",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 初学者，新手",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "n",
+                "o",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 到处渗透的; adj. 流行的; adj. 普遍的",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "i",
+                "p",
+                "r",
+                "s",
+                "v",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 粗糙的; adj. 刺目的; adj. 严厉的",
+            "choices": [
+                "a",
+                "h",
+                "h",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. （心理）创伤的; adj. （生理）外伤的",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "i",
+                "m",
+                "r",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 表示; vi. 有重要性; vi. 冒充内行",
+            "choices": [
+                "f",
+                "g",
+                "i",
+                "i",
+                "n",
+                "s",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 子孙，后裔; n. 后代",
+            "choices": [
+                "e",
+                "i",
+                "o",
+                "p",
+                "r",
+                "s",
+                "t",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 核对，校对; vt. 校勘",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "l",
+                "l",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使散开; vt. 破坏; vi. 损坏",
+            "choices": [
+                "a",
+                "e",
+                "h",
+                "r",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有危险的; adj. 冒险的; adj. 碰运气的",
+            "choices": [
+                "a",
+                "a",
+                "d",
+                "h",
+                "o",
+                "r",
+                "s",
+                "u",
+                "z"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使动摇; vi. 动摇; vi. 波动",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "f",
+                "l",
+                "t",
+                "t",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 消灭; vt. 根除，根绝",
+            "choices": [
+                "a",
+                "a",
+                "c",
+                "d",
+                "e",
+                "e",
+                "i",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 勃起; vt. 建造; vt. 使竖立",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 相当地; adv. 可察觉地; adv. 明显地",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "c",
+                "e",
+                "i",
+                "l",
+                "p",
+                "p",
+                "r",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 怀疑的态度; n. 怀疑论",
+            "choices": [
+                "c",
+                "e",
+                "i",
+                "i",
+                "k",
+                "m",
+                "p",
+                "s",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 激怒; v. 刺激（irritate的ing形式）; adj. 气人的",
+            "choices": [
+                "a",
+                "g",
+                "i",
+                "i",
+                "i",
+                "n",
+                "r",
+                "r",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "v. 延迟; v. 迟滞，减速（retard的ing形式）",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "g",
+                "i",
+                "n",
+                "r",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 效颦者，模仿者; n. 小丑; vt. 模仿，摹拟",
+            "choices": [
+                "c",
+                "i",
+                "i",
+                "m",
+                "m"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 使结束; vt. 使达到高潮; vi. 到绝顶",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "l",
+                "m",
+                "n",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 燃烧般的; adj. 激烈的; adj. 热情的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "n",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 把…装满; vt. 给…添加燃料; vt. 补充，再装满",
+            "choices": [
+                "e",
+                "e",
+                "h",
+                "i",
+                "l",
+                "n",
+                "p",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 刺激的; n. 刺激; adj. 激励的",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "i",
+                "i",
+                "n",
+                "n",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 照料，照管; vi. 照料，照顾; vi. 趋向，倾向",
+            "choices": [
+                "d",
+                "e",
+                "n",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 瘟疫; n. 灾祸; vt. 折磨",
+            "choices": [
+                "a",
+                "e",
+                "g",
+                "l",
+                "p",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 前提; vi. 作出前提; n. 上述各项",
+            "choices": [
+                "e",
+                "e",
+                "i",
+                "m",
+                "p",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 痛哭，挽歌; adj. 锐利的; adj. 敏锐的，敏捷的",
+            "choices": [
+                "e",
+                "e",
+                "k",
+                "n"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 先决条件; adj. 首要必备的",
+            "choices": [
+                "e",
+                "e",
+                "e",
+                "i",
+                "i",
+                "p",
+                "q",
+                "r",
+                "r",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 细看; n. 监视; n. 详细审查",
+            "choices": [
+                "c",
+                "i",
+                "n",
+                "r",
+                "s",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 完整的; adj. 未受损伤的; adj. 原封不动的",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "n",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 有益的; adj. 有助于…的",
+            "choices": [
+                "c",
+                "c",
+                "d",
+                "e",
+                "i",
+                "n",
+                "o",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 乘骑用马; vt. 增加; v. 登上",
+            "choices": [
+                "m",
+                "n",
+                "o",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vi. 踌躇，犹豫; n. 休息; vi. 停止",
+            "choices": [
+                "a",
+                "h",
+                "l",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 奇怪的; adj. 独特的; n. 特权",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "i",
+                "l",
+                "p",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 相差; n. 不符; n. 矛盾",
+            "choices": [
+                "a",
+                "c",
+                "c",
+                "d",
+                "e",
+                "i",
+                "n",
+                "p",
+                "r",
+                "s",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 妨碍; vt. 阻碍; vt. 阻止",
+            "choices": [
+                "d",
+                "e",
+                "e",
+                "i",
+                "m",
+                "p"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 毁灭; vt. 毁坏",
+            "choices": [
+                "a",
+                "a",
+                "d",
+                "e",
+                "e",
+                "s",
+                "t",
+                "t",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 口述; vi. 口述; vi. 听写",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "i",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 盛行很广的; v. 获胜; adj. 一般的，最普通的",
+            "choices": [
+                "a",
+                "e",
+                "g",
+                "i",
+                "i",
+                "l",
+                "n",
+                "p",
+                "r",
+                "v"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "He adds \"While I feel like I'm starting over again as a ______, it's a welcome sacrifice in regaining some of the excitement I felt years ago.\"",
+            "choices": [
+                "posterity",
+                "dictate",
+                "erect",
+                "culminate",
+                "novice"
+            ],
+            "chn": "(VOA : standard.2010.04.12)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And that's the ______ comment. The U.S.- the world - has never experienced a spill this enormous,this deep.",
+            "choices": [
+                "prevailing",
+                "recur",
+                "scanty",
+                "posterity",
+                "irritating"
+            ],
+            "chn": "(VOA : standard.2010.06.08)"
+        },
+        {
+            "cate": "choice",
+            "problem": "At this point in time, they are only allowed to use the money for IMF purposes, to pay IMF staff or ______ accounts for  use,\"",
+            "choices": [
+                "erect",
+                "appreciably",
+                "scrutiny",
+                "replenish",
+                "peculiar"
+            ],
+            "chn": "(VOA : standard.2009.04.20)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"Here in southeast Texas, just like south Louisiana, we enjoy a climate that is ______ to grow rice.",
+            "choices": [
+                "erect",
+                "plague",
+                "conducive",
+                "devastate",
+                "keen"
+            ],
+            "chn": "(VOA : standard.2010.07.29)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The Palestinian official says any compromise by Mr.Abbas on the settlement issue would ______ the creation of a viable independent Palestinian state.",
+            "choices": [
+                "mount",
+                "hazardous",
+                "impede",
+                "appreciably",
+                "irritating"
+            ],
+            "chn": "(VOA : standard.2009.10.31)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Given the difficulties ahead, the World Health Assembly approved a resolution to ______ measles worldwide, but set no target date for achieving this goal.",
+            "choices": [
+                "collate",
+                "posterity",
+                "keen",
+                "eradicate",
+                "signify"
+            ],
+            "chn": "(VOA : standard.2010.05.21)"
+        },
+        {
+            "cate": "choice",
+            "problem": "She'd have the strength of a Samson, the biblical hero, who could ______ huge structures over the heads of his enemies.",
+            "choices": [
+                "conducive",
+                "plague",
+                "shatter",
+                "incentive",
+                "culminate"
+            ],
+            "chn": "她将会有大力士一般的力量，大力士是圣经中的英雄，他可以在敌人头上将建筑物粉碎。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "They may ______ wildly, but if I look at enough stocks, the average should be right around 100.",
+            "choices": [
+                "ardent",
+                "fluctuate",
+                "shatter",
+                "plague",
+                "novice"
+            ],
+            "chn": "他们可能会有很大的改变，但是如果我看过足够多的股票，平均值还是应该在100左右。(计算机科学及编程导论课程节选 : 麻省理工公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Republican lawmakers say Democrats are trying to push through a bill without enough time for proper Congressional ______.",
+            "choices": [
+                "skepticism",
+                "scrutiny",
+                "peculiar",
+                "harsh",
+                "scanty"
+            ],
+            "chn": "(VOA : standard.2009.07.29)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The crucial ______ since we're giving Plato number one the crucial ______ for our purposes is ______ number two.",
+            "choices": [
+                "mimic",
+                "irritating",
+                "premise",
+                "traumatic",
+                "incentive"
+            ],
+            "chn": "最关键的前提是,我们已经承认了前提一,所以对我们来说最关键的前提是前提二(死亡课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "On the fourth day of battle, Marines fought to the top of ______ Suribachi, the tallest mountain on Iwo Jima.",
+            "choices": [
+                "retarding",
+                "mimic",
+                "hazardous",
+                "culminate",
+                "mount"
+            ],
+            "chn": "(VOA : special.2011.05.30)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The president says the cost of failing to reform health care would ______ the U.S.economy.",
+            "choices": [
+                "devastate",
+                "scrutiny",
+                "eradicate",
+                "plague",
+                "replenish"
+            ],
+            "chn": "(VOA : standard.2009.10.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The first five books that deal with and ______ in the best city, Kallipolis Plato's ideal city, what he calls Kallipolis, the just city, the beautiful city, ruled by philosopher-kings.",
+            "choices": [
+                "halt",
+                "culminate",
+                "fluctuate",
+                "prevailing",
+                "irritating"
+            ],
+            "chn": "前五部讲述,书中高潮的所在，柏拉图的理想城市，他称之为，正义之城，美丽之城，由哲学家国王所统治；(政治哲学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "All right. So you can already begin to see a development in intellectual history that perhaps opens the way to a certain ______.",
+            "choices": [
+                "dictate",
+                "skepticism",
+                "eradicate",
+                "fluctuate",
+                "peculiar"
+            ],
+            "chn": "好，所以大家已经开始看到,人类思想史的一个发展,它很可能为某种怀疑主义开辟了道路。(文学理论导论课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "84"
+}

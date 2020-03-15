@@ -1,0 +1,274 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "chronic",
+            "choices": [
+                "vt. 使发咔哒声",
+                "adj. 长期的",
+                "n. [生理] 传导",
+                "n. 文明",
+                "n. 外形",
+                "adj. 慢性的",
+                "adj. 习惯性的",
+                "vt. 持有"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "compact",
+            "choices": [
+                "n. 合同，契约",
+                "n. 肉体",
+                "adj. 简洁的",
+                "vt. 无性繁殖，复制",
+                "vt. 使简洁",
+                "adj. 紧凑的，紧密的",
+                "vt. 使紧密结合",
+                "n. 小粉盒"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "complication",
+            "choices": [
+                "n. 复杂",
+                "n. 并发症",
+                "vi. 设想",
+                "n. 复杂化",
+                "n. 混乱",
+                "n. 化学过程",
+                "n. 教室",
+                "vt. 分等"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "clever",
+            "choices": [
+                "adj. 熟练的",
+                "adj. 机灵的",
+                "adj. 能干的",
+                "adj. 复合的",
+                "n. 共产主义者",
+                "adj. 聪明的",
+                ". 比较级cleverer 最高级 cleverest ]",
+                "n. 临床"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "client",
+            "choices": [
+                "adv. 普通地",
+                "n. 委托人",
+                "adv. 普通地",
+                "n. [生理] 传导",
+                "n. [临床] 化学疗法",
+                "n. 顾客",
+                "n. [经] 客户",
+                "n. （故事等的）情节"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 能干的; adj. 足够的; adj. 胜任的",
+            "choices": [
+                "commonly",
+                "civilization",
+                "competent",
+                "chunk",
+                "comprehension"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 补足，补助; n. 补足物; n. 补语",
+            "choices": [
+                "competent",
+                "commentary",
+                "colonial",
+                "complement",
+                "complication"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 认知的，认识的",
+            "choices": [
+                "comprehension",
+                "cognitive",
+                "clone",
+                "circulation",
+                "coherent"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 界限，边界; n. 限制; vt. 禁闭",
+            "choices": [
+                "chunk",
+                "conference",
+                "classify",
+                "confine",
+                "complement"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 日用品; n. 商品，货物",
+            "choices": [
+                "commodity",
+                "chemistry",
+                "conduction",
+                "clone",
+                "closure"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [临床] 化学疗法",
+            "choices": [
+                "a",
+                "c",
+                "e",
+                "e",
+                "h",
+                "h",
+                "m",
+                "o",
+                "p",
+                "r",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 化学过程; n. 化学",
+            "choices": [
+                "c",
+                "e",
+                "h",
+                "i",
+                "m",
+                "r",
+                "s",
+                "t",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 可比较的; adj. 比得上的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "c",
+                "e",
+                "l",
+                "m",
+                "o",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adv. 一般地; adv. 通常地; adv. 普通地",
+            "choices": [
+                "c",
+                "l",
+                "m",
+                "m",
+                "n",
+                "o",
+                "o",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 分类; vt. 分等",
+            "choices": [
+                "a",
+                "c",
+                "f",
+                "i",
+                "l",
+                "s",
+                "s",
+                "y"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "It wants us to ______ of God as an uncontested god who through the power of his word or will creates the cosmos.",
+            "choices": [
+                "conceive",
+                "classification",
+                "chloride",
+                "communicative",
+                "civilization"
+            ],
+            "chn": "它希望我们构想一个毫无争议的上帝,他可以通过言语和意愿的力量创造宇宙。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Medal winner Esther Conwell is a ______ and atomic physics expert at the University of Rochester in New York.",
+            "choices": [
+                "circulate",
+                "clip",
+                "classify",
+                "chemistry",
+                "compensate"
+            ],
+            "chn": "(VOA : special.2010.11.09)"
+        },
+        {
+            "cate": "choice",
+            "problem": "But a good ______ of it is swampland. The famous Everglades, a slow-moving sheet of water full of plants and alligators, cover much of the southern part of the state.",
+            "choices": [
+                "conceive",
+                "commentary",
+                "chunk",
+                "composer",
+                "collective"
+            ],
+            "chn": "(VOA : standard.2010.03.29)"
+        },
+        {
+            "cate": "choice",
+            "problem": "We leave you with Animal ______ performing \"On A Highway\" from their latest album, \"Fall Be Kind.\"",
+            "choices": [
+                "clever",
+                "conference",
+                "chunk",
+                "collective",
+                "chemotherapy"
+            ],
+            "chn": "(VOA : special.2009.12.11)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The United States also continued in the nineteen twenties to refuse to recognize the ______ government in Moscow.",
+            "choices": [
+                "communist",
+                "commodity",
+                "closure",
+                "chronic",
+                "collective"
+            ],
+            "chn": "(VOA : special.2011.02.03)"
+        }
+    ],
+    "quiz_id": "27"
+}

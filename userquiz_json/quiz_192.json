@@ -1,0 +1,317 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "generate",
+            "choices": [
+                "vt. 生殖",
+                "vt. 发生",
+                "adj. 易受攻击的，易受…的攻击",
+                "n. 完整",
+                "vt. 使形成",
+                "vt. 解释（过去式deciphered，过去分词deciphered，现在分词deciphering，第三人称单数deciphers，名词decipherer，形容词decipherable）",
+                "vt. 使能够，使成为可能",
+                "vt. 产生物理反应"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fragments",
+            "choices": [
+                "n. 片断",
+                "adj. 优美的，高雅的",
+                "n. 碎片（fragment的复数）",
+                "n. [计] 分段",
+                "v. 打碎",
+                "adj. 普遍的，广泛的",
+                "v. 破碎（fragment的三单形式）",
+                "adj. 普遍的，广泛的"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "pioneering",
+            "choices": [
+                ". 吸引到…方面来",
+                "adv. 一定地",
+                "adv. 确定地",
+                "adj. 先驱的",
+                "vi. 打算",
+                "adv. 显著地",
+                "n. 特有财产",
+                "adj. 首创的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "attest",
+            "choices": [
+                "vt. 证明",
+                "adj. 巨额的",
+                "vi. 证明",
+                "vt. 证实",
+                "vt. 拖延",
+                "vi. 作证",
+                "vt. 为…作证",
+                "vt. 生殖"
+            ],
+            "true_ans_cnt": 5
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cumulative",
+            "choices": [
+                "adv. 确实地，毋庸置疑的",
+                "adj. 吝啬的",
+                "adj. 巨大的",
+                "adj. 累积的",
+                "n. 小丑",
+                "adj. 普遍的，广泛的",
+                "adj. 过分的",
+                "vt. 授予权利或方法"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 证实; vt. 维持; vt. 忍受",
+            "choices": [
+                "lone",
+                "fragments",
+                "sustain",
+                "painstaking",
+                "pioneering"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. 合成; v. 不同元素间的整合（synthesize的ing形式）",
+            "choices": [
+                "integral",
+                "exceptional",
+                "synthesizing",
+                "discrepancy",
+                "generate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 易受攻击的，易受…的攻击; adj. 易受伤害的; adj. 有弱点的",
+            "choices": [
+                "decipher",
+                "predominant",
+                "astonishing",
+                "replenish",
+                "vulnerable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 八音阶间隔的反覆音; adj. 折叠的; vt. 折叠",
+            "choices": [
+                "segregated",
+                "scanty",
+                "aim to do",
+                "invariably",
+                "replicate"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 惊人的; v. 使…诧异（astonish的ing形式）; v. 使…惊讶",
+            "choices": [
+                "astonishing",
+                "terminate",
+                "impede",
+                "propose",
+                "pioneering"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": the action of taking pains : diligent care and effort",
+            "choices": [
+                "painstaking",
+                "propose",
+                "mask",
+                "adverse",
+                "peculiar"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": very great in size, amount, degree, intensity, or especially in extent or range",
+            "choices": [
+                "vast",
+                "intermittently",
+                "synthesizing",
+                "culminate",
+                "discrepancy"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": heighten, increase",
+            "choices": [
+                "enhance",
+                "exquisite",
+                "obscure",
+                "conspicuous",
+                "prevailing"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": to serve as an ending, limit, or boundary of",
+            "choices": [
+                "attest",
+                "conducive",
+                "terminate",
+                "confine",
+                "replenish"
+            ]
+        },
+        {
+            "cate": "e_to_e",
+            "problem": ": expressing or showing disapproval",
+            "choices": [
+                "controversial",
+                "disperse",
+                "quest",
+                "unfavorable",
+                "skepticism"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 抹去; vi. 被擦去，被抹掉; vt. 擦除",
+            "choices": [
+                "a",
+                "e",
+                "e",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 敌对的（名词adverseness，副词adversely）; adj. 不利的; adj. 相反的",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "e",
+                "r",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 补充，再装满; vt. 给…添加燃料; vt. 把…装满",
+            "choices": [
+                "e",
+                "e",
+                "h",
+                "i",
+                "l",
+                "n",
+                "p",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 开采; n. 功绩; vt. 剥削",
+            "choices": [
+                "e",
+                "i",
+                "l",
+                "o",
+                "p",
+                "t",
+                "x"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 明确的; adj. 精确的; adj. 严格的",
+            "choices": [
+                "c",
+                "e",
+                "e",
+                "i",
+                "p",
+                "r",
+                "s"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "It said Gilo is an ______ part of Jerusalem and that building in the neighborhood has continued unabated for decades.",
+            "choices": [
+                "startled",
+                "integral",
+                "configuration",
+                "adverse",
+                "enhance"
+            ],
+            "chn": "(VOA : standard.2009.11.18)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Secretary Gates said that while the missile shield was never a threat to Russia, the new ______ will likely allay some of Moscow's concerns.",
+            "choices": [
+                "suitable",
+                "confine",
+                "disrupt",
+                "exquisite",
+                "configuration"
+            ],
+            "chn": "(VOA : standard.2009.09.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Now, you can save hours of work and get ______ results in no time.",
+            "choices": [
+                "vulnerable",
+                "scatter",
+                "notably",
+                "adverse",
+                "astonishing"
+            ],
+            "chn": "现在，您可以节省工作时间和取得的惊人结果，在没有时间。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "These tickets are ______ less costly than the price of going to a New York theater or arts show.",
+            "choices": [
+                "generally",
+                "lone",
+                "aim to do",
+                "configuration",
+                "dramatically"
+            ],
+            "chn": "(VOA : special.2009.08.05)"
+        },
+        {
+            "cate": "choice",
+            "problem": "I am making light of it and I think it's somewhat justified, because the evidence is just so ______.",
+            "choices": [
+                "unfavorable",
+                "adapt",
+                "generally",
+                "scanty",
+                "sustain"
+            ],
+            "chn": "我很鄙视这个观点,我认为我是有道理的,因为证据实在太有限(古希腊历史简介课程节选 : 耶鲁公开课)"
+        }
+    ],
+    "quiz_id": "192"
+}

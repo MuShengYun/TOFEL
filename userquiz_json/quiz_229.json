@@ -1,0 +1,238 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "c_to_e",
+            "problem": "n. 堕落; n. 贪污，腐败",
+            "choices": [
+                "aristocracy",
+                "intervention",
+                "altruistic",
+                "corruption",
+                "epidemic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 估计，计算",
+            "choices": [
+                "akin",
+                "deviation",
+                "computation",
+                "conscious",
+                "dissolve"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 体积，容量; n. 大多数，大部分; n. 大块",
+            "choices": [
+                "deficiency",
+                "deviation",
+                "directive",
+                "bulk",
+                "akin"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 使迎合; vt. 使逢迎; vt. 使讨好",
+            "choices": [
+                "computation",
+                "ingratiate",
+                "akin",
+                "calculation",
+                "deficiency"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 计算; n. 计算的结果; n. 深思熟虑",
+            "choices": [
+                "monarch",
+                "calculation",
+                "tweak",
+                "differential",
+                "bulk"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 差别的; n. 差别; adj. 特异的",
+            "choices": [
+                "differential",
+                "calculation",
+                "epidemic",
+                "conscious",
+                "corruption"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 传染性的; n. 传染病; n. 流行病",
+            "choices": [
+                "monarch",
+                "epidemic",
+                "intervention",
+                "empirical",
+                "deficiency"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 妨碍; n. 调停; n. 介入",
+            "choices": [
+                "bulk",
+                "epidemic",
+                "deficiency",
+                "intervention",
+                "discharge"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 画面的溶暗; n. 叠化画面; vi. 溶解",
+            "choices": [
+                "computation",
+                "epidemic",
+                "diagnosis",
+                "dissolve",
+                "calculation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 神志清醒的; adj. 故意的; adj. 意识到的",
+            "choices": [
+                "empirical",
+                "diagnosis",
+                "tweak",
+                "intervention",
+                "conscious"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 同族的; adj. 同类的; adj. 类似的",
+            "choices": [
+                "aristocracy",
+                "tweak",
+                "directive",
+                "deficiency",
+                "akin"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 偏差; n. 背离; n. 误差",
+            "choices": [
+                "epidemic",
+                "deviation",
+                "differential",
+                "diagnosis",
+                "intervention"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 君主，帝王; n. 最高统治者",
+            "choices": [
+                "conscious",
+                "deviation",
+                "differential",
+                "empirical",
+                "monarch"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 经验主义的，完全根据经验的; adj. 实证的",
+            "choices": [
+                "differential",
+                "bulk",
+                "empirical",
+                "calculation",
+                "discharge"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 缺陷，缺点; n. 缺乏; n. 不足的数额",
+            "choices": [
+                "calculation",
+                "discharge",
+                "deviation",
+                "deficiency",
+                "altruistic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 无私心的; adj. 利他的",
+            "choices": [
+                "differential",
+                "aristocracy",
+                "empirical",
+                "bulk",
+                "altruistic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 管理的; n. 指令; n. 指示",
+            "choices": [
+                "aristocracy",
+                "differential",
+                "ingratiate",
+                "directive",
+                "deviation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 贵族统治; n. 贵族; n. 贵族政治",
+            "choices": [
+                "calculation",
+                "diagnosis",
+                "computation",
+                "corruption",
+                "aristocracy"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 诊断",
+            "choices": [
+                "epidemic",
+                "dissolve",
+                "conscious",
+                "diagnosis",
+                "directive"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "v. （非正式）稍微调整机器或系统; v. 焦急; v. 扭",
+            "choices": [
+                "tweak",
+                "computation",
+                "directive",
+                "dissolve",
+                "corruption"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 卸货; vi. 排放; n. 解雇",
+            "choices": [
+                "dissolve",
+                "corruption",
+                "empirical",
+                "deviation",
+                "discharge"
+            ]
+        }
+    ],
+    "quiz_id": "229"
+}

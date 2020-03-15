@@ -1,0 +1,187 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "choice",
+            "problem": "Other ______ I have but I no need them.",
+            "choices": [
+                "elaborate",
+                "sustain",
+                "mask",
+                "functions",
+                "gradual"
+            ],
+            "chn": "其它的功能有但是我不需要。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "Senator Amy Klobuchar, a Michigan Democrat, said Americans at all levels but ______ the middle class continue to struggle.",
+            "choices": [
+                "synthesizing",
+                "painstaking",
+                "invariably",
+                "discrepancy",
+                "notably"
+            ],
+            "chn": "(VOA : standard.2009.12.05)"
+        },
+        {
+            "cate": "choice",
+            "problem": "In announcing the program, Mr.Zuma said many people are afraid to be tested because of the stigma ______ with HIV.",
+            "choices": [
+                "compelling",
+                "anticipate",
+                "enormous",
+                "ardent",
+                "associated with"
+            ],
+            "chn": "(VOA : standard.2010.04.26)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Huxley points out, \"How it is that anything so remarkable as a state of consciousness comes about as a result of ______ nervous tissue, is just as unaccountable as the appearance of the Djinn \" - of the genie \" when Aladdin rubs his lamp.\"",
+            "choices": [
+                "prolong",
+                "synthesizing",
+                "refine",
+                "dramatically",
+                "irritating"
+            ],
+            "chn": "赫胥黎提出,\"刺激人的神经组织,便能产生像意识状态这般奇异之物,这就好比阿拉丁一擦神灯,巨神灵就闪现出来一样魔幻,无法解释(心理学导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "I could actually swipe a card and ______ electronic receipt via email and then send it out to a person.",
+            "choices": [
+                "generate",
+                "skepticism",
+                "cumulative",
+                "painstaking",
+                "indispensable"
+            ],
+            "chn": "这下，我真的能刷刷卡，发一封邮件，把电子回执,发给对方。(Twitter之父Jack.Dorsey演讲：好奇和灵感的力量课程节选 : 斯坦福公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "(Speaking) Waxler says the agency should have provided better oversight and employed tougher standards for dealing with ______ effects of LASIK.",
+            "choices": [
+                "adverse",
+                "notably",
+                "excessive",
+                "ardent",
+                "associated with"
+            ],
+            "chn": "(VOA : standard.2010.03.03)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The Egyptian magicians who are initially able to ______ some of the plagues that are brought on by God--they are quickly bested, and Yahweh's defeat of the magicians is tantamount to the defeat of the gods of Egypt.",
+            "choices": [
+                "conspicuous",
+                "sustain",
+                "generally",
+                "mimic",
+                "painstaking"
+            ],
+            "chn": "埃及的巫师最初只会模仿,上帝制造的瘟疫，巫师们随后就被打败了，耶和华战胜了巫师相当于,打败了埃及的众神。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "______ the sponge along the longitude and latitude at an altitude.",
+            "choices": [
+                "prolong",
+                "diffuse",
+                "culminate",
+                "lone",
+                "invariably"
+            ],
+            "chn": "沿着经度和纬度在一高度延长海绵。 。()"
+        },
+        {
+            "cate": "choice",
+            "problem": "WHO says if her attempts to ______ pregnancy fail, she turns to someone without adequate medical qualifications.",
+            "choices": [
+                "draw to",
+                "terminate",
+                "confine",
+                "scanty",
+                "prevailing"
+            ],
+            "chn": "(VOA : standard.2010.06.24)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And I ______ to sit down and improvise. Within those improvisations certain motives and ideas will come about that I like.\"",
+            "choices": [
+                "segregated",
+                "scanty",
+                "tend",
+                "enhance",
+                "enable"
+            ],
+            "chn": "(VOA : special.2010.07.19)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Georgian opposition leaders are accusing President Mikheil Saakashvili for staging the alleged coup plot to ______ attention from domestic problems.",
+            "choices": [
+                "mimic",
+                "draw to",
+                "cumulative",
+                "divert",
+                "painstaking"
+            ],
+            "chn": "(VOA : standard.2009.05.05)"
+        },
+        {
+            "cate": "choice",
+            "problem": "What Gauss did was said, let's fit a line through the point-- the ______ of points--and that's called the regression line.",
+            "choices": [
+                "scatter",
+                "painstaking",
+                "terminate",
+                "disrupt",
+                "replenish"
+            ],
+            "chn": "高斯说,做这样的一条直线,切合所有散点,这就是回归直线(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "I am making light of it and I think it's somewhat justified, because the evidence is just so ______.",
+            "choices": [
+                "widespread",
+                "functions",
+                "terminate",
+                "scanty",
+                "astonishing"
+            ],
+            "chn": "我很鄙视这个观点,我认为我是有道理的,因为证据实在太有限(古希腊历史简介课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "And in the ______ infinity of time, how do i matter?",
+            "choices": [
+                "peculiar",
+                "vast",
+                "conspicuous",
+                "compelling",
+                "conducive"
+            ],
+            "chn": "然而在这浩瀚无尽的时间里，我有算什么？()"
+        },
+        {
+            "cate": "choice",
+            "problem": "This machinery is so ______ that a human hair couldn't even pass between the heads and spinning platters, yet it all works in terrific speeds.",
+            "choices": [
+                "painstaking",
+                "sustain",
+                "precise",
+                "diminish",
+                "perplex"
+            ],
+            "chn": "这些设备是很紧密的以至于人的头发,都不能在头和旋转的磁盘之间通过，尽管如此，它的运行速度非常快。(计算机科学课程节选 : 哈佛公开课)"
+        }
+    ],
+    "quiz_id": "106"
+}

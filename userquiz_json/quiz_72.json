@@ -1,0 +1,1314 @@
+{
+    "code": 0,
+    "message": "success",
+    "result": [
+        {
+            "cate": "e_to_c",
+            "problem": "inflation",
+            "choices": [
+                "n. 夸张",
+                "n. 自命不凡",
+                "vt. 宣告…无罪",
+                "vt. 支付",
+                "n. 搜索，侦察",
+                "n. 茄子",
+                "n. 膨胀",
+                "n. 通货膨胀"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "invaluable",
+            "choices": [
+                "n. [经] 滞胀，不景气状况下之物价上涨",
+                "adj. 非常贵重的",
+                "vi. 嘲笑",
+                "n. 耕地",
+                "adj. 适于耕种的",
+                "adj. 无价的",
+                "vt. 征收关税",
+                "n. 不足额"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "disburse",
+            "choices": [
+                "vt. 支出",
+                "n. [作物] 蜀黍",
+                "n. 宪法",
+                "vt. 支付",
+                "vt. 征集（兵等）",
+                "n. 限额",
+                "n. 自命不凡",
+                "vt. 赦免"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "indigenous",
+            "choices": [
+                "adj. 本土的",
+                "adj. 土著的",
+                "vt. 喂",
+                "adj. 固有的",
+                "n. 素材",
+                "adj. 国产的",
+                "n. 园艺，园艺学",
+                "vt. 耕种"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "sorghum",
+            "choices": [
+                "n. 甜得发腻的东西",
+                "n. [作物] 蜀黍",
+                "n. 高粱",
+                "vt. 赦免",
+                "n. 不足额",
+                "adj. 秘密的，私下的",
+                "vt. 发掘",
+                "n. 耕地"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "scout",
+            "choices": [
+                "n. 搜索，侦察",
+                "vi. 巡视",
+                "n. 侦察机",
+                "adj. 秘密的，私下的",
+                "n. 侦察员",
+                "vi. 侦察",
+                "vt. 发现",
+                "vt. 侦察"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "cipher",
+            "choices": [
+                "vt. 计算",
+                "n. 密码",
+                "n. 零",
+                "n. 茄子",
+                "vt. 做算术",
+                "vt. 将…译成密码",
+                "vi. 做算术",
+                "vi. 计算"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "arable",
+            "choices": [
+                "vt. 用剑刺",
+                "adj. 适于耕种的",
+                "n. [法] 免罚",
+                "adj. 本土的",
+                "n. 素材",
+                "n. 耕地",
+                "adj. 可开垦的",
+                "n. 匕首，短剑"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "tariff",
+            "choices": [
+                "n. [经] 滞胀，不景气状况下之物价上涨",
+                "vt. 定税率",
+                "vt. 征收关税",
+                "n. 肥料",
+                "n. 饲养",
+                "n. 园艺，园艺学",
+                "n. 收费表",
+                "n. 关税表"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "quota",
+            "choices": [
+                "n. 不受惩罚",
+                "vt. 定税率",
+                "n. [经] 滞胀，不景气状况下之物价上涨",
+                "n. 征兵，征税",
+                "n. 限额",
+                "n. 定额",
+                "n. 配额",
+                "n. 膨胀"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "deficit",
+            "choices": [
+                "vt. 支付",
+                "vt. 侦察",
+                "n. 大蒜",
+                "adj. 可开垦的",
+                "n. 不足额",
+                "adj. 土著的",
+                "n. 赤字",
+                "vt. 宣告…无罪"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "constitution",
+            "choices": [
+                "n. 体制",
+                "n. 章程",
+                "vt. 无罪释放",
+                "n. 体格",
+                "n. 建立，组成",
+                "n. 宪法",
+                "n. 构造",
+                "vt. 宽恕"
+            ],
+            "true_ans_cnt": 6
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "eggplant",
+            "choices": [
+                "n. 茄子",
+                "vt. 脱卸义务和责任",
+                "n. 折扣",
+                "vi. 嘲笑",
+                "adj. 深紫色的",
+                "n. 赤字",
+                "vt. 用剑刺",
+                "vt. 赦免"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "absolve",
+            "choices": [
+                "vt. 免除",
+                "n. 茄子",
+                "n. 侦察员",
+                "vt. 赦免",
+                "n. 不足额",
+                "vt. 施肥于",
+                "vt. 宣告…无罪",
+                "n. 素材"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "clandestine",
+            "choices": [
+                "adj. 偷偷摸摸的",
+                "adj. 非常贵重的",
+                "vt. 宣告…无罪",
+                "vt. 无罪释放",
+                "vt. 计算",
+                "adj. 深紫色的",
+                "adj. 可开垦的",
+                "adj. 秘密的，私下的"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "confidential",
+            "choices": [
+                "n. 饲料",
+                "n. 饲料",
+                "n. 园艺，园艺学",
+                "adj. 表示信任的",
+                "n. 密码",
+                "adj. 获信任的",
+                "adj. 机密的",
+                "n. 饲养"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "stagflation",
+            "choices": [
+                "n. [经] 滞胀，不景气状况下之物价上涨",
+                "vt. 征集（兵等）",
+                "n. 收费表",
+                "vi. 巡视",
+                "n. 园艺，园艺学",
+                "vt. 发动（战争）",
+                "n. 赤字",
+                "vt. 无罪释放"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "acquit",
+            "choices": [
+                "vt. 表现",
+                "vt. 征收（税等）",
+                "vt. 无罪释放",
+                "vt. 清偿",
+                "n. 园艺，园艺学",
+                "n. [经] 滞胀，不景气状况下之物价上涨",
+                "vt. 脱卸义务和责任",
+                "vt. 支出"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "garlic",
+            "choices": [
+                "vt. 支出",
+                "adj. 秘密的，私下的",
+                "n. [作物] 蜀黍",
+                "n. 家政",
+                "vt. 征收（税等）",
+                "n. 征兵，征税",
+                "n. 大蒜",
+                "n. 蒜头"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "rebate",
+            "choices": [
+                "n. 赤字",
+                "vi. 退还部分付款，打折扣",
+                "n. 茄子",
+                "vt. 打折扣",
+                "vt. 宣告…无罪",
+                "adj. 无价的",
+                "n. 折扣",
+                "vt. 减少"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "fodder",
+            "choices": [
+                "n. 饲料",
+                "n. [作物] 蜀黍",
+                "vi. 计算",
+                "vt. 喂",
+                "n. 通货膨胀",
+                "vt. 耕种",
+                "n. 素材",
+                "n. 无患"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "horticulture",
+            "choices": [
+                "n. 茄子",
+                "n. 大蒜",
+                "n. 构造",
+                "n. 构造",
+                "n. 园艺，园艺学",
+                "vt. 喂",
+                "n. 务农，耕种",
+                "n. 匕首，短剑"
+            ],
+            "true_ans_cnt": 1
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "unearth",
+            "choices": [
+                "n. 粪肥",
+                "n. 园艺，园艺学",
+                "vt. 揭露，发现",
+                "vt. 从洞中赶出",
+                "adj. 机密的",
+                "n. 零",
+                "vt. 宽恕",
+                "vt. 发掘"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "levy",
+            "choices": [
+                "vt. 征集（兵等）",
+                "vt. 发动（战争）",
+                "vt. 征收（税等）",
+                "n. 征兵，征税",
+                "vi. 征兵",
+                "n. 征收",
+                "vt. 宣告…无罪",
+                "vi. 征税"
+            ],
+            "true_ans_cnt": 7
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "condone",
+            "choices": [
+                "vt. 宽恕",
+                "vt. 赦免",
+                "n. 关税表",
+                "n. 素材",
+                "adj. 固有的",
+                "n. [法] 免罚",
+                "n. 饲料",
+                "vi. 计算"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "dagger",
+            "choices": [
+                "n. 通货膨胀",
+                "vt. 征收（税等）",
+                "vt. 征收（税等）",
+                "n. 匕首，短剑",
+                "vt. 用剑刺",
+                "vt. 计算",
+                "n. 侦察机",
+                "vi. 退还部分付款，打折扣"
+            ],
+            "true_ans_cnt": 2
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "impunity",
+            "choices": [
+                "n. 无患",
+                "n. 园艺，园艺学",
+                "adj. 深紫色的",
+                "n. [法] 免罚",
+                "n. 茄子",
+                "n. 定额",
+                "n. 建立，组成",
+                "n. 不受惩罚"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "husbandry",
+            "choices": [
+                "n. 甜得发腻的东西",
+                "n. 饲养",
+                "n. 零",
+                "n. [经] 滞胀，不景气状况下之物价上涨",
+                "n. 家政",
+                "adj. 固有的",
+                "n. 膨胀",
+                "n. 务农，耕种"
+            ],
+            "true_ans_cnt": 3
+        },
+        {
+            "cate": "e_to_c",
+            "problem": "manure",
+            "choices": [
+                "vt. 耕种",
+                "adj. 非常贵重的",
+                "vt. 施肥于",
+                "n. 粪肥",
+                "n. 肥料",
+                "vt. 赦免",
+                "vt. 从洞中赶出",
+                "vt. 发动（战争）"
+            ],
+            "true_ans_cnt": 4
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 机密的; adj. 表示信任的; adj. 获信任的",
+            "choices": [
+                "fodder",
+                "confidential",
+                "deficit",
+                "cipher",
+                "manure"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 定额; n. 限额; n. 配额",
+            "choices": [
+                "indigenous",
+                "disburse",
+                "clandestine",
+                "absolve",
+                "quota"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 耕地; adj. 适于耕种的; adj. 可开垦的",
+            "choices": [
+                "levy",
+                "manure",
+                "acquit",
+                "arable",
+                "dagger"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 夸张; n. 膨胀; n. 自命不凡",
+            "choices": [
+                "manure",
+                "garlic",
+                "arable",
+                "inflation",
+                "disburse"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 无患; n. 不受惩罚; n. [法] 免罚",
+            "choices": [
+                "dagger",
+                "impunity",
+                "quota",
+                "arable",
+                "acquit"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [经] 滞胀，不景气状况下之物价上涨",
+            "choices": [
+                "stagflation",
+                "dagger",
+                "cipher",
+                "deficit",
+                "eggplant"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 非常贵重的; adj. 无价的",
+            "choices": [
+                "condone",
+                "acquit",
+                "invaluable",
+                "rebate",
+                "garlic"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 蒜头; n. 大蒜",
+            "choices": [
+                "horticulture",
+                "scout",
+                "eggplant",
+                "garlic",
+                "constitution"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 体制; n. 构造; n. 宪法",
+            "choices": [
+                "acquit",
+                "unearth",
+                "indigenous",
+                "constitution",
+                "scout"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 喂; n. 饲料; n. 素材",
+            "choices": [
+                "husbandry",
+                "fodder",
+                "rebate",
+                "horticulture",
+                "clandestine"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 征集（兵等）; n. 征兵，征税; vt. 发动（战争）",
+            "choices": [
+                "husbandry",
+                "levy",
+                "eggplant",
+                "deficit",
+                "arable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 国产的; adj. 固有的; adj. 本土的",
+            "choices": [
+                "eggplant",
+                "husbandry",
+                "sorghum",
+                "confidential",
+                "indigenous"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 揭露，发现; vt. 发掘; vt. 从洞中赶出",
+            "choices": [
+                "horticulture",
+                "garlic",
+                "husbandry",
+                "inflation",
+                "unearth"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 匕首，短剑; vt. 用剑刺",
+            "choices": [
+                "dagger",
+                "fodder",
+                "quota",
+                "deficit",
+                "horticulture"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 宣告…无罪; vt. 免除; vt. 赦免",
+            "choices": [
+                "levy",
+                "fodder",
+                "deficit",
+                "absolve",
+                "condone"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 折扣; vt. 打折扣; vi. 退还部分付款，打折扣",
+            "choices": [
+                "rebate",
+                "stagflation",
+                "eggplant",
+                "sorghum",
+                "scout"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 定税率; vt. 征收关税; n. 关税表",
+            "choices": [
+                "arable",
+                "sorghum",
+                "disburse",
+                "scout",
+                "tariff"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 计算; vi. 计算; n. 密码",
+            "choices": [
+                "invaluable",
+                "cipher",
+                "levy",
+                "quota",
+                "tariff"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 赤字; n. 不足额",
+            "choices": [
+                "deficit",
+                "cipher",
+                "clandestine",
+                "quota",
+                "acquit"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 侦察; n. 搜索，侦察; vt. 发现",
+            "choices": [
+                "invaluable",
+                "scout",
+                "disburse",
+                "unearth",
+                "absolve"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 支出; vt. 支付",
+            "choices": [
+                "sorghum",
+                "dagger",
+                "deficit",
+                "disburse",
+                "scout"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 清偿; vt. 表现; vt. 无罪释放",
+            "choices": [
+                "constitution",
+                "acquit",
+                "tariff",
+                "husbandry",
+                "quota"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 饲养; n. 务农，耕种; n. 家政",
+            "choices": [
+                "rebate",
+                "condone",
+                "stagflation",
+                "husbandry",
+                "acquit"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 深紫色的; n. 茄子",
+            "choices": [
+                "deficit",
+                "eggplant",
+                "indigenous",
+                "absolve",
+                "invaluable"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 施肥于; vt. 耕种; n. 肥料",
+            "choices": [
+                "levy",
+                "manure",
+                "rebate",
+                "condone",
+                "indigenous"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "vt. 宽恕; vt. 赦免",
+            "choices": [
+                "condone",
+                "confidential",
+                "tariff",
+                "impunity",
+                "scout"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. 园艺，园艺学",
+            "choices": [
+                "indigenous",
+                "tariff",
+                "horticulture",
+                "cipher",
+                "inflation"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "adj. 偷偷摸摸的; adj. 秘密的，私下的",
+            "choices": [
+                "clandestine",
+                "dagger",
+                "arable",
+                "constitution",
+                "poultry"
+            ]
+        },
+        {
+            "cate": "c_to_e",
+            "problem": "n. [作物] 蜀黍; n. 甜得发腻的东西; n. 高粱",
+            "choices": [
+                "tariff",
+                "levy",
+                "sorghum",
+                "condone",
+                "invaluable"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 茄子; adj. 深紫色的",
+            "choices": [
+                "a",
+                "e",
+                "g",
+                "g",
+                "l",
+                "n",
+                "p",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 赦免; vt. 免除; vt. 宣告…无罪",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "l",
+                "o",
+                "s",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 清偿; vt. 表现; vt. 脱卸义务和责任",
+            "choices": [
+                "a",
+                "c",
+                "i",
+                "q",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 侦察; vi. 巡视; n. 侦察机",
+            "choices": [
+                "c",
+                "o",
+                "s",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [作物] 蜀黍; n. 高粱; n. 甜得发腻的东西",
+            "choices": [
+                "g",
+                "h",
+                "m",
+                "o",
+                "r",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 无价的; adj. 非常贵重的",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "e",
+                "i",
+                "l",
+                "l",
+                "n",
+                "u",
+                "v"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 固有的; adj. 国产的; adj. 本土的",
+            "choices": [
+                "d",
+                "e",
+                "g",
+                "i",
+                "i",
+                "n",
+                "n",
+                "o",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 宽恕; vt. 赦免",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "n",
+                "n",
+                "o",
+                "o"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 获信任的; adj. 机密的; adj. 表示信任的",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "f",
+                "i",
+                "i",
+                "l",
+                "n",
+                "n",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 定税率; n. 收费表; vt. 征收关税",
+            "choices": [
+                "a",
+                "f",
+                "f",
+                "i",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 支出; vt. 支付",
+            "choices": [
+                "b",
+                "d",
+                "e",
+                "i",
+                "r",
+                "s",
+                "s",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 无患; n. [法] 免罚; n. 不受惩罚",
+            "choices": [
+                "i",
+                "i",
+                "m",
+                "n",
+                "p",
+                "t",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 膨胀; n. 夸张; n. 自命不凡",
+            "choices": [
+                "a",
+                "f",
+                "i",
+                "i",
+                "l",
+                "n",
+                "n",
+                "o",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 打折扣; vt. 减少; vi. 退还部分付款，打折扣",
+            "choices": [
+                "a",
+                "b",
+                "e",
+                "e",
+                "r",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 零; vt. 做算术; n. 暗号",
+            "choices": [
+                "c",
+                "e",
+                "h",
+                "i",
+                "p",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 大蒜; n. 蒜头",
+            "choices": [
+                "a",
+                "c",
+                "g",
+                "i",
+                "l",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 匕首，短剑; vt. 用剑刺",
+            "choices": [
+                "a",
+                "d",
+                "e",
+                "g",
+                "g",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 秘密的，私下的; adj. 偷偷摸摸的",
+            "choices": [
+                "a",
+                "c",
+                "d",
+                "e",
+                "e",
+                "i",
+                "l",
+                "n",
+                "n",
+                "s",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 揭露，发现; vt. 从洞中赶出; vt. 发掘",
+            "choices": [
+                "a",
+                "e",
+                "h",
+                "n",
+                "r",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 定额; n. 配额; n. 限额",
+            "choices": [
+                "a",
+                "o",
+                "q",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "vt. 施肥于; n. 肥料; n. 粪肥",
+            "choices": [
+                "a",
+                "e",
+                "m",
+                "n",
+                "r",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 素材; n. 饲料; vt. 喂",
+            "choices": [
+                "d",
+                "d",
+                "e",
+                "f",
+                "o",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 饲养; n. 务农，耕种; n. 家政",
+            "choices": [
+                "a",
+                "b",
+                "d",
+                "h",
+                "n",
+                "r",
+                "s",
+                "u",
+                "y"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. [经] 滞胀，不景气状况下之物价上涨",
+            "choices": [
+                "a",
+                "a",
+                "f",
+                "g",
+                "i",
+                "l",
+                "n",
+                "o",
+                "s",
+                "t",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 不足额; n. 赤字",
+            "choices": [
+                "c",
+                "d",
+                "e",
+                "f",
+                "i",
+                "i",
+                "t"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "adj. 可开垦的; adj. 适于耕种的; n. 耕地",
+            "choices": [
+                "a",
+                "a",
+                "b",
+                "e",
+                "l",
+                "r"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 章程; n. 体格; n. 体制",
+            "choices": [
+                "c",
+                "i",
+                "i",
+                "n",
+                "n",
+                "o",
+                "o",
+                "s",
+                "t",
+                "t",
+                "t",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 园艺，园艺学",
+            "choices": [
+                "c",
+                "e",
+                "h",
+                "i",
+                "l",
+                "o",
+                "r",
+                "r",
+                "t",
+                "t",
+                "u",
+                "u"
+            ]
+        },
+        {
+            "cate": "spell",
+            "problem": "n. 征收; vt. 发动（战争）; vi. 征税",
+            "choices": [
+                "e",
+                "l",
+                "v",
+                "y"
+            ]
+        },
+        {
+            "cate": "choice",
+            "problem": "Professor Moseley said Malian farmers had planted more ______ because the price of their cotton, a cash crop,had dropped.",
+            "choices": [
+                "cipher",
+                "invaluable",
+                "eggplant",
+                "clandestine",
+                "sorghum"
+            ],
+            "chn": "(VOA : special.2010.03.30)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Most western and southern congressmen opposed the ______ bill, because it would mean higher prices to the people of their states.",
+            "choices": [
+                "scout",
+                "tariff",
+                "stagflation",
+                "constitution",
+                "quota"
+            ],
+            "chn": "(VOA : special.2010.06.03)"
+        },
+        {
+            "cate": "choice",
+            "problem": "Iowa State University ______ specialist Cindy Haynes suggests planting the seeds one and one-quarter centimeters deep.",
+            "choices": [
+                "quota",
+                "clandestine",
+                "husbandry",
+                "deficit",
+                "horticulture"
+            ],
+            "chn": "(VOA : special.2009.02.17)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So we would say the real interest rate equals the nominal rate-- approximately equals--the nominal rate minus the ______ rate.",
+            "choices": [
+                "horticulture",
+                "confidential",
+                "inflation",
+                "condone",
+                "sorghum"
+            ],
+            "chn": "我们可以推出实际利率约等于,名义利率减去通货膨胀率(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "\"It was like a giant jigsaw puzzle and the more we started to ______ and peel back the onion of who this guy was and what happened to him in the past and trying to truly understand the reason why he would be so obsessed with a specific case  once we start to uncover these things about him we realized that once we explain one set of circumstances we needed to go even further with another set of circumstances.\"",
+            "choices": [
+                "clandestine",
+                "husbandry",
+                "unearth",
+                "horticulture",
+                "condone"
+            ],
+            "chn": "(VOA : standard.2010.02.27)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The program is named the Car Allowance ______ System, but known as \"cash for clunkers.\"",
+            "choices": [
+                "horticulture",
+                "tariff",
+                "rebate",
+                "fodder",
+                "deficit"
+            ],
+            "chn": "(VOA : special.2009.08.07)"
+        },
+        {
+            "cate": "choice",
+            "problem": "That was an effort to ______ power away from the center.",
+            "choices": [
+                "disburse",
+                "inflation",
+                "confidential",
+                "scout",
+                "sorghum"
+            ],
+            "chn": "这是一个从中心,分散权力的努力。(金融市场课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "In chapter 2 we have Joshua sending out spies to ______ out the land.",
+            "choices": [
+                "scout",
+                "constitution",
+                "stagflation",
+                "arable",
+                "rebate"
+            ],
+            "chn": "在第二章中，约书亚派出间谍侦察土地。(旧约导论课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "So historians can and in fact have many times taken issue with a lot of Weber's historical claims. But he's ______, as the critic John Guillory has argued, for our purposes in the understanding of Milton and of a lot of the cultural business of the seventeenth century in general.",
+            "choices": [
+                "invaluable",
+                "eggplant",
+                "manure",
+                "dagger",
+                "absolve"
+            ],
+            "chn": "所以历史学家可以，事实上已经对韦伯的历史学断言,持反对意见，但就像评论家约翰古月里说的，对我们来说，在对弥尔顿以及很多,17世纪文化方面的事的了解上,他的意见是非常宝贵的。(弥尔顿课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "It would have a certain koine to it; that is, a Greek overlay, over what may be also be there, the original ______ kind of cultures and languages.",
+            "choices": [
+                "manure",
+                "acquit",
+                "indigenous",
+                "unearth",
+                "dagger"
+            ],
+            "chn": "有共同语;,即古希腊文化为主，然后才是，本土文化和语言。(新约课程节选 : 耶鲁公开课)"
+        },
+        {
+            "cate": "choice",
+            "problem": "______ from about 1,000 cows goes in one end and then, controlled decomposition yields methane gas at the other.",
+            "choices": [
+                "impunity",
+                "rebate",
+                "disburse",
+                "confidential",
+                "manure"
+            ],
+            "chn": "(VOA : standard.2010.02.23)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The government is calling this a \"goal\" not a ______, which runs counter to the French system.",
+            "choices": [
+                "quota",
+                "stagflation",
+                "sorghum",
+                "arable",
+                "husbandry"
+            ],
+            "chn": "(VOA : standard.2010.02.02)"
+        },
+        {
+            "cate": "choice",
+            "problem": "The experts also said antioxidants like ______,rosemary and saffron have qualities that could fight cancer.",
+            "choices": [
+                "acquit",
+                "cipher",
+                "invaluable",
+                "garlic",
+                "horticulture"
+            ],
+            "chn": "(VOA : special.2010.06.01)"
+        }
+    ],
+    "quiz_id": "72"
+}
